@@ -1,0 +1,24 @@
+# Сайт «Недвижимость Сербии: покупка и аренда»
+
+Статический сайт-каталог. Объекты сюда отправляет расширение Gloria Halo Publisher (вкладка «Сайт»), сайт пересобирается сам после каждой публикации.
+
+Что получается: главная, разделы «Аренда» и «Покупка» с фильтром, страницы районов, страница каждого объекта с фото, описанием на русском, картой и кнопками записи в Telegram и WhatsApp. Для поисковиков: sitemap.xml, robots.txt, llms.txt, разметка schema.org (RealEstateListing, BreadcrumbList, RealEstateAgent), canonical и Open Graph.
+
+## Подключение (один раз, около 15 минут)
+
+1. **Репозиторий.** На github.com создайте репозиторий, например `nedvizhimost-site`. Загрузите в него всё содержимое этой папки (Add file → Upload files), ветка `main`.
+2. **Хостинг.** Зарегистрируйтесь в Cloudflare → Workers & Pages → Create → Pages → Connect to Git → выберите репозиторий. Настройки сборки: Build command `node build.mjs`, Build output directory `dist`. Нажмите Save and Deploy. Сайт откроется по адресу вида `nedvizhimost-site.pages.dev`.
+3. **Домен.** В Cloudflare Pages → Custom domains подключите свой домен. Купить можно там же или у любого регистратора.
+4. **Токен GitHub.** github.com → Settings → Developer settings → Fine-grained tokens → Generate new token. Repository access: только этот репозиторий. Permissions → Contents: Read and write. Скопируйте токен.
+5. **Расширение.** Вкладка «Сайт»: адрес сайта, репозиторий (`ваш-логин/nedvizhimost-site`), ветка `main`, токен. Нажмите «Проверить доступ», затем «Опубликовать на сайт».
+
+Первая публикация долгая: фото загружаются по одному, примерно 1 секунда на снимок. 300 объектов по 8 фото — около 40 минут. Публикация идёт пачками, её можно прервать и продолжить. Дальше отправляются только новые и изменённые объекты.
+
+## После запуска
+
+- Google Search Console и Яндекс Вебмастер: добавьте сайт и отправьте `https://ваш-домен/sitemap.xml`.
+- Ссылку на сайт поставьте в Telegram-канал, Instagram и шапку бота: внешние ссылки ускоряют индексацию.
+
+## Проверить сборку у себя
+
+`node build.mjs` создаёт папку `dist`. Открыть: `npx serve dist`.
