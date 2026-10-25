@@ -100,6 +100,7 @@
     let shown = PAGE;
     let view = 'list';
     let visible = cards;
+    const typeParam = new URLSearchParams(location.search).get('type') || '';
 
     const num = (v) => parseInt(String(v || '').replace(/\D/g, ''), 10) || 0;
     const vals = (name) => $$(`input[name="${name}"]:checked`, form).map((i) => i.value);
@@ -141,6 +142,7 @@
       visible = cards.filter((c) => {
         const p = +c.dataset.price, a = +c.dataset.area;
         return (!deal || c.dataset.deal === deal)
+          && (!typeParam || c.dataset.type === typeParam)
           && (!dists.length || dists.includes(c.dataset.district))
           && (!rooms.length || rooms.includes(c.dataset.rooms))
           && (!min || p >= min) && (!max || (p && p <= max))
@@ -166,6 +168,7 @@
       // адрес страницы
       const u = new URLSearchParams();
       if (deal) u.set('deal', deal);
+      if (typeParam) u.set('type', typeParam);
       if (dists.length) u.set('district', dists.join(','));
       if (rooms.length) u.set('rooms', rooms.join(','));
       ['min', 'max', 'amin', 'amax'].forEach((k) => { if (num(f[k].value)) u.set(k, num(f[k].value)); });
@@ -238,8 +241,9 @@
       const f = search.elements;
       const deal = search.querySelector('input[name="deal"]:checked').value;
       const max = toEur(parseInt(String(f.max.value).replace(/\D/g, ''), 10) || 0);
-      const n = data.filter((d) => d.d === deal && (!f.district.value || d.ds === f.district.value) && (!f.rooms.value || d.r === f.rooms.value) && (!max || (d.p && d.p <= max))).length;
-      btn.textContent = `Показать ${objects(n)}`;
+      const type = f.type ? f.type.value : '';
+      const n = data.filter((d) => d.d === deal && (!type || d.ty === type) && (!f.district.value || d.ds === f.district.value) && (!f.rooms.value || d.r === f.rooms.value) && (!max || (d.p && d.p <= max))).length;
+      btn.textContent = `Найти ${objects(n)}`;
     };
     search.addEventListener('input', count);
     document.addEventListener('ns-cur', count);
@@ -250,11 +254,30 @@
       const u = new URLSearchParams();
       if (f.district.value) u.set('district', f.district.value);
       if (f.rooms.value) u.set('rooms', f.rooms.value);
+      if (f.type && f.type.value) u.set('type', f.type.value);
       const max = parseInt(String(f.max.value).replace(/\D/g, ''), 10);
       if (max) u.set('max', max);
       location.href = `/${deal === 'sale' ? 'prodazha' : 'arenda'}/${u.toString() ? `?${u}` : ''}`;
     });
     count();
+  }
+
+  // ---------- вкладки «Аренда / Покупка» на главной ----------
+  $$('[data-tabs]').forEach((tl) => {
+    tl.addEventListener('click', (e) => {
+      const b = e.target.closest('[data-tab]');
+      if (!b) return;
+      $$('[data-tab]', tl).forEach((x) => x.setAttribute('aria-selected', String(x === b)));
+      $$('[data-tab-panel]').forEach((p) => { p.hidden = p.dataset.tabPanel !== b.dataset.tab; });
+    });
+  });
+
+  // ---------- прозрачная шапка над фото ----------
+  if (document.body.classList.contains('has-hero')) {
+    const hdr = document.querySelector('.hdr');
+    const onScroll = () => hdr.classList.toggle('is-solid', scrollY > 40);
+    addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
   }
 
   // ---------- галерея объекта ----------
