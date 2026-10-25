@@ -121,8 +121,27 @@ const COLLECTIONS = [
   { slug: 'doma', title: 'Дома в Белграде', short: 'Дома', test: (l) => l.type === 'house' },
 ].map((c) => ({ ...c, items: LISTINGS.filter(c.test) })).filter((c) => c.items.length);
 
+// Выпадающее меню «Купить» / «Снять»: районы и подборки
+function mega(key, nav) {
+  const d = DEAL[key];
+  const dists = districtsOf(byDeal[key]).slice(0, 10);
+  const cols = COLLECTIONS.filter((c) => c.items.some((l) => l.deal === key));
+  const types = [['Квартиры', `/${d.path}/`], ...(byDeal[key].some((l) => l.type === 'house') ? [['Дома', `/${d.path}/?rooms=house`]] : [])];
+  return `<div class="mega-item">
+    <a href="/${d.path}/"${nav === key ? ' aria-current="page"' : ''}>${d.name}</a>
+    <div class="mega">
+      <div class="wrap mega-row">
+        <div><p class="mega-h">${key === 'rent' ? 'Аренда' : 'Покупка'}</p><ul>${types.map(([t, h]) => `<li><a href="${h}">${t}</a></li>`).join('')}<li><a href="/${d.path}/?view=map">На карте</a></li></ul></div>
+        ${dists.length ? `<div><p class="mega-h">Районы</p><ul class="mega-cols">${dists.map((x) => `<li><a href="/${d.path}/${x.slug}/">${esc(x.name)}</a></li>`).join('')}</ul></div>` : ''}
+        ${cols.length ? `<div><p class="mega-h">Подборки</p><ul>${cols.map((c) => `<li><a href="/podborki/${c.slug}/">${esc(c.short)}</a></li>`).join('')}</ul></div>` : ''}
+        <a class="mega-card" href="/#podbor"><span class="mega-h">Подбор по запросу</span><span class="mega-card-t">Расскажите, что ищете, — соберём подборку за 15 минут</span><span class="link-arrow">Оставить запрос</span></a>
+      </div>
+    </div>
+  </div>`;
+}
+
 // ---------- каркас страницы ----------
-function page({ title, desc, url, image, jsonld = [], body, nav, head = '' }) {
+function page({ title, desc, url, image, jsonld = [], body, nav, head = '', overlay = false }) {
   const canonical = abs(url);
   const link = (key, href, label) => `<a href="${href}"${nav === key ? ' aria-current="page"' : ''}>${label}</a>`;
   return `<!doctype html>
@@ -149,14 +168,14 @@ ${image ? `<meta property="og:image" content="${esc(abs(image))}">\n<meta name="
 ${head}
 ${jsonld.map((j) => `<script type="application/ld+json">${JSON.stringify(j).replace(/</g, '\\u003c')}</script>`).join('\n')}
 </head>
-<body>
+<body${overlay ? ' class="has-hero"' : ''}>
 <a class="skip" href="#main">К содержанию</a>
 <header class="hdr">
   <div class="wrap hdr-row">
     <a class="logo" href="/"><span class="logo-name">Недвижимость Сербии</span><span class="logo-sub">покупка и аренда в Белграде</span></a>
     <nav class="nav" aria-label="Разделы">
-      ${link('sale', '/prodazha/', 'Купить')}
-      ${link('rent', '/arenda/', 'Снять')}
+      ${mega('sale', nav)}
+      ${mega('rent', nav)}
       ${COLLECTIONS.length ? link('col', '/#podborki', 'Подборки') : ''}
       ${link('contacts', '/kontakty/', 'Контакты')}
     </nav>
@@ -344,7 +363,7 @@ function catalog(list, { showDistricts = true, dealSwitch = false } = {}) {
 // Лёгкие данные для карты, избранного и счётчика на главной
 const LITE = LISTINGS.map((l) => ({
   id: l.id, u: `/obekt/${l.slug}/`, t: heading(l), p: l.price || 0, d: l.deal, ds: l.districtSlug, r: roomsKey(l),
-  a: l.area || 0, pl: placeLine(l), g: l.geo ? [l.geo.lat, l.geo.lng] : null, img: l.photos ? photo(l) : '',
+  a: l.area || 0, ty: l.type, pl: placeLine(l), g: l.geo ? [l.geo.lat, l.geo.lng] : null, img: l.photos ? photo(l) : '',
 }));
 
 // ---------- сборка ----------
@@ -359,45 +378,122 @@ const addUrl = (url, lastmod) => sitemap.push({ url, lastmod: lastmod || TODAY }
 
 // Главная
 {
-  const fresh = LISTINGS.slice(0, 6);
-  const hero = `
-<section class="hero">
-  <div class="wrap">
-    <p class="eyebrow">Агентство недвижимости в Белграде</p>
+  const heroImg = fs.existsSync(path.join(ROOT, 'assets', 'hero.jpg')) ? '/assets/hero.jpg'
+    : (LISTINGS.find((l) => (l.photos || 0) >= 3) ? photo(LISTINGS.find((l) => (l.photos || 0) >= 3)) : '');
+  const best = LISTINGS.filter((l) => l.price && (l.photos || 0) >= 2).slice(0, 5);
+  const offerCard = (l, big) => `<a class="offer${big ? ' offer-big' : ''}" href="/obekt/${l.slug}/">
+    <span class="offer-img"><img src="${photo(l)}" alt="${esc(heading(l))}, ${esc(placeLine(l))}" loading="lazy" width="900" height="675"></span>
+    <span class="offer-body">
+      <span class="offer-tag">${l.deal === 'rent' ? 'Аренда' : 'Продажа'} · ${esc(l.district || l.city)}</span>
+      <span class="offer-title">${esc(heading(l))}</span>
+      <span class="offer-price">${price(l.price)}${l.deal === 'rent' ? '<small> / мес</small>' : ''}</span>
+      ${big ? `<span class="offer-text">${esc((l.text || '').replace(/^(Сдаётся|Продаётся)[^.]*\.\s*/, '').slice(0, 180))}</span><span class="link-arrow">Смотреть объект</span>` : ''}
+    </span>
+  </a>`;
+  const pick = (key) => {
+    const d = DEAL[key];
+    const links = [
+      [`Все объекты`, `/${d.path}/`, byDeal[key].length],
+      ...COLLECTIONS.map((c) => [c.short, `/podborki/${c.slug}/`, c.items.filter((l) => l.deal === key).length]).filter((x) => x[2]),
+      ...districtsOf(byDeal[key]).slice(0, 8).map((x) => [x.name, `/${d.path}/${x.slug}/`, x.items.length]),
+    ];
+    return `<div class="pick-panel" data-tab-panel="${key}"${key === 'sale' ? ' hidden' : ''}>${links.map(([t, h, n]) => `<a href="${h}"><span>${esc(t)}</span><em>${n}</em></a>`).join('')}</div>`;
+  };
+  const steps = [
+    ['Подбор', 'Вы выбираете объекты на сайте или присылаете запрос. Мы связываемся с собственниками и проверяем, что квартира свободна.'],
+    ['Просмотры', 'Составляем маршрут и возим на просмотры отобранных вариантов. Переводим и помогаем договориться о цене.'],
+    ['Договор', 'Проверяем документы собственника, готовим договор и присутствуем при подписании.'],
+    ['Переезд', 'Помогаем с белым картоном, регистрацией, банковским счётом и документами на ВНЖ.'],
+  ];
+  const body = `
+<section class="hero"${heroImg ? ` style="--hero:url('${heroImg}')"` : ''}>
+  <div class="wrap hero-in">
+    <p class="eyebrow eyebrow-inv">Агентство недвижимости в Белграде</p>
     <h1>${esc(SITE.name)}</h1>
     <p class="hero-lead">Квартиры и дома от собственников с описанием на русском. Подберём, покажем, проверим документы и поможем с переездом.</p>
-    <form class="search" action="/arenda/" data-search>
-      <div class="seg seg-inline">
+    <form class="finder" data-search>
+      <div class="finder-tabs" role="radiogroup" aria-label="Сделка">
         <label><input type="radio" name="deal" value="rent" checked><span>Снять</span></label>
         <label><input type="radio" name="deal" value="sale"><span>Купить</span></label>
       </div>
-      <label class="search-f"><span>Район</span><select name="district"><option value="">Любой</option>${ALL_DISTRICTS.map((d) => `<option value="${esc(d.slug)}">${esc(d.name)}</option>`).join('')}</select></label>
-      <label class="search-f"><span>Комнат</span><select name="rooms"><option value="">Любое</option><option value="0">Студия</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4+</option><option value="house">Дом</option></select></label>
-      <label class="search-f"><span>Цена до, <span data-cur-sym>€</span></span><input name="max" inputmode="numeric" placeholder="Без ограничений"></label>
-      <button class="btn btn-dark" type="submit" data-search-btn>Показать</button>
+      <div class="finder-row">
+        <label class="finder-f"><span>Тип</span><select name="type"><option value="">Любой</option><option value="apartment">Квартира</option><option value="house">Дом</option></select></label>
+        <label class="finder-f"><span>Район</span><select name="district"><option value="">Любой</option>${ALL_DISTRICTS.map((d) => `<option value="${esc(d.slug)}">${esc(d.name)}</option>`).join('')}</select></label>
+        <label class="finder-f"><span>Комнат</span><select name="rooms"><option value="">Любое</option><option value="0">Студия</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4+</option></select></label>
+        <label class="finder-f"><span>Бюджет до, <span data-cur-sym>€</span></span><input name="max" inputmode="numeric" placeholder="Без ограничений"></label>
+        <button class="btn btn-dark finder-btn" type="submit" data-search-btn>Найти</button>
+      </div>
     </form>
-    <dl class="hero-stats">
-      <div><dt>${byDeal.rent.length}</dt><dd>${plural(byDeal.rent.length, ['объект', 'объекта', 'объектов'])} в аренду</dd></div>
-      <div><dt>${byDeal.sale.length}</dt><dd>${plural(byDeal.sale.length, ['объект', 'объекта', 'объектов'])} на продажу</dd></div>
-      <div><dt>${ALL_DISTRICTS.length}</dt><dd>${plural(ALL_DISTRICTS.length, ['район', 'района', 'районов'])} Белграда</dd></div>
-    </dl>
   </div>
-</section>`;
-  const body = `${hero}
-${fresh.length ? `<section class="block"><div class="wrap"><div class="block-head"><h2>Новые объекты</h2><a class="link-arrow" href="/arenda/">Весь каталог</a></div><div class="cards cards-grid">${fresh.map((l, i) => card(l, i < 2)).join('')}</div></div></section>` : ''}
-${COLLECTIONS.length ? `<section class="block" id="podborki"><div class="wrap"><div class="block-head"><h2>Подборки</h2></div><div class="tiles">${COLLECTIONS.map((c) => `<a class="tile" href="/podborki/${c.slug}/"><img src="${photo(c.items[0])}" alt="" loading="lazy" width="640" height="480"><span class="tile-body"><span class="tile-title">${esc(c.short)}</span><span class="tile-count">${objects(c.items.length)}</span></span></a>`).join('')}</div></div></section>` : ''}
-${ALL_DISTRICTS.length ? `<section class="block"><div class="wrap"><div class="block-head"><h2>Районы Белграда</h2></div><ul class="dlist">${ALL_DISTRICTS.map((d) => {
-    const r = d.items.filter((l) => l.deal === 'rent').length;
-    const s = d.items.filter((l) => l.deal === 'sale').length;
-    return `<li><span class="dlist-name">${esc(d.name)}</span><span class="dlist-links">${r ? `<a href="/arenda/${d.slug}/">аренда ${r}</a>` : ''}${s ? `<a href="/prodazha/${d.slug}/">продажа ${s}</a>` : ''}</span></li>`;
-  }).join('')}</ul></div></section>` : ''}
+  <div class="hero-strip">
+    <div class="wrap hero-strip-in">
+      <span><b>${LISTINGS.length}</b> ${plural(LISTINGS.length, ['объект', 'объекта', 'объектов'])} от собственников</span>
+      <span><b>${ALL_DISTRICTS.length}</b> ${plural(ALL_DISTRICTS.length, ['район', 'района', 'районов'])} Белграда</span>
+      <span>Описания и сопровождение на русском</span>
+    </div>
+  </div>
+</section>
+
+<section class="block" id="podborki">
+  <div class="wrap">
+    <div class="block-head"><h2>Подобрать недвижимость</h2>
+      <div class="tabs" role="tablist" data-tabs>
+        <button type="button" role="tab" aria-selected="true" data-tab="rent">Аренда</button>
+        <button type="button" role="tab" aria-selected="false" data-tab="sale">Покупка</button>
+      </div>
+    </div>
+    ${pick('rent')}${pick('sale')}
+  </div>
+</section>
+
+${best.length ? `<section class="block">
+  <div class="wrap">
+    <div class="block-head"><div><h2>Лучшие предложения</h2><p class="block-sub">Свежие объекты от собственников в Белграде.</p></div><a class="link-arrow" href="/arenda/">Весь каталог</a></div>
+    <div class="offers">${best.map((l, i) => offerCard(l, i === 0)).join('')}</div>
+  </div>
+</section>` : ''}
+
+${COLLECTIONS.length ? `<section class="block">
+  <div class="wrap">
+    <div class="block-head"><h2>Подборки</h2></div>
+    <div class="tiles">${COLLECTIONS.map((c) => `<a class="tile" href="/podborki/${c.slug}/"><img src="${photo(c.items[0])}" alt="" loading="lazy" width="640" height="480"><span class="tile-body"><span class="tile-title">${esc(c.short)}</span><span class="tile-count">${objects(c.items.length)}</span></span></a>`).join('')}</div>
+  </div>
+</section>` : ''}
+
+<section class="block">
+  <div class="wrap">
+    <div class="block-head"><h2>Собственникам</h2></div>
+    <div class="owners">
+      <a class="owner-card" href="https://wa.me/${waDigits}?text=${encodeURIComponent('Здравствуйте! Хочу сдать квартиру в Белграде.')}" rel="noopener"><span class="owner-n">01</span><span class="owner-t">Сдать недвижимость</span><span class="owner-d">Покажем квартиру русскоязычным арендаторам и поможем подготовить договор.</span><span class="link-arrow">Написать</span></a>
+      <a class="owner-card" href="https://wa.me/${waDigits}?text=${encodeURIComponent('Здравствуйте! Хочу продать квартиру в Белграде.')}" rel="noopener"><span class="owner-n">02</span><span class="owner-t">Продать недвижимость</span><span class="owner-d">Разместим объект в каталоге и Telegram-канале, приведём покупателей и сопроводим сделку.</span><span class="link-arrow">Написать</span></a>
+    </div>
+  </div>
+</section>
+
+<section class="block">
+  <div class="wrap">
+    <div class="block-head"><h2>Как мы работаем</h2></div>
+    <ol class="steps">${steps.map(([t, d], i) => `<li><span class="step-n">${String(i + 1).padStart(2, '0')}</span><span class="step-t">${t}</span><span class="step-d">${d}</span></li>`).join('')}</ol>
+  </div>
+</section>
+
+${SITE.channel ? `<section class="block">
+  <div class="wrap">
+    <a class="channel" href="https://t.me/${esc(SITE.channel)}" rel="noopener">
+      <span class="channel-text"><span class="eyebrow eyebrow-inv">Telegram-канал</span><span class="channel-t">Новые квартиры каждый день</span><span class="channel-d">Публикуем объекты от собственников раньше, чем они попадают на сайт.</span></span>
+      <span class="btn btn-light">@${esc(SITE.channel)}</span>
+    </a>
+  </div>
+</section>` : ''}
+
 ${leadForm()}
 ${seoText('rent')}`;
   write('index.html', page({
     title: `${SITE.name} — квартиры и дома в Белграде`,
     desc: `Аренда и покупка квартир и домов в Белграде от собственников: ${objects(LISTINGS.length)} с фото, ценами и описанием на русском. Помощь с белым картоном, счётом в банке и ВНЖ.`,
     url: '/',
-    image: LISTINGS[0] ? photo(LISTINGS[0]) : '',
+    image: heroImg,
+    overlay: !!heroImg,
     jsonld: [
       { '@context': 'https://schema.org', '@type': 'WebSite', name: SITE.name, url: abs('/'), inLanguage: 'ru' },
       {
