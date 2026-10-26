@@ -1529,5 +1529,784 @@
   "photos": 10,
   "added": "2026-10-26",
   "updated": "2026-10-26"
+ },
+ {
+  "id": "ho-5425647806445",
+  "slug": "ho-5425647806445-izdavanje-stan-surcin-mesto",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: 2,5-комнатная квартира, 61 м², Сурчин (mesto), Сурчин",
+  "kind": "2,5-комнатная квартира",
+  "price": 500,
+  "area": 61,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Сурчин",
+  "districtSlug": "opstina-surcin",
+  "location": "Сурчин (mesto)",
+  "street": "Войводжанска",
+  "geo": {
+   "lat": 44.798,
+   "lng": 20.314
+  },
+  "facts": [
+   [
+    "Площадь",
+    "61 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "1-й из 2"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "частично меблирована"
+   ]
+  ],
+  "features": [
+   "гараж",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "терраса",
+   "депозит",
+   "не последний этаж"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 61 м² в районе Сурчин (mesto) (Сурчин, Белград). 1-й этаж из 2, частично меблирована, отопление автономное. Есть: гараж, интернет, кабельное ТВ, кондиционер, терраса, депозит, не последний этаж. Аренда 500 € в месяц.",
+  "original": "50% od prve mesečne zakupnine",
+  "photos": 12,
+  "added": "2026-10-26",
+  "updated": "2026-10-26"
+ },
+ {
+  "id": "ho-5425643180319",
+  "slug": "ho-5425643180319-izdavanje-stan-novi-grad",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: трёхкомнатная квартира, 72 м², Нови град, Земун",
+  "kind": "трёхкомнатная квартира",
+  "price": 550,
+  "area": 72,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Нови град",
+  "street": "Крайишка",
+  "geo": {
+   "lat": 44.84,
+   "lng": 20.374
+  },
+  "facts": [
+   [
+    "Площадь",
+    "72 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "высокий приземный"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "терраса",
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "подходит студентам"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 72 м² в районе Нови град (Земун, Белград). Высокий приземный этаж, с мебелью, отопление аккумуляционные печи. Есть: интернет, кабельное ТВ, кондиционер, парковка, терраса, депозит, не последний этаж, можно въехать сразу, для некурящих, подходит студентам. Аренда 550 € в месяц.",
+  "original": "Niske rezije. Vlasnik izdaje nije preko agencije. Izdajem kompletno namesten 3.0 stan u Zemunu.na liniji 15,78, 45, 612, 15 nocni, 2 min.od autobuskog stajalista, 5 min od  zeleznicke stanice Bg voza. 2 minuta od osnovne skole, 2 minuta od obdanista. Dobro povezan sa vecinom delovima grada, super lokacija. \nLed tv, ktv, klima nova inverter,  usisivac. 3 sobe,  kuhinja, spajz, kupatilo, hodnik,velika  velika terasa na kojoj moge da se stavi sto i stolice da sedi vise osoba. Ugradni plakari u svakoj prostoriji. Nova ves masina i nova klima inverter postavljena ove godine . Obezbedjen deo kuhinjskog pribora  tanjira solja casa itd.\nU blizini maxi, aman, posta, menjacnica, banka, brza hrana, mesara , zdrava hrana kozmeticki i frizerski salon.",
+  "photos": 5,
+  "added": "2026-10-26",
+  "updated": "2026-10-26"
+ },
+ {
+  "id": "ho-5425645580404",
+  "slug": "ho-5425645580404-izdavanje-stan-stari-kosutnjak",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: двухкомнатная квартира, 45 м², Стари Кошутняк, Раковица",
+  "kind": "двухкомнатная квартира",
+  "price": 550,
+  "area": 45,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Раковица",
+  "districtSlug": "opstina-rakovica",
+  "location": "Стари Кошутняк",
+  "street": "Хариса Бркича",
+  "geo": {
+   "lat": 44.75,
+   "lng": 20.438
+  },
+  "facts": [
+   [
+    "Площадь",
+    "45 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "1-й из 4"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "новостройка"
+   ],
+   [
+    "Коммунальные",
+    "около 60 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно с животными",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "подходит студентам",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 45 м² в районе Стари Кошутняк (Раковица, Белград). 1-й этаж из 4, с мебелью, отопление центральное, люкс, новостройка. Есть: депозит, можно с животными, не последний этаж, можно въехать сразу, для некурящих, подходит студентам, домофон, интернет, кабельное ТВ, кондиционер, парковка, терраса, горячая вода, видеонаблюдение. Аренда 550 € в месяц.",
+  "original": "Extra stan u novoj zgradi, u Košutnjaku nadomak filmskog i Pionirskog grada, trim staze i bazena. Centralno grejanje po utrošku, topla zgrada i mirna lokacica.",
+  "photos": 9,
+  "added": "2026-10-26",
+  "updated": "2026-10-26"
+ },
+ {
+  "id": "ho-5425636011127",
+  "slug": "ho-5425636011127-izdavanje-stan-donji-grad",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: однокомнатная квартира, 20 м², Дони град, Земун",
+  "kind": "однокомнатная квартира",
+  "price": 300,
+  "area": 20,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Дони град",
+  "street": "Радоя Дакича",
+  "geo": {
+   "lat": 44.836,
+   "lng": 20.405
+  },
+  "facts": [
+   [
+    "Площадь",
+    "20 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "высокий приземный из 2"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "новостройка"
+   ],
+   [
+    "Коммунальные",
+    "около 10 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "интернет",
+   "кондиционер"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 20 м² в районе Дони град (Земун, Белград). Высокий приземный этаж из 2, с мебелью, отопление центральное, после ремонта, новостройка. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, интернет, кондиционер. Аренда 300 € в месяц.",
+  "original": "Obavezan depozit Svi troškovi sem struje uračunati u cenu.",
+  "photos": 6,
+  "added": "2026-10-26",
+  "updated": "2026-10-26"
+ },
+ {
+  "id": "ho-5425647847227",
+  "slug": "ho-5425647847227-izdavanje-stan-centar",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: 1,5-комнатная квартира, 45 м², Центр, Земун",
+  "kind": "1,5-комнатная квартира",
+  "price": 650,
+  "area": 45,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Центр",
+  "street": "Магистратски трг",
+  "geo": {
+   "lat": 44.845,
+   "lng": 20.413
+  },
+  "facts": [
+   [
+    "Площадь",
+    "45 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "3-й из 3"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 35 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно с животными",
+   "можно въехать сразу",
+   "для некурящих",
+   "домофон",
+   "кондиционер",
+   "подвал"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 45 м² в районе Центр (Земун, Белград). 3-й этаж из 3, с мебелью, отопление автономное, после ремонта, старый фонд. Есть: депозит, можно с животными, можно въехать сразу, для некурящих, домофон, кондиционер, подвал. Аренда 650 € в месяц.",
+  "original": "Stan u održavanoj zgradi u pešačkoj zoni u samom centru Zemuna. \n\nSastoji se od prostrane spavace sobe koja poseduje veliki plakar, dnevne sobe sa kuhinjom i trpezarijom, hodnika i kupatila.\nIma dve klime kao i radijatore (etažno grejanje na struju).\nIzdaje se namesten.\nInternet i kablovska TV su ostavljeni da budući stanari mogu da sklope ugovor sa operatorima na svoje ime i da odrede dužinu trajanja ugovora.",
+  "photos": 8,
+  "added": "2026-10-26",
+  "updated": "2026-10-26"
+ },
+ {
+  "id": "ho-5425644517865",
+  "slug": "ho-5425644517865-izdavanje-stan-sarajevska",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: однокомнатная квартира, 35 м², Сараевска, Савски-Венац",
+  "kind": "однокомнатная квартира",
+  "price": 400,
+  "area": 35,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "opstina-savski-venac",
+  "location": "Сараевска",
+  "street": "Сараевска",
+  "geo": {
+   "lat": 44.803,
+   "lng": 20.454
+  },
+  "facts": [
+   [
+    "Площадь",
+    "35 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "2-й из 2"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ]
+  ],
+  "features": [
+   "кондиционер"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 35 м² в районе Сараевска (Савски-Венац, Белград). 2-й этаж из 2, с мебелью, отопление аккумуляционные печи, после ремонта. Есть: кондиционер. Аренда 400 € в месяц.",
+  "original": "Okrenut ka dvorištu, bez buke.\n\nIzdaje se namešten stan, potpuno renoviran. Ima veš mašinu\n\nTA grejanje, internet..\n\n400e+ komunalije.\n\nZa više informacija",
+  "photos": 5,
+  "added": "2026-10-26",
+  "updated": "2026-10-26"
+ },
+ {
+  "id": "ho-5425643728955",
+  "slug": "ho-5425643728955-izdavanje-stan-blok-63",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: двухкомнатная квартира, 40 м², Блок 63, Новый Белград",
+  "kind": "двухкомнатная квартира",
+  "price": 700,
+  "area": 40,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Блок 63",
+  "street": "Европска",
+  "geo": {
+   "lat": 44.806,
+   "lng": 20.384
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "3-й из 5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "новостройка"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 40 м² в районе Блок 63 (Новый Белград, Белград). 3-й этаж из 5, с мебелью, отопление центральное, люкс, новостройка. Есть: депозит, не последний этаж, домофон, интернет, кабельное ТВ, кондиционер, лифт, парковка, терраса, видеонаблюдение. Аренда 700 € в месяц.",
+  "original": "Jako lepo uređen i opemljen stan u zgradi novije gradnje, moderan, funkcionalan, poseduje odvojenu spavaću sobu, cg po potrošnji, video nadzor, odličan.\n\nSlobodan od 01. novembra 2026. godine\n\nAgencijska provizija za zakupca se plaća u iznosu od 50% + PDV dogovorene jednomesečne zakupnine za period zakupa u trajanju do 12 meseci",
+  "photos": 11,
+  "added": "2026-10-26",
+  "updated": "2026-10-26"
+ },
+ {
+  "id": "ho-5425643097444",
+  "slug": "ho-5425643097444-izdavanje-stan-gornji-grad",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: 2,5-комнатная квартира, 54 м², Горни град, Земун",
+  "kind": "2,5-комнатная квартира",
+  "price": 650,
+  "area": 54,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Горни град",
+  "street": "Раде Кончара 11",
+  "geo": {
+   "lat": 44.844,
+   "lng": 20.385
+  },
+  "facts": [
+   [
+    "Площадь",
+    "54 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "2-й из 3"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "новостройка"
+   ],
+   [
+    "Коммунальные",
+    "около 100 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 54 м² в районе Горни град (Земун, Белград). 2-й этаж из 3, с мебелью, отопление автономное, в исходном состоянии, новостройка. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, домофон, интернет, кабельное ТВ, кондиционер, терраса, видеонаблюдение. Аренда 650 € в месяц.",
+  "original": "2.5 stan u ul. Rade Končar 11, u Zemunu, svetao, opremljen modernim nameštajem.\nPoseduje dve spavaće sobe, dnevno-trpezarijski prostor sa terasom koja gleda na ulicu, podno grejanje u kupatilu, video nadzor...\n\nOdlična povezanost sa svim delovima grada - linije gradskog prevoza 15, 18, 78, 45 i 612 i blizina svih sadržaja potrebnih za kvalitetan život, blizina Doma zdravlja, OŠ \"Petar Kočić\" i vrtića \"Iskrica\".\n\nMesečna zakupnina i depozit u visini iste, uz potpisivanje ugovora.\n\nPrednost izdavanje na duži vremenski period. Izdaje se samo nasim ljudima,kućni ljubimci nisu dozvoljeni. \nZa dodatne informacije zvati posle 16h.\nUseljiv od .",
+  "photos": 9,
+  "added": "2026-10-26",
+  "updated": "2026-10-26"
+ },
+ {
+  "id": "ho-5425644776558",
+  "slug": "ho-5425644776558-izdavanje-stan-blok-65",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: двухкомнатная квартира, 54 м², Блок 65, Новый Белград",
+  "kind": "двухкомнатная квартира",
+  "price": 1100,
+  "area": 54,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Блок 65",
+  "street": "Тадие Сондермаера",
+  "geo": {
+   "lat": 44.814,
+   "lng": 20.397
+  },
+  "facts": [
+   [
+    "Площадь",
+    "54 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "2-й"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "новостройка"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "гараж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 54 м² в районе Блок 65 (Новый Белград, Белград). 2-й этаж, с мебелью, отопление центральное, люкс, новостройка. Есть: депозит, не последний этаж, гараж, домофон, интернет, кабельное ТВ, кондиционер, лифт, парковка, терраса, видеонаблюдение. Аренда 1 100 € в месяц.",
+  "original": "Komforan stan u luksuznom stambenom objektu Wellport, potpuno opremljen, kvalitetan, komforan, poseduje odvojenu spavaću sobu, cg je po utrošku, natkriveno parking mesto uz doplatu od 100e. \nUseljiv od 01. novembra 2026. godine\n\n \nAgencijska provizija za zakupca se plaća u iznosu od 50% + PDV dogovorene jednomesečne zakupnine za period zakupa u trajanju do 12 meseci",
+  "photos": 11,
+  "added": "2026-10-26",
+  "updated": "2026-10-26"
+ },
+ {
+  "id": "ho-5425647763999",
+  "slug": "ho-5425647763999-izdavanje-stan-trosarina",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: трёхкомнатная квартира, 56 м², Трошарина, Вождовац",
+  "kind": "трёхкомнатная квартира",
+  "price": 900,
+  "area": 56,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "Трошарина",
+  "street": "Войводе Степе",
+  "geo": {
+   "lat": 44.765,
+   "lng": 20.483
+  },
+  "facts": [
+   [
+    "Площадь",
+    "56 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "6-й из 7"
+   ],
+   [
+    "Отопление",
+    "тёплый пол"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "есть право собственности",
+   "домофон",
+   "кондиционер",
+   "лифт",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 56 м² в районе Трошарина (Вождовац, Белград). 6-й этаж из 7, с мебелью, отопление тёплый пол, после ремонта, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу, есть право собственности, домофон, кондиционер, лифт, терраса, видеонаблюдение. Аренда 900 € в месяц.",
+  "original": "Izdaje sa namešten stan na odličnoj lokaciji u neposrednoj blizini Trošarine,u Vojvode Stepe.\n\nSastoji se iz ulaznog hodnika,dnevnog boravka sa kuhinjsko trpezarijskim delom,dve spavaće sobe,kupatila i terase.\n\nMesečni troškovi niski,grejanje je podno.Mikrolokacija izuzetna,u blizini svi potrebni sadržaji za svakodnevni život.\n\nDobra povezanost javnim prevozom sa svim delovima grada.\n\nSlobodna parking ispred zgrade.\n\nKućni ljubimci nisu dozvoljeni.\n\nAgencijska provizija 50% vrednosti jedne mesečne zakupnine. \n\nAgent: Miloš Graora br. Licence: 4996\n\nArt nekretnine d.o.o. Beograd\n\nReg. br. 339 \n\nMG06\n\n16624\n.",
+  "photos": 12,
+  "added": "2026-10-26",
+  "updated": "2026-10-26"
+ },
+ {
+  "id": "ho-5425647471407",
+  "slug": "ho-5425647471407-izdavanje-stan-centar",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: 5-комнатная квартира, 180 м², Центр, Старый город",
+  "kind": "5-комнатная квартира",
+  "price": 2500,
+  "area": 180,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "opstina-stari-grad",
+  "location": "Центр",
+  "street": "Стевана Сремца",
+  "geo": {
+   "lat": 44.814,
+   "lng": 20.471
+  },
+  "facts": [
+   [
+    "Площадь",
+    "180 м²"
+   ],
+   [
+    "Комнат",
+    "5"
+   ],
+   [
+    "Этаж",
+    "5-й из 6"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "новостройка"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно с животными",
+   "не последний этаж",
+   "можно въехать сразу",
+   "домофон",
+   "интернет",
+   "камин",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся 5-комнатная квартира площадью 180 м² в районе Центр (Старый город, Белград). 5-й этаж из 6, с мебелью, отопление центральное, люкс, новостройка. Есть: депозит, можно с животными, не последний этаж, можно въехать сразу, домофон, интернет, камин, кабельное ТВ, кондиционер, лифт, терраса, видеонаблюдение. Аренда 2 500 € в месяц.",
+  "original": "STEVANA SREMCA | LUKSUZAN PENTHOUSE | 180m² | 4 SPAVAĆE SOBE | 3 KUPATILA | SAUNA | ĐAKUZI | VELIKA TERASA | IZDAVANJE\n\nU ponudi je ekskluzivan luksuzan stan za izdavanje u jednoj od najprestižnijih ulica u centru Beograda – Stevana Sremca.\n\nStan površine 180m² nalazi se na 5. spratu i predstavlja idealan izbor za one koji traže vrhunski komfor, prostranost i privatnost.\n\nPosebnu vrednost ovoj nekretnini daje velika terasa sa lepim otvorenim pogledom, kao i privatna sauna i đakuzi, koji pružaju jedinstven osećaj luksuza i opuštanja.\n\nStruktura stana:\n\n- Prostran dnevni boravak sa trpezarijom\n\n- Moderna kuhinja\n\n- 4 spavaće sobe\n\n- 3 kupatila\n\n- Hodnik\n\n- Velika terasa\n\n- Sauna\n\n- Đakuzi\n\nPrednosti stana:\n\n Luksuzno opremljen i moderno uređen\n\n Velika terasa sa otvorenim pogledom\n\n Privatna sauna i đakuzi\n\n Izuzetno prostran i funkcionalan raspored\n\n Reprezentativna lokacija u centru grada\n\n U neposrednoj blizini restorana, kafića, škola, prodavnica i svih važnih sadržaja\n\nGaražno mesto dostupno uz doplatu od 100€ mesečno.\n\nOva nekretnina predstavlja retku priliku za zakup vrhunskog stana koji pruža luksuz, komfor i prestiž na jednoj od najboljih gradskih lokacija.\n\nZa više informacija i zakazivanje razgledanja kontaktirajte agenta.\n\n---\n\nSTEVANA SREMCA | LUXURY PENTHOUSE | 180m² | 4 BEDROOMS | 3 BATHROOMS | SAUNA | JACUZZI | LARGE TERRACE | FOR RENT\n\nAn exceptional luxury apartment is available for rent in Stevana Sremca Street, one of Belgrade's most prestigious city-center locations.\n\nOffering 180m² of elegant living space, this apartment is situated on the 5th floor and provides outstanding comfort, privacy, and luxury.\n\nA highlight of this remarkable property is its spacious terrace with beautiful open views, complemented by a private sauna and jacuzzi, creating a true private wellness retreat.\n\nLayout:\n\n- Spacious living room with dining area\n\n- Modern kitchen\n\n- 4 bedrooms\n\n- 3 bathrooms\n\n- Hallway\n\n- Large terrace\n\n- Private sauna\n\n- Jacuzzi\n\nProperty highlights:\n\n Fully furnished with luxury finishes\n\n Large terrace with beautiful open views\n\n Private sauna and jacuzzi\n\n Spacious and functional layout\n\n Prestigious city-center location\n\n Close to restaurants, cafés, shops, schools, and all essential amenities\n\nGarage parking space available for an additional €100 per month.\n\nFor more information or to schedule a viewing, please contact the agent.",
+  "photos": 12,
+  "added": "2026-10-26",
+  "updated": "2026-10-26"
+ },
+ {
+  "id": "ho-5425645222231",
+  "slug": "ho-5425645222231-izdavanje-stan-borca",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: студия, 20 м², Борча, Палилула",
+  "kind": "студия",
+  "price": 320,
+  "area": 20,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Борча",
+  "street": "Братства и Единства 85",
+  "geo": {
+   "lat": 44.882,
+   "lng": 20.454
+  },
+  "facts": [
+   [
+    "Площадь",
+    "20 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "2-й из 4"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "новостройка"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "французский балкон",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер"
+  ],
+  "text": "Сдаётся студия площадью 20 м² в районе Борча (Палилула, Белград). 2-й этаж из 4, с мебелью, люкс, новостройка. Есть: можно въехать сразу, французский балкон, домофон, интернет, кабельное ТВ, кондиционер. Аренда 320 € в месяц.",
+  "original": "Nov kompletno namesten vrlo lep stan, u glavnoj ulici Bratstva i Jedinstva u samom centru Borce, u zgradi iznad kladionice Balkan Bet. Nov namestaj: LCD TV, klima klasa A za grejanje i hladjenje sa malom potrosnjom struje, ves masina, itd.\n\nStan je vrlo topao i lako se greje sa klimom koja trosi malo struje.\n\nOpticki internet i KATV (odlican paket Supernove). Ukupni troskovi za KATV, Internet i Infostan su 3000din. Struja je koliko se potrosi. U cenu stana je ukljuceno kompletno odrzavanje elektricnih uredjaja ili majstora ukoliko se ukaze potreba.\n\nStan se nalazi oko 50m od stanica 95, i 96 i 85. Useljiv odmah",
+  "photos": 11,
+  "added": "2026-10-26",
+  "updated": "2026-10-26"
  }
 ]
