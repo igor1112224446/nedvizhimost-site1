@@ -294,6 +294,51 @@
   }
 
 
+  // ---------- каталог на главной: «Другие квартиры» и переключатель сделки ----------
+  const hc = document.querySelector('[data-home-cat]');
+  if (hc) {
+    const PAGE = 12;
+    const moreBtn = document.querySelector('[data-home-more]');
+    const sw = document.querySelector('[data-home-cat-deal]');
+    const heart = document.querySelector('.fav-link svg')?.outerHTML || '';
+    const arrows = hc.querySelector('.sl-prev')?.innerHTML || '‹';
+    const arrowsN = hc.querySelector('.sl-next')?.innerHTML || '›';
+    let shown = hc.children.length;
+    let list = null;
+    const cardHtml = (d) => {
+      const n = Math.max(1, d.n || 1);
+      const imgs = Array.from({ length: n }, (_, i) => `<img src="${d.img.replace(/1\.jpg$/, `${i + 1}.jpg`)}" alt="${d.t}, ${d.pl}" width="640" height="480" loading="lazy" decoding="async">`).join('');
+      return `<article class="card" data-id="${d.id}"><div class="slider" data-slider><a class="slider-track" href="${d.u}" tabindex="-1">${d.img ? imgs : ''}</a>${n > 1 ? `<button class="sl-btn sl-prev" type="button" aria-label="Предыдущее фото">${arrows}</button><button class="sl-btn sl-next" type="button" aria-label="Следующее фото">${arrowsN}</button><span class="sl-count" aria-hidden="true">1 / ${n}</span>` : ''}${d.nw ? '<span class="badges"><span class="badge">Новое</span></span>' : ''}<button class="fav" type="button" data-fav="${d.id}" aria-label="В избранное" aria-pressed="false">${heart}</button></div>
+        <div class="card-main"><p class="card-place">${d.pl}</p><h3 class="card-title"><a href="${d.u}">${d.t.charAt(0).toUpperCase() + d.t.slice(1)}</a></h3>
+        <dl class="card-facts">${d.a ? `<div><dt>Площадь</dt><dd>${d.a} м²</dd></div>` : ''}<div><dt>Комнат</dt><dd>${d.rl}</dd></div>${d.fl ? `<div><dt>Этаж</dt><dd>${d.fl}</dd></div>` : ''}</dl></div>
+        <div class="card-side"><p class="card-price">${d.p ? `<span class="pr" data-eur="${d.p}">${money(d.p)}</span><small>${d.d === 'rent' ? ' / мес' : ''}</small>` : 'Цена по запросу'}</p></div></article>`;
+    };
+    const render = (from) => {
+      const deal = sw?.querySelector('input:checked')?.value || '';
+      const items = list.filter((d) => !deal || d.d === deal);
+      const part = items.slice(from, shown);
+      const tmp = document.createElement('div');
+      tmp.innerHTML = part.map(cardHtml).join('');
+      const nodes = [...tmp.children];
+      nodes.forEach((n) => hc.appendChild(n));
+      nodes.forEach((n) => n.querySelector('[data-slider]') && bindSlider(n.querySelector('[data-slider]')));
+      moreBtn.hidden = shown >= items.length;
+      paintFavs();
+    };
+    moreBtn?.addEventListener('click', async () => {
+      list ||= await lite();
+      const from = shown;
+      shown += PAGE;
+      render(from);
+    });
+    sw?.addEventListener('change', async () => {
+      list ||= await lite();
+      hc.innerHTML = '';
+      shown = PAGE;
+      render(0);
+    });
+  }
+
   // ---------- карта на главной ----------
   const hm = document.querySelector('[data-home-map]');
   if (hm) {

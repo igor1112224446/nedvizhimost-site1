@@ -638,3 +638,6 @@ p { margin: 0; }
 .modal-close:hover { color: var(--ink); }
 .modal .fld input { min-height: 50px; }
 .panel .btn-dark { margin-top: 4px; }
+.home-cat-deal span { border: 1px solid var(--line-2); }
+.home-cat-deal label + label span { border-left: 0; }
+.home-cat { grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); }
