@@ -6737,5 +6737,679 @@
   "photos": 8,
   "added": "2026-10-25",
   "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-196097781",
+  "slug": "kp-196097781-izdavanje-stan-pogledajte-nekretnine-u-okolini",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: однокомнатная квартира, 30 м², Погледайте некретнине у околини, Палилула",
+  "kind": "однокомнатная квартира",
+  "price": 270,
+  "area": 30,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "Погледайте некретнине у околини",
+  "street": "",
+  "geo": {
+   "lat": 44.851,
+   "lng": 20.47
+  },
+  "facts": [
+   [
+    "Площадь",
+    "30 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 30 м² в районе Погледайте некретнине у околини (Палилула, Белград). Есть: можно въехать сразу, интернет, кабельное ТВ, кондиционер, парковка, депозит. Аренда 270 € в месяц.",
+  "original": "Izdaje se jednosobna garsonjera u sklopu kuće, pogodna za jednu osobu. Garsonjera je uredna, funkcionalna i nalazi se u mirnom okruženju. Obezbeđeni su kablovska televizija, internet, grejanje i parking. Idealna je za samca koji traži miran i prijatan prostor za stanovanje.",
+  "photos": 4,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-196068791",
+  "slug": "kp-196068791-izdavanje-stan-pogledajte-nekretnine-u-okolini",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: двухкомнатная квартира, 55 м², Погледайте некретнине у околини, Гроцка",
+  "kind": "двухкомнатная квартира",
+  "price": 400,
+  "area": 55,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Гроцка",
+  "districtSlug": "grocka",
+  "location": "Погледайте некретнине у околини",
+  "street": "краля петра",
+  "geo": {
+   "lat": 44.766,
+   "lng": 20.559
+  },
+  "facts": [
+   [
+    "Площадь",
+    "55 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "домофон",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 55 м² в районе Погледайте некретнине у околини (Гроцка, Белград). Есть: можно въехать сразу, домофон, кабельное ТВ, кондиционер, парковка. Аренда 400 € в месяц.",
+  "original": "Stan u Kaludjerici 55 m, u ulice kod tehničkog pregleda The Best, ispod Maxi, opremljen prvi sprat sa parkingom 400 evra",
+  "photos": 12,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-196263850",
+  "slug": "kp-196263850-izdavanje-stan-pogledajte-nekretnine-u-okolini",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: двухкомнатная квартира, 75 м², Погледайте некретнине у околини, Сурчин",
+  "kind": "двухкомнатная квартира",
+  "price": 450,
+  "area": 75,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Сурчин",
+  "districtSlug": "surcin",
+  "location": "Погледайте некретнине у околини",
+  "street": "",
+  "geo": {
+   "lat": 44.798,
+   "lng": 20.287
+  },
+  "facts": [
+   [
+    "Площадь",
+    "75 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "приземный"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "домофон",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 75 м² в районе Погледайте некретнине у околини (Сурчин, Белград). Приземный этаж, с мебелью, отопление центральное, после ремонта. Есть: интернет, домофон, кабельное ТВ, кондиционер, видеонаблюдение, парковка, депозит. Аренда 450 € в месяц.",
+  "original": "Stan je namešten i sastoji se od jedne spavaće sobe, dnevne sobe, kuhinje, velike trpezarije, hodnika i kupatila.\nPoseduje kablovsku TV, internet, interfon, video nadzor, klimu, CG i parking mesto.\nNalazi se mirnom dela Surčina, u blizini OŠ Vuk Karadžić i autobuske stanice (600m).",
+  "photos": 4,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-195837027",
+  "slug": "kp-195837027-izdavanje-stan-pogledajte-nekretnine-u-okolini",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: однокомнатная квартира, 27 м², Погледайте некретнине у околини, Старый город",
+  "kind": "однокомнатная квартира",
+  "price": 600,
+  "area": 27,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "stari-grad",
+  "location": "Погледайте некретнине у околини",
+  "street": "Солунска",
+  "geo": {
+   "lat": 44.827,
+   "lng": 20.46
+  },
+  "facts": [
+   [
+    "Площадь",
+    "27 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "3-й из 7"
+   ],
+   [
+    "Отопление",
+    "центральное, кондиционер"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 27 м² в районе Погледайте некретнине у околини (Старый город, Белград). 3-й этаж из 7, с мебелью, отопление центральное, кондиционер, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, домофон, кабельное ТВ, кондиционер, лифт. Аренда 600 € в месяц.",
+  "original": "Dostupan od 10 decembra.\n\nIzdaje se kompletno sredjen i funkcionalan stan na svega nekoliko minuta hoda od kalemegdana, dunavskog keja i centra grada.  \n\nRetko dostupna lokacija koja spaja mir, zelenilo i blizinu centra grada.  \n\nMini market i pekara u sklopu zgrade, Supermarket i kafici u neposrednoj blizini.  \n\nIdealan za jednu osobu ili par.  \n\nOdlican izbor za studente zaposlene osobe ili strane drzavljane koji zele da zive u jednom od najlepsih delova Beograda.",
+  "photos": 8,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-195880496",
+  "slug": "kp-195880496-izdavanje-stan-pogledajte-nekretnine-u-okolini",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: трёхкомнатная квартира, 76 м², Погледайте некретнине у околини, Чукарица",
+  "kind": "трёхкомнатная квартира",
+  "price": 950,
+  "area": 76,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "cukarica",
+  "location": "Погледайте некретнине у околини",
+  "street": "Петра Мартиновича",
+  "geo": {
+   "lat": 44.776,
+   "lng": 20.423
+  },
+  "facts": [
+   [
+    "Площадь",
+    "76 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "1-й из 3"
+   ],
+   [
+    "Отопление",
+    "центральное, кондиционер"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "новостройка"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 76 м² в районе Погледайте некретнине у околини (Чукарица, Белград). 1-й этаж из 3, с мебелью, отопление центральное, кондиционер, новостройка. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, кондиционер, парковка, депозит. Аренда 950 € в месяц.",
+  "original": "Luksuzan trosoban stan od 76 m2 sa prelepim pogledom u mirnom kraju blizu Košutnjaka. Potpuno opremljen i spreman za vas!",
+  "photos": 12,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-196150089",
+  "slug": "kp-196150089-izdavanje-stan-pogledajte-nekretnine-u-okolini",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: однокомнатная квартира, 30 м², Погледайте некретнине у околини, Звездара",
+  "kind": "однокомнатная квартира",
+  "price": 50,
+  "area": 30,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Погледайте некретнине у околини",
+  "street": "",
+  "geo": {
+   "lat": 44.796,
+   "lng": 20.499
+  },
+  "facts": [
+   [
+    "Площадь",
+    "30 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "5-й из 7"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "новостройка"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "подвал",
+   "кабельное ТВ",
+   "кондиционер",
+   "энергопаспорт",
+   "лифт",
+   "парковка"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 30 м² в районе Погледайте некретнине у околини (Звездара, Белград). 5-й этаж из 7, с мебелью, новостройка. Есть: можно въехать сразу, интернет, домофон, терраса, подвал, кабельное ТВ, кондиционер, энергопаспорт, лифт, парковка. Аренда 50 € в месяц.",
+  "original": "Za studentkinju nepusaca. Soba, hodnik, kupatilo odvojeni vratima i kljucem od ostalog dela stana of 90 m2. Potrebno je odrzavati uredno taj deo stana. . Stan je 200 m ispod Cvetkove pijace, jedan od najlepsih delova Beograda.",
+  "photos": 7,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-195918871",
+  "slug": "kp-195918871-izdavanje-stan-pogledajte-nekretnine-u-okolini",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: 1,5-комнатная квартира, 45 м², Погледайте некретнине у околини, Гроцка",
+  "kind": "1,5-комнатная квартира",
+  "price": 300,
+  "area": 45,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Гроцка",
+  "districtSlug": "grocka",
+  "location": "Погледайте некретнине у околини",
+  "street": "пивска 7",
+  "geo": {
+   "lat": 44.754,
+   "lng": 20.571
+  },
+  "facts": [
+   [
+    "Площадь",
+    "45 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Отопление",
+    "центральное, кондиционер"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "депозит"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 45 м² в районе Погледайте некретнине у околини (Гроцка, Белград). С мебелью, отопление центральное, кондиционер. Есть: можно въехать сразу, депозит. Аренда 300 € в месяц.",
+  "original": "Izdajem vise stanova ce ne su različite za vise informacija na tel. o64oo56",
+  "photos": 12,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-196413977",
+  "slug": "kp-196413977-izdavanje-stan-pogledajte-nekretnine-u-okolini",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: двухкомнатная квартира, 50 м², Погледайте некретнине у околини, Обреновац",
+  "kind": "двухкомнатная квартира",
+  "price": 380,
+  "area": 50,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Обреновац",
+  "districtSlug": "obrenovac",
+  "location": "Погледайте некретнине у околини",
+  "street": "",
+  "geo": {
+   "lat": 44.655,
+   "lng": 20.201
+  },
+  "facts": [
+   [
+    "Площадь",
+    "50 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 50 м² в районе Погледайте некретнине у околини (Обреновац, Белград). С мебелью, отопление центральное. Есть: интернет, терраса, кабельное ТВ, кондиционер. Аренда 380 € в месяц.",
+  "original": "Izdajem potpuno namesten dvosoban stan na Rojkovcu, 50 kvm(sprat kuce, zaseban ulaz). Cena kirije je 380 eura sa svim racunima(centralno grejanje, komunalije, internet, kablovska)osim struje, struja se placa po sopstvenoj potrosnji. Obavezan depozit,300 eura.\nStan ima svoje dvoriste, svoju natkrivenu terasu od 10 kvadrata. Slobodan, tj besplatan parking u naselju. Miran kraj. Stan je useljiv od 1 novembra. Sve dodatne inf. na\nnula sest cetiri, jedan tri dva tri , jedan sest sedam , Zoran.",
+  "photos": 8,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-196135108",
+  "slug": "kp-196135108-izdavanje-stan-pogledajte-nekretnine-u-okolini",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: 1,5-комнатная квартира, 50 м², Погледайте некретнине у околини, Земун",
+  "kind": "1,5-комнатная квартира",
+  "price": 500,
+  "area": 50,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "Погледайте некретнине у околини",
+  "street": "Оскара Давича 32",
+  "geo": {
+   "lat": 44.85,
+   "lng": 20.351
+  },
+  "facts": [
+   [
+    "Площадь",
+    "50 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "высокий приземный из 4"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "новостройка"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "энергопаспорт",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 50 м² в районе Погледайте некретнине у околини (Земун, Белград). Высокий приземный этаж из 4, с мебелью, отопление центральное, в исходном состоянии, новостройка. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, кондиционер, энергопаспорт, парковка, депозит. Аренда 500 € в месяц.",
+  "original": "Stan 50m2, parking ! ! ! ! !\nNovogradnja ! ! ! ! !\nStan je visoko prizemlje i poseduje svoje lično dvoriste ! ! ! ! ! ! !\n\nZvati na 64 43 45 014",
+  "photos": 12,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-196091059",
+  "slug": "kp-196091059-izdavanje-stan-pogledajte-nekretnine-u-okolini",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: 1,5-комнатная квартира, 50 м², Погледайте некретнине у околини, Земун",
+  "kind": "1,5-комнатная квартира",
+  "price": 520,
+  "area": 50,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "Погледайте некретнине у околини",
+  "street": "Угриновачки пут 23. део 97c",
+  "geo": {
+   "lat": 44.855,
+   "lng": 20.357
+  },
+  "facts": [
+   [
+    "Площадь",
+    "50 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "2-й из 4"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "новостройка"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 50 м² в районе Погледайте некретнине у околини (Земун, Белград). 2-й этаж из 4, с мебелью, отопление автономное, новостройка. Есть: интернет, домофон, терраса, кабельное ТВ, кондиционер, видеонаблюдение, парковка, депозит. Аренда 520 € в месяц.",
+  "original": "Izdajem potpuno opremljen stan na Altini. Stan se nalazi na drugom spratu i poseduje hodnik, kupatilo, spavacu sobu i open concept kuhinju, trpezariju i dnevnu sobu, zastakljenu terasu. U kupatilu standardni kupatilski namestaj i sanitarije + kombinovana masina za ves. Kuhinja sa ugradnim uredjajima plus sitni kuhinjski aparati sa svim potrebnim escajgom za zivot. Trpezarija i dnevna potpuno opremljene. Grejanje je centralno na struju i placa se po utrosku. Od ostalih racuna infostan oko 500 din. , vodovod i kanalizacija oko 800 i cisenje zgrade 800. Stan je slobodan od 1. novembra, a po potrebi i ranije. Trenutno zivimo u njemu i treba da se preselimo. Pozvati za vise informacija",
+  "photos": 12,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-195851987",
+  "slug": "kp-195851987-izdavanje-stan-pogledajte-nekretnine-u-okolini",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: 3,5-комнатная квартира, 90 м², Погледайте некретнине у околини, Земун",
+  "kind": "3,5-комнатная квартира",
+  "price": 900,
+  "area": 90,
+  "rooms": 3.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "Погледайте некретнине у околини",
+  "street": "Марсала Толбухина 9",
+  "geo": {
+   "lat": 44.83,
+   "lng": 20.418
+  },
+  "facts": [
+   [
+    "Площадь",
+    "90 м²"
+   ],
+   [
+    "Комнат",
+    "3,5"
+   ],
+   [
+    "Этаж",
+    "6-й из 1"
+   ],
+   [
+    "Отопление",
+    "центральное, кондиционер"
+   ],
+   [
+    "Мебель",
+    "частично меблирована"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "домофон",
+   "терраса",
+   "кондиционер",
+   "лифт",
+   "можно с животными"
+  ],
+  "text": "Сдаётся 3,5-комнатная квартира площадью 90 м² в районе Погледайте некретнине у околини (Земун, Белград). 6-й этаж из 1, частично меблирована, отопление центральное, кондиционер, после ремонта, старый фонд. Есть: можно въехать сразу, домофон, терраса, кондиционер, лифт, можно с животными. Аренда 900 € в месяц.",
+  "original": "Izdajem polu-namesten stan, suncan i cist. Tri i po sobe. Dve divne zastakljene terase.\n\n6 sprat, 90 m²\n\nMarsala Tolbuhina 9, Zemun.  \n\nIma klimu, masinu za ves i masinu za sudove.\n\nAtraktivna lokacija. Blizu skole, samoposluge, raznih kafica, restorana i \"Ulice hrane\". 5 minuta peske do Dunava.",
+  "photos": 12,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-196347276",
+  "slug": "kp-196347276-izdavanje-stan-pogledajte-nekretnine-u-okolini",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: 1,5-комнатная квартира, 50 м², Погледайте некретнине у околини, Земун",
+  "kind": "1,5-комнатная квартира",
+  "price": 350,
+  "area": 50,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "Погледайте некретнине у околини",
+  "street": "Босанске Крайине",
+  "geo": {
+   "lat": 44.902,
+   "lng": 20.29
+  },
+  "facts": [
+   [
+    "Площадь",
+    "50 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "1-й из 1"
+   ],
+   [
+    "Отопление",
+    "центральное, газовое"
+   ],
+   [
+    "Мебель",
+    "частично меблирована"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "кондиционер",
+   "депозит"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 50 м² в районе Погледайте некретнине у околини (Земун, Белград). 1-й этаж из 1, частично меблирована, отопление центральное, газовое, после ремонта, старый фонд. Есть: можно въехать сразу, кондиционер, депозит. Аренда 350 € в месяц.",
+  "original": "Izdajem stan u odlicnom stanju. Za sve informacije",
+  "photos": 6,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
  }
 ]
