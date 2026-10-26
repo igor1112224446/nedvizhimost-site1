@@ -338,7 +338,8 @@ function leadForm(title = 'Подберём жильё под ваш запро�
         <label><input type="radio" name="via" value="tg"${waDigits ? '' : ' checked'}><span>Telegram</span></label>
       </fieldset>
       <button class="btn btn-dark btn-wide" type="submit">Получить подборку</button>
-      <p class="lead-note" data-lead-note role="status">Откроется чат с готовым сообщением, останется нажать «Отправить».</p>
+      <input type="text" name="website" class="hp-field" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <p class="lead-note" data-lead-note role="status">Заявка придёт агенту сразу, ответим в выбранном мессенджере.</p>
     </form>
   </div>
 </section>`;
@@ -606,14 +607,15 @@ for (const l of LISTINGS) {
   const photos = Array.from({ length: l.photos || 0 }, (_, i) => photo(l, i + 1));
   const similar = LISTINGS.filter((x) => x.id !== l.id && x.deal === l.deal && x.districtSlug === l.districtSlug).slice(0, 3);
   const more = similar.length < 3 ? LISTINGS.filter((x) => x.id !== l.id && x.deal === l.deal && !similar.includes(x)).slice(0, 3 - similar.length) : [];
-  const waText = encodeURIComponent(`Здравствуйте! Интересует объект ${l.id}: ${abs(url)}`);
+  const waText = encodeURIComponent(`Здравствуйте. Меня интересует ${l.type === 'house' ? 'этот дом' : 'эта квартира'}: ${abs(url)}`);
+  const tgHref = `https://t.me/${SITE.tg}?text=${waText}`;
   const keyFacts = [
     l.area ? ['Площадь', `${l.area}\u00a0м²`] : null,
     ['Комнат', roomsLabel(l)],
     fact(l, 'Этаж') ? ['Этаж', fact(l, 'Этаж')] : null,
     perM2(l) ? ['Цена за м²', perM2(l)] : null,
   ].filter(Boolean);
-  const restFacts = (l.facts || []).filter(([k]) => !['Площадь', 'Комнат', 'Этаж'].includes(k));
+  const restFacts = (l.facts || []).filter(([k]) => !['Площадь', 'Комнат', 'Этаж', 'Дом'].includes(k));
   const gallery = photos.length ? `<div class="gal gal-${Math.min(photos.length, 5)}" data-gallery='${esc(JSON.stringify(photos))}'>
     ${photos.slice(0, 5).map((p, i) => `<button type="button" class="gal-item${i ? '' : ' gal-main'}" data-open="${i}" aria-label="Открыть фото ${i + 1}"><img src="${p}" alt="${esc(heading(l))}, фото ${i + 1}" width="1200" height="900" ${i ? 'loading="lazy"' : 'fetchpriority="high"'} decoding="async">${i === 4 && photos.length > 5 ? `<span class="gal-more">+${photos.length - 5} фото</span>` : ''}</button>`).join('')}
   </div>` : '';
@@ -650,11 +652,12 @@ for (const l of LISTINGS) {
         ${perM2(l) ? `<p class="muted">${perM2(l)}</p>` : ''}
         <p class="panel-note" data-rate-note hidden>Пересчёт из евро по курсу на ${rateDate}. Цена в договоре — в евро.</p>
         <div class="agent">
-          <span class="agent-mark" aria-hidden="true">НС</span>
-          <div><p class="agent-name">Агентство «Недвижимость Сербии»</p>${SITE.phone ? `<a href="${esc(telHref)}">${esc(SITE.phone)}</a>` : ''}</div>
+          <span class="agent-mark" aria-hidden="true">G</span>
+          <div><p class="agent-name">Gloria: квартиры в Сербии</p>${SITE.phone ? `<a href="${esc(telHref)}">${esc(SITE.phone)}</a>` : ''}</div>
         </div>
-        ${waDigits ? `<a class="btn btn-dark btn-wide" href="https://wa.me/${waDigits}?text=${waText}" rel="noopener">${ICON.wa}Написать в WhatsApp</a>` : ''}
-        <a class="btn btn-line btn-wide" href="https://t.me/${esc(SITE.tg)}" rel="noopener">${ICON.tg}Написать в Telegram</a>
+        <button class="btn btn-dark btn-wide" type="button" data-open-viewing>Записаться на просмотр</button>
+        ${waDigits ? `<a class="btn btn-line btn-wide" href="https://wa.me/${waDigits}?text=${waText}" rel="noopener">${ICON.wa}Написать в WhatsApp</a>` : ''}
+        <a class="btn btn-line btn-wide" href="${esc(tgHref)}" rel="noopener" data-tg-text="${esc(decodeURIComponent(waText))}">${ICON.tg}Написать в Telegram</a>
         <p class="panel-note">Номер объекта: <span class="obj-id">${esc(l.id)}</span></p>
         ${l.deal === 'rent' ? '<p class="panel-note">Трансфер на просмотры входит в комиссию: 50% от месячной аренды.</p>' : ''}
       </div>
@@ -662,7 +665,22 @@ for (const l of LISTINGS) {
   </div>
 </div>
 ${similar.length + more.length ? `<section class="block"><div class="wrap"><div class="block-head"><h2>${similar.length ? `Ещё в районе ${esc(l.district)}` : 'Похожие объекты'}</h2></div><div class="cards cards-grid">${[...similar, ...more].map((x) => card(x)).join('')}</div></div></section>` : ''}
-<div class="mobile-cta"><span class="mobile-price">${price(l.price)}${l.price ? `<small>${d.per}</small>` : ''}</span>${waDigits ? `<a class="btn btn-dark" href="https://wa.me/${waDigits}?text=${waText}" rel="noopener">Написать</a>` : `<a class="btn btn-dark" href="https://t.me/${esc(SITE.tg)}" rel="noopener">Написать</a>`}</div>
+<div class="mobile-cta"><span class="mobile-price">${price(l.price)}${l.price ? `<small>${d.per}</small>` : ''}</span><button class="btn btn-dark" type="button" data-open-viewing>Записаться</button></div>
+<dialog class="modal" data-viewing aria-labelledby="vw-title">
+  <form class="modal-form" data-viewing-form>
+    <button class="modal-close" type="button" data-close-viewing aria-label="Закрыть">×</button>
+    <h2 id="vw-title">Записаться на просмотр</h2>
+    <p class="muted">${esc(heading(l))}, ${esc(placeLine(l))}. Перезвоним и согласуем время.</p>
+    <input type="text" name="website" class="hp-field" tabindex="-1" autocomplete="off" aria-hidden="true">
+    <input type="hidden" name="t0"><input type="hidden" name="kind" value="viewing">
+    <input type="hidden" name="title" value="${esc(heading(l))}, ${esc(placeLine(l))}"><input type="hidden" name="price" value="${esc(money(l.price))}${l.deal === 'rent' && l.price ? ' в месяц' : ''}"><input type="hidden" name="url" value="${esc(abs(url))}">
+    <label class="fld"><span>Имя</span><input name="name" autocomplete="name" required></label>
+    <label class="fld"><span>Телефон</span><input name="phone" type="tel" autocomplete="tel" inputmode="tel" required placeholder="+381 6… или +7 9…"></label>
+    <button class="btn btn-dark btn-wide" type="submit">Записаться</button>
+    <p class="lead-note" data-viewing-note role="status"></p>
+  </form>
+  <div class="modal-done" data-viewing-done hidden><h2>Заявка отправлена</h2><p>Мы свяжемся с вами в ближайшее время, чтобы согласовать время просмотра.</p><button class="btn btn-line" type="button" data-close-viewing>Закрыть</button></div>
+</dialog>
 <dialog class="lightbox" data-lightbox aria-label="Фото объекта">
   <button class="lb-close" type="button" data-close aria-label="Закрыть">×</button>
   <button class="lb-btn lb-prev" type="button" aria-label="Предыдущее фото">${ICON.prev}</button>

@@ -65,10 +65,46 @@ async function submit(request, env) {
   return json({ ok: true });
 }
 
+// Заявки клиентов: запись на просмотр и подбор. Уходят в TG_LEADS (например, личный чат @Rentch_srb), иначе в TG_CHAT.
+async function lead(request, env) {
+  if (request.method !== 'POST') return json({ error: 'Метод не поддерживается' }, 405);
+  const chat = env.TG_LEADS || env.TG_CHAT;
+  if (!env.TG_TOKEN || !chat) return json({ error: 'приём заявок ещё не настроен' }, 500);
+  let fd;
+  try { fd = await request.formData(); } catch (e) { return json({ error: 'неверные данные формы' }, 400); }
+  if (String(fd.get('website') || '').trim()) return json({ ok: true });
+  const t0 = Number(fd.get('t0')) || 0;
+  if (t0 && Date.now() - t0 < 2000) return json({ ok: true });
+  const g = (k) => String(fd.get(k) || '').trim().slice(0, 1000);
+  if (!g('name') || !g('phone')) return json({ error: 'укажите имя и телефон' }, 400);
+  const line = (k, v) => (v ? `<b>${esc(k)}:</b> ${esc(v)}` : '');
+  const viewing = g('kind') === 'viewing';
+  const text = [
+    viewing ? '📅 <b>Запись на просмотр</b>' : '🔎 <b>Заявка на подбор</b>',
+    viewing ? line('Объект', [g('title'), g('price')].filter(Boolean).join(', ')) : line('Ищет', g('wish')),
+    viewing && g('url') ? esc(g('url')) : '',
+    line('Имя', g('name')),
+    line('Телефон', g('phone')),
+    line('Ответить в', g('via')),
+  ].filter(Boolean).join('\n');
+  try {
+    const m = new FormData();
+    m.append('chat_id', chat);
+    m.append('text', text);
+    m.append('parse_mode', 'HTML');
+    m.append('link_preview_options', JSON.stringify({ is_disabled: !viewing }));
+    await tg(env, 'sendMessage', m);
+  } catch (e) {
+    return json({ error: 'сервер не смог передать заявку' }, 502);
+  }
+  return json({ ok: true });
+}
+
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
     if (url.pathname === '/api/submit') return submit(request, env);
+    if (url.pathname === '/api/lead') return lead(request, env);
     return env.ASSETS.fetch(request);
   },
 };
