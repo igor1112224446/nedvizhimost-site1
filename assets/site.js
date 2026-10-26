@@ -512,22 +512,80 @@
     });
   }
 
-  // ---------- форма подбора ----------
+  // ---------- форма подбора: заявка сразу уходит агенту в Telegram ----------
+  async function postLead(fd) {
+    const r = await fetch('/api/lead', { method: 'POST', body: fd });
+    const j = await r.json().catch(() => ({}));
+    if (!r.ok || !j.ok) throw new Error(j.error || 'не удалось отправить');
+  }
   $$('[data-lead]').forEach((form) => {
+    const t0 = Date.now();
     form.addEventListener('submit', async (e) => {
       e.preventDefault();
       const f = form.elements;
       const via = form.querySelector('input[name="via"]:checked')?.value || 'tg';
-      const text = `Здравствуйте! Меня зовут ${f.name.value.trim()}, телефон ${f.phone.value.trim()}.${f.wish.value.trim() ? ` Ищу: ${f.wish.value.trim()}.` : ''} Пришлите, пожалуйста, подборку.`;
       const note = form.querySelector('[data-lead-note]');
-      if (via === 'wa' && form.dataset.wa) {
-        window.open(`https://wa.me/${form.dataset.wa}?text=${encodeURIComponent(text)}`, '_blank', 'noopener');
-        note.textContent = 'Открыли WhatsApp с готовым сообщением. Осталось нажать «Отправить».';
-      } else {
-        try { await navigator.clipboard.writeText(text); } catch (err) { /* без буфера */ }
-        window.open(`https://t.me/${form.dataset.tg}`, '_blank', 'noopener');
-        note.textContent = 'Текст скопирован. Вставьте его в открывшийся чат Telegram и отправьте.';
+      const btn = form.querySelector('button[type="submit"]');
+      const fd = new FormData();
+      fd.append('kind', 'podbor');
+      fd.append('name', f.name.value.trim());
+      fd.append('phone', f.phone.value.trim());
+      fd.append('wish', f.wish.value.trim());
+      fd.append('via', via === 'wa' ? 'WhatsApp' : 'Telegram');
+      fd.append('website', f.website ? f.website.value : '');
+      fd.append('t0', t0);
+      btn.disabled = true;
+      note.textContent = 'Отправляю…';
+      try {
+        await postLead(fd);
+        note.textContent = 'Спасибо! Заявка у агента, ответим в ближайшее время.';
+        form.reset();
+      } catch (err) {
+        // запасной путь: открыть мессенджер с готовым текстом
+        const text = `Здравствуйте! Меня зовут ${f.name.value.trim()}, телефон ${f.phone.value.trim()}.${f.wish.value.trim() ? ` Ищу: ${f.wish.value.trim()}.` : ''} Пришлите, пожалуйста, подборку.`;
+        if (via === 'wa' && form.dataset.wa) window.open(`https://wa.me/${form.dataset.wa}?text=${encodeURIComponent(text)}`, '_blank', 'noopener');
+        else window.open(`https://t.me/${form.dataset.tg}?text=${encodeURIComponent(text)}`, '_blank', 'noopener');
+        note.textContent = 'Открыли мессенджер с готовым сообщением, нажмите «Отправить».';
+      } finally {
+        btn.disabled = false;
       }
     });
+  });
+
+  // ---------- запись на просмотр ----------
+  const vw = document.querySelector('[data-viewing]');
+  if (vw) {
+    const form = vw.querySelector('[data-viewing-form]');
+    const done = vw.querySelector('[data-viewing-done]');
+    const note = vw.querySelector('[data-viewing-note]');
+    $$('[data-open-viewing]').forEach((b) => b.addEventListener('click', () => {
+      form.hidden = false; done.hidden = true; note.textContent = '';
+      form.elements.t0.value = Date.now();
+      vw.showModal();
+      form.elements.name.focus();
+    }));
+    $$('[data-close-viewing]', vw).forEach((b) => b.addEventListener('click', () => vw.close()));
+    vw.addEventListener('click', (e) => { if (e.target === vw) vw.close(); });
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      if (!form.elements.name.value.trim() || !form.elements.phone.value.trim()) { note.textContent = 'Укажите имя и телефон.'; note.classList.add('err'); return; }
+      const btn = form.querySelector('button[type="submit"]');
+      btn.disabled = true; note.classList.remove('err'); note.textContent = 'Отправляю…';
+      try {
+        await postLead(new FormData(form));
+        form.hidden = true; done.hidden = false;
+      } catch (err) {
+        note.classList.add('err');
+        note.textContent = `Не получилось отправить: ${err.message}. Напишите нам в WhatsApp или Telegram, кнопки на странице.`;
+      } finally {
+        btn.disabled = false;
+      }
+    });
+  }
+
+  // Telegram: текст подставляется ссылкой; на случай старой версии Telegram копируем его в буфер
+  document.addEventListener('click', (e) => {
+    const a = e.target.closest('[data-tg-text]');
+    if (a && navigator.clipboard) navigator.clipboard.writeText(a.dataset.tgText).catch(() => {});
   });
 })();
