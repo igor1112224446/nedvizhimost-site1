@@ -6053,5 +6053,689 @@
   "photos": 5,
   "added": "2026-10-25",
   "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-196591108",
+  "slug": "kp-196591108-izdavanje-stan-vojvode-vlahovica",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: студия, 30 м², Войводе Влаховича, Вождовац",
+  "kind": "студия",
+  "price": 400,
+  "area": 30,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Войводе Влаховича",
+  "street": "",
+  "geo": {
+   "lat": 44.762,
+   "lng": 20.503
+  },
+  "facts": [
+   [
+    "Площадь",
+    "30 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "4-й из 5"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "новостройка"
+   ]
+  ],
+  "features": [
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "видеонаблюдение",
+   "лифт",
+   "гараж",
+   "депозит"
+  ],
+  "text": "Сдаётся студия площадью 30 м² в районе Войводе Влаховича (Вождовац, Белград). 4-й этаж из 5, с мебелью, отопление автономное, после ремонта, новостройка. Есть: домофон, терраса, кабельное ТВ, видеонаблюдение, лифт, гараж, депозит. Аренда 400 € в месяц.",
+  "original": "? IZDAJE SE RENOVIRAN STAN – VOJVODE VLAHOVIĆA, KRUŽNI TOK\n\nIzdaje se renoviran stan površine 30 m², na odličnoj lokaciji u naselju Vojvode Vlahovića, u blizini kružnog toka.  \n\nStan je moderno uređen, renoviran i spreman za useljenje, bez dodatnih ulaganja.  \n\n? Lokacija: Vojvode Vlahovića – kružni tok\n? Površina: 30 m²\n✨ Stanje: renoviran\n? Useljenje dostupno od 05.11.  \n\n? Cena zakupa: 400 € mesečno\n? Sa garažnim mestom: 460 € mesečno\n\nZa više informacija i dogovor oko gledanja stana, kontaktirati putem poruke ili telefona.",
+  "photos": 10,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-196550880",
+  "slug": "kp-196550880-izdavanje-stan-pogledajte-nekretnine-u-okolini",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: двухкомнатная квартира, 56 м², Погледайте некретнине у околини, Чукарица",
+  "kind": "двухкомнатная квартира",
+  "price": 400,
+  "area": 56,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "cukarica",
+  "location": "Погледайте некретнине у околини",
+  "street": "",
+  "geo": {
+   "lat": 44.76,
+   "lng": 20.413
+  },
+  "facts": [
+   [
+    "Площадь",
+    "56 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 56 м² в районе Погледайте некретнине у околини (Чукарица, Белград). Есть: можно въехать сразу. Аренда 400 € в месяц.",
+  "original": "Izdaje se prostran dvosoban stan (56 m²) sa parking mestom – Žarkovo\n\nNudi se za izdavanje svetao, funkcionalan i izuzetno prostran stan površine 56 m², smešten u prizemlju mirne stambene zgrade u Žarkovu. Stan odlikuju odlična povezanost sa ostalim delovima grada, visoki nivo bezbednosti uz kvalitetna sigurnosna vrata, kao i sopstveno parking mesto koje je uračunato u cenu zakupa. Prostor je otvoren i komforan, polunamešten/prazan, što pružа savršenu priliku da ga uredite i prilagodite sopstvenom stilu života. Od nameštaja se u stanu nalaze udobna garnitura u dnevnom boravku i veliki bračni krevet u spavaćoj sobi, dok je ostatak prostora slobodan za vaše stvari. Grejanje je na TA peć, što omogućava potpunu kontrolu mesečnih troškova i ekonomičnu potrošnju.\n\nStan je odmah useljiv i izdaje se ozbiljnim i odgovornim zakupcima na duži vremenski period.\n\nCena mesečnog zakupa: 400 € (depozit u visini jedne kirije)\n\nKontakt: – [Aleksandra]",
+  "photos": 11,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-196311802",
+  "slug": "kp-196311802-izdavanje-stan-pogledajte-nekretnine-u-okolini",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: однокомнатная квартира, 36 м², Погледайте некретнине у околини, Чукарица",
+  "kind": "однокомнатная квартира",
+  "price": 300,
+  "area": 36,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "cukarica",
+  "location": "Погледайте некретнине у околини",
+  "street": "Вука Караджича",
+  "geo": {
+   "lat": 44.728,
+   "lng": 20.319
+  },
+  "facts": [
+   [
+    "Площадь",
+    "36 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "приземный"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "новостройка"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "депозит"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 36 м² в районе Погледайте некретнине у околини (Чукарица, Белград). Приземный этаж, с мебелью, отопление центральное, после ремонта, новостройка. Есть: можно въехать сразу, депозит. Аренда 300 € в месяц.",
+  "original": "Izdajem jednosoban namesten stan bracnom paru.",
+  "photos": 8,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-196617013",
+  "slug": "kp-196617013-izdavanje-stan-pogledajte-nekretnine-u-okolini",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: однокомнатная квартира, 34 м², Погледайте некретнине у околини, Гроцка",
+  "kind": "однокомнатная квартира",
+  "price": 250,
+  "area": 34,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Гроцка",
+  "districtSlug": "grocka",
+  "location": "Погледайте некретнине у околини",
+  "street": "Ите Рине",
+  "geo": {
+   "lat": 44.768,
+   "lng": 20.572
+  },
+  "facts": [
+   [
+    "Площадь",
+    "34 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "2-й из 2"
+   ],
+   [
+    "Отопление",
+    "тепловой насос, тёплый пол"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "новостройка"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "подвал",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 34 м² в районе Погледайте некретнине у околини (Гроцка, Белград). 2-й этаж из 2, с мебелью, отопление тепловой насос, тёплый пол, новостройка. Есть: можно въехать сразу, интернет, терраса, подвал, кабельное ТВ, кондиционер, парковка, депозит. Аренда 250 € в месяц.",
+  "original": "Stan za izdavanje koji se nalazi na Putu za institut Vinča, 500m od smederevskog puta.\n\nKompletno namešten.",
+  "photos": 5,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-196535340",
+  "slug": "kp-196535340-izdavanje-stan-pogledajte-nekretnine-u-okolini",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: студия, 22 м², Погледайте некретнине у околини, Вождовац",
+  "kind": "студия",
+  "price": 250,
+  "area": 22,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Погледайте некретнине у околини",
+  "street": "Янка Янковича 8",
+  "geo": {
+   "lat": 44.747,
+   "lng": 20.479
+  },
+  "facts": [
+   [
+    "Площадь",
+    "22 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "приземный"
+   ],
+   [
+    "Отопление",
+    "электрическое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "кабельное ТВ",
+   "депозит"
+  ],
+  "text": "Сдаётся студия площадью 22 м² в районе Погледайте некретнине у околини (Вождовац, Белград). Приземный этаж, с мебелью, отопление электрическое, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, кабельное ТВ, депозит. Аренда 250 € в месяц.",
+  "original": "Odmah useljivo,250e sa svim troškovima",
+  "photos": 2,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-195972883",
+  "slug": "kp-195972883-izdavanje-stan-pogledajte-nekretnine-u-okolini",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: двухкомнатная квартира, 48 м², Погледайте некретнине у околини, Врачар",
+  "kind": "двухкомнатная квартира",
+  "price": 600,
+  "area": 48,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "vracar",
+  "location": "Погледайте некретнине у околини",
+  "street": "Бране Црнчевича 7",
+  "geo": {
+   "lat": 44.799,
+   "lng": 20.467
+  },
+  "facts": [
+   [
+    "Площадь",
+    "48 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "5-й из 6"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ]
+  ],
+  "features": [
+   "депозит"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 48 м² в районе Погледайте некретнине у околини (Врачар, Белград). 5-й этаж из 6, с мебелью, в исходном состоянии. Есть: депозит. Аренда 600 € в месяц.",
+  "original": "Izdajem namešten stan blizu Hrama Svetog Save, bez parnog grejanja. Kirija 600e+depozit, može i dogovor.",
+  "photos": 9,
+  "added": "2026-10-25",
+  "updated": "2026-10-26"
+ },
+ {
+  "id": "kp-196405312",
+  "slug": "kp-196405312-izdavanje-stan-pogledajte-nekretnine-u-okolini",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: трёхкомнатная квартира, 70 м², Погледайте некретнине у околини, Палилула",
+  "kind": "трёхкомнатная квартира",
+  "price": 350,
+  "area": 70,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "Погледайте некретнине у околини",
+  "street": "Завалска 1",
+  "geo": {
+   "lat": 44.9,
+   "lng": 20.473
+  },
+  "facts": [
+   [
+    "Площадь",
+    "70 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "1-й"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 70 м² в районе Погледайте некретнине у околини (Палилула, Белград). 1-й этаж, с мебелью. Есть: можно въехать сразу, парковка, депозит. Аренда 350 € в месяц.",
+  "original": "Izdajem trosoban namešten stan u porodičnoj kući sa  parking mestom\n\nCena 350€ + depozit\n\nUl. Zavalska br. 1 Borča\n\n063*339*477",
+  "photos": 7,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-195786830",
+  "slug": "kp-195786830-izdavanje-stan-pogledajte-nekretnine-u-okolini",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: трёхкомнатная квартира, 89 м², Погледайте некретнине у околини, Раковица",
+  "kind": "трёхкомнатная квартира",
+  "price": 600,
+  "area": 89,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Раковица",
+  "districtSlug": "rakovica",
+  "location": "Погледайте некретнине у околини",
+  "street": "Бозидара Стояновица 2",
+  "geo": {
+   "lat": 44.75,
+   "lng": 20.453
+  },
+  "facts": [
+   [
+    "Площадь",
+    "89 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "1-й из 2"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "частично меблирована"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "подвал",
+   "парковка",
+   "гараж"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 89 м² в районе Погледайте некретнине у околини (Раковица, Белград). 1-й этаж из 2, частично меблирована, отопление центральное, старый фонд. Есть: можно въехать сразу, терраса, подвал, парковка, гараж. Аренда 600 € в месяц.",
+  "original": "Izdaje se komforan porodični stan površine 89 m², smešten u kući u najlepšem i najzelenijem delu Miljakovca 1. Ova nekretnina predstavlja idealnu alternativu porodičnoj kući, nudeći potpunu privatnost, mir i sopstveni prostor za uživanje, a sve to na par minuta hoda od kompletne gradske infrastrukture.\n\nGlavne prednosti nekretnine:\n\nDvorište od 2 ara:  Prelepo, funkcionalno dvorište koje je na raspolaganju za korišćenje. Idealno mesto za odmor, bezbednu igru dece, kućne ljubimce i letnja druženja.\nGaraža od 19 m²:  Prostrana garaža koja rešava svako pitanje parkinga i pruža dodatan prostor za skladištenje (ostavu).\nMaksimalna privatnost:  Stan ima zaseban ulaz i funkcioniše kao potpuno nezavisna celina u objektu sa malim brojem stanara.\n\nRaspored prostorija:\nStan je izuzetno funkcionalan i svetao. Sastoji se od: prostranog dnevnog boravka, dve spavaće soba, trpezarije, odvojene kuhinje, kupatila, hodnika i terase sa koje se pruža pogled na ulicu.\n\nInfrastruktura i lokacija:\nNalazi se u mirnoj, porodičnoj ulici bez buke. U neposrednoj blizini su OŠ „France Prešeren“, vrtići, parkovi, Maxi, apoteke i svi prateći sadržaji. Odlična povezanost sa ostatkom grada preko Borske ulice i linija gradskog prevoza (47, 48, 50, 59, 94).\n\nPravni status i grejanje:\n\nGrejanje:  centralno\nDokumentacija:  Uknjižen 1/1 kao poseban deo.",
+  "photos": 12,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-196547110",
+  "slug": "kp-196547110-izdavanje-stan-pogledajte-nekretnine-u-okolini",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: однокомнатная квартира, 40 м², Погледайте некретнине у околини, Чукарица",
+  "kind": "однокомнатная квартира",
+  "price": 250,
+  "area": 40,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "cukarica",
+  "location": "Погледайте некретнине у околини",
+  "street": "Лазаревачки Друм",
+  "geo": {
+   "lat": 44.773,
+   "lng": 20.409
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "6-й из 6"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "домофон",
+   "терраса",
+   "кондиционер",
+   "лифт",
+   "депозит"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 40 м² в районе Погледайте некретнине у околини (Чукарица, Белград). 6-й этаж из 6, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: можно въехать сразу, домофон, терраса, кондиционер, лифт, депозит. Аренда 250 € в месяц.",
+  "original": "Vlasnik izdaje na Čukaričkoj padini odmah useljiv jednosoban konforan,  kompletno namešten stan od 40 kvadrata, na odličnoj lokaciji,  isključivo jednoj ozbiljnoj redovnoj studentkinji zbog apsolutnog mira, kućnog reda u zgradi, kao i poštovanja zatečene imovine u stanu! Zgrada je mirna, stan apsolutno jer je na visini. Opremljen svim potrebnim elementima, spreman za lagodan život i mirno učenje, bez žurki, kućnih ljubimaca i okupljanja više osoba. Cena je 250 eura, uz korektno poštovanje dogovora.  Pri sklapanju ugovora, neophodno je prisustvo roditelja kao jemca-garanta i indeksa na uvid, uz obe lične karte.  Mesečno plaćanje uz depozit u visini kirije. Blizina prevoza, svih prodavnica i odlična povezanost sa centrom, blizu Ade.  Ul. Lazarevački drum. Sastoji se od predsoblja sa trpezarijom i kuhinjom, velika soba, prostrano kupatilo, špajz i balkon.  Sprat 6/6 sa liftom, cg, klima, interfon, Režije mesečne su oko 100 eura. Isključivo bez posrednika, zvati direktno. Za više informacija pozovite ili pošaljite poruku ako nisam dostupan.",
+  "photos": 12,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-196640647",
+  "slug": "kp-196640647-izdavanje-stan-pogledajte-nekretnine-u-okolini",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: 1,5-комнатная квартира, 42 м², Погледайте некретнине у околини, Земун",
+  "kind": "1,5-комнатная квартира",
+  "price": 350,
+  "area": 42,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "Погледайте некретнине у околини",
+  "street": "",
+  "geo": {
+   "lat": 44.902,
+   "lng": 20.288
+  },
+  "facts": [
+   [
+    "Площадь",
+    "42 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "4-й из 4"
+   ],
+   [
+    "Отопление",
+    "кондиционер, норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "новостройка"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "кабельное ТВ",
+   "кондиционер",
+   "лоджия",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 42 м² в районе Погледайте некретнине у околини (Земун, Белград). 4-й этаж из 4, с мебелью, отопление кондиционер, норвежские радиаторы, в исходном состоянии, новостройка. Есть: можно въехать сразу, интернет, домофон, кабельное ТВ, кондиционер, лоджия, парковка, депозит. Аренда 350 € в месяц.",
+  "original": "Izdajem namesten stan u Batajnici na veoma dobroj lokaciji u glavnoj ulici u blizini Nis pumpe.\nStan je ususkan i orijentisan prema suncanoj strani, ima jednu spavacu sobu. U pitanju je potkrovlje (4. ti sprat).\nMesecne rezije u zavisnosti od doba godine su od 60-100e.\nStan je dostupan od 1. novembra.\nDepozit 500e.\nStan nije \" pet friendly\" .\nZa dodatne informacije pozvati.",
+  "photos": 12,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-196625287",
+  "slug": "kp-196625287-izdavanje-stan-pogledajte-nekretnine-u-okolini",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: однокомнатная квартира, 40 м², Погледайте некретнине у околини, Вождовац",
+  "kind": "однокомнатная квартира",
+  "price": 330,
+  "area": 40,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Погледайте некретнине у околини",
+  "street": "",
+  "geo": {
+   "lat": 44.775,
+   "lng": 20.508
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "1-й из 5"
+   ],
+   [
+    "Отопление",
+    "кондиционер, электрическое, аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "новостройка"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "кондиционер"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 40 м² в районе Погледайте некретнине у околини (Вождовац, Белград). 1-й этаж из 5, с мебелью, отопление кондиционер, электрическое, аккумуляционные печи, в исходном состоянии, новостройка. Есть: можно въехать сразу, кондиционер. Аренда 330 € в месяц.",
+  "original": "Izdajem stan u Beogradu. Za detaljnije informacije pisati u inbox",
+  "photos": 9,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-195535483",
+  "slug": "kp-195535483-izdavanje-stan-pogledajte-nekretnine-u-okolini",
+  "deal": "rent",
+  "type": "apartment",
+  "title": "Аренда: трёхкомнатная квартира, 80 м², Погледайте некретнине у околини, Чукарица",
+  "kind": "трёхкомнатная квартира",
+  "price": 500,
+  "area": 80,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "cukarica",
+  "location": "Погледайте некретнине у околини",
+  "street": "окретница бус 55",
+  "geo": {
+   "lat": 44.726,
+   "lng": 20.374
+  },
+  "facts": [
+   [
+    "Площадь",
+    "80 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "мансарда из 3"
+   ],
+   [
+    "Отопление",
+    "кондиционер"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "кондиционер",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 80 м² в районе Погледайте некретнине у околини (Чукарица, Белград). Мансарда этаж из 3, с мебелью, отопление кондиционер, старый фонд. Есть: можно въехать сразу, интернет, кондиционер, парковка, депозит. Аренда 500 € в месяц.",
+  "original": "6 kreveta za radnike kuhinja kupatila klima",
+  "photos": 8,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
  }
 ]
