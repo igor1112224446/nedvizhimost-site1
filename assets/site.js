@@ -23,6 +23,7 @@
     $$('[data-cur-sym]').forEach((el) => { el.textContent = SYM[cur].replace('.', ''); });
     $$('[data-cur]').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.cur === cur)));
     $$('[data-rate-note]').forEach((el) => { el.hidden = cur === 'EUR'; });
+    $$('[data-cur-ph]').forEach((el) => { el.placeholder = `Цена до, ${SYM[cur]}`; });
   }
   document.addEventListener('click', (e) => {
     const b = e.target.closest('[data-cur]');
@@ -36,6 +37,20 @@
   const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
   let liteCache;
   const lite = () => (liteCache ||= fetch('/data/lite.json').then((r) => r.json()).catch(() => []));
+
+  async function loadLeafletLib() {
+    if (window.L) return;
+    const css = document.createElement('link');
+    css.rel = 'stylesheet';
+    css.href = 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css';
+    document.head.appendChild(css);
+    await new Promise((res, rej) => {
+      const s = document.createElement('script');
+      s.src = 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js';
+      s.onload = res; s.onerror = rej;
+      document.head.appendChild(s);
+    });
+  }
 
   // ---------- избранное ----------
   const FKEY = 'ns-favs';
@@ -108,8 +123,9 @@
     // восстановить фильтры из адреса
     const q = new URLSearchParams(location.search);
     for (const [k, v] of q) {
-      if (['district', 'rooms'].includes(k)) v.split(',').forEach((x) => { const i = form.querySelector(`input[name="${k}"][value="${CSS.escape(x)}"]`); if (i) i.checked = true; });
-      else if (k === 'deal') { const i = form.querySelector(`input[name="deal"][value="${CSS.escape(v)}"]`); if (i) i.checked = true; }
+      if (['district', 'rooms', 'feat'].includes(k)) v.split(',').forEach((x) => { const i = form.querySelector(`input[name="${k}"][value="${CSS.escape(x)}"]`); if (i) i.checked = true; });
+      else if (k === 'deal' || k === 'furn') { const i = form.querySelector(`input[name="${k}"][value="${CSS.escape(v)}"]`); if (i) i.checked = true; }
+      else if (k === 'notfirst' || k === 'notlast') { const i = form.querySelector(`input[name="${k}"]`); if (i) i.checked = true; }
       else if (form.elements[k]) form.elements[k].value = v;
     }
     if (q.get('sort')) sort.value = q.get('sort');
@@ -119,7 +135,7 @@
       $$('details.dd', form).forEach((d) => {
         const lab = d.querySelector('[data-dd-label]');
         const base = lab.dataset.ddLabel;
-        const checked = $$('input:checked', d);
+        const checked = $$('input:checked', d).filter((i) => i.value);
         const nums = $$('input[inputmode]', d).map((i) => num(i.value));
         let text = base;
         if (checked.length === 1) text = checked[0].closest('label').querySelector('span').textContent;
@@ -136,7 +152,9 @@
     function apply(resetPage = true) {
       if (resetPage) shown = PAGE;
       const f = form.elements;
-      const dists = vals('district'), rooms = vals('rooms');
+      const dists = vals('district'), rooms = vals('rooms'), feats = vals('feat');
+      const furn = form.querySelector('input[name="furn"]:checked')?.value || '';
+      const notfirst = form.querySelector('input[name="notfirst"]')?.checked, notlast = form.querySelector('input[name="notlast"]')?.checked;
       const deal = f.deal ? (form.querySelector('input[name="deal"]:checked')?.value || '') : '';
       const min = toEur(num(f.min.value)), max = toEur(num(f.max.value)), amin = num(f.amin.value), amax = num(f.amax.value);
       visible = cards.filter((c) => {
@@ -146,7 +164,11 @@
           && (!dists.length || dists.includes(c.dataset.district))
           && (!rooms.length || rooms.includes(c.dataset.rooms))
           && (!min || p >= min) && (!max || (p && p <= max))
-          && (!amin || a >= amin) && (!amax || (a && a <= amax));
+          && (!amin || a >= amin) && (!amax || (a && a <= amax))
+          && (!furn || c.dataset.furn === furn)
+          && (!notfirst || +c.dataset.floor >= 1)
+          && (!notlast || (+c.dataset.floors && +c.dataset.floor >= 0 && +c.dataset.floor < +c.dataset.floors))
+          && (!feats.length || feats.every((f) => (c.dataset.feat || '').split('|').includes(f)));
       });
       const s = sort.value;
       visible.sort((a, b) => {
@@ -171,6 +193,10 @@
       if (typeParam) u.set('type', typeParam);
       if (dists.length) u.set('district', dists.join(','));
       if (rooms.length) u.set('rooms', rooms.join(','));
+      if (feats.length) u.set('feat', feats.join(','));
+      if (furn) u.set('furn', furn);
+      if (notfirst) u.set('notfirst', 1);
+      if (notlast) u.set('notlast', 1);
       ['min', 'max', 'amin', 'amax'].forEach((k) => { if (num(f[k].value)) u.set(k, num(f[k].value)); });
       if (s !== 'new') u.set('sort', s);
       if (view !== 'list') u.set('view', view);
@@ -216,7 +242,7 @@
         const d = byId.get(c.dataset.id);
         if (!d || !d.g) return;
         const icon = L.divIcon({ className: '', html: `<span class="pin">${d.p ? money(d.p) : '—'}</span>`, iconSize: [0, 0] });
-        L.marker(d.g, { icon }).addTo(layer).bindPopup(`<div class="map-pop">${d.img ? `<img src="${d.img}" alt="">` : ''}<b>${money(d.p)}</b><span>${d.t}</span><br><span>${d.pl}</span><br><a href="${d.u}">Подробнее</a></div>`);
+        L.marker(d.g, { icon }).addTo(layer).bindPopup(`<div class="map-pop">${d.img ? `<img src="${d.img}" alt="">` : ''}<b>${money(d.p)}</b><span>${d.t}</span><br><span>${d.ad || d.pl}</span><br><a href="${d.u}">Подробнее</a></div>`);
         pts.push(d.g);
       });
       setTimeout(() => { map.invalidateSize(); if (pts.length) map.fitBounds(pts, { padding: [40, 40], maxZoom: 15 }); }, 50);
@@ -235,18 +261,6 @@
   // ---------- поиск на главной ----------
   const search = document.querySelector('[data-search]');
   if (search) {
-    const btn = search.querySelector('[data-search-btn]');
-    const count = async () => {
-      const data = await lite();
-      const f = search.elements;
-      const deal = search.querySelector('input[name="deal"]:checked').value;
-      const max = toEur(parseInt(String(f.max.value).replace(/\D/g, ''), 10) || 0);
-      const type = f.type ? f.type.value : '';
-      const n = data.filter((d) => d.d === deal && (!type || d.ty === type) && (!f.district.value || d.ds === f.district.value) && (!f.rooms.value || d.r === f.rooms.value) && (!max || (d.p && d.p <= max))).length;
-      btn.textContent = `Найти ${objects(n)}`;
-    };
-    search.addEventListener('input', count);
-    document.addEventListener('ns-cur', count);
     search.addEventListener('submit', (e) => {
       e.preventDefault();
       const f = search.elements;
@@ -259,7 +273,6 @@
       if (max) u.set('max', max);
       location.href = `/${deal === 'sale' ? 'prodazha' : 'arenda'}/${u.toString() ? `?${u}` : ''}`;
     });
-    count();
   }
 
   // ---------- вкладки «Аренда / Покупка» на главной ----------
@@ -278,6 +291,171 @@
     const onScroll = () => hdr.classList.toggle('is-solid', scrollY > 40);
     addEventListener('scroll', onScroll, { passive: true });
     onScroll();
+  }
+
+
+  // ---------- карта на главной ----------
+  const hm = document.querySelector('[data-home-map]');
+  if (hm) {
+    const io = new IntersectionObserver(async ([en]) => {
+      if (!en.isIntersecting) return;
+      io.disconnect();
+      try { await loadLeafletLib(); } catch (e) { hm.textContent = 'Карта не загрузилась. Проверьте интернет и обновите страницу.'; return; }
+      const data = (await lite()).filter((d) => d.g);
+      const map = L.map(hm, { scrollWheelZoom: false }).setView([44.8125, 20.4612], 12);
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19, attribution: '&copy; OpenStreetMap' }).addTo(map);
+      const layer = L.layerGroup().addTo(map);
+      const sw = document.querySelector('[data-home-map-deal]');
+      const draw = (fit) => {
+        const deal = sw?.querySelector('input:checked')?.value || '';
+        layer.clearLayers();
+        const pts = [];
+        data.filter((d) => !deal || d.d === deal).forEach((d) => {
+          const icon = L.divIcon({ className: '', html: `<span class="pin">${d.p ? money(d.p) : '—'}</span>`, iconSize: [0, 0] });
+          L.marker(d.g, { icon }).addTo(layer).bindPopup(`<div class="map-pop">${d.img ? `<img src="${d.img}" alt="">` : ''}<b>${money(d.p)}${d.d === 'rent' && d.p ? ' / мес' : ''}</b><span>${d.t}</span><br><span>${d.ad || d.pl}</span><br><a href="${d.u}">Подробнее</a></div>`);
+          pts.push(d.g);
+        });
+        if (fit && pts.length) map.fitBounds(pts, { padding: [40, 40], maxZoom: 14 });
+      };
+      sw?.addEventListener('change', () => draw(true));
+      document.addEventListener('ns-cur', () => draw(false));
+      draw(true);
+    }, { rootMargin: '300px' });
+    io.observe(hm);
+  }
+
+  // ---------- отдельная страница карты ----------
+  const big = document.querySelector('[data-bigmap]');
+  if (big) {
+    const form = big.querySelector('[data-map-filter]');
+    const canvas = big.querySelector('[data-map-canvas]');
+    const listEl = big.querySelector('[data-map-list]');
+    const foundEl = big.querySelector('[data-map-found]');
+    const q = new URLSearchParams(location.search);
+    for (const [k, v] of q) {
+      if (k === 'deal') { const i = form.querySelector(`input[name="deal"][value="${CSS.escape(v)}"]`); if (i) i.checked = true; }
+      else if (form.elements[k]) form.elements[k].value = v;
+    }
+    (async () => {
+      try { await loadLeafletLib(); } catch (e) { canvas.textContent = 'Карта не загрузилась. Проверьте интернет и обновите страницу.'; return; }
+      const data = await lite();
+      const map = L.map(canvas, { zoomControl: true }).setView([44.8125, 20.4612], 12);
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19, attribution: '&copy; OpenStreetMap' }).addTo(map);
+      const layer = L.layerGroup().addTo(map);
+      let shown = [];
+      const markers = new Map();
+      const pass = (d) => {
+        const f = form.elements;
+        const deal = form.querySelector('input[name="deal"]:checked').value;
+        const max = toEur(parseInt(String(f.max.value).replace(/\D/g, ''), 10) || 0);
+        return (!deal || d.d === deal) && (!f.district.value || d.ds === f.district.value) && (!f.rooms.value || d.r === f.rooms.value) && (!max || (d.p && d.p <= max));
+      };
+      const item = (d) => `<a class="ml-item" href="${d.u}" data-id="${d.id}">${d.img ? `<img src="${d.img}" alt="" loading="lazy" width="160" height="120">` : '<span class="ml-noimg"></span>'}<span><b>${money(d.p)}${d.d === 'rent' && d.p ? ' / мес' : ''}</b><span>${d.t}</span><small>${d.ad || d.pl}</small></span></a>`;
+      const renderList = () => {
+        const b = map.getBounds();
+        const inView = shown.filter((d) => b.contains(d.g));
+        listEl.innerHTML = inView.length ? inView.slice(0, 60).map(item).join('') : '<p class="ml-empty">В этой части карты объектов нет. Отдалите карту или измените фильтр.</p>';
+        foundEl.textContent = `На карте: ${objects(shown.length)}`;
+      };
+      const draw = (fit) => {
+        layer.clearLayers(); markers.clear();
+        shown = data.filter((d) => d.g && pass(d));
+        shown.forEach((d) => {
+          const icon = L.divIcon({ className: '', html: `<span class="pin">${d.p ? money(d.p) : '—'}</span>`, iconSize: [0, 0] });
+          const m = L.marker(d.g, { icon }).addTo(layer).bindPopup(`<div class="map-pop">${d.img ? `<img src="${d.img}" alt="">` : ''}<b>${money(d.p)}</b><span>${d.t}</span><br><span>${d.ad || d.pl}</span><br><a href="${d.u}">Подробнее</a></div>`);
+          markers.set(d.id, m);
+        });
+        if (fit && shown.length) map.fitBounds(shown.map((d) => d.g), { padding: [40, 40], maxZoom: 15 });
+        renderList();
+      };
+      listEl.addEventListener('mouseover', (e) => { const a = e.target.closest('[data-id]'); const m = a && markers.get(a.dataset.id); if (m) m.openPopup(); });
+      map.on('moveend', renderList);
+      form.addEventListener('input', () => {
+        draw(true);
+        const u = new URLSearchParams();
+        const deal = form.querySelector('input[name="deal"]:checked').value;
+        if (deal) u.set('deal', deal);
+        ['district', 'rooms', 'max'].forEach((k) => { if (form.elements[k].value) u.set(k, form.elements[k].value); });
+        history.replaceState(null, '', u.toString() ? `?${u}` : location.pathname);
+      });
+      form.addEventListener('submit', (e) => e.preventDefault());
+      document.addEventListener('ns-cur', () => draw(false));
+      draw(true);
+    })();
+  }
+
+  // ---------- форма собственника ----------
+  const of = document.querySelector('[data-owner-form]');
+  if (of) {
+    of.elements.t0.value = Date.now();
+    const deal0 = new URLSearchParams(location.search).get('deal');
+    if (deal0 === 'sale') of.querySelector('input[name="deal"][value="Продать"]').checked = true;
+    const syncDeal = () => {
+      const sale = of.querySelector('input[name="deal"]:checked').value === 'Продать';
+      $$('[data-rent-only]', of).forEach((el) => { el.hidden = sale; });
+      $$('[data-sale-only]', of).forEach((el) => { el.hidden = !sale; });
+      of.querySelector('[data-price-label]').textContent = sale ? 'Цена, € *' : 'Цена в месяц, € *';
+    };
+    of.addEventListener('change', (e) => { if (e.target.name === 'deal') syncDeal(); });
+    syncDeal();
+
+    // фото: уменьшаем в браузере до 1600 px, чтобы отправка была быстрой
+    let photos = [];
+    const input = of.querySelector('[data-photos]');
+    const listBox = of.querySelector('[data-photo-list]');
+    const shrink = async (file) => {
+      try {
+        const bmp = await createImageBitmap(file);
+        const k = Math.min(1, 1600 / Math.max(bmp.width, bmp.height));
+        const c = document.createElement('canvas');
+        c.width = Math.round(bmp.width * k); c.height = Math.round(bmp.height * k);
+        c.getContext('2d').drawImage(bmp, 0, 0, c.width, c.height);
+        const blob = await new Promise((r) => c.toBlob(r, 'image/jpeg', 0.85));
+        return blob || file;
+      } catch (e) { return file; }
+    };
+    const paint = () => {
+      listBox.innerHTML = photos.map((p, i) => `<div class="ph"><img src="${p.url}" alt="Фото ${i + 1}"><button type="button" data-rm="${i}" aria-label="Убрать фото ${i + 1}">×</button>${i ? '' : '<span>Обложка</span>'}</div>`).join('');
+    };
+    input.addEventListener('change', async () => {
+      const files = [...input.files].filter((f) => f.type.startsWith('image/')).slice(0, 10 - photos.length);
+      for (const f of files) { const b = await shrink(f); photos.push({ blob: b, url: URL.createObjectURL(b) }); }
+      input.value = '';
+      paint();
+    });
+    listBox.addEventListener('click', (e) => {
+      const b = e.target.closest('[data-rm]');
+      if (!b) return;
+      URL.revokeObjectURL(photos[+b.dataset.rm].url);
+      photos.splice(+b.dataset.rm, 1);
+      paint();
+    });
+
+    const note = of.querySelector('[data-owner-note]');
+    of.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const bad = $$('[required]', of).find((el) => (el.type === 'checkbox' ? !el.checked : !String(el.value).trim()));
+      if (bad) { note.textContent = 'Заполните поля со звёздочкой и подтвердите согласие.'; note.classList.add('err'); bad.focus(); return; }
+      const fd = new FormData(of);
+      fd.delete('photos');
+      photos.forEach((p, i) => fd.append('photos', p.blob, `photo_${i + 1}.jpg`));
+      const btn = of.querySelector('[data-owner-submit]');
+      btn.disabled = true;
+      note.classList.remove('err');
+      note.textContent = photos.length ? `Отправляю объявление и ${photos.length} фото…` : 'Отправляю…';
+      try {
+        const r = await fetch('/api/submit', { method: 'POST', body: fd });
+        const j = await r.json().catch(() => ({}));
+        if (!r.ok || !j.ok) throw new Error(j.error || 'не удалось отправить');
+        of.hidden = true;
+        document.querySelector('[data-owner-done]').hidden = false;
+        scrollTo({ top: 0, behavior: reduced ? 'auto' : 'smooth' });
+      } catch (err) {
+        note.classList.add('err');
+        note.innerHTML = `Не получилось отправить: ${err.message}. Напишите нам напрямую в <a href="https://t.me/${of.dataset.tg}">Telegram</a>.`;
+        btn.disabled = false;
+      }
+    });
   }
 
   // ---------- галерея объекта ----------
@@ -316,7 +494,7 @@
       const [lat, lng] = one.dataset.point.split(',').map(Number);
       const m = L.map(one, { scrollWheelZoom: false }).setView([lat, lng], 15);
       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19, attribution: '&copy; OpenStreetMap' }).addTo(m);
-      L.circle([lat, lng], { radius: 180, color: '#111', weight: 1, fillColor: '#111', fillOpacity: 0.12 }).addTo(m);
+      L.marker([lat, lng], { icon: L.divIcon({ className: '', html: `<span class="pin">${one.dataset.label || ''}</span>`, iconSize: [0, 0] }) }).addTo(m);
     }, { rootMargin: '200px' });
     io.observe(one);
   }
