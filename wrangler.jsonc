@@ -1,9 +1,14 @@
 {
-  // Настройки для Cloudflare Workers: отдать готовый сайт из папки dist
+  // Cloudflare Workers: сайт из папки dist + приём заявок собственников (worker.js)
   "name": "nedvizhimost-site1",
+  "main": "worker.js",
   "compatibility_date": "2026-10-01",
+  // переменные TG_TOKEN и TG_CHAT задаются в панели Cloudflare и не стираются при сборке
+  "keep_vars": true,
   "assets": {
     "directory": "./dist",
-    "not_found_handling": "404-page"
+    "binding": "ASSETS",
+    "not_found_handling": "404-page",
+    "run_worker_first": ["/api/*"]
   }
 }
