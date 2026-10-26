@@ -38,7 +38,8 @@ function normDistrict(raw) {
 const LISTINGS = read('data/listings.json', []).filter((l) => l && l.id && l.slug)
   .map((l) => {
     const ds = normDistrict(l.districtSlug);
-    return { ...l, districtSlug: ds, district: BG_NAME[ds] || String(l.district || '').replace(/^(Општина|Opština|Община|Gradska opština)\s+/i, '') };
+    const badLoc = /pogledajte|okolini|nekretnine u|погледа|околин/i.test(l.location || '');
+    return { ...l, location: badLoc ? '' : l.location, districtSlug: ds, district: BG_NAME[ds] || String(l.district || '').replace(/^(Општина|Opština|Община|Gradska opština)\s+/i, '') };
   })
   .sort((a, b) => String(b.added).localeCompare(String(a.added)) || String(b.updated).localeCompare(String(a.updated)));
 const TODAY = new Date().toISOString().slice(0, 10);
