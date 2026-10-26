@@ -212,7 +212,6 @@ ${jsonld.map((j) => `<script type="application/ld+json">${JSON.stringify(j).repl
       ${mega('sale', nav)}
       ${mega('rent', nav)}
       ${link('map', '/karta/', 'Карта')}
-      ${link('owners', '/podat-obyavlenie/', 'Собственникам')}
       ${link('contacts', '/kontakty/', 'Контакты')}
     </nav>
     <div class="hdr-actions">
@@ -232,7 +231,6 @@ ${jsonld.map((j) => `<script type="application/ld+json">${JSON.stringify(j).repl
           <a href="/prodazha/">Купить</a>
           <a href="/arenda/">Снять</a>
           <a href="/karta/">Карта</a>
-          <a href="/podat-obyavlenie/">Собственникам</a>
           <a href="/izbrannoe/">Избранное</a>
           <a href="/kontakty/">Контакты</a>
           ${SITE.phone ? `<a href="${esc(telHref)}">${esc(SITE.phone)}</a>` : ''}
@@ -270,7 +268,7 @@ function footer() {
       ${col('Купить', [`<li><a href="/prodazha/">Все объекты</a></li>`, ...dl('sale')])}
       ${col('Снять', [`<li><a href="/arenda/">Все объекты</a></li>`, ...dl('rent')])}
       ${col('Подборки', COLLECTIONS.map((c) => `<li><a href="/podborki/${c.slug}/">${esc(c.short)}</a></li>`))}
-      ${col('Агентство', ['<li><a href="/kontakty/">Контакты</a></li>', '<li><a href="/izbrannoe/">Избранное</a></li>', '<li><a href="/#podbor">Подбор по запросу</a></li>', '<li><a href="/karta/">Карта объектов</a></li>', '<li><a href="/podat-obyavlenie/">Подать объявление</a></li>'])}
+      ${col('Агентство', ['<li><a href="/kontakty/">Контакты</a></li>', '<li><a href="/izbrannoe/">Избранное</a></li>', '<li><a href="/#podbor">Подбор по запросу</a></li>', '<li><a href="/karta/">Карта объектов</a></li>'])}
     </div>
     <div class="ftr-bottom">
       <p>Помогаем с белым картоном, регистрацией, открытием счёта в банке и ВНЖ.</p>
@@ -403,7 +401,7 @@ function catalog(list, { showDistricts = true, dealSwitch = false } = {}) {
 // Лёгкие данные для карты, избранного и счётчика на главной
 const LITE = LISTINGS.map((l) => ({
   id: l.id, u: `/obekt/${l.slug}/`, t: heading(l), p: l.price || 0, d: l.deal, ds: l.districtSlug, r: roomsKey(l),
-  a: l.area || 0, ty: l.type, pl: placeLine(l), ad: [l.street, l.location, l.district].filter((x, i, arr) => x && arr.indexOf(x) === i).join(', '), g: l.geo ? [l.geo.lat, l.geo.lng] : null, img: l.photos ? photo(l) : '',
+  a: l.area || 0, ty: l.type, pl: placeLine(l), n: Math.min(l.photos || 0, 15), rl: roomsLabel(l), fl: fact(l, 'Этаж'), nw: isNew(l) ? 1 : 0, ad: [l.street, l.location, l.district].filter((x, i, arr) => x && arr.indexOf(x) === i).join(', '), g: l.geo ? [l.geo.lat, l.geo.lng] : null, img: l.photos ? photo(l) : '',
 }));
 
 // ---------- сборка ----------
@@ -417,6 +415,7 @@ const sitemap = [];
 const addUrl = (url, lastmod) => sitemap.push({ url, lastmod: lastmod || TODAY });
 
 // Главная
+const HOME_PAGE = 12;
 {
   const heroImg = fs.existsSync(path.join(ROOT, 'assets', 'hero.jpg')) ? '/assets/hero.jpg'
     : (LISTINGS.find((l) => (l.photos || 0) >= 3) ? photo(LISTINGS.find((l) => (l.photos || 0) >= 3)) : '');
@@ -474,10 +473,13 @@ const addUrl = (url, lastmod) => sitemap.push({ url, lastmod: lastmod || TODAY }
   </div>
 </section>
 
-${best.length ? `<section class="block">
+${LISTINGS.length ? `<section class="block" id="katalog">
   <div class="wrap">
-    <div class="block-head"><div><h2>Каталог Белграда</h2><p class="block-sub">Свежие объекты от собственников в Белграде.</p></div><a class="link-arrow" href="/arenda/">Весь каталог</a></div>
-    <div class="offers">${best.map((l, i) => offerCard(l, i === 0)).join('')}</div>
+    <div class="block-head"><div><h2>Каталог Белграда</h2><p class="block-sub">${objects(LISTINGS.length)} от собственников. Новые сверху.</p></div>
+      <div class="seg seg-inline home-cat-deal" data-home-cat-deal><label><input type="radio" name="hcdeal" value="" checked><span>Все</span></label><label><input type="radio" name="hcdeal" value="rent"><span>Снять</span></label><label><input type="radio" name="hcdeal" value="sale"><span>Купить</span></label></div>
+    </div>
+    <div class="cards cards-grid home-cat" data-home-cat>${LISTINGS.slice(0, HOME_PAGE).map((l, i) => card(l, i < 4)).join('')}</div>
+    <div class="more"><button class="btn btn-line" type="button" data-home-more${LISTINGS.length > HOME_PAGE ? '' : ' hidden'}>Другие квартиры</button></div>
   </div>
 </section>` : ''}
 
@@ -489,15 +491,7 @@ ${LISTINGS.some((l) => l.geo) ? `<section class="block" id="karta">
   </div>
 </section>` : ''}
 
-<section class="block">
-  <div class="wrap">
-    <div class="block-head"><h2>Собственникам</h2></div>
-    <div class="owners">
-      <a class="owner-card" href="/podat-obyavlenie/?deal=rent"><span class="owner-n">01</span><span class="owner-t">Сдать недвижимость</span><span class="owner-d">Покажем квартиру русскоязычным арендаторам и поможем подготовить договор.</span><span class="link-arrow">Подать объявление</span></a>
-      <a class="owner-card" href="/podat-obyavlenie/?deal=sale"><span class="owner-n">02</span><span class="owner-t">Продать недвижимость</span><span class="owner-d">Разместим объект в каталоге и Telegram-канале, приведём покупателей и сопроводим сделку.</span><span class="link-arrow">Подать объявление</span></a>
-    </div>
-  </div>
-</section>
+
 
 <section class="block">
   <div class="wrap">
@@ -644,7 +638,7 @@ for (const l of LISTINGS) {
         ${restFacts.length ? `<dl class="facts">${restFacts.map(([k, v]) => `<div><dt>${esc(k)}</dt><dd>${esc(v)}</dd></div>`).join('')}</dl>` : ''}
       </section>
       ${l.features?.length ? `<section class="obj-sec"><h2>Удобства</h2><ul class="feat">${l.features.map((f) => `<li>${esc(cap(f))}</li>`).join('')}</ul></section>` : ''}
-      ${l.original ? `<section class="obj-sec"><details class="orig"><summary>Описание собственника на сербском${ICON.chevron}</summary><p lang="sr-Latn">${esc(l.original).replace(/\n/g, '<br>')}</p></details></section>` : ''}
+      
       ${l.geo ? `<section class="obj-sec"><h2>Расположение</h2><p class="muted">${esc([l.street, l.location, l.district, l.city].filter(Boolean).join(', '))}</p><div class="map-box map-one" data-point="${l.geo.lat},${l.geo.lng}" data-label="${esc(money(l.price))}"></div></section>` : ''}
     </div>
     <aside class="obj-aside">
@@ -738,76 +732,7 @@ write('karta/index.html', page({
 }));
 addUrl('/karta/');
 
-// Форма для собственников: заявка уходит в Telegram агентства через /api/submit
-{
-  const opt = (arr) => arr.map((x) => `<option>${esc(x)}</option>`).join('');
-  write('podat-obyavlenie/index.html', page({
-    title: `Сдать или продать квартиру в Белграде — подать объявление`,
-    desc: 'Собственникам: разместите квартиру или дом в каталоге и Telegram-канале. Покажем объект русскоязычным клиентам и поможем с договором.',
-    url: '/podat-obyavlenie/', nav: 'owners',
-    body: `<section class="page-head"><div class="wrap">${crumbs([['/', 'Главная'], ['/podat-obyavlenie/', 'Подать объявление']])}
-  <h1>Подать объявление</h1>
-  <p class="page-lead">Заполните форму, и мы свяжемся с вами в течение дня. Размещение в каталоге и Telegram-канале бесплатное для собственника.</p></div></section>
-<section class="block block-tight"><div class="wrap">
-<form class="owner-form" data-owner-form data-tg="${esc(SITE.tg)}" novalidate>
-  <input type="text" name="website" class="hp-field" tabindex="-1" autocomplete="off" aria-hidden="true">
-  <input type="hidden" name="t0" value="">
-  <fieldset class="of-sec"><legend>Сделка и объект</legend>
-    <div class="seg"><label><input type="radio" name="deal" value="Сдать" checked><span>Сдать</span></label><label><input type="radio" name="deal" value="Продать"><span>Продать</span></label></div>
-    <div class="of-grid">
-      <label class="fld"><span>Тип</span><select name="type">${opt(['Квартира', 'Студия', 'Дом', 'Часть дома', 'Комната'])}</select></label>
-      <label class="fld"><span>Комнат</span><select name="rooms">${opt(['Студия', '1', '1,5', '2', '2,5', '3', '3,5', '4', '5 и больше'])}</select></label>
-      <label class="fld"><span>Площадь, м² *</span><input name="area" inputmode="numeric" required></label>
-      <label class="fld"><span>Этаж</span><input name="floor" placeholder="Например: 3 или ПР"></label>
-      <label class="fld"><span>Этажей в доме</span><input name="floors" inputmode="numeric"></label>
-      <label class="fld"><span>Год постройки</span><input name="year" inputmode="numeric"></label>
-    </div>
-  </fieldset>
-  <fieldset class="of-sec"><legend>Адрес</legend>
-    <div class="of-grid">
-      <label class="fld"><span>Район (община) *</span><select name="district" required><option value="">Выберите</option>${opt(BELGRADE.map((d) => d.name))}<option>Другое</option></select></label>
-      <label class="fld"><span>Микрорайон</span><input name="location" placeholder="Например: Црвени крст, Блок 45"></label>
-      <label class="fld fld-wide"><span>Улица и номер дома</span><input name="street"><small>На сайте точный адрес не показываем.</small></label>
-    </div>
-  </fieldset>
-  <fieldset class="of-sec"><legend>Цена и условия</legend>
-    <div class="of-grid">
-      <label class="fld"><span data-price-label>Цена в месяц, € *</span><input name="price" inputmode="numeric" required></label>
-      <label class="fld" data-rent-only><span>Депозит, €</span><input name="deposit" inputmode="numeric"></label>
-      <label class="fld" data-rent-only><span>Коммунальные в месяц, примерно €</span><input name="bills" inputmode="numeric"></label>
-      <label class="fld" data-rent-only><span>Свободна с</span><input name="from" type="date"></label>
-      <label class="fld" data-rent-only><span>Мебель</span><select name="furn">${opt(['С мебелью', 'Частично', 'Без мебели'])}</select></label>
-      <label class="fld" data-sale-only hidden><span>Право собственности (укњижено)</span><select name="owned">${opt(['Да', 'В процессе', 'Нет'])}</select></label>
-      <label class="fld"><span>Отопление</span><select name="heating">${opt(['Центральное', 'Автономное (газ)', 'Электрическое', 'Аккумуляционные печи', 'Кондиционеры', 'Тепловой насос', 'Другое'])}</select></label>
-      <label class="fld"><span>Состояние</span><select name="state">${opt(['После ремонта', 'Новостройка', 'Хорошее', 'Требует ремонта'])}</select></label>
-    </div>
-    <div class="of-checks">${['Терраса или балкон', 'Лифт', 'Парковка', 'Гараж', 'Кондиционер', 'Интернет', 'Посудомоечная машина', 'Стиральная машина', 'Можно с животными', 'Подвал или кладовка'].map((x) => `<label class="chk"><input type="checkbox" name="features" value="${esc(x)}"><span>${esc(x)}</span></label>`).join('')}</div>
-  </fieldset>
-  <fieldset class="of-sec"><legend>Описание и фото</legend>
-    <label class="fld fld-wide"><span>Описание</span><textarea name="description" rows="6" placeholder="Планировка, вид из окон, что рядом, условия для жильцов"></textarea></label>
-    <div class="photos-in">
-      <label class="photo-drop"><input type="file" name="photos" accept="image/*" multiple data-photos><span><b>Добавить фото</b><small>До 10 снимков. Первое фото станет обложкой.</small></span></label>
-      <div class="photo-list" data-photo-list></div>
-    </div>
-  </fieldset>
-  <fieldset class="of-sec"><legend>Контакты</legend>
-    <div class="of-grid">
-      <label class="fld"><span>Ваше имя *</span><input name="name" autocomplete="name" required></label>
-      <label class="fld"><span>Телефон *</span><input name="phone" type="tel" autocomplete="tel" required placeholder="+381 6…"></label>
-      <label class="fld"><span>Как удобнее связаться</span><select name="messenger">${opt(['WhatsApp', 'Viber', 'Telegram', 'Звонок'])}</select></label>
-    </div>
-    <label class="chk chk-consent"><input type="checkbox" name="consent" required><span>Я собственник объекта или действую по его поручению и согласен на обработку контактных данных для связи по этому объявлению.</span></label>
-  </fieldset>
-  <div class="of-submit">
-    <button class="btn btn-dark" type="submit" data-owner-submit>Отправить объявление</button>
-    <p class="lead-note" data-owner-note role="status"></p>
-  </div>
-</form>
-<div class="owner-done" data-owner-done hidden><h2>Спасибо, объявление отправлено</h2><p>Мы свяжемся с вами в течение дня по указанному телефону.</p><p><a class="btn btn-line" href="/">На главную</a></p></div>
-</div></section>`,
-  }));
-  addUrl('/podat-obyavlenie/');
-}
+
 
 // Избранное (заполняется скриптом из localStorage)
 write('izbrannoe/index.html', page({
