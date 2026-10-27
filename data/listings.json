@@ -31597,5 +31597,684 @@
   "photos": 7,
   "added": "2026-10-25",
   "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-157636228",
+  "slug": "kp-157636228-izdavanje-stan-vozdovac",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "new",
+  "title": "Аренда: 3,5-комнатная квартира, 80 м², Вождовац",
+  "kind": "3,5-комнатная квартира",
+  "price": 550,
+  "area": 80,
+  "rooms": 3.5,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "",
+  "street": "якова галуса 20b",
+  "geo": {
+   "lat": 44.72701,
+   "lng": 20.48473
+  },
+  "facts": [
+   [
+    "Площадь",
+    "80 м²"
+   ],
+   [
+    "Комнат",
+    "3,5"
+   ],
+   [
+    "Этаж",
+    "высокий приземный из 3"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "строится"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "энергопаспорт",
+   "лоджия",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся 3,5-комнатная квартира площадью 80 м² в районе Вождовац. Высокий приземный этаж из 3, с мебелью, отопление автономное, строится, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, кондиционер, энергопаспорт, лоджия, парковка, депозит. Аренда 550 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem POTPUNO NOV stan u Jajincima od 80m2.\nu stanu je ostala jos samo kuhinja da se ugradi i jos 20m2 laminata.\n\ngrejanje je etazno i ima inverter klima uredjaj.\nStan se izdaje kao NAMESTEN tj. ja sam u obavezi da obezbedim namestaj.\nstan ima :\n3 spavace sobe\ndvevni boravak sa kuhinjom\nkupatilo\nhodnik\nterasa\n\nStan se nalazi na adresi Jakova Galusa 20b\nto je preko puta Spomen Parka Jajinci.\nJajinci su 11km udaljeni od Slavije, i na samo 11km od centra grada imate mogucnost da zivite u prelepoj prirodi. U mom komsiluku postoji samo jos jedna stambena zgrada i sve oko mene su kuce.\n\nu cenu su ukljuceni infostan i voda.\nod troskova jedino sto se placa je struja po potrosnji.\n\ninfo\nnula šest četiri / 1 7 1 7 2 3 1",
+  "photos": 15,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-135967293",
+  "slug": "kp-135967293-izdavanje-stan-lazarevac",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, Лазаревац",
+  "kind": "однокомнатная квартира",
+  "price": null,
+  "area": null,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Лазаревац",
+  "districtSlug": "lazarevac",
+  "location": "",
+  "street": "",
+  "geo": null,
+  "facts": [
+   [
+    "Комнат",
+    "1"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся однокомнатная квартира в районе Лазаревац. Цена по запросу.",
+  "originalLang": "sr",
+  "original": "Dve sobe, u spavaćoj francuski ležaj i samac, a u dnevnoj ugaona. Mogućnost rezervacije doručka, spa i teretane sa stolom za stoni tenis, sve na 15 metara od smeštaja.\n\nPostoji i mogućnost upisa dece u školu skijanja kod tima instruktora iz Vile Pirat, koja na skijanja polaze bukvalno na 50m od ulaznih vrata.\n\nSmeštaj se nalazi na 300 metara od Kraljevih čardaka. U neposrednjoj blizini se nalazi autobuska stanica Ski bus Kopaonik, odakle možete da se prevezete do Sunčanog brega.\nApartman je opremljen .\n\nSmeštajni kapaciteti su za 5 osoba.\n\n \n\nZa sve informacije viber 06********",
+  "photos": 15,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-159017133",
+  "slug": "kp-159017133-izdavanje-stan-mladenovac",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 20 м², Младеновац",
+  "kind": "однокомнатная квартира",
+  "price": 35,
+  "area": 20,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Младеновац",
+  "districtSlug": "mladenovac",
+  "location": "",
+  "street": "",
+  "geo": {
+   "lat": 44.43743,
+   "lng": 20.69558
+  },
+  "facts": [
+   [
+    "Площадь",
+    "20 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся однокомнатная квартира площадью 20 м² в районе Младеновац. Аренда 35 € в месяц.",
+  "originalLang": "sr",
+  "original": "Antique apartman u sklopu Antique cafe-a, u centru Mladenovca, kompletno odvojena smeštajna jedinica sa terasom s predivnim pogledom na baštu Antique caffe-a, sa fontanom i zelenilom, gde se možete okrepiti predivnom kafom ili nekim drugim pićem, apartman poseduje kompletno opremljenu kuhinju sa šporetom, frižiderom, trpezarijskim stolom. . . Parking obezbedjen.",
+  "photos": 15,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-184130934",
+  "slug": "kp-184130934-izdavanje-stan-zemun",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: квартира, 250 м², Земун",
+  "kind": "квартира",
+  "price": 1500,
+  "area": 250,
+  "rooms": null,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "",
+  "street": "Томице Поповица",
+  "geo": {
+   "lat": 44.8716,
+   "lng": 20.32911
+  },
+  "facts": [
+   [
+    "Площадь",
+    "250 м²"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся квартира площадью 250 м² в районе Земун. С мебелью, отопление автономное, старый фонд. Аренда 1 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Lepa i kvalitetna porodicna kuca na dobroj lokaciji sa servisnom radionicom i kozmetickim salonom, useljeno 2001 godine, prodaje vlasnik. ZAMENA za stan , manju kucu , seosko gazdinstvo , vikendicu . IZDAVANJE u celosti ili deo . Mogucnost prodaje na rate. NAVEDENA CENA JE PO METRU KVADRATNOM!",
+  "photos": 15,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-190096585",
+  "slug": "kp-190096585-izdavanje-stan-zvezdara",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 40 м², Звездара",
+  "kind": "двухкомнатная квартира",
+  "price": 300,
+  "area": 40,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "",
+  "street": "Рузе Йовановиц",
+  "geo": {
+   "lat": 44.78629,
+   "lng": 20.52053
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "1-й из 3"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "кабельное ТВ",
+   "видеонаблюдение",
+   "депозит"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 40 м² в районе Звездара. 1-й этаж из 3, с мебелью, отопление аккумуляционные печи, после ремонта, дом современной постройки. Есть: можно въехать сразу, интернет, кабельное ТВ, видеонаблюдение, депозит. Аренда 300 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem dvosoban stan na Zvezdari. Stan ima dve odvojene spavaće sobe, kuhinju i kupatilo. Nalazi se kod stare okretnice tramvaja 5,6,7,14. Ima kablovsku i internet i odvojeno dvotarifno kontrolno brojilo. Placanje struje po potrosnji.",
+  "photos": 14,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-175948344",
+  "slug": "kp-175948344-izdavanje-stan-vozdovac",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 45 м², Вождовац",
+  "kind": "двухкомнатная квартира",
+  "price": 650,
+  "area": 45,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "",
+  "street": "Йове Илича",
+  "geo": {
+   "lat": 44.78616,
+   "lng": 20.467
+  },
+  "facts": [
+   [
+    "Площадь",
+    "45 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "приземный из 7"
+   ],
+   [
+    "Отопление",
+    "кондиционер, электрическое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "кабельное ТВ",
+   "кондиционер",
+   "лоджия",
+   "видеонаблюдение",
+   "лифт",
+   "можно с животными"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 45 м² в районе Вождовац. Приземный этаж из 7, с мебелью, отопление кондиционер, электрическое, после ремонта, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, кабельное ТВ, кондиционер, лоджия, видеонаблюдение, лифт, можно с животными. Аренда 650 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se potpuno opremljen stan u prizemlju novije stambene zgrade u ulici Jove Ilića na 300 od Autokomande\n\nAutokomanda Jove Ilića paralelno sa Vojvode Stepe i Bulevar Oslobodjenja\n\nU neposrednoj blizini\n\nMaxi koji radi 24h (200m)\n\nIDEA market (150m)\n\nApoteke (100m)\n\nFrizer\n\nObućar\n\nServis mobilnih telefona\n\nBrza hrana Stepin Vajat\n\nRestoran Kovač i mnogi drugi\n\nFakulteti\n\nCrkva\n\nStadion Crvene Zvezde\n\nVeliki broj prevoza u svim pravcima\n\nAutokomanda kružni tok na 300m\n\nStan sadrži hodnik, dnevnu sobu i trpezariju kuhinju, kupatilo, spavaću sobu , lodju\n\nPotpuno nova kuhinja sa ugradnim elementima\n\nStan je zimi pretopao i to bez grejanja jer su okolo sve stanovi. Leti hladan, instalirana nova klima inverter WIFI Midea\n\nMale mesečne režije veoma ekonomičan stan\n\nStan poseduje Tv Smart 55\", klimu inverter, veš mašinu, i sve ostalo za duži boravak\n\nTv Smart u spavaćoj\n\nKrevet u spavaćoj i dušek premium kvaliteta\n\nWifi neograničen + televizija\n\nDEPOZIT OBAVEZAN",
+  "photos": 12,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-183111308",
+  "slug": "kp-183111308-izdavanje-stan-cukarica",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 85 м², Чукарица",
+  "kind": "трёхкомнатная квартира",
+  "price": 350,
+  "area": 85,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "cukarica",
+  "location": "",
+  "street": "Зивана Тодорович 4",
+  "geo": {
+   "lat": 44.67836,
+   "lng": 20.39953
+  },
+  "facts": [
+   [
+    "Площадь",
+    "85 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "2-й из 3"
+   ],
+   [
+    "Отопление",
+    "норвежские радиаторы, аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "частично меблирована"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "лоджия",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 85 м² в районе Чукарица. 2-й этаж из 3, частично меблирована, отопление норвежские радиаторы, аккумуляционные печи. Есть: можно въехать сразу, терраса, лоджия, парковка, депозит. Аренда 350 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem stan u kuci u Sremcici, Beograd. Stan je od 84kv koji se nalazi na drugom spratu porodicne kuce koji ima dve spavace sobe sa terasama, kuhinja, trpezarija sa dnevnim boravkom, kupatilo, ostava, ugradni orman. Stan je u sredini i vrlo topao u zimskim danima, ima ta grejanje i ima puno svetlosti takodje ima svoj strujomer, parking ispred kuce i moze da se koristi dvoriste. Zvati na tel 06******** Moca. Stan se nalazi u ulici Zivana Todorovica 4 Sremcica",
+  "photos": 14,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-165641527",
+  "slug": "kp-165641527-izdavanje-stan-zvezdara",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 40 м², Звездара",
+  "kind": "однокомнатная квартира",
+  "price": 600,
+  "area": 40,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "",
+  "street": "Любе Давидовича",
+  "geo": {
+   "lat": 44.79024,
+   "lng": 20.50428
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "приземный из 4"
+   ],
+   [
+    "Отопление",
+    "центральное, кондиционер"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "кондиционер",
+   "видеонаблюдение",
+   "парковка",
+   "можно с животными"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 40 м² в районе Звездара. Приземный этаж из 4, с мебелью, отопление центральное, кондиционер, после ремонта, дом современной постройки. Есть: можно въехать сразу, интернет, кондиционер, видеонаблюдение, парковка, можно с животными. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stan 40m² za izdavanje ili prodaju kompletno renoviran i potpuno opremljen\n\nPRIZEMLJE\n\nPARKING ISPRED STANA KOJI JE SLOBODAN U 90% SLUČAJEVA\n\nUKNJIŽEN VLASNIK 1/1\n\nLokacija Ljube Davidovića 28\n\nU blizini od 500 metara\n\nCvetkova Pijaca\n\nKlinički centar Zvezdara\n\nFizioterapeutska škola\n\nBeo Shoping Centar\n\nLidl\n\nSuper Vero\n\nBulevar Kralja Aleksandra\n\nApoteke\n\nRestorani\n\nTeretane\n\nCentralno grejanje (placamo mi)\n\nKlima\n\nINTERNET Hipernet 300mb/s\n\nInfostan (komunalije) 1300rsd + struja po potrošnji + internet\n\nPvc stolarija\n\nMale režije\n\nDEPOZIT OBAVEZAN",
+  "photos": 13,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-152009922",
+  "slug": "kp-152009922-izdavanje-stan",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, Белград",
+  "kind": "студия",
+  "price": 20,
+  "area": null,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Белград",
+  "districtSlug": "beograd",
+  "location": "",
+  "street": "",
+  "geo": null,
+  "facts": [
+   [
+    "Комнат",
+    "студия"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся студия в районе Белград. Аренда 20 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se Garsonjera na dan, 24kvd za do 2 osobe, u Višnjici (Višnjica je mirno mesto udaljeno od centra grada 7km), stan je udaljen 600m od autobuske stanice linije 32 (Višnjica-Vukov Spomenik) i 32E (Višnjica-Trg Republike). Stan poseduje klimu, kombinovani frižider, šporet, veš mašinu, Smart TV (kablovska), Wi-fi odličnog kvaliteta, kao i escajg, posteljinu (garnitura se razvlači za spavanje), jastuke i pokrivače, peškire i potrošni materijal za ličnu higijenu (šampon, sapun, gel za tuširanje, toalet papir).\nStan se nalazi u prizemlju porodične kuće i poseduje sopstveni ulaz kao i posebnu kapiju.  \n‼️‼️ Do tri dana boravka cena po danu je 25e, na četiri i više dana 20e po danu ‼️‼️\nZa sva dodatna pitanja sms, viber ili pozvati 06********",
+  "photos": 15,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-139753338",
+  "slug": "kp-139753338-izdavanje-stan-zemun",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 35 м², Земун",
+  "kind": "двухкомнатная квартира",
+  "price": 150,
+  "area": 35,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "",
+  "street": "",
+  "geo": {
+   "lat": 44.85027,
+   "lng": 20.35786
+  },
+  "facts": [
+   [
+    "Площадь",
+    "35 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "2-й из 4"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "энергопаспорт",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 35 м² в районе Земун. 2-й этаж из 4, с мебелью, отопление автономное, в исходном состоянии, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, энергопаспорт, парковка, депозит. Аренда 150 € в месяц.",
+  "originalLang": "sr",
+  "original": "Sa 90 hiljada evra, MILION dinara popusta za ozbiljne kupce stana.  \n\n \n\nOstavite broj telefona. . .   Ne odgovaram na kp poruke! Menjam za sobu sa računima(gde nema centralno grejanje odnosno veliki račun za infostan) na Novom Beogradu ili Zemunu, Altini, Galenici, Zemun polju u nepušačkom stanu ili kući plus 150 za kiriju od mog stana. . . pošto vi imate posao a ja nemam, zbog. . . dogovor kuću gradi.  \n\nOpišite predlog saradnje u poruci.  \n\n \n\n? eura kirija sa depozitom u istom iznosu u slučaju neke štete ili neplaćanja računa. Minimum 6 meseci. Prednost imaju oni koji hoće tu da žive više godina, da im bude dom a ne prolazna stanica. . . Obavezan dokaz uplate svaki mesec ili onlajn ili preko uplatnica. Od mesečne kirije bi mi živeli tako da je obavezno i redovno plaćanje kirije i računa. Samo pošteni i dobri ljudi. Dobra ljudska povoljna ponuda. Dobrodošli.  \n\n \n\nNoćno grejanje od ponoći do 8 ujutru na 23 - 24 stepena, jedan kilovat na sat, automatsko etažno grejanje, svi radijatori, 5 komada, 2.3 dinara jeftinije struje, kilovat na sat, 8 sati, 18.4 dinara jedna noć/dan, puta 30 dana, 552 dinara košta grejanje za mesec dana ili 5 evra ako računamo i 31 dan, za 6 meseci, 3312 dinara ili 30 evra za celu sezonu, mada se manje meseci greje. Preko dana ostane toplo od noćnog grejanja, oko 20 stepeni. Ako se dugo ne drže otvoreni svi prozori. Nema nigde jeftinije. Temperature vode 60 stepeni.  \n\n \n\nIzmena ili edit: pogrešio sam u proračunu, grejanje je duplo skuplje, oko 10 evra mesečno. Ja se izvinjavam.  \n\n \n\nOvaj savremeno uređen stan se nalazi na Altini u Zemunu, u novijoj zgradi. Stan ima funkcionalan raspored prostorija koji uključuje dnevnu sobu, kuhinju i trpezariju kao jednu celinu, prostranu spavaću sobu, kupatilo. Stan takođe ima terasu, koja je savršena za uživanje u svežem vazduhu i prijatnim trenucima na otvorenom tokom cele godine. Grejanje u stanu se obračunava po potrošnji, što znači da ćete plaćati samo za onoliko energije koliko zaista potrošite, čineći troškove grejanja transparentnim i pravednim. Nameštaj u stanu je relativno nov, što dodatno doprinosi udobnosti i estetici prostora. Sve u svemu, ovaj stan na Altini nudi savremen i udoban životni prostor sa svim potrebnim sadržajem, idealan za pojedince, parove ili porodice koje traže kvalitetan stan u mirnom delu Zemuna.\n\n \n\n \n\nIzdajemo namešten stan, na odličnoj lokaciji.         \n\nStan nije opremljen kablovskom televizijom ali ima u zgradi i optički internet i televizija(mts). Možete sami da je uvedete na vaše ime. Inače u stanu postoji lcd tv sa set top box uređajem.  \n\n \n\n \n\nJedan hodnik/vešernica/za bicikle, predsoblje za obuvanje/izuvanje, presvlačenje, jedno kupatilo, kuhinja sa dnevno/spavaćim boravkom koje je ujedno i trpezarija, jedna terasa, jedna spavaća soba koja može da bude ujedno i drugi dnevni boravak. Od uređaja ima bojler, radijatore, manji frižider, mikrotalasnu, toster, mini šporet sa rernom, tv, veš mašinu, usisivač, fen, led lampe, zvučnike. . .       \n\n",
+  "photos": 15,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "ho-5425647866414",
+  "slug": "ho-5425647866414-izdavanje-stan-stara-bezanija",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 60 м², Стара Бежания, Новый Белград",
+  "kind": "2,5-комнатная квартира",
+  "price": 600,
+  "area": 60,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Стара Бежания",
+  "street": "Войводянска 150",
+  "geo": {
+   "lat": 44.80438,
+   "lng": 20.36674
+  },
+  "facts": [
+   [
+    "Площадь",
+    "60 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "1-й из 1"
+   ],
+   [
+    "Отопление",
+    "норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 70 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "терраса",
+   "можно въехать сразу"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 60 м² в районе Стара Бежания (Новый Белград, Белград). 1-й этаж из 1, с мебелью, отопление норвежские радиаторы, после ремонта, дом современной постройки. Есть: депозит, интернет, кабельное ТВ, кондиционер, парковка, терраса, можно въехать сразу. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "Nova mala jednospratna zgradica u vojvodjanskom dvorištu, imate svoje parking mesto.",
+  "photos": 7,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "ho-5425644978270",
+  "slug": "ho-5425644978270-izdavanje-stan-kalenic-pijaca",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 48 м², Каленич пияца, Врачар",
+  "kind": "1,5-комнатная квартира",
+  "price": 650,
+  "area": 48,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "opstina-vracar",
+  "location": "Каленич пияца",
+  "street": "Хаджи Рувимова",
+  "geo": {
+   "lat": 44.8013,
+   "lng": 20.47884
+  },
+  "facts": [
+   [
+    "Площадь",
+    "48 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "1-й из 5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 130 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "лоджия",
+   "подвал",
+   "горячая вода",
+   "видеонаблюдение",
+   "можно въехать сразу"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 48 м² в районе Каленич пияца (Врачар, Белград). 1-й этаж из 5, с мебелью, отопление центральное, в исходном состоянии, дом современной постройки. Есть: депозит, домофон, интернет, кабельное ТВ, кондиционер, лифт, лоджия, подвал, горячая вода, видеонаблюдение, можно въехать сразу. Аренда 650 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem namešten 1,5 sobni stan - 48m2 u neposrednoj blizini Kalenić pijace u mirnoj ulici. Stan je na prvom spratu, ima interfon, lift, KATV, centralno grejanje i klimu. Stan je svetao i ima zastaklenu lođu. U blizini stana je i dečije igralište.",
+  "photos": 7,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
  }
 ]
