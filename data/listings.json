@@ -32276,5 +32276,406 @@
   "photos": 7,
   "added": "2026-10-25",
   "updated": "2026-10-25"
+ },
+ {
+  "id": "ho-5425647867355",
+  "slug": "ho-5425647867355-izdavanje-stan-medakovic-1",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 70 м², Медакович 1, Вождовац",
+  "kind": "2,5-комнатная квартира",
+  "price": 650,
+  "area": 70,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "Медакович 1",
+  "street": "Медаковичева",
+  "geo": {
+   "lat": 44.77661,
+   "lng": 20.49471
+  },
+  "facts": [
+   [
+    "Площадь",
+    "70 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "приземный из 3"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 60 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "кабельное ТВ",
+   "парковка",
+   "с садом",
+   "терраса"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 70 м² в районе Медакович 1 (Вождовац, Белград). Приземный этаж из 3, с мебелью, отопление аккумуляционные печи, после ремонта, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, кабельное ТВ, парковка, с садом, терраса. Аренда 650 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se potpuno renoviran dvoiposoban stan u prizemlju u Medakovićevoj 70. Stan ima dnevnu sobu, kupatilo, kuhinju, dve spavaće sobe, ostavu i prostranu terasu. Stan poseduje SVOJE PARKING MESTO ispred stana. Stan je odmah useljiv. Grejanje je na struju preko TA peći, MALI RAČUNI!",
+  "photos": 11,
+  "added": "2026-10-25",
+  "updated": "2026-10-26"
+ },
+ {
+  "id": "ho-5425647876810",
+  "slug": "ho-5425647876810-izdavanje-stan-cara-dusana",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 64 м², Цара Душана, Земун",
+  "kind": "трёхкомнатная квартира",
+  "price": 500,
+  "area": 64,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Цара Душана",
+  "street": "Цара Душана",
+  "geo": {
+   "lat": 44.85358,
+   "lng": 20.39087
+  },
+  "facts": [
+   [
+    "Площадь",
+    "64 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "полуподвал"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "кондиционер",
+   "горячая вода"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 64 м² в районе Цара Душана (Земун, Белград). Полуподвал этаж, с мебелью, после ремонта, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, кондиционер, горячая вода. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Trosoban stan u Zemunu, cara dusana 151, kod vise medicinske, preko puta Matijevica, Polusuteren,stan ima tri sobe, namesten,lep, Izdaje se iskljucivo na duzi vremenski period. Najmanje godinu dana.Cena zakupnine je 500 eura , obavezan depozit u iznosu jedne kirije , za strane drzavljane depozit od dve kirije.\nKucni ljubimci nisu dozvoljeni, Posrednici iskluceni",
+  "photos": 13,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "ho-5425644502546",
+  "slug": "ho-5425644502546-izdavanje-stan-krunska",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 23 м², Крунска, Врачар",
+  "kind": "1,5-комнатная квартира",
+  "price": 600,
+  "area": 23,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "opstina-vracar",
+  "location": "Крунска",
+  "street": "Молерова",
+  "geo": {
+   "lat": 44.8025,
+   "lng": 20.47324
+  },
+  "facts": [
+   [
+    "Площадь",
+    "23 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "высокий приземный из 6"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно с животными",
+   "не последний этаж",
+   "можно въехать сразу",
+   "подходит студентам",
+   "интернет",
+   "кондиционер",
+   "лоджия",
+   "горячая вода"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 23 м² в районе Крунска (Врачар, Белград). Высокий приземный этаж из 6, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: депозит, можно с животными, не последний этаж, можно въехать сразу, подходит студентам, интернет, кондиционер, лоджия, горячая вода. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "Novo-renovirani stan u Molerovoj ulici, spreman za useljenje\nZa sve dodatne informacije, pozvati na",
+  "photos": 15,
+  "added": "2026-10-24",
+  "updated": "2026-10-24"
+ },
+ {
+  "id": "ho-5425646489395",
+  "slug": "ho-5425646489395-izdavanje-stan-jajinci",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 52 м², Яйинци, Вождовац",
+  "kind": "1,5-комнатная квартира",
+  "price": 500,
+  "area": 52,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "Яйинци",
+  "street": "Перице Ивановича",
+  "geo": {
+   "lat": 44.72239,
+   "lng": 20.49912
+  },
+  "facts": [
+   [
+    "Площадь",
+    "52 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "1-й из 2"
+   ],
+   [
+    "Отопление",
+    "норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "терраса"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 52 м² в районе Яйинци (Вождовац, Белград). 1-й этаж из 2, с мебелью, отопление норвежские радиаторы, люкс, дом современной постройки. Есть: депозит, можно въехать сразу, терраса. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Luksuzan, potpuno nov stan na prelepoj lokaciji – Jajinci, ulica Perice Ivanovića Izdaje se potpuno nov, nikad useljavan stan od 52 m², sa prostranom terasom, smešten u mirnom kraju, okružen prirodom, zelenilom i tišinom — idealno za one koji žele mir, ali i brzu vezu sa gradom!\n*U pitanju je manja zgrada, jos uvek su radovi oko zgrade, uskoro će sve biti završeno. Stan je odmah useljiv\n Lokacija TOP:\nsamo 10 min do Autokomande\n5 min do Banjice\n2 km od prelepog Spomen-parka Jajinci\n Stan koji osvaja na prvi pogled:\nPotpuno nov, luksuzno sređen – prvi stanar!\nOgroman 75’’ Smart TV – savršen za filmove i uživanje\nKlima + norveški radijatori – maksimalan komfor tokom cele godine\nPrelepi travnati dekorativni zidovi daju osećaj prirode u dnevnoj sobi\nOvaj stan je kombinacija luksuza, novogradnje, mira i fantastične povezanosti sa svim važnim delovima grada.\nVlasnik:",
+  "photos": 15,
+  "added": "2026-10-24",
+  "updated": "2026-10-24"
+ },
+ {
+  "id": "ho-5425647868669",
+  "slug": "ho-5425647868669-izdavanje-stan-gradska-bolnica",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 38 м², Градска болница, Звездара",
+  "kind": "1,5-комнатная квартира",
+  "price": 590,
+  "area": 38,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Градска болница",
+  "street": "Прешевска",
+  "geo": {
+   "lat": 44.79868,
+   "lng": 20.49864
+  },
+  "facts": [
+   [
+    "Площадь",
+    "38 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "2-й из 6"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 60 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "домофон",
+   "интернет",
+   "кондиционер",
+   "лифт",
+   "терраса"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 38 м² в районе Градска болница (Звездара, Белград). 2-й этаж из 6, с мебелью, отопление автономное, люкс, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, домофон, интернет, кондиционер, лифт, терраса. Аренда 590 € в месяц.",
+  "originalLang": "sr",
+  "original": "Iznajmljuje se moderan, izuzetno svetao i funkcionalan stan opremljen za udoban gradski život. Stan se nalazi u novijoj i održavanoj zgradi sa liftom, na 2. spratu, sa pripadajućom terasom.\n  Izuzetna lokacija - Presevska ulica (Zvezdara)\n  Preko puta porodilišta i bolnice na Zvezdari.  \n U neposrednoj blizini Bulevara kralja Aleksandra i Ulice Dimitrija Tucovića.\n Pozicioniran između dvije poznate beogradske pijace – Đeram i Cvetkove pijace, što vam omogućava lak pristup svježim namirnicama, prevozu, prodavnicama \n Odvojena spavaća soba:  Opremljena udobnim bračnim krevetom, velikim ugradnim ormarom sa ogledalima i prijatnim detaljima za odmor.  \n Dnevni boravak: Prostran i svetao, sa modernom garniturom tv uredjajem, klima uređajem, ambient rasvetom i izlazom na terasu.  \n Kuhinja sa šankom: Potpuno opremljena savremenom bijelom tehnikom (ugradna ploča, rerna, frižider sa zamrzivačem).  \n Kupatilo: Sa staklenom tuš-kabinom, veš mašinom i modernim kupatilskim namještajem.\n Niski režijski troškovi sa etaznim grejanjem (kotao na struju sa radijatorima): Potpuna kontrola potrošnje – grejanje se plaća isključivo zimi i po stvarnoj potrošnji.  \n Uslovi izdavanja :\n Izdavanje direktno od vlasnika (bez agencijske provizije).\n Traži se pouzdan stanar na duži vremenski period (minimalno godinu dana) po ugovoru.\n Prednost imaju drzavljani republike Srbije,\n Zaposlene zene/devojke ili bracni parovi, nepusaci kao i ljudi bez kucnih ljubimaca. \n Obavezno potpisivanje ugovora i depozit u visini jedne mesecne kirije.\n- Useljv od 01 novembra.\n Za više informacija i zakazivanje gledanja stana, kontaktirajte me u privatnoj poruci na wp ili",
+  "photos": 12,
+  "added": "2026-10-24",
+  "updated": "2026-10-24"
+ },
+ {
+  "id": "ho-5425647873072",
+  "slug": "ho-5425647873072-izdavanje-stan-filmski-grad",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 50 м², Филмски град, Чукарица",
+  "kind": "двухкомнатная квартира",
+  "price": 550,
+  "area": 50,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "opstina-cukarica",
+  "location": "Филмски град",
+  "street": "Ратка Митровича",
+  "geo": {
+   "lat": 44.75025,
+   "lng": 20.428
+  },
+  "facts": [
+   [
+    "Площадь",
+    "50 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "2-й из 6"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "кондиционер",
+   "лифт",
+   "лоджия",
+   "терраса",
+   "депозит",
+   "можно с животными",
+   "не последний этаж",
+   "подходит студентам"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 50 м² в районе Филмски град (Чукарица, Белград). 2-й этаж из 6, с мебелью, отопление центральное, в исходном состоянии, старый фонд. Есть: кондиционер, лифт, лоджия, терраса, депозит, можно с животными, не последний этаж, подходит студентам. Аренда 550 € в месяц.",
+  "originalLang": "sr",
+  "original": "Svetao namešten stan na idealnom drugom spratu na odličnoj lokaciji. Blizina prodavnica, autobuskih stanica, parkova, šetališta, škola i vrtića. U stanu su dozvoljeni kućni ljubimci i moguća je prijava prebivališta. Slobodan za useljenje od 15.11.2026.",
+  "photos": 11,
+  "added": "2026-10-24",
+  "updated": "2026-10-26"
  }
 ]
