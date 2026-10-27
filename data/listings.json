@@ -1,5 +1,127 @@
 [
  {
+  "id": "kp-195304994",
+  "slug": "kp-195304994-prodaja-stan-zemun-polje",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: студия, 40 м², Земун поле, Земун",
+  "kind": "студия",
+  "price": 56500,
+  "area": 40,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "Земун поле",
+  "street": "ТомицеПоповица",
+  "geo": {
+   "lat": 44.88451,
+   "lng": 20.31877
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Отопление",
+    "кондиционер, норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "частично меблирована"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "кабельное ТВ",
+   "кондиционер"
+  ],
+  "text": "Продаётся студия площадью 40 м² в районе Земун поле (Земун, Белград). Частично меблирована, отопление кондиционер, норвежские радиаторы, в исходном состоянии, старый фонд. Есть: можно въехать сразу, кабельное ТВ, кондиционер. Цена 56 500 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju Dve garsonjere po 20m2 jedna u potkrovlju druga u polusuteren kompletno renovirana pogodno kao investicija za izdavanje i prodaju se iskljucivo zajedno po ceni od 56500e za obe  u postupku legalizacije i prodaje se kao vanknjizno vlasnistvo 1/1",
+  "photos": 15,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
+  "id": "kp-196515811",
+  "slug": "kp-196515811-prodaja-stan-hotel-jugoslavija",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 2,5-комнатная квартира, 78 м², Хотел Югославия, Новый Белград",
+  "kind": "2,5-комнатная квартира",
+  "price": 320000,
+  "area": 78,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "novi-beograd",
+  "location": "Хотел Югославия",
+  "street": "",
+  "geo": {
+   "lat": 44.8299,
+   "lng": 20.41978
+  },
+  "facts": [
+   [
+    "Площадь",
+    "78 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "3-й из 9"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "частично меблирована"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "домофон",
+   "кондиционер",
+   "лоджия",
+   "лифт"
+  ],
+  "text": "Продаётся 2,5-комнатная квартира площадью 78 м² в районе Хотел Югославия (Новый Белград, Белград). 3-й этаж из 9, частично меблирована, отопление центральное, в исходном состоянии, старый фонд. Есть: интернет, домофон, кондиционер, лоджия, лифт. Цена 320 000 €.",
+  "originalLang": "sr",
+  "original": "Na jednoj od traženijih i najatraktivnijih lokacija na Novom Beogradu, u ulici Bulevar maršala Tolbuhina, kod hotela Jugoslavija, prodaje se komforan i funkcionalan dvoiposoban stan površine 78 m², u dobro održavanoj zgradi.  \nOsnovne karakteristike stana:  \n\nPovršina: 78 m²\nSpratnost: 3 / 9\nStruktura: Dvoiposoban \nGrejanje: Centralno grejanje (CG)\nStanje: Kao na fotografijama\nLift: Da\nParking: Javni parking u okolini objekta\nUknjižen 1/1\n\nRaspored prostorija:  \n\nDve spavaće sobe\nKomforna dnevna soba\nOdvojena kuhinja sa trpezarijom\nDva balkona\nKupatilo\nZaseban toalet (WC)\n\nPrednosti lokacije:  \n\nNovi Beograd / Kej: Neposredna blizina Dunava, šetališta, biciklističkih staza i brojnih restorana, parkova. . .  \nOdlična povezanost: Brz i lak pristup svim delovima grada gradskim prevozom i glavnim saobraćajnicama.  \nSvi sadržaji na dohvat ruke: Škole, vrtići, supermarketi, apoteke i zdravstvene ustanove u neposrednom okruženju.  \n\nProdaje se bez agencijske provizije.",
+  "photos": 11,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
   "id": "kp-196554356",
   "slug": "kp-196554356-prodaja-stan-palilula",
   "deal": "sale",
@@ -2188,6 +2310,264 @@
   "updated": "2026-10-27"
  },
  {
+  "id": "kp-196657915",
+  "slug": "kp-196657915-prodaja-stan-stari-grad",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: трёхкомнатная квартира, 120 м², Старый город",
+  "kind": "трёхкомнатная квартира",
+  "price": 750000,
+  "area": 120,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "stari-grad",
+  "location": "",
+  "street": "",
+  "geo": {
+   "lat": 44.81164,
+   "lng": 20.46594
+  },
+  "facts": [
+   [
+    "Площадь",
+    "120 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Отопление",
+    "центральное, кондиционер, электрическое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "домофон",
+   "терраса",
+   "кондиционер",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся трёхкомнатная квартира площадью 120 м² в районе Старый город. С мебелью, отопление центральное, кондиционер, электрическое, после ремонта, старый фонд. Есть: интернет, домофон, терраса, кондиционер, видеонаблюдение. Цена 750 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju prostran stan – 3 spavaće sobe, 2 kupatila i 2 zastakljene terase\n\nNa prodaju prostran i funkcionalan stan sa odličnim rasporedom prostorija, idealan za porodični život.\n\nStruktura stana:\n\n* 3 spavaće sobe\n* 2 kupatila\n* Kuhinja\n* Dodatna mini-kuhinja\n* Prostran dnevni boravak\n* Trpezarija\n* 2 zastakljene terase, od kojih je jedna sa pogledom kao na oglasu.\n\nCijena: Na upit.\n\nZa sve dodatne informacije o nekretnini, cijeni i dogovoru oko razgledanja, zainteresovani kupci mogu se javiti putem poruke ili telefona.",
+  "photos": 6,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
+  "id": "kp-195675431",
+  "slug": "kp-195675431-prodaja-stan-palilula",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 2,5-комнатная квартира, 49 м², Палилула",
+  "kind": "2,5-комнатная квартира",
+  "price": 140000,
+  "area": 49,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "",
+  "street": "Кикиндска 95",
+  "geo": {
+   "lat": 44.89461,
+   "lng": 20.47039
+  },
+  "facts": [
+   [
+    "Площадь",
+    "49 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "1-й из 2"
+   ],
+   [
+    "Отопление",
+    "электрическое, тёплый пол"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "парковка"
+  ],
+  "text": "Продаётся 2,5-комнатная квартира площадью 49 м² в районе Палилула. 1-й этаж из 2, с мебелью, отопление электрическое, тёплый пол, в исходном состоянии, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, кондиционер, видеонаблюдение, парковка. Цена 140 000 €.",
+  "originalLang": "sr",
+  "original": "Стан на продају у Борчи, новоградња стара зграда 3године. На неколико стотина метара од Зрењанинског пута, аутобуске станице, Лидла и тржног центра \"Shoopy\", одмах преко пута зграде је продавница. Стан се састоји од две спаваће собе, трпезарије, кухиње, једног купатила, терасе и дневне собе. Уз стан иде паркинг место. Зграда има одличну изолацију, улазна врата високог квалитета, храстов паркет од пуног дрвета великих димензија, врло квалитетна \"Schuco\" пвц столарија са термоизолованим ролетнама и комарницима. Квалитетна шпанска и италијанска керамика, купатило опремљено са квалитетним санитаријама, подно грејање свуда где су плочице. Кухиња квалитетна рађена по мери, грејање етажног типа, постоји могућност даљинске контроле грејања.",
+  "photos": 9,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
+  "id": "kp-194187657",
+  "slug": "kp-194187657-prodaja-stan-novi-beograd",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 2,5-комнатная квартира, 81 м², Новый Белград",
+  "kind": "2,5-комнатная квартира",
+  "price": 285000,
+  "area": 81,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "novi-beograd",
+  "location": "",
+  "street": "Любинке Бобич",
+  "geo": {
+   "lat": 44.81532,
+   "lng": 20.37466
+  },
+  "facts": [
+   [
+    "Площадь",
+    "81 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "1-й из 5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "подвал",
+   "кабельное ТВ",
+   "лоджия",
+   "лифт",
+   "доступ для колясок",
+   "парковка"
+  ],
+  "text": "Продаётся 2,5-комнатная квартира площадью 81 м² в районе Новый Белград. 1-й этаж из 5, без мебели, отопление центральное, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, домофон, подвал, кабельное ТВ, лоджия, лифт, доступ для колясок, парковка. Цена 285 000 €.",
+  "originalLang": "sr",
+  "original": "Beograd, Novi Beograd\nBežanijska kosa, ul. Ljubinke Bobić\nstan sa lepim rasporedom i pozicijom\nna prvom spratu, od pet spratova\nzgrada iz 2004. godine\nrenoviran\nodlično grejanje\nodmah useljiv\ndosta zelenih površina\nblizina dve osnovne škole i obdaništa\nblizina snabdevanja (pijaca, Lidl, Maxi . . . )\nuvek dovoljno mesta za parkiranje\nblizina gradskog prevoza\nblizina aerodroma i autoputa\n*samo poziv (može i Viber), nula61 1412480",
+  "photos": 15,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
+  "id": "kp-196557828",
+  "slug": "kp-196557828-prodaja-stan-palilula",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: студия, 16 м², Палилула",
+  "kind": "студия",
+  "price": 39900,
+  "area": 16,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "",
+  "street": "Марияне Грегоран 42A",
+  "geo": {
+   "lat": 44.81277,
+   "lng": 20.50895
+  },
+  "facts": [
+   [
+    "Площадь",
+    "16 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "приземный"
+   ],
+   [
+    "Отопление",
+    "кондиционер, электрическое"
+   ],
+   [
+    "Мебель",
+    "частично меблирована"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер"
+  ],
+  "text": "Продаётся студия площадью 16 м² в районе Палилула. Приземный этаж, частично меблирована, отопление кондиционер, электрическое, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, кабельное ТВ, кондиционер. Цена 39 900 €.",
+  "originalLang": "sr",
+  "original": "Jedinstvena prilika da u centralnoj gradskoj opśtini kupite uknjiženu nekretninu za ovu cenu. Glavna ulica na Karaburmi. Autobuska stanica 50m.",
+  "photos": 12,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
   "id": "kp-184046539",
   "slug": "kp-184046539-prodaja-stan-zvezdara",
   "deal": "sale",
@@ -2906,6 +3286,214 @@
   "updated": "2026-10-26"
  },
  {
+  "id": "kp-196574980",
+  "slug": "kp-196574980-izdavanje-stan-palilula",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 53 м², Палилула",
+  "kind": "двухкомнатная квартира",
+  "price": 650,
+  "area": 53,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "",
+  "street": "Булевар Деспота Стефана",
+  "geo": {
+   "lat": 44.8171,
+   "lng": 20.47529
+  },
+  "facts": [
+   [
+    "Площадь",
+    "53 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "7-й"
+   ],
+   [
+    "Отопление",
+    "электрическое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "домофон",
+   "кабельное ТВ",
+   "кондиционер",
+   "депозит"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 53 м² в районе Палилула. 7-й этаж, с мебелью, отопление электрическое. Есть: интернет, домофон, кабельное ТВ, кондиционер, депозит. Аренда 650 € в месяц.",
+  "originalLang": "sr",
+  "original": "Dvosoban stan od 53m2 u odličnom stanju, na poslednjem spratu održavane zgrade. Stan se nalazi u Bulevaru despota Stefana okrenut ka Dunavu i izdaje se namešten.  \n\nSlobodan od 1.11.2026. godine",
+  "photos": 9,
+  "added": "2026-10-26",
+  "updated": "2026-10-26"
+ },
+ {
+  "id": "kp-196668050",
+  "slug": "kp-196668050-izdavanje-stan-zvezdara",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 30 м², Звездара",
+  "kind": "студия",
+  "price": 350,
+  "area": 30,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "",
+  "street": "Богдана Богдановича 14",
+  "geo": {
+   "lat": 44.78556,
+   "lng": 20.54375
+  },
+  "facts": [
+   [
+    "Площадь",
+    "30 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "высокий приземный из 5"
+   ],
+   [
+    "Отопление",
+    "кондиционер"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "кондиционер",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся студия площадью 30 м² в районе Звездара. Высокий приземный этаж из 5, с мебелью, отопление кондиционер, в исходном состоянии, дом современной постройки. Есть: можно въехать сразу, терраса, кондиционер, парковка, депозит. Аренда 350 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stan se nalazi na lokaciji Bogdana Bogdanovića 14, Mirijevo. Stan je potpuno nov nikada ranije useljivan. Sve u stanu je potpuno novo nikada korišćeno. Stan je u potpunosti opremljen belom tehnikom i nameštajem vrhunskog kvaliteta. Stan ima manju terasu i obezbedjen parking. Nalazi se na 5 minuta od okretnice autobusa koja vas direktno povezuje sa Novim Beogradom, Smederevskim putem i centrom grada. U krugu od 200 metara se nalaze prodavnica, apoteka, kiosk. .. Blizu zgrade nalaze se vrtići i škole.",
+  "photos": 11,
+  "added": "2026-10-26",
+  "updated": "2026-10-26"
+ },
+ {
+  "id": "kp-196668079",
+  "slug": "kp-196668079-izdavanje-stan-palilula",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 30 м², Палилула",
+  "kind": "двухкомнатная квартира",
+  "price": 300,
+  "area": 30,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "",
+  "street": "Драгослава Срейовича 55",
+  "geo": {
+   "lat": 44.81174,
+   "lng": 20.50725
+  },
+  "facts": [
+   [
+    "Площадь",
+    "30 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Отопление",
+    "электрическое, аккумуляционные печи"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся двухкомнатная квартира площадью 30 м² в районе Палилула. Отопление электрическое, аккумуляционные печи, после ремонта, старый фонд. Аренда 300 € в месяц.",
+  "originalLang": "sr",
+  "original": "Oglas je usluzan\nJavite se na broj za vise informacija",
+  "photos": 9,
+  "added": "2026-10-26",
+  "updated": "2026-10-26"
+ },
+ {
+  "id": "kp-196666812",
+  "slug": "kp-196666812-izdavanje-stan-palilula",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 100 м², Палилула",
+  "kind": "трёхкомнатная квартира",
+  "price": 10,
+  "area": 100,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "",
+  "street": "",
+  "geo": {
+   "lat": 44.88148,
+   "lng": 20.45826
+  },
+  "facts": [
+   [
+    "Площадь",
+    "100 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся трёхкомнатная квартира площадью 100 м² в районе Палилула. Аренда 10 € в месяц.",
+  "originalLang": "sr",
+  "original": "Smeštaj za radnike\nCena po dogovoru",
+  "photos": 7,
+  "added": "2026-10-26",
+  "updated": "2026-10-26"
+ },
+ {
   "id": "kp-196663917",
   "slug": "kp-196663917-izdavanje-stan",
   "deal": "rent",
@@ -2953,7 +3541,7 @@
   "text": "Сдаётся квартира в районе Белград. Цена по запросу.",
   "originalLang": "sr",
   "original": "Praktično sve... Kupi i prodaj u najvećoj online zajednici u Srbiji. Probaj na kp!",
-  "photos": 12,
+  "photos": 15,
   "added": "2026-10-26",
   "updated": "2026-10-26"
  },
@@ -3069,7 +3657,7 @@
   "text": "Сдаётся двухкомнатная квартира площадью 45 м² в районе Вождовац. 1-й этаж из 8, с мебелью, отопление центральное, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, кондиционер, видеонаблюдение, доступ для колясок, депозит. Аренда 900 € в месяц.",
   "originalLang": "sr",
   "original": "Izdaje se prelep, potpuno nov i luksuzno opremljen dvosoban stan od 45m² u Vozdovom Kvartu na Voždovcu. Stan je kompletno opremljen. Sav nameštaj i tehnika su potpuno novi i nikada nisu korišćeni, zgrada je novogradnja, a stan je useljiva od 15. oktobra. Lokacija je odlična, sa svom infrastrukturom u neposrednoj blizini (prodavnice, kafići, apoteke, javni prevoz). Idealno za par ili osobu koja traži useljiv, moderan i čist prostor bez dodatnih ulaganja. Bez kućnih ljubimaca.\n\nFor rent: a beautiful, brand-new and luxuriously furnished two-room (one-bedroom) apartment of 45m² in Voždov Kvart, Voždovac. The apartment is fully furnished. All furniture and appliances are completely new and have never been used, the building is new construction, and the apartment is available for move-in from October 15th. The location is excellent, with all amenities in the immediate vicinity (shops, cafés, pharmacies, public transport). Ideal for a couple or an individual looking for a move-in-ready, modern and clean space with no additional investment required. No pets.",
-  "photos": 12,
+  "photos": 15,
   "added": "2026-10-26",
   "updated": "2026-10-26"
  },
