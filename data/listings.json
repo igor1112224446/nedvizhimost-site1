@@ -1,5 +1,675 @@
 [
  {
+  "id": "kp-169779433",
+  "slug": "kp-169779433-prodaja-stan",
+  "deal": "sale",
+  "type": "apartment",
+  "title": "Продажа: однокомнатная квартира, Белград",
+  "kind": "однокомнатная квартира",
+  "price": 57500,
+  "area": null,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Белград",
+  "districtSlug": "beograd",
+  "location": "",
+  "street": "",
+  "geo": null,
+  "facts": [
+   [
+    "Комнат",
+    "1"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся однокомнатная квартира в районе Белград. Цена 57 500 €.",
+  "original": "Prodajem apartman na Srebrnom Jezeru  ili zamena za stan u Indjiji,    Staroj  Pazovi Batajnici Zemunu  ili blizoj okolini\n\nDirektno od vlasnika, bez agencijske provizije Na prodaju apartman na Srebrnom Jezeru , u blizini šetališta u zgradi novije gradnje, Udaljen od plaze 80m sa kompletnom opremljenom kuhinjom, spavaćom sobom i opremljenim kupatilom. Sastoji od dnevne sobe, spavaće sobe, kupatila, i 2 TERASE zgrada se nalazi u neposrednoj blizini sportske hale Površina jednosobnog stana je 41m2, i nalazi se na visokom prizemlju. Stan se prodaje sa nameštajem.\n\nLokacija:  \n\nU neposrednoj blizini nalaze se plaza bazeni, kafići, restorani, prodavnice,   i svi drugi sadržaji neophodni za život u urbanom okruženju. Stan je savršeno pozicioniran za one koji traže spoj mira  i praktičnosti.\n\nZaključak:\n\nSve što vam je potrebno za udoban život nalazi se na dohvat ruke.  \n\nSvaka preporuka!\n\n   \n\n Vlasnik 1/1 Cena stana   u zameni je 61500 eura.  \n\nZahvaljujem sto ste pokazali interesovanje i pogledali moj oglas.",
+  "photos": 15,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
+  "id": "kp-196389637",
+  "slug": "kp-196389637-prodaja-stan-pogledajte-nekretnine-u-okolininovo",
+  "deal": "sale",
+  "type": "apartment",
+  "title": "Продажа: 1,5-комнатная квартира, 56 м², Погледайте некретнине у околиниНОВО, Вождовац",
+  "kind": "1,5-комнатная квартира",
+  "price": 160000,
+  "area": 56,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Погледайте некретнине у околиниНОВО",
+  "street": "",
+  "geo": {
+   "lat": 44.77924,
+   "lng": 20.48552
+  },
+  "facts": [
+   [
+    "Площадь",
+    "56 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "приземный из 5"
+   ],
+   [
+    "Отопление",
+    "тепловой насос, тёплый пол"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Дом",
+    "новостройка"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "энергопаспорт",
+   "видеонаблюдение",
+   "лифт",
+   "доступ для колясок",
+   "гараж"
+  ],
+  "text": "Продаётся 1,5-комнатная квартира площадью 56 м² в районе Погледайте некретнине у околиниНОВО (Вождовац, Белград). Приземный этаж из 5, без мебели, отопление тепловой насос, тёплый пол, новостройка. Есть: интернет, домофон, терраса, кабельное ТВ, кондиционер, энергопаспорт, видеонаблюдение, лифт, доступ для колясок, гараж. Цена 160 000 €.",
+  "original": "Na prodaju stan površine 56,04 m², sa prostranom terasom od 25 m² koja se dobija GRATIS uz stan.\n\nFunkcionalan raspored obuhvata dnevni boravak sa trpezarijom, odvojenu kuhinju, spavaću sobu, kupatilo i ulazni hodnik.\n\nPosebnu vrednost daje velika terasa sa izlazom iz dnevnog boravka — prostor za jutarnju kafu, porodični ručak i odmor na otvorenom.\n\nStan ima podno grejanje u svim prostorijama, sa toplotnom pumpom, kao i stakla sa efektom ogledala koja, obezbeđuju privatnost i u večernjim satima.\n\nUkupno 81,04 m² prostora za život i uživanje, uz plaćanje samo 56,04 m² stana.\n\nCena stana: 160.000 EUR.\n\nProdaja direktno od vlasnika. Na kupoprodajnu cenu ne obračunava se PDV.\n\nMogućnost kupovine garažnog mesta po ceni od 15.000 EUR.",
+  "photos": 3,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
+  "id": "kp-196606682",
+  "slug": "kp-196606682-prodaja-stan-pogledajte-nekretnine-u-okolininovo",
+  "deal": "sale",
+  "type": "apartment",
+  "title": "Продажа: 1,5-комнатная квартира, 53 м², Погледайте некретнине у околиниНОВО, Звездара",
+  "kind": "1,5-комнатная квартира",
+  "price": 110000,
+  "area": 53,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Погледайте некретнине у околиниНОВО",
+  "street": "Мирослава Йовановича 35",
+  "geo": {
+   "lat": 44.79732,
+   "lng": 20.52288
+  },
+  "facts": [
+   [
+    "Площадь",
+    "53 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "высокий приземный из 2"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "частично меблирована"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "терраса"
+  ],
+  "text": "Продаётся 1,5-комнатная квартира площадью 53 м² в районе Погледайте некретнине у околиниНОВО (Звездара, Белград). Высокий приземный этаж из 2, частично меблирована, отопление аккумуляционные печи, в исходном состоянии, старый фонд. Есть: терраса. Цена 110 000 €.",
+  "original": "Na prodaju je nekretnina koja se nalaziu  Ulici Miroslava Jovanovića 35, u mirnom i prijatnom delu naselja, okruženom pretežno porodičnim kućama , pruža osećaj privatnosti i mirnog stanovanja, a istovremeno omogućava dobru povezanost sa gradskim sadržajima.\n\nPredmet prodaje je 1/4 idealnog dela katastarske parcele 729/6 KO Mirijevo, površine 639m2, nakojoj se nalazi stambena zgrada sa ukupno četiri stambene jedinice u vlasništvu PotulićVojkana.\n\nStan koji je predmet prodaje nalazi se u visokom prizemlju zgrade i ima površinu od 53 m². Stan predstavlja funkcionalnu stambenu celinu i pogodan je za porodično stanovanje, ali i kao investicija za izdavanje.\n\nVlanik 1/1 , sva dokumentacija dostupna na zahtev.",
+  "photos": 10,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
+  "id": "kp-196238867",
+  "slug": "kp-196238867-prodaja-stan-pogledajte-nekretnine-u-okolininovo",
+  "deal": "sale",
+  "type": "apartment",
+  "title": "Продажа: трёхкомнатная квартира, 55 м², Погледайте некретнине у околиниНОВО, Вождовац",
+  "kind": "трёхкомнатная квартира",
+  "price": 179000,
+  "area": 55,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Погледайте некретнине у околиниНОВО",
+  "street": "Йована Биелича",
+  "geo": {
+   "lat": 44.76795,
+   "lng": 20.49105
+  },
+  "facts": [
+   [
+    "Площадь",
+    "55 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "4-й из 4"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "подвал",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка"
+  ],
+  "text": "Продаётся трёхкомнатная квартира площадью 55 м² в районе Погледайте некретнине у околиниНОВО (Вождовац, Белград). 4-й этаж из 4, старый фонд. Есть: можно въехать сразу, интернет, домофон, терраса, подвал, кабельное ТВ, кондиционер, парковка. Цена 179 000 €.",
+  "original": "Prodajem stan u naselju Braće Jerković, full renoviran, na ekstra lokaciji, preko puta osnovne škole, vrtića, doma zdravlja, maxija i šoping centra. Uknjizen 1/1 direktno od vlasnika bez provizije. Mogu i kreditni kupci.",
+  "photos": 14,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
+  "id": "kp-196608826",
+  "slug": "kp-196608826-prodaja-stan-pogledajte-nekretnine-u-okolininovo",
+  "deal": "sale",
+  "type": "apartment",
+  "title": "Продажа: 2,5-комнатная квартира, 58.8 м², Погледайте некретнине у околиниНОВО, Звездара",
+  "kind": "2,5-комнатная квартира",
+  "price": 88200,
+  "area": 58.8,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Погледайте некретнине у околиниНОВО",
+  "street": "Руди Чаявеца 19",
+  "geo": {
+   "lat": 44.79288,
+   "lng": 20.54144
+  },
+  "facts": [
+   [
+    "Площадь",
+    "58.8 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "приземный из 4"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "новостройка"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся 2,5-комнатная квартира площадью 58.8 м² в районе Погледайте некретнине у околиниНОВО (Звездара, Белград). Приземный этаж из 4, в исходном состоянии, новостройка. Цена 88 200 €.",
+  "original": "Prodaje se 2,5 stan u prizemlju. Zgrada je u toku uknjiženja, adresa Rudi Čajaveca 19.\n\nZgrada useljena 2021.  \n\nKupac, ako se odluči, može dobiti stan u roku od 30 dana, ključ u ruke. U tom slučaju, cena kvadrata je 1990€, odnosno uvećana za 490€ po m².\n\nPozicija zgrade je preko puta osnovne škole, u blizini autobuske stanice, pijace, kao i na 400m od buduće Metro stanice.\n\nZgrada poseduje građevinsku dozvolu i plaćenu direkciju.",
+  "photos": 10,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
+  "id": "kp-196609620",
+  "slug": "kp-196609620-prodaja-stan-pogledajte-nekretnine-u-okolininovo",
+  "deal": "sale",
+  "type": "apartment",
+  "title": "Продажа: трёхкомнатная квартира, 101 м², Погледайте некретнине у околиниНОВО, Чукарица",
+  "kind": "трёхкомнатная квартира",
+  "price": 186000,
+  "area": 101,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "cukarica",
+  "location": "Погледайте некретнине у околиниНОВО",
+  "street": "Михайла Валтровича",
+  "geo": {
+   "lat": 44.75988,
+   "lng": 20.40974
+  },
+  "facts": [
+   [
+    "Площадь",
+    "101 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "приземный из 3"
+   ],
+   [
+    "Отопление",
+    "центральное, кондиционер"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "энергопаспорт",
+   "доступ для колясок",
+   "гараж"
+  ],
+  "text": "Продаётся трёхкомнатная квартира площадью 101 м² в районе Погледайте некретнине у околиниНОВО (Чукарица, Белград). Приземный этаж из 3, без мебели, отопление центральное, кондиционер, в исходном состоянии, старый фонд. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, кондиционер, энергопаспорт, доступ для колясок, гараж. Цена 186 000 €.",
+  "original": "Prodajem uknjizen stan na Zarkovu Beograd 86 m2 sa garazom 16 m 2 u prizemlju stambene zgrade sa tri stana.  \n\nCena za stan 86 m 168.000 eura a za garazu 16 m 2 18.000 eura",
+  "photos": 15,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
+  "id": "kp-194905494",
+  "slug": "kp-194905494-prodaja-stan-pogledajte-nekretnine-u-okolininovo",
+  "deal": "sale",
+  "type": "apartment",
+  "title": "Продажа: 1,5-комнатная квартира, 51 м², Погледайте некретнине у околиниНОВО, Раковица",
+  "kind": "1,5-комнатная квартира",
+  "price": 163000,
+  "area": 51,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Раковица",
+  "districtSlug": "rakovica",
+  "location": "Погледайте некретнине у околиниНОВО",
+  "street": "Видиковачки венац",
+  "geo": {
+   "lat": 44.73978,
+   "lng": 20.41879
+  },
+  "facts": [
+   [
+    "Площадь",
+    "51 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "1-й из 3"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся 1,5-комнатная квартира площадью 51 м² в районе Погледайте некретнине у околиниНОВО (Раковица, Белград). 1-й этаж из 3, отопление центральное, в исходном состоянии, старый фонд. Цена 163 000 €.",
+  "original": "Prodajem stan u ulici Vidikovački venac, 51m2, uknjižen.\n\nAdaptiran u dvosoban stan.\n\nU blizini pijaca, osnovna škola i vrtić.",
+  "photos": 4,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
+  "id": "kp-196609637",
+  "slug": "kp-196609637-prodaja-stan-pogledajte-nekretnine-u-okolininovo",
+  "deal": "sale",
+  "type": "apartment",
+  "title": "Продажа: 1,5-комнатная квартира, 45 м², Погледайте некретнине у околиниНОВО, Савски-Венац",
+  "kind": "1,5-комнатная квартира",
+  "price": 183000,
+  "area": 45,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "savski-venac",
+  "location": "Погледайте некретнине у околиниНОВО",
+  "street": "",
+  "geo": {
+   "lat": 44.79151,
+   "lng": 20.43442
+  },
+  "facts": [
+   [
+    "Площадь",
+    "45 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "приземный из 3"
+   ],
+   [
+    "Отопление",
+    "кондиционер"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "кондиционер"
+  ],
+  "text": "Продаётся 1,5-комнатная квартира площадью 45 м² в районе Погледайте некретнине у околиниНОВО (Савски-Венац, Белград). Приземный этаж из 3, без мебели, отопление кондиционер, после ремонта, старый фонд. Есть: можно въехать сразу, кондиционер. Цена 183 000 €.",
+  "original": "Na prodaju izuzetno lep, kompletno renoviran stan od 45 m² na Senjaku, smešten u kvalitetnoj zgradi stare gradnje, u mirnom i prijatnom okruženju, a svega nekoliko minuta od centra grada.  \n\nStan je upravo renoviran od poda do plafona, uz potpunu zamenu instalacija — nova struja i vodovodne instalacije, novi podovi, sanitarije, kuhinja i unutrašnja obrada. Poseban osećaj prostora daju visoki plafoni, karakteristični za kvalitetnu starogradnju.  \n\nEnterijer je uređen u modernom, elegantnom i neutralnom stilu. Kuhinja je potpuno nova i opremljena ugradnom tehnikom.  \n\nGrejanje je na struju putem Wi-Fi inverter klima uređaja, koji omogućava ekonomično grejanje i hlađenje, kao i daljinsko upravljanje putem aplikacije.  \n\nZahvaljujući kompletnoj renovaciji budućem vlasniku ne zahteva nikakva dodatna ulaganja — odmah je useljiv.  \n\nPosebnu vrednost stanu daje bašta i zelenilo neposredno ispred stana, koji pružaju mir, privatnost i poseban osećaj stanovanja u kući – prava retkost na lokaciji tako blizu centra grada.  \n\nLokacija pruža ono po čemu je Senjak posebno cenjen: mir, zelenilo i privatnost, uz odličnu povezanost sa centrom Beograda.  \n\nUknjižen 1/1 bez tereta\n\nPovršina: Uknjižena 43m2, merena 45 m²\n\nLokacija: Senjak\n\nCena: 183.000 €\n\nZa agencije:  \n\nProdaja direktno od vlasnika. Agencije mogu dovesti svoje klijente, ali ne potpisujem ugovor o posredovanju niti prihvatam obavezu plaćanja provizije.  \n\nMolim bez poziva radi nuđenja usluga i preuzimanja oglasa!",
+  "photos": 7,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
+  "id": "kp-190110018",
+  "slug": "kp-190110018-prodaja-stan-pogledajte-nekretnine-u-okolininovo",
+  "deal": "sale",
+  "type": "apartment",
+  "title": "Продажа: двухкомнатная квартира, 60 м², Погледайте некретнине у околиниНОВО, Раковица",
+  "kind": "двухкомнатная квартира",
+  "price": 167000,
+  "area": 60,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Раковица",
+  "districtSlug": "rakovica",
+  "location": "Погледайте некретнине у околиниНОВО",
+  "street": "Вукасовичева",
+  "geo": {
+   "lat": 44.74489,
+   "lng": 20.46218
+  },
+  "facts": [
+   [
+    "Площадь",
+    "60 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "1-й из 7"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "домофон",
+   "терраса",
+   "подвал",
+   "лифт",
+   "парковка"
+  ],
+  "text": "Продаётся двухкомнатная квартира площадью 60 м² в районе Погледайте некретнине у околиниНОВО (Раковица, Белград). 1-й этаж из 7, с мебелью, отопление центральное, в исходном состоянии, старый фонд. Есть: можно въехать сразу, домофон, терраса, подвал, лифт, парковка. Цена 167 000 €.",
+  "original": "Na Miljakovcu, u ulici Vukasovićevoj, prodaje se dvosoban stan od 53m². +terasa 7m2Stan se nalazi na prvom spratu zgrade koja ima šest spratova. Namešten je i ima kupatilo, terasu i pogled na dvorište. U spavaćoj sobi postavljen je parket, a uz zid se nalazi ugradni orman. Grejanje je centralno. Stan ima dvorišno parking mesto.\n\nLokacija na Miljakovcu pruža dobru saobraćajnu povezanost. Autobuska stanica nalazi se u neposrednoj blizini. U blizini se nalaze škole, vrtić, fakultet, zdravstvene ustanove, prodavnice i park.\n\nStan se prodaje direktno od vlasnika. Cena iznosi 167000 evra. Stan je uknjižen i može se kupiti putem kredita.",
+  "photos": 15,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
+  "id": "kp-194863225",
+  "slug": "kp-194863225-prodaja-stan-pogledajte-nekretnine-u-okolininovo",
+  "deal": "sale",
+  "type": "apartment",
+  "title": "Продажа: 2,5-комнатная квартира, 51 м², Погледайте некретнине у околиниНОВО, Чукарица",
+  "kind": "2,5-комнатная квартира",
+  "price": 90660,
+  "area": 51,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "cukarica",
+  "location": "Погледайте некретнине у околиниНОВО",
+  "street": "Саре Бернар 15",
+  "geo": {
+   "lat": 44.69553,
+   "lng": 20.38164
+  },
+  "facts": [
+   [
+    "Площадь",
+    "51 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "низкий приземный"
+   ],
+   [
+    "Отопление",
+    "кондиционер"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся 2,5-комнатная квартира площадью 51 м² в районе Погледайте некретнине у околиниНОВО (Чукарица, Белград). Низкий приземный этаж, с мебелью, отопление кондиционер, после ремонта, старый фонд. Цена 90 660 €.",
+  "original": "Prodaja\n\nizuzetno svetao stan bez zaklanjanja sunca okolnih zgrada\nukopan do pola, zimi topao, leti prijatan.  \n\nStan je kupljen 2011 i radjen u sopstvenoj režiji te nema veze sa zgradom koja je rađena pod okriljem Šumadije.  \n\nKompletno namešten stan 51kvm uz dodatnu prostoriju od 15kvm.  \n\ntrenutno je izdat po ceni od 300e \n\nDve odvojene spavaće sobe,  \nkupatilo,  \nkuhinja,  \ndnevna soba sa trpezarijom\n\nVeoma niski troškovi režije\n\nza ove pare nemate nigde stan u Beogradu od 50+ kvm",
+  "photos": 6,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
+  "id": "kp-177375288",
+  "slug": "kp-177375288-prodaja-stan-pogledajte-nekretnine-u-okolininovo",
+  "deal": "sale",
+  "type": "apartment",
+  "title": "Продажа: студия, 21 м², Погледайте некретнине у околиниНОВО, Вождовац",
+  "kind": "студия",
+  "price": 83000,
+  "area": 21,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Погледайте некретнине у околиниНОВО",
+  "street": "",
+  "geo": {
+   "lat": 44.76321,
+   "lng": 20.50382
+  },
+  "facts": [
+   [
+    "Площадь",
+    "21 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "2-й из 3"
+   ],
+   [
+    "Отопление",
+    "кондиционер, аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "новостройка"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "парковка"
+  ],
+  "text": "Продаётся студия площадью 21 м² в районе Погледайте некретнине у околиниНОВО (Вождовац, Белград). 2-й этаж из 3, с мебелью, отопление кондиционер, аккумуляционные печи, в исходном состоянии, новостройка. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, кондиционер, видеонаблюдение, парковка. Цена 83 000 €.",
+  "original": "Retko u ponudi! Naselje Vojvode Vlahovic Mitrovo brdo, garsonjera 21 kvm, sprat 2/3, potpuno namestena, zgrada novije gradnje sa terasom, PVC stolarija, inverter klimom, TA peći, ugradnom kuhinjom, belom tehnikom, dokumentacija ispravna 1/1 , overena od strane notara , ceka se resenje za legalizaciju! Parking moguc na javnoj povrsini pored zgrade. Garsonjera se dugorocno izdaje . Ukoliko kupac zeli moguce je nastaviti izdavanje trenutnom zajmoprimcu.\n\nBEZ ULAGANJA! TRENUTNO SAMO KEŠ KUPCI.\n\n \n\nVREMENSKI OGRANICENA PONUDA  !",
+  "photos": 15,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
+  "id": "kp-196618607",
+  "slug": "kp-196618607-prodaja-stan-pogledajte-nekretnine-u-okolininovo",
+  "deal": "sale",
+  "type": "apartment",
+  "title": "Продажа: трёхкомнатная квартира, 75 м², Погледайте некретнине у околиниНОВО, Новый Белград",
+  "kind": "трёхкомнатная квартира",
+  "price": 335000,
+  "area": 75,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "novi-beograd",
+  "location": "Погледайте некретнине у околиниНОВО",
+  "street": "Булевар Хероя Са Кошара 2A",
+  "geo": {
+   "lat": 44.81526,
+   "lng": 20.39546
+  },
+  "facts": [
+   [
+    "Площадь",
+    "75 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "2-й из 9"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "новостройка"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "лифт",
+   "доступ для колясок"
+  ],
+  "text": "Продаётся трёхкомнатная квартира площадью 75 м² в районе Погледайте некретнине у околиниНОВО (Новый Белград, Белград). 2-й этаж из 9, с мебелью, новостройка. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, кондиционер, видеонаблюдение, лифт, доступ для колясок. Цена 335 000 €.",
+  "original": "u ponudi je odličan, kompletno opremljen stan površine 75m2 na 2. spratu, stambeno-poslovnog komopleksa Elixir Garden u okviru WEST 65 kompleksa.  \n\nStan je funkcionalnog rasporeda a sastoji se iz ;  \n\n- Dve prostrane spavaće sobe \n\n- Prostranog dnevnog boravka \n\n- Kuhinjsko-trpezarijskog dela\n\n- Dva kupatila \n\n- Posebne prostorije za pranje i susenje vesa\n\n- Terase iz koje se može izaæi kako iz dnevnog boravka tako i iz spavaæih soba.  \n\nKompleks pruža visok nivo sigurnosti i udobnosti;  \n\n- Obezbeđnje \n\n- Video nadzor 24/7\n\n- Hrastov parket kao i prozori vrhunskog kvaliteta\n\n- U dvorištu zgrade uređen park sa obezbeđenim delom za decu u sklopu čega je i privatni dečiji vrtić.  \n\n- Fontane sa predivno organizovanim enterijerom za odmor i relaksaciju u malo zelenoj oazi\n\n- Stan je zbog karakteristika podoban kako za stanovanje tako i za poslovnu namenu.  \n\nVlasnik",
+  "photos": 15,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
   "id": "kp-184046539",
   "slug": "kp-184046539-prodaja-stan-pogledajte-nekretnine-u-okolini",
   "deal": "sale",
