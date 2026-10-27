@@ -4622,7 +4622,7 @@
   "text": "Сдаётся квартира в районе Белград. Цена по запросу.",
   "originalLang": "sr",
   "original": "Praktično sve... Kupi i prodaj u najvećoj online zajednici u Srbiji. Probaj na kp!",
-  "photos": 12,
+  "photos": 15,
   "added": "2026-10-26",
   "updated": "2026-10-26"
  },
@@ -4648,7 +4648,7 @@
   "text": "Сдаётся квартира в районе Белград. Цена по запросу.",
   "originalLang": "sr",
   "original": "Praktično sve... Kupi i prodaj u najvećoj online zajednici u Srbiji. Probaj na kp!",
-  "photos": 12,
+  "photos": 15,
   "added": "2026-10-26",
   "updated": "2026-10-26"
  },
@@ -4922,7 +4922,7 @@
   "text": "Сдаётся трёхкомнатная квартира площадью 63 м² в районе Земун. 1-й этаж из 2, с мебелью, отопление тёплый пол, после ремонта, дом современной постройки. Есть: можно въехать сразу, домофон, терраса, подвал, кабельное ТВ, кондиционер, парковка, депозит. Аренда 550 € в месяц.",
   "originalLang": "sr",
   "original": "Izdaje se kompletno namesten stan kod pijace, ,blizina osnovnih skola Mitraljeta i Branko Radicevic na oko 200m, blizina autobuskih stanica, blizina marketa, prodavnica, menjacnica, vrtica, labaratorija, pekara, zdrave hrane, ribarnice, cvecare, auto servisa, registracije vozila, sve ispred zgrade ili u neposrednoj blizini. .. zgrada stara 10 ak godina, kompletno namesten i funkcionalan. . .2 kompletno namestene sobe,2 televizora, dnevni boravak, trpezarija, u kupatilu masina Lg za pranje i susenje cesa, ormari, plakari, masina za pranje sudova, frizider, rerna, cak su i tanjiri ostavljeni, klima uredjaj, apsolutno sve. . . parking mesto ispred zgrade. . . najminimalniji mesecni troskovi, grejanje zimi stoji na 23 stepena i racun ne prelazi 3500 dinara, to je maksimalno koliko smo dobili. . . placanje, u startu se ostavlaju 2 kirije, jedna ostaje kao depozit, a druga se daje za pocetak meseca kao i svaka naredna, pred pocetak svakog meseca. . . . stan je odmah useljiv.\n\nISKLJUCIVO ZA PORODICE SA DECOM, JER STAN TAKO NAMESTEN.\n\nNIJE PET FRIENDLY.",
-  "photos": 12,
+  "photos": 15,
   "added": "2026-10-26",
   "updated": "2026-10-26"
  },
@@ -4988,6 +4988,189 @@
   "originalLang": "sr",
   "original": "Izdaje se namesten stan, kompletno renoviran, izuzetno svetao i ususkan na strani koja gleda ka dvoristu, iako je u zgradi koja je na samoj glavnoj ulici. Ispred zgrade se nalazi tramvajska stanica 9l, 10, 14, kafici, market, pekara, menjacnica, banka itd. U blizini FON-a, Saobracajnog fakulteta, Vise elektrotehnicke, Singidunuma, banjicke sume. Dobra povezanost sa svim delovima grada. Parking na javnim povrsinama oko zgrade je dostupan bez zone. Useljiv od 1. novembra",
   "photos": 9,
+  "added": "2026-10-26",
+  "updated": "2026-10-26"
+ },
+ {
+  "id": "kp-196148972",
+  "slug": "kp-196148972-izdavanje-stan-cukarica",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 35 м², Чукарица",
+  "kind": "1,5-комнатная квартира",
+  "price": 350,
+  "area": 35,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "cukarica",
+  "location": "",
+  "street": "вука Караджича",
+  "geo": {
+   "lat": 44.72824,
+   "lng": 20.31882
+  },
+  "facts": [
+   [
+    "Площадь",
+    "35 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "приземный"
+   ],
+   [
+    "Отопление",
+    "кондиционер, электрическое, твёрдое топливо"
+   ],
+   [
+    "Мебель",
+    "частично меблирована"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "кондиционер",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 35 м² в районе Чукарица. Приземный этаж, частично меблирована, отопление кондиционер, электрическое, твёрдое топливо, в исходном состоянии, старый фонд. Есть: кондиционер, парковка, депозит. Аренда 350 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem stan u Ostružnica",
+  "photos": 7,
+  "added": "2026-10-26",
+  "updated": "2026-10-26"
+ },
+ {
+  "id": "kp-194627455",
+  "slug": "kp-194627455-izdavanje-stan-palilula",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 5-комнатная квартира, 136.66 м², Палилула",
+  "kind": "5-комнатная квартира",
+  "price": 307485,
+  "area": 136.66,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "",
+  "street": "Зоре Дремпетиц",
+  "geo": {
+   "lat": 44.81926,
+   "lng": 20.54051
+  },
+  "facts": [
+   [
+    "Площадь",
+    "136.66 м²"
+   ],
+   [
+    "Комнат",
+    "5"
+   ],
+   [
+    "Этаж",
+    "приземный из 3"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "частично меблирована"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "подвал",
+   "кабельное ТВ",
+   "доступ для колясок",
+   "парковка"
+  ],
+  "text": "Сдаётся 5-комнатная квартира площадью 136.66 м² в районе Палилула. Приземный этаж из 3, частично меблирована, отопление автономное, в исходном состоянии, дом современной постройки. Есть: интернет, подвал, кабельное ТВ, доступ для колясок, парковка. Аренда 307 485 € в месяц.",
+  "originalLang": "sr",
+  "original": "Ceo sprat, deljiv na dve stambene jedinice(77.74m2 četvorosoban-58.92m2 trosoban). Ispred stana je privatno dvorište(ograđeno, natkriveno)dva  parking mesta u dvoristu, prirodna trava idealno za decu, dve ostave, predivan pogled na Dunav. Stan je postupku ozakonjenja(svoj na svome). U obzir dolaze samo keš kupci, za sada. Stan rađen za investitora izuzetno funkcionalan. Idealno za poslovni prostor.7km. od centra grada,250m. od okretnice BUS-a 35,63 i 202. . . U blizini Ada Huja, Lidl, BG Fashion itd. . . Zamena za stan u Beogradu ili Zlatiboru do 80.000e. . .",
+  "photos": 15,
+  "added": "2026-10-26",
+  "updated": "2026-10-26"
+ },
+ {
+  "id": "kp-194771921",
+  "slug": "kp-194771921-izdavanje-stan-palilula",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 5-комнатная квартира, 222 м², Палилула",
+  "kind": "5-комнатная квартира",
+  "price": 2200,
+  "area": 222,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "",
+  "street": "",
+  "geo": {
+   "lat": 44.81125,
+   "lng": 20.4779
+  },
+  "facts": [
+   [
+    "Площадь",
+    "222 м²"
+   ],
+   [
+    "Комнат",
+    "5"
+   ],
+   [
+    "Этаж",
+    "6-й из 7"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "гараж"
+  ],
+  "text": "Сдаётся 5-комнатная квартира площадью 222 м² в районе Палилула. 6-й этаж из 7, с мебелью, отопление центральное, дом современной постройки. Есть: можно въехать сразу, гараж. Аренда 2 200 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se luksuzno opremljen duplex stan u Dalmatinskoj površine 222 m², raspoređen na dva nivoa.\n\nPiseduje sopstveni bazen i saunu.\n\nOtvaranjem krova moze se suncati\n\nStan je prostran, moderan i veoma komforan. Sadrži sve što je potrebno za udoban boravak.\n\nOdličan izbor za strance i za porodice.",
+  "photos": 15,
   "added": "2026-10-26",
   "updated": "2026-10-26"
  },
@@ -5170,7 +5353,7 @@
   "text": "Сдаётся однокомнатная квартира площадью 29 м² в районе Звездара. 1-й этаж из 1, с мебелью, отопление кондиционер, норвежские радиаторы, в исходном состоянии, дом современной постройки. Есть: можно въехать сразу, интернет, терраса, кабельное ТВ, кондиционер, видеонаблюдение, депозит. Аренда 400 € в месяц.",
   "originalLang": "sr",
   "original": "Izdajem nov  stan od 29m2, potpuno namešten u ulici Nikole Vulića br1. Stan je izdvojen odnosno zaseban i  sastoji od hodnika, spavaće sobe, kupatila kuhinje i terase. Sve je pod garancijom. Grejanje je inverter klimom . Mašina za pranje i sušenje veša, kablovska, internet. Autobuska stanica br64 na 50m od stana. U blizini okretnica tramvaja 5,6,7,14, autobus  br: 20,50,309,74 kao i prodavnice: Lidl, Šumadija, Dis, Idea, Aman, Maxi, Univerexport, menjačnice, pekare, pumpe. Ulica nije zonirana.\n\nIdealan za mladi bračni par, samce.\n\nZa sve informacije pozvati, ne odgovaram na poruke.\n\nSrećno!",
-  "photos": 12,
+  "photos": 15,
   "added": "2026-10-26",
   "updated": "2026-10-26"
  },
@@ -5214,7 +5397,7 @@
   "text": "Сдаётся 1,5-комнатная квартира площадью 36 м² в районе Врачар. 1-й этаж. Есть: можно въехать сразу. Аренда 600 € в месяц.",
   "originalLang": "sr",
   "original": "Jednosoban stan u Marulicevoj br.1 na Vracaru pored Hrama Svetog Save. Stan poseduje garazu , na prvom spratu ima terasu polunamesten je, ima klimu , grejanje mermerni radijatori, nema kablovsku . Zgrada je pod video nadzorom, stan ima 36m kvadratnih. 600 eura",
-  "photos": 12,
+  "photos": 13,
   "added": "2026-10-26",
   "updated": "2026-10-26"
  },
@@ -5685,7 +5868,7 @@
   "text": "Сдаётся квартира в районе Белград. Цена по запросу.",
   "originalLang": "sr",
   "original": "Praktično sve... Kupi i prodaj u najvećoj online zajednici u Srbiji. Probaj na kp!",
-  "photos": 12,
+  "photos": 15,
   "added": "2026-10-26",
   "updated": "2026-10-26"
  },
@@ -5711,7 +5894,7 @@
   "text": "Сдаётся квартира в районе Белград. Цена по запросу.",
   "originalLang": "sr",
   "original": "Praktično sve... Kupi i prodaj u najvećoj online zajednici u Srbiji. Probaj na kp!",
-  "photos": 12,
+  "photos": 15,
   "added": "2026-10-26",
   "updated": "2026-10-26"
  },
@@ -5800,7 +5983,7 @@
   "text": "Сдаётся трёхкомнатная квартира площадью 52 м² в районе Палилула. 4-й этаж из 4, с мебелью, отопление кондиционер, аккумуляционные печи, после ремонта, старый фонд. Есть: можно въехать сразу, терраса, кондиционер, депозит. Аренда 640 € в месяц.",
   "originalLang": "sr",
   "original": "Izdaje se kompletno namešten i opremljen stan površine 52m², lociran na odličnoj poziciji na Karaburmi. Stan je izuzetno svetao, funkcionalan i spreman za useljenje.  \n\nStruktura: Trosoban(dnevna soba sa kuhinjom i trpezarijom, odvojene dve spavaće sobe, kupatilo i  terasa sa pogledom na Dunav). Grejanje: (TA / Inverter klima)- van grejne sezone rezijski troskovi su niski.  \nStan je udaljen oko 4 km od Trga Republike, Vukovog spomenika, Beograđanke i Kalenić pijace. Autobuska stanica za 16, 23 i 25 je u neposrednoj blizini zgrade, a linije 25P, 32, 35 i 74 nalaze se na nekoliko minuta hoda. Sve je blizu.  \n\nU neposrednoj blizini nalazi se nekoliko velikih supermarketa, a do TC Big Fashion potrebno je svega par minuta peške.   Ako volite šetnju i izlazak u prirodu, u blizini su Ada Huja, Ciglana i Opservatorija na Zvezdari. U naselju parkinzi nisu zonirani (ne pplaćaju se).  \n\nPo mom mišljenju, ovo je jedan od najlepših delova Beograda – miran kraj koji obiluje zelenilom, sa mnogo sadržaja i odlično povezan sa svim delovima grada\n\nObavezan depozit u iznosu od jedne mesečne kirije.  \n\nKućni ljubimci: Nisu dozvoljeni.  \nUgovor o zakupu se potpisuje na minimum godinu dana.",
-  "photos": 12,
+  "photos": 15,
   "added": "2026-10-26",
   "updated": "2026-10-26"
  },
@@ -6145,7 +6328,7 @@
   "text": "Сдаётся 2,5-комнатная квартира площадью 62 м² в районе Земун. 2-й этаж из 6, с мебелью, отопление центральное, старый фонд. Есть: можно въехать сразу, интернет, домофон, кондиционер, лоджия, лифт. Аренда 750 € в месяц.",
   "originalLang": "sr",
   "original": "IZDAVANJE – ZEMUN, 22. OKTOBRA | 62 m² | LIFT | LOĐA | 750 €\n\nIzdaje se kompletno namešten i opremljen stan od 62 m², na odličnoj lokaciji u samom centru Zemuna, u ulici 22. oktobra, na svega 5 minuta hoda od Zemunskog keja.\n\nStan se nalazi na 2. spratu zgrade sa liftom i odlikuje se veoma funkcionalnim rasporedom, sa više zasebnih celina koje omogućavaju udoban život, rad od kuće i dovoljno prostora za odlaganje.\n\nStruktura i opremljenost:\n\nDnevna soba\nSpavaća soba sa bračnim krevetom\nKuhinja sa trpezarijskim delom\nDodatni prostor pogodan za rad od kuće ili veću trpezariju\nZatvorena lođa\nKupatilo\nZasebna prostorija za veš-mašinu\nOstava\nHodnik sa ugradnim plakarima\n\nStan je uredan, održavan, potpuno namešten i spreman za useljenje.\n\nLokacija je jedna od njegovih najvećih prednosti. U neposrednoj blizini nalaze se Zemunski kej, šetalište, restorani, kafići, prodavnice, škole, vrtići, pijaca i sadržaji potrebni za svakodnevni život. Lokacija je jako dobro povezana sa ostalim delovima Beograda.\n\nStan je pogodan za pojedince, parove ili porodice, kao i za zakupce kojima je važna mogućnost rada od kuće.\n\nCena: 750 € mesečno + režijski troškovi.\n\nMinimalni period zakupa: 12 meseci.\n\nZa dodatne informacije i dogovor oko razgledanja, kontakt putem poruka ili telefona.",
-  "photos": 12,
+  "photos": 15,
   "added": "2026-10-26",
   "updated": "2026-10-26"
  },
