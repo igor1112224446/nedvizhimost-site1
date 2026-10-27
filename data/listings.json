@@ -30863,5 +30863,739 @@
   "photos": 15,
   "added": "2026-10-25",
   "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-194994918",
+  "slug": "kp-194994918-izdavanje-stan-cukarica",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 24 м², Чукарица",
+  "kind": "студия",
+  "price": 290,
+  "area": 24,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "cukarica",
+  "location": "",
+  "street": "",
+  "geo": {
+   "lat": 44.72572,
+   "lng": 20.37362
+  },
+  "facts": [
+   [
+    "Площадь",
+    "24 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "высокий приземный"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "видеонаблюдение",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся студия площадью 24 м² в районе Чукарица. Высокий приземный этаж, с мебелью, отопление аккумуляционные печи, старый фонд. Есть: видеонаблюдение, парковка, депозит. Аренда 290 € в месяц.",
+  "originalLang": "sr",
+  "original": "Slobodna od aprila 2027.\n\nFunkcionalna i kompletno opremljena garsonjera površine 24 m², na visokom prizemlju manje zgrade, na svega par minuta hoda od gradskog prevoza (54, 58, 88, 511, 512. . . ) U blizini je više prodajnih objekata, restorana, pijaca, pekare, mali tržni centar, pošta, Lidl.\n\nOpremljena jednim krevetom, regalom iz tri dela, cipelarom i novim trpezarijskim stolom sa četiri stolice. Od uređaja poseduje nov Gorenje šporet, novu Vox veš-mašinu i frižider. Grejanje na TA peć.\n\nCena: 290 € mesečno (plus niski režijski troškovi).",
+  "photos": 10,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-194890043",
+  "slug": "kp-194890043-izdavanje-stan-palilula",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 54 м², Палилула",
+  "kind": "двухкомнатная квартира",
+  "price": 350,
+  "area": 54,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "",
+  "street": "",
+  "geo": {
+   "lat": 44.88148,
+   "lng": 20.45826
+  },
+  "facts": [
+   [
+    "Площадь",
+    "54 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "1-й из 1"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "терраса",
+   "кондиционер",
+   "депозит"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 54 м² в районе Палилула. 1-й этаж из 1, с мебелью, отопление автономное, после ремонта, старый фонд. Есть: терраса, кондиционер, депозит. Аренда 350 € в месяц.",
+  "originalLang": "sr",
+  "original": "Borca, Stan 2,0 soban, namesten,55kv, cg, klima, veš mašina, kombinovan ili običan frižider. ima dosta ormana a mogu I neke Vase stvari da stanu bez tv I trenutno bez katv I interneta. mozete je uvesti na Vase ime.350e je kirija, daje se pre useljenja kao i depozit 350e . Infostan I održavanje  je 12000 din. struja koliko potrosite. za zaposlene osobe savršen stan. samo za zaposlene bez dece posebna ponuda za pola stana klimatizovani deo, soba plus trpezarija plus kuhinja plus terasa sve zajedno sa pola računa 200e. drugu polovinu računa plaćaju drugi podstanari . bez agencija. sin vlasnika izdaje, sve samnom dogovarate. nemam Whats Up i viber a na kp poruke ne odgovaram u realnom vremenu. moze sms ili direktan poziv na broj. useljivo od 03. novembra ali to ne smeta da pogledate stan I da ga rezervisete svakim danom od 13 časova do 18 časova uz obaveznu prethodnu najavu bar dan ranije.",
+  "photos": 6,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-184636015",
+  "slug": "kp-184636015-izdavanje-stan-vozdovac",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 48 м², Вождовац",
+  "kind": "двухкомнатная квартира",
+  "price": 700,
+  "area": 48,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "",
+  "street": "",
+  "geo": {
+   "lat": 44.76962,
+   "lng": 20.4787
+  },
+  "facts": [
+   [
+    "Площадь",
+    "48 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "1-й из 6"
+   ],
+   [
+    "Отопление",
+    "кондиционер, тёплый пол"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "домофон",
+   "терраса",
+   "кондиционер",
+   "видеонаблюдение",
+   "лифт",
+   "парковка"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 48 м² в районе Вождовац. 1-й этаж из 6, с мебелью, отопление кондиционер, тёплый пол, дом современной постройки. Есть: можно въехать сразу, домофон, терраса, кондиционер, видеонаблюдение, лифт, парковка. Аренда 700 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se na duži vremenski period stan od 48m² sa posebnom komfornom sobom u Beogradu na Trošarini Vojvode Stepe \n\nNalazi se na 1. spratu u novoj zgradi\n\nNov stan nekorišćen ali potpuno opremljen sa svim stvarima\n\nInverter klima\nPodno grejanje\nTerasa gleda na Vojvode Stepe\nTV Smart\n\nKuhinja LUX\n\nParking za stanare zgrade a uskoro i parking mesto u garaži (još uvek se sredjuje)\n\nStan je opremljen luksuznom kuhinjom kao i drugim nameštajem visokog kvaliteta\n\nCena kirije je 600€ + obavezan depozit \n\nIzdaje se samo ljudima koji hoće da žive duže u njemu\n\n#izdavanjestanova #nekretnine #beograd #stanovi #realestate",
+  "photos": 15,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-191976898",
+  "slug": "kp-191976898-izdavanje-stan-zvezdara",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 60 м², Звездара",
+  "kind": "2,5-комнатная квартира",
+  "price": 250,
+  "area": 60,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "",
+  "street": "Владимира Дворниковича 12",
+  "geo": {
+   "lat": 44.75503,
+   "lng": 20.52922
+  },
+  "facts": [
+   [
+    "Площадь",
+    "60 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "приземный"
+   ],
+   [
+    "Отопление",
+    "электрическое"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "депозит"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 60 м² в районе Звездара. Приземный этаж, без мебели, отопление электрическое, в исходном состоянии, старый фонд. Есть: можно въехать сразу, депозит. Аренда 250 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem stan od 60 m2 u Velikom Mokrom Lugu. 150 metara od okretnice 308. Stan je prazan. Odmah useljiv.\n+30 694 628 8366 Zoran",
+  "photos": 8,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-195034577",
+  "slug": "kp-195034577-izdavanje-stan-palilula",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 33 м², Палилула",
+  "kind": "двухкомнатная квартира",
+  "price": 280,
+  "area": 33,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "",
+  "street": "",
+  "geo": {
+   "lat": 44.88148,
+   "lng": 20.45826
+  },
+  "facts": [
+   [
+    "Площадь",
+    "33 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "1-й из 3"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 33 м² в районе Палилула. 1-й этаж из 3, с мебелью, отопление центральное, после ремонта, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, парковка, депозит. Аренда 280 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stan u centru BORČE blizu pošta skola vrtić tržni centar skola dom zdravlja pošta pijaca info Stan 60eura Depozit 340eura",
+  "photos": 8,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-192201023",
+  "slug": "kp-192201023-izdavanje-stan-vracar",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 20 м², Врачар",
+  "kind": "студия",
+  "price": 350,
+  "area": 20,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "vracar",
+  "location": "",
+  "street": "",
+  "geo": {
+   "lat": 44.79546,
+   "lng": 20.47782
+  },
+  "facts": [
+   [
+    "Площадь",
+    "20 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "приземный"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "кабельное ТВ",
+   "видеонаблюдение",
+   "депозит"
+  ],
+  "text": "Сдаётся студия площадью 20 м² в районе Врачар. Приземный этаж, с мебелью, отопление аккумуляционные печи, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, кабельное ТВ, видеонаблюдение, депозит. Аренда 350 € в месяц.",
+  "originalLang": "sr",
+  "original": "Slobodno od .\nGarsonjera na Vračaru, mesečna renta sa depozitom. Renoviran i opremljen stan, komforno za jednu osobu. Stan ima sobu, kuhinju i kupatilo. Na atraktivnoj lokaciji, raskrsnica ulica Maksima Gorkog i Južnog bulevara. Poseban ulaz iz dvorišta. U blizini sav potreban sadržaj: veliki market, banka, kafić i restoran, prodavnica, pekara, pijaca udaljena 15 min. Dobra povezanost sa autoputem i gradskim prevozom (bus 55, 46, 25, 26). Grejanje na TA peć.\nMiran komšijski kraj, pogled na dvorište.\n\nTroškovi struje, vode i kablovske televizije se dodatno plaćaju. Obavezan depozit u iznosu prve mesečne rente.",
+  "photos": 3,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-195330703",
+  "slug": "kp-195330703-izdavanje-stan-vozdovac",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 3,5-комнатная квартира, 133 м², Вождовац",
+  "kind": "3,5-комнатная квартира",
+  "price": 100,
+  "area": 133,
+  "rooms": 3.5,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "",
+  "street": "Medakoviceva113",
+  "geo": {
+   "lat": 44.78755,
+   "lng": 20.47243
+  },
+  "facts": [
+   [
+    "Площадь",
+    "133 м²"
+   ],
+   [
+    "Комнат",
+    "3,5"
+   ],
+   [
+    "Этаж",
+    "2-й из 2"
+   ],
+   [
+    "Отопление",
+    "кондиционер, автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "домофон",
+   "терраса",
+   "подвал",
+   "двухуровневая",
+   "кондиционер",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся 3,5-комнатная квартира площадью 133 м² в районе Вождовац. 2-й этаж из 2, с мебелью, отопление кондиционер, автономное, в исходном состоянии, старый фонд. Есть: можно въехать сразу, домофон, терраса, подвал, двухуровневая, кондиционер, парковка, депозит. Аренда 100 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem stan za radnike na drugom spratu , stan je u 2 nivoa, 2 kupatila\n2 terase. . Mozemo se dogovoriti za razne varijante, sve zavisi za koliko radnika Vam treba stan, i za koji  period .",
+  "photos": 9,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-188383119",
+  "slug": "kp-188383119-izdavanje-stan-vracar",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 33 м², Врачар",
+  "kind": "однокомнатная квартира",
+  "price": 420,
+  "area": 33,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "vracar",
+  "location": "",
+  "street": "",
+  "geo": {
+   "lat": 44.79647,
+   "lng": 20.47733
+  },
+  "facts": [
+   [
+    "Площадь",
+    "33 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "приземный из 1"
+   ],
+   [
+    "Отопление",
+    "кондиционер, аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "депозит"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 33 м² в районе Врачар. Приземный этаж из 1, с мебелью, отопление кондиционер, аккумуляционные печи, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, кабельное ТВ, кондиционер, видеонаблюдение, депозит. Аренда 420 € в месяц.",
+  "originalLang": "sr",
+  "original": "Slobodno od .\nRentiram opremljen jednosoban stan. Mesečno plaćanje. Renoviran i komforan, za boravak do dve osobe. Stan ima sobu, kuhinju i kupatilo. Na atraktivnoj lokaciji, poseban ulaz iz dvorišta. U blizini sav potreban sadržaj: veliki supermarket, banka, kafić i restoran, prodavnica, pekara, gradska pijaca udaljena 15 min. Dobra povezanost sa autoputem i gradskim prevozom (bus 55, 46, 25, 26). Grejanje na klimu ili TA peć, po izboru.\nMiran komšijski kraj, pogled na dvorište.\n600eur ako borave dve osobe, 420eur ako boravi jedna osoba.\n\nTroškovi struje, vode i kablovske televizije se dodatno plaćaju. Obavezan depozit u iznosu prve mesečne rente.",
+  "photos": 6,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-181336253",
+  "slug": "kp-181336253-izdavanje-stan-vozdovac",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 40 м², Вождовац",
+  "kind": "однокомнатная квартира",
+  "price": 600,
+  "area": 40,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "",
+  "street": "войводе степе 142",
+  "geo": {
+   "lat": 44.77686,
+   "lng": 20.47448
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "1-й из 1"
+   ],
+   [
+    "Отопление",
+    "кондиционер"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "кондиционер"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 40 м² в районе Вождовац. 1-й этаж из 1, с мебелью, отопление кондиционер, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, кондиционер. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se stan od 40m² sa posebnom spavaćom sobom kod Voždovačke crkve u ulici Vojvode Stepe na 1. spratu\n\nTek renoviran\n\nU blizini puno fakulteta i škola\nSaobraćajni fakultet\nFarmaceutski fakultet\nFON\nItd. . .  \n\nPotuno opremljen \nKlima 18 inverter\nTV Smart u sobi mali\nTV smart u dnevnoj Veliki\nWifi + Televizija\n\nIspred zgrade stanica za autobous, trolejbus za sve delove grada\n\nKirija 600e + depozit\nKomunalije niske",
+  "photos": 12,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-171227084",
+  "slug": "kp-171227084-izdavanje-stan-surcin",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 55 м², Сурчин",
+  "kind": "двухкомнатная квартира",
+  "price": 2100,
+  "area": 55,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Сурчин",
+  "districtSlug": "surcin",
+  "location": "",
+  "street": "",
+  "geo": {
+   "lat": 44.79359,
+   "lng": 20.28552
+  },
+  "facts": [
+   [
+    "Площадь",
+    "55 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "энергопаспорт",
+   "парковка"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 55 м² в районе Сурчин. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, кондиционер, энергопаспорт, парковка. Аренда 2 100 € в месяц.",
+  "originalLang": "sr",
+  "original": "Novogradnja Surcin centar kod osnovne skole prvi sprat dvosoban sa TRPEZARIJOM KUHINJOM I  SA DVE SPAVACE SOBE sa parking mestom uz doplatu energetski pasos kanalizacija grejanje podno USELJIVO ODMAH CENA PO KVADRATU ZA  POSLOVNI APARTMAN OD 55 KVADRATA  JE 2100 PO KVADRATU ZGRADA SA PAPIRIMA MOZE ODMAH UKNJIZBA VLASNIK LICNO. U ponudi jos samo dva poslovna apartmana u prizemlju",
+  "photos": 13,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-192402152",
+  "slug": "kp-192402152-izdavanje-stan-grocka",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 70 м², Гроцка",
+  "kind": "трёхкомнатная квартира",
+  "price": 320,
+  "area": 70,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Гроцка",
+  "districtSlug": "grocka",
+  "location": "",
+  "street": "",
+  "geo": {
+   "lat": 44.765,
+   "lng": 20.55844
+  },
+  "facts": [
+   [
+    "Площадь",
+    "70 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "1-й из 2"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "депозит"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 70 м² в районе Гроцка. 1-й этаж из 2, в исходном состоянии, дом современной постройки. Есть: можно въехать сразу, терраса, депозит. Аренда 320 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem trosoban stan u Kaludjerici kod skole Aleksa Santic. Poseban ulaz struja grejanje na toplotnu pumpu. Ozbiljnoj porodici na duzi vtemenski period. Depozit obavezan. Stan je na prvom spratu sa dve velike terase.",
+  "photos": 7,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
+ },
+ {
+  "id": "kp-190742164",
+  "slug": "kp-190742164-izdavanje-stan-cukarica",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 40 м², Чукарица",
+  "kind": "двухкомнатная квартира",
+  "price": 200,
+  "area": 40,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "cukarica",
+  "location": "",
+  "street": "горана петровица",
+  "geo": {
+   "lat": 44.68075,
+   "lng": 20.45482
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "высокий приземный из 3"
+   ],
+   [
+    "Отопление",
+    "кондиционер"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "подвал",
+   "французский балкон",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 40 м² в районе Чукарица. Высокий приземный этаж из 3, с мебелью, отопление кондиционер, после ремонта, дом современной постройки. Есть: можно въехать сразу, интернет, терраса, подвал, французский балкон, кабельное ТВ, кондиционер, парковка, депозит. Аренда 200 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem dvosoban renoviran namesten stan u Rusnju na 50 m od autobuske stanice , crkve i marketa. Savrsen stan u miran odlican za odmor. Stan se izdaje iskljucivo gospodjama, gospodjicama. Stan za svaku preporuku.",
+  "photos": 7,
+  "added": "2026-10-25",
+  "updated": "2026-10-25"
  }
 ]
