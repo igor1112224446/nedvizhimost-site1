@@ -265,13 +265,19 @@
       e.preventDefault();
       const f = search.elements;
       const deal = search.querySelector('input[name="deal"]:checked').value;
+      const type = f.type ? f.type.value : '';
       const u = new URLSearchParams();
       if (f.district.value) u.set('district', f.district.value);
       if (f.rooms.value) u.set('rooms', f.rooms.value);
-      if (f.type && f.type.value) u.set('type', f.type.value);
       const max = parseInt(String(f.max.value).replace(/\D/g, ''), 10);
       if (max) u.set('max', max);
-      location.href = `/${deal === 'sale' ? 'prodazha' : 'arenda'}/${u.toString() ? `?${u}` : ''}`;
+      let path = deal === 'sale' ? '/prodazha/' : '/arenda/';
+      if (deal === 'sale') {
+        const sub = { flat: 'kvartiry', new: 'novostrojki', house: 'doma-i-uchastki', commercial: 'kommercheskaya' }[type];
+        if (sub) path += sub + '/';
+      } else if (type === 'house') u.set('type', 'house');
+      else if (type === 'flat' || type === 'new') u.set('type', 'apartment');
+      location.href = path + (u.toString() ? `?${u}` : '');
     });
   }
 
