@@ -28412,11 +28412,11 @@
  },
  {
   "id": "kp-195400221",
-  "slug": "kp-195400221-izdavanje-stan-zemun",
+  "slug": "kp-195400221-izdavanje-stan-openstreetmap-contributors",
   "deal": "rent",
   "type": "apartment",
   "cat": "flat",
-  "title": "Аренда: трёхкомнатная квартира, 100 м², Земун",
+  "title": "Аренда: трёхкомнатная квартира, 100 м², © ОпенСтреетМап цонтрибуторс, Земун",
   "kind": "трёхкомнатная квартира",
   "price": 550,
   "area": 100,
@@ -28424,7 +28424,7 @@
   "city": "Белград",
   "district": "Земун",
   "districtSlug": "zemun",
-  "location": "",
+  "location": "© ОпенСтреетМап цонтрибуторс",
   "street": "",
   "geo": {
    "lat": 44.9016,
@@ -28468,12 +28468,12 @@
    "кондиционер",
    "депозит"
   ],
-  "text": "Сдаётся трёхкомнатная квартира площадью 100 м² в районе Земун. 1-й этаж из 1, с мебелью, отопление газовое, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, терраса, кабельное ТВ, кондиционер, депозит. Аренда 550 € в месяц.",
+  "text": "Сдаётся трёхкомнатная квартира площадью 100 м² в районе © ОпенСтреетМап цонтрибуторс (Земун, Белград). 1-й этаж из 1, с мебелью, отопление газовое, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, терраса, кабельное ТВ, кондиционер, депозит. Аренда 550 € в месяц.",
   "originalLang": "sr",
   "original": "Izdaje se potpuno lux opremljen stan u Batajnici na izuzetnoj lokaciji, blizina osnovne skole, vrtica, pijace i autobuske stanice.   Market preko puta.\n\nStan je velicine 100m2 i po strukturi je trosoban. Nalazi se na spratu stambene kuce i ima zaseban ulaz. Grejanje je na gas.  \n\nCena je 550eur.  \n\nObavezan ugovor o zakupu overen kod notara.  \n\nBez kucnih ljubimaca.  \n\nZa sve ostale informacije molimo\nBez posrednika !",
   "photos": 15,
   "added": "2026-10-25",
-  "updated": "2026-10-25"
+  "updated": "2026-10-27"
  },
  {
   "id": "kp-195846301",
