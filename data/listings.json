@@ -756,6 +756,726 @@
   "updated": "2026-10-27"
  },
  {
+  "id": "kp-192947010",
+  "slug": "kp-192947010-prodaja-stan-jove-ilica",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: четырёхкомнатная квартира, 103 м², Йове Илича, Вождовац",
+  "kind": "четырёхкомнатная квартира",
+  "price": 520000,
+  "area": 103,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Йове Илича",
+  "street": "Йове Илича 116",
+  "geo": {
+   "lat": 44.77665,
+   "lng": 20.47348
+  },
+  "facts": [
+   [
+    "Площадь",
+    "103 м²"
+   ],
+   [
+    "Комнат",
+    "4"
+   ],
+   [
+    "Этаж",
+    "3-й из 4"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "лифт",
+   "гараж"
+  ],
+  "text": "Продаётся четырёхкомнатная квартира площадью 103 м² в районе Йове Илича (Вождовац, Белград). 3-й этаж из 4, с мебелью, отопление газовое, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, кондиционер, видеонаблюдение, лифт, гараж. Цена 520 000 €.",
+  "originalLang": "sr",
+  "original": "Opis nekretnine:\n\nU ponudi je unikatna, luksuzna nekretnina smeštena u jednoj od najlepših i najprestižnijih ulica na Voždovcu - Jove Ilića. Stan se nalazi na idealnom 3. spratu održavane četvorospratne zgrade sa liftom i pruža maksimalnu privatnost, mir i vrhunski komfor.\n\nKljučne prednosti stana:\n\nTrostrana orijentacija i obilje svetlosti: Stan je okupan prirodnim svetlom tokom celog dana, prozračan je i pruža predivan pogled na zelenilo Bajfordove šume.\nFeng Shui harmonija: Enterijer je kompletno luksuzno opremljen i dizajniran po strogim Feng Shui principima. Svaki detalj je pažljivo biran kako bi se postigao savršen balans energije, vrhunske estetike i maksimalne funkcionalnosti.\nIzuzetan raspored: Stan od 103m2 poseduje prostranu dnevnu zonu povezanu sa trpezarijom, 4 sobe koje lako možete prilagoditi svojim potrebama (spavaće, radne ili dečije sobe) i 2 moderna, kompletno opremljena kupatila.\nUživanje na otvorenom: Stan poseduje komfornu terasu idelnu za jutarnju kafu i opuštanje sa pogledom na zelenilo Voždovca.\nEkonomično grejanje: Zgrada poseduje grejanje na gas, što omogućava potpunu kontrolu troškova i optimizaciju potrošnje tokom cele godine.\nGaražno mesto: Uz stan dolazi i pripadajuće garažno mesto, što rešava svako pitanje parkiranja u ovom elitnom delu grada.\n\nLokacija:\n\nZgrada se nalazi u gornjem delu Jove Ilića (tzv. Voždovačko Dedinje), u neposrednoj blizini Voždovačke crkve. Savršen spoj elitnog urbanog života, blizine svih potrebnih sadržaja i potpune izolacije od gradske buke.\n\nStan se prodaje kompletno lux namešten. Uknjižen 1/1, moguća kupovina na kredit.",
+  "photos": 15,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
+  "id": "kp-196441134",
+  "slug": "kp-196441134-prodaja-stan-labudovo-brdo",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: трёхкомнатная квартира, 51 м², Лабудово брдо, Раковица",
+  "kind": "трёхкомнатная квартира",
+  "price": 96000,
+  "area": 51,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Раковица",
+  "districtSlug": "rakovica",
+  "location": "Лабудово брдо",
+  "street": "Опленачка",
+  "geo": {
+   "lat": 44.72604,
+   "lng": 20.42513
+  },
+  "facts": [
+   [
+    "Площадь",
+    "51 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "низкий приземный из 4"
+   ],
+   [
+    "Отопление",
+    "электрическое"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу"
+  ],
+  "text": "Продаётся трёхкомнатная квартира площадью 51 м² в районе Лабудово брдо (Раковица, Белград). Низкий приземный этаж из 4, без мебели, отопление электрическое, после ремонта, старый фонд. Есть: можно въехать сразу. Цена 96 000 €.",
+  "originalLang": "sr",
+  "original": "Odličan kompletno renoviran trosoban stan na odličnoj lokaciji.\n\nSastoji se od dnevne sobe sa kuhinjom i trpezarijom. Iz dnevne sobe se ide u dve lepe komotne spavaće sobe, kupatilo je veliko sa prirodnom ventilacijom, stan je uknjižen, prazan, odmah useljiv.\n\nOkrenut je prema parku na odličnoj lokaciji sa kompletnom infrastrukturom, u blizini je tpc Orašac, Maksi, dve škole, osnovna i srednja, u blizini je prevoza, dobra komunikacija sa gradom.  \n\nStan je odličan i za svaku preporuku.\n\nVredi pogledati.",
+  "photos": 15,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
+  "id": "kp-195099913",
+  "slug": "kp-195099913-prodaja-stan-batajnica",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "new",
+  "title": "Продажа: 1,5-комнатная квартира, 42 м², Батайница, Земун",
+  "kind": "1,5-комнатная квартира",
+  "price": 88200,
+  "area": 42,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "Батайница",
+  "street": "Йована Бранковича",
+  "geo": {
+   "lat": 44.90893,
+   "lng": 20.27832
+  },
+  "facts": [
+   [
+    "Площадь",
+    "42 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "3-й из 3"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "строится"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "домофон",
+   "терраса",
+   "кондиционер",
+   "парковка"
+  ],
+  "text": "Продаётся 1,5-комнатная квартира площадью 42 м² в районе Батайница (Земун, Белград). 3-й этаж из 3, без мебели, строится, дом современной постройки. Есть: домофон, терраса, кондиционер, парковка. Цена 88 200 €.",
+  "originalLang": "sr",
+  "original": "Stan u izgradnji, zgrada sa liftom. Vrhunski kvalitet izrade. Okruzen sa dva supermarketa. Udaljeno 800m od osnovne škole i centra Batajnice. Više informacija na tel. Direktno od investitora.   Rok završetka kraj 2027.   Cena sa pdv je 97000e\n\nU ponudi i stan od 62m2",
+  "photos": 3,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
+  "id": "kp-195263206",
+  "slug": "kp-195263206-prodaja-stan-borca",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: трёхкомнатная квартира, 51.16 м², Борча, Палилула",
+  "kind": "трёхкомнатная квартира",
+  "price": 106413,
+  "area": 51.16,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "Борча",
+  "street": "Пут за Овчу",
+  "geo": {
+   "lat": 44.87904,
+   "lng": 20.46702
+  },
+  "facts": [
+   [
+    "Площадь",
+    "51.16 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "1-й из 2"
+   ],
+   [
+    "Отопление",
+    "кондиционер, электрическое, тёплый пол"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "домофон",
+   "терраса",
+   "кондиционер",
+   "энергопаспорт",
+   "парковка"
+  ],
+  "text": "Продаётся трёхкомнатная квартира площадью 51.16 м² в районе Борча (Палилула, Белград). 1-й этаж из 2, без мебели, отопление кондиционер, электрическое, тёплый пол, дом современной постройки. Есть: домофон, терраса, кондиционер, энергопаспорт, парковка. Цена 106 413 €.",
+  "originalLang": "sr",
+  "original": "PDV je uračunat u cenu (mogućnost povrata). PROVIZIJE NEMA.  \n\nDve spavaće sobe i jedna dnevna.  \n\nU cenu uključeno parking mesto. Terasa.  \n\nNovogradnja.  \n\nNovo stambeno naselje smešteno je na izuzetno praktičnoj lokaciji, sa izlazom na dve saobraćajnice — Ovčanski put i Kumaničku ulicu i u neposrednoj blizini Zrenjaninskog puta. Zatvoren tip naselje - sastoji se od 14 lamela.  \n\nU neposrednoj blizini nalaze se stanice gradskog prevoza, škola, vrtić, marketi, apoteke, kao i svi ostali sadržaji neophodni za udoban i kvalitetan svakodnevni život.  \n\nObjekti će biti građeni od kvalitetnih i savremenih materijala, sa akcentom na energetsku efikasnost, funkcionalnost i komfor stanovanja. Svaki stan biće opremljen kvalitetnom završnom obradom, savremenim sistemom grejanja i klima uređajem.  \n\nPlanirani završetak radova je sredina 2027. godine.  \n\nOprema i završna obrada:  \n\n - Podne i zidne obloge\n\n - Višeslojni parket (Tarkett ili ekvivalent)\n\n - Lajsne u tonu parketa\n\n - Granitna keramika I klase\n\n - Keramika po izboru kupca, uz eventualnu doplatu ukoliko izbor prelazi predviđeni budžet\n\n - Keramika u kuhinji\n\n - Plafonska rasveta u kupatilima i na terasama\n\n Stolarija i vrata:  \n\n - PVC petokomorna spoljna stolarija, antracit obostrano, sa dvoslojnim staklom\n\n - ALU roletne\n\n - Sigurnosna ulazna vrata\n\n - Unutrašnja sobna vrata od medijapana\n\nKupatila i sanitarije:  \n\n - Uvozne sanitarije I klase, po EU standardima\n\n - Tuš baterije i slavine: Hertz ili brend istog kvaliteta\n\nGrejanje i klimatizacija:  \n\n- Podno grejanje\n\n- Zasebni elektrokotao za stanove do 80 m²\n\n- Klima uređaj: Midea ili sličan rang, 1 komad po stanu (12.000 BTU)\n\nFasada i izolacija:  \n\n- Spoljni zidovi od klima bloka 20 cm\n\n- Termoizolacija od stiropora 10 cm\n\n- Završna fasada u svetloj boji\n\nKrov i krovni prozori:  \n\n- Krovni prozori: Velux, Fakro ili odgovarajući kvalitet\n\n- Krovni pokrivač: ravni falcovani lim u antracit boji\n\nMetalni elementi:  \n\n - Zaštitne ograde na balkonima, visine 110 cm, u crnoj/antracit boji\n\nZajedničke površine:  \n\n - Stepenište obloženo granitnom keramikom I klase.  \n\n - Spoljno uređenje\n\nParking mesta dimenzija 2,5 x 5,0 m na raster pločama\n\nUređene zelene površine: trava i lovor višnja.",
+  "photos": 5,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
+  "id": "kp-196445970",
+  "slug": "kp-196445970-prodaja-stan-borca",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: трёхкомнатная квартира, 80 м², Борча, Палилула",
+  "kind": "трёхкомнатная квартира",
+  "price": 180000,
+  "area": 80,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "Борча",
+  "street": "",
+  "geo": {
+   "lat": 44.88148,
+   "lng": 20.45826
+  },
+  "facts": [
+   [
+    "Площадь",
+    "80 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "3-й из 4"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "парковка"
+  ],
+  "text": "Продаётся трёхкомнатная квартира площадью 80 м² в районе Борча (Палилула, Белград). 3-й этаж из 4, без мебели, отопление автономное, в исходном состоянии, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, кондиционер, видеонаблюдение, парковка. Цена 180 000 €.",
+  "originalLang": "sr",
+  "original": "Prodaje se uknjizen stan povrsine 80m² u ulici Save Malesevica 47, Borca. Stan se nalazi na trecem spratu od ukupno cetiri u zgradi bez lifta. Sastoji se od hodnika, velikog dnevnog boravka, kuhinje sa trpezarijom, dve spavace sobe, kupatilom, ostavom i dve terase. U stanu je pvc stolarija sa roletnama na struju i komarnicima na balkoncima, hrastov parket, u kupatilu su granitne plocice, grejanje je etazno. Uz stan ide i pripadajuce parking mesto. Zgrada se nalazi u mirnom delu izolovanom od saobracaja. U krugu od 200m nalaze se osnovna skola, dva vrtica, dom zdravlja, pijaca, maksi, mnogobrojne prodavnice i butici. Na 700 metara od Stop Shopa-a. Autobuska stajalista 95,96,105L,85.",
+  "photos": 15,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
+  "id": "kp-196448129",
+  "slug": "kp-196448129-prodaja-stan-kotez",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: студия, 31 м², Котеж, Палилула",
+  "kind": "студия",
+  "price": 42000,
+  "area": 31,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "Котеж",
+  "street": "",
+  "geo": {
+   "lat": 44.85091,
+   "lng": 20.46967
+  },
+  "facts": [
+   [
+    "Площадь",
+    "31 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "1-й из 2"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "кондиционер",
+   "парковка"
+  ],
+  "text": "Продаётся студия площадью 31 м² в районе Котеж (Палилула, Белград). 1-й этаж из 2, в исходном состоянии. Есть: можно въехать сразу, интернет, терраса, кондиционер, парковка. Цена 42 000 €.",
+  "originalLang": "sr",
+  "original": "Prodajem u mirnoj ulici lepu svetlu i konfornu garsonjeru. Stan je na 200m od pijace, ambilante, maxija, poste. . .   Stan ima 26m2 plus 5 m2 terasu. U procesu je legalizacije. Zgrada je zavrsena do drugog sprata i jos je u izgradnji. Ulica je slepa mirna i tiha, stan ima svoje parkig mesto.",
+  "photos": 5,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
+  "id": "kp-195917681",
+  "slug": "kp-195917681-prodaja-stan-slavija",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: четырёхкомнатная квартира, 88 м², Славия, Врачар",
+  "kind": "четырёхкомнатная квартира",
+  "price": 239500,
+  "area": 88,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "vracar",
+  "location": "Славия",
+  "street": "Београдска 6",
+  "geo": {
+   "lat": 44.80326,
+   "lng": 20.46718
+  },
+  "facts": [
+   [
+    "Площадь",
+    "88 м²"
+   ],
+   [
+    "Комнат",
+    "4"
+   ],
+   [
+    "Этаж",
+    "6-й из 6"
+   ],
+   [
+    "Отопление",
+    "кондиционер, электрическое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "домофон",
+   "терраса",
+   "подвал",
+   "кабельное ТВ"
+  ],
+  "text": "Продаётся четырёхкомнатная квартира площадью 88 м² в районе Славия (Врачар, Белград). 6-й этаж из 6, с мебелью, отопление кондиционер, электрическое, после ремонта, старый фонд. Есть: интернет, домофон, терраса, подвал, кабельное ТВ. Цена 239 500 €.",
+  "originalLang": "sr",
+  "original": "Stan ima ukupno 117m2, uknjiženo 88m2. Funkcioniše kao trosoban stan, sa još jednom neadaptiranom sobom. Dodatno odvojena garsonjera, potrebna adaptacija, ali može i sve da bude spojeno i tada imate šestosoban stan sa dva ulaza.\nPotkrovlje, 6. bez lifta. Podrum 12m2. Porodično vlasništvo 60 godina. Izuzetna investicija. U ulazu jedan sprat-jedan stan.\nMoguća zamena za manji stan u BG, NS, kuća - vikendica na Fruškoj gori. . . uz vašu doplatu.\nPozovite za više detalja.\nBez posrednika.",
+  "photos": 15,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
+  "id": "kp-179421211",
+  "slug": "kp-179421211-prodaja-stan-fontana",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: студия, 70 м², Фонтана, Новый Белград",
+  "kind": "студия",
+  "price": null,
+  "area": 70,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "novi-beograd",
+  "location": "Фонтана",
+  "street": "",
+  "geo": {
+   "lat": 44.8254,
+   "lng": 20.40885
+  },
+  "facts": [
+   [
+    "Площадь",
+    "70 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся студия площадью 70 м² в районе Фонтана (Новый Белград, Белград). Цена по запросу.",
+  "originalLang": "sr",
+  "original": "Kupujem stan u Beogradu  .\n\nGarsonjera , jednosoban , dvosoban . . . bilo koje kvadrature .\n\nBanovo brdo , Voždovac , Vračar , Rakovica , Novi Beograd . . . .",
+  "photos": 1,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
+  "id": "kp-196451990",
+  "slug": "kp-196451990-prodaja-stan-mirijevo",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 1,5-комнатная квартира, 37 м², Мириево, Звездара",
+  "kind": "1,5-комнатная квартира",
+  "price": 115000,
+  "area": 37,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Мириево",
+  "street": "Матице Српске 85D",
+  "geo": {
+   "lat": 44.78609,
+   "lng": 20.53195
+  },
+  "facts": [
+   [
+    "Площадь",
+    "37 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "низкий приземный из 5"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "лифт",
+   "доступ для колясок"
+  ],
+  "text": "Продаётся 1,5-комнатная квартира площадью 37 м² в районе Мириево (Звездара, Белград). Низкий приземный этаж из 5, с мебелью, отопление автономное, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, кондиционер, видеонаблюдение, лифт, доступ для колясок. Цена 115 000 €.",
+  "originalLang": "sr",
+  "original": "Prodajem uknjizen i kompletno namesten jednoiposoban stan od realnih 40kvm, uknjizenih 37kvm. Stan se nalazi na 50 metara od ulice Matice Srpske, sto ga cini izolovanim od buke svakodnevnog saobracaja a opet veoma blizu autobuske stanice za linije br 20, 62, 79, (poslednja slika)\n\n- Uknizen, Vlasnik 1/1, fizicko lice, stan nije pod hipotekom moze i na stambeni kredit\n\n- i speak english, if you are foreigner feel free to contact me\n\n                       NISAM ZAINTERESOVAN ZA SARADNJU SA AGENCIJAMA\n\n-  nikakve zamene me ne interesuju, ni automobili ni kuce ni zemljiste\n\n- Godina izgradnje zgrade je 2019.  \n- Kvalitetna nemacka PVC stolarija (spolja antracit boja iznutra bela) sa ugradjenim roletnama i kliznim komarnicima\n- Blindirana ulazna vrata\n- Laminat\n- Klima uredjaj \" Venting\" 12 BTU ugradjen 2024 godine\n- Grejanje etazno na struju (radijatori u svakoj prostoriji i u kupatilu)\n- Na prozorima ugradjene resetke\n- Kreveti kupljeni 2025 godine\n- u kuhinji nov sporet na struju (kupljen 2024g) , nov frizider i zamrzivac. mikrotalasna, espreso aparat i kuvalo za vodu\n- u kupatilu nova ves masina Tesla (kupljena 2025g u Gigatronu)\n- usisivac, cipelarnik, daska za peglanje\n- u dnevnom boravku Televizor oko 55 inci i u sobi televizor oko 32 inca\n\nsve namesteno, i spremno za buduceg vlasnika\n\nPrednost pri kupovini imaju \" kes kupci\" \nPorez na prenos apsolutnih prava placa kupac osim ako vam je ovo prva nekretnina, za stan nije moguce dobiti povrat PDV-a. Troskove overe kod notara placa kupac.",
+  "photos": 15,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
+  "id": "kp-194569879",
+  "slug": "kp-194569879-prodaja-stan-mirijevo",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: двухкомнатная квартира, 54 м², Мириево, Звездара",
+  "kind": "двухкомнатная квартира",
+  "price": 108999,
+  "area": 54,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Мириево",
+  "street": "",
+  "geo": {
+   "lat": 44.79818,
+   "lng": 20.52611
+  },
+  "facts": [
+   [
+    "Площадь",
+    "54 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "высокий приземный из 5"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся двухкомнатная квартира площадью 54 м² в районе Мириево (Звездара, Белград). Высокий приземный этаж из 5, с мебелью, отопление автономное, в исходном состоянии, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, кондиционер, видеонаблюдение. Цена 108 999 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju – Moderan i funkcionalan porodičan stan u Mirijevu | 50 m² + terasa 4 m² Ako tražite stan sa odličnim rasporedom i bez izgubljenog prostora, ovo je prava prilika! Stan se nalazi na višem prizemlju i ima 50 m², uz terasu od 4 m². Veoma je funkcionalan, svetao i spreman za useljenje. Raspored: • dnevni boravak sa kuhinjom i trpezarijom • dve spavaće sobe • hodnik • kupatilo • terasa Karakteristike: ✔ etažno grejanje ✔ klima uređaj ✔ kablovska televizija i internet ✔ odličan raspored prostorija ✔ višе prizemlje Stan je idealan za porodičan život, ali i kao investicija za izdavanje.",
+  "photos": 8,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
+  "id": "kp-195159983",
+  "slug": "kp-195159983-prodaja-stan-altina",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: студия, 24 м², Алтина, Земун",
+  "kind": "студия",
+  "price": 69000,
+  "area": 24,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "Алтина",
+  "street": "Угриновачки пут",
+  "geo": {
+   "lat": 44.85388,
+   "lng": 20.36017
+  },
+  "facts": [
+   [
+    "Площадь",
+    "24 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "1-й из 5"
+   ],
+   [
+    "Отопление",
+    "электрическое"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "домофон",
+   "терраса",
+   "лифт",
+   "парковка"
+  ],
+  "text": "Продаётся студия площадью 24 м² в районе Алтина (Земун, Белград). 1-й этаж из 5, без мебели, отопление электрическое, в исходном состоянии, дом современной постройки. Есть: можно въехать сразу, домофон, терраса, лифт, парковка. Цена 69 000 €.",
+  "originalLang": "sr",
+  "original": "Prodajem izvrsnu garsonjeru od 24  m2, sa odvojenom kuhinjom, kupatilom i terasom. Nalazi se u novoj zgradi, juzno orjentisanoj, na odlicnoj lokaciji  sa svom infrastrukturom, autobuskim stajalištima, marketima. . . Odlična za stanovanje ili izdavanje. Predato za legalizaciju(Svoj na svome).",
+  "photos": 15,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
+  "id": "kp-190317440",
+  "slug": "kp-190317440-prodaja-stan-medakovic-2",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 5-комнатная квартира, 104 м², Медакович 2, Вождовац",
+  "kind": "5-комнатная квартира",
+  "price": 149000,
+  "area": 104,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Медакович 2",
+  "street": "",
+  "geo": {
+   "lat": 44.77511,
+   "lng": 20.49771
+  },
+  "facts": [
+   [
+    "Площадь",
+    "104 м²"
+   ],
+   [
+    "Комнат",
+    "5"
+   ],
+   [
+    "Этаж",
+    "6-й из 6"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "двухуровневая",
+   "кондиционер",
+   "лоджия"
+  ],
+  "text": "Продаётся 5-комнатная квартира площадью 104 м² в районе Медакович 2 (Вождовац, Белград). 6-й этаж из 6, отопление центральное, после ремонта, старый фонд. Есть: интернет, домофон, терраса, кабельное ТВ, двухуровневая, кондиционер, лоджия. Цена 149 000 €.",
+  "originalLang": "sr",
+  "original": "Prodajemo stan na Medaku II, površine 104m2 (mereno 117m2). Stan je duplex,   podeljen na dve, nezavisno funkcionalne jedinice (dva odvojena ulaza iz hodnika zgrade) što ga čini idealnim za višečlane ili dve porodice, kao i izdavanje.   Zgrada nema lift,   a stan se nalazi na VI spratu.\n\nI stambena jedinica - predsoblje,   spavaća soba, radna soba, dnevna soba, kuhinja, kupatilo i dve terase (lođa + terasa).\n\nII stambena jedinica - zaseban ulaz sa hodnikom, delom ispod stepenica, stepeništem koje vodi do dnevnog boravka, spavaće sobe, kuhinje i kupatila. Sve je pod kosinama sa krovnim prozorima koji stanu daju posebno osvetljenje.  \n\nStan je u procesu legalizacije, nije uknjižen.",
+  "photos": 15,
+  "added": "2026-10-27",
+  "updated": "2026-10-27"
+ },
+ {
   "id": "kp-195304994",
   "slug": "kp-195304994-prodaja-stan-zemun-polje",
   "deal": "sale",
