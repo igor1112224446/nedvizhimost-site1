@@ -4,6 +4,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
+import { FAQ, DISTRICT_TEXT } from './content.mjs';
 
 const ROOT = path.dirname(new URL(import.meta.url).pathname);
 const OUT = path.join(ROOT, 'dist');
@@ -31,9 +32,10 @@ const BELGRADE = [
 const BG_NAME = Object.fromEntries(BELGRADE.map((d) => [d.slug, d.name]));
 // «opstina-zemun», «zemun-polje», «gradska-opstina-zemun» → «zemun»: одна община — одна строка в фильтре
 function normDistrict(raw) {
-  const ds = String(raw || '').toLowerCase().replace(/(^|-)(gradska-)?opstina(-|$)/g, '-').replace(/(^|-)beograd$/, '').replace(/^-+|-+$/g, '');
-  const hit = BELGRADE.find((d) => ds === d.slug || ds.startsWith(d.slug + '-') || ds.endsWith('-' + d.slug) || ds.includes('-' + d.slug + '-'));
-  return hit ? hit.slug : ds;
+  const base = String(raw || '').toLowerCase().replace(/(^|-)(gradska-)?opstina(-|$)/g, '-').replace(/^-+|-+$/g, '');
+  const match = (ds) => BELGRADE.find((d) => ds === d.slug || ds.startsWith(d.slug + '-') || ds.endsWith('-' + d.slug) || ds.includes('-' + d.slug + '-'));
+  const hit = match(base) || match(base.replace(/(^|-)beograd$/, '').replace(/^-+|-+$/g, ''));
+  return hit ? hit.slug : base.replace(/(^|-)beograd$/, '').replace(/^-+|-+$/g, '') || base;
 }
 const LISTINGS = read('data/listings.json', []).filter((l) => l && l.id && l.slug)
   .map((l) => {
@@ -43,6 +45,8 @@ const LISTINGS = read('data/listings.json', []).filter((l) => l && l.id && l.slu
   })
   .sort((a, b) => String(b.added).localeCompare(String(a.added)) || String(b.updated).localeCompare(String(a.updated)));
 const TODAY = new Date().toISOString().slice(0, 10);
+// Отзывы клиентов: data/reviews.json пишет расширение (вкладка «Сайт» → «Отзывы»)
+const REVIEWS = read('data/reviews.json', []).filter((r) => r && r.name && r.text);
 
 // Версия файлов оформления: меняется при каждом их изменении, поэтому браузер не покажет старый дизайн из кэша
 const ver = (f) => { try { return crypto.createHash('md5').update(fs.readFileSync(path.join(ROOT, 'assets', f))).digest('hex').slice(0, 8); } catch (e) { return TODAY; } };
@@ -99,6 +103,28 @@ const furnKey = (l) => { const f = fact(l, 'Мебель'); return /частич
 const floorNum = (l) => { const v = fact(l, 'Этаж'); const m = v.match(/^(\d+)/); return m ? +m[1] : (v ? 0 : -1); };
 const floorsNum = (l) => { const m = fact(l, 'Этаж').match(/из (\d+)/); return m ? +m[1] : 0; };
 const FEATS = [['терраса', 'Терраса или балкон'], ['лифт', 'Лифт'], ['парковка', 'Парковка или гараж'], ['кондиционер', 'Кондиционер'], ['можно с животными', 'Можно с животными'], ['интернет', 'Интернет']];
+// Разделы продажи
+const catOf = (l) => l.cat || (l.type === 'house' ? 'house' : 'flat');
+const CAT_ICON = {
+  flat: '<svg viewBox="0 0 64 48" aria-hidden="true"><path d="M10 30v-8a4 4 0 0 1 4-4h36a4 4 0 0 1 4 4v8M6 30h52v8H6zM10 38v4M54 38v4M20 18v-6h24v6" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></svg>',
+  new: '<svg viewBox="0 0 64 48" aria-hidden="true"><path d="M8 44h48M14 44V18h18v26M32 44V10h16v34M18 24h4M24 24h4M18 30h4M24 30h4M18 36h4M24 36h4M36 16h4M42 16h2M36 22h4M42 22h2M36 28h4M42 28h2M36 34h4M42 34h2M52 44V4M52 4H38M52 4l6 6" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></svg>',
+  house: '<svg viewBox="0 0 64 48" aria-hidden="true"><path d="M4 44h56M12 44V24L32 8l20 16v20M26 44V32h12v12M16 24h0M44 14V8h4v9" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></svg>',
+  commercial: '<svg viewBox="0 0 64 48" aria-hidden="true"><path d="M8 44h48M10 44V20M54 44V20M8 12h48l-4 8H12zM16 44V28h12v16M34 28h14v10H34z" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></svg>',
+};
+const SALE_CATS = [
+  { key: 'flat', slug: 'kvartiry', name: 'Готовые квартиры', h1: 'Готовые квартиры в Белграде на продажу', lead: 'Квартиры на вторичном рынке от собственников.', test: (l) => catOf(l) === 'flat' },
+  { key: 'new', slug: 'novostrojki', name: 'Новостройки', h1: 'Новостройки в Белграде', lead: 'Квартиры в домах, которые строятся или только что сданы.', test: (l) => catOf(l) === 'new' },
+  { key: 'house', slug: 'doma-i-uchastki', name: 'Дома и участки', h1: 'Дома и участки в Белграде на продажу', lead: 'Дома, части домов и земельные участки от собственников.', test: (l) => ['house', 'land'].includes(catOf(l)) },
+  { key: 'commercial', slug: 'kommercheskaya', name: 'Коммерческая недвижимость', h1: 'Коммерческая недвижимость в Белграде', lead: 'Офисы, магазины, склады и помещения под бизнес.', test: (l) => catOf(l) === 'commercial' },
+];
+function catTiles(current) {
+  const sale = LISTINGS.filter((l) => l.deal === 'sale');
+  return `<div class="cats">${SALE_CATS.map((c) => {
+    const n = sale.filter(c.test).length;
+    return `<a class="cat${current === c.key ? ' is-current' : ''}" href="/prodazha/${c.slug}/"${current === c.key ? ' aria-current="page"' : ''}><span class="cat-name">${c.name}</span><span class="cat-n">${n ? objects(n) : 'скоро'}</span><span class="cat-ico">${CAT_ICON[c.key]}</span></a>`;
+  }).join('')}</div>`;
+}
+
 const featKeys = (l) => {
   const f = l.features || [];
   return FEATS.map(([k]) => k).filter((k) => f.includes(k) || (k === 'терраса' && f.some((x) => /балкон|лоджия/.test(x))) || (k === 'парковка' && f.includes('гараж')));
@@ -161,7 +187,9 @@ function mega(key, nav) {
   const d = DEAL[key];
   const dists = districtsOf(byDeal[key]).slice(0, 10);
   const cols = COLLECTIONS.filter((c) => c.items.some((l) => l.deal === key));
-  const types = [['Квартиры', `/${d.path}/`], ...(byDeal[key].some((l) => l.type === 'house') ? [['Дома', `/${d.path}/?rooms=house`]] : [])];
+  const types = key === 'sale'
+    ? SALE_CATS.map((c) => [c.name, `/prodazha/${c.slug}/`])
+    : [['Квартиры', `/${d.path}/?type=apartment`], ...(byDeal[key].some((l) => l.type === 'house') ? [['Дома', `/${d.path}/?type=house`]] : [])];
   return `<div class="mega-item">
     <a href="/${d.path}/"${nav === key ? ' aria-current="page"' : ''}>${d.name}</a>
     <div class="mega">
@@ -212,6 +240,7 @@ ${jsonld.map((j) => `<script type="application/ld+json">${JSON.stringify(j).repl
       ${mega('sale', nav)}
       ${mega('rent', nav)}
       ${link('map', '/karta/', 'Карта')}
+      ${link('faq', '/voprosy/', 'Вопросы')}
       ${link('contacts', '/kontakty/', 'Контакты')}
     </nav>
     <div class="hdr-actions">
@@ -231,6 +260,8 @@ ${jsonld.map((j) => `<script type="application/ld+json">${JSON.stringify(j).repl
           <a href="/prodazha/">Купить</a>
           <a href="/arenda/">Снять</a>
           <a href="/karta/">Карта</a>
+          <a href="/voprosy/">Вопросы и ответы</a>
+          ${REVIEWS.length ? '<a href="/otzyvy/">Отзывы</a>' : ''}
           <a href="/izbrannoe/">Избранное</a>
           <a href="/kontakty/">Контакты</a>
           ${SITE.phone ? `<a href="${esc(telHref)}">${esc(SITE.phone)}</a>` : ''}
@@ -268,7 +299,7 @@ function footer() {
       ${col('Купить', [`<li><a href="/prodazha/">Все объекты</a></li>`, ...dl('sale')])}
       ${col('Снять', [`<li><a href="/arenda/">Все объекты</a></li>`, ...dl('rent')])}
       ${col('Подборки', COLLECTIONS.map((c) => `<li><a href="/podborki/${c.slug}/">${esc(c.short)}</a></li>`))}
-      ${col('Агентство', ['<li><a href="/kontakty/">Контакты</a></li>', '<li><a href="/izbrannoe/">Избранное</a></li>', '<li><a href="/#podbor">Подбор по запросу</a></li>', '<li><a href="/karta/">Карта объектов</a></li>'])}
+      ${col('Агентство', ['<li><a href="/kontakty/">Контакты</a></li>', '<li><a href="/izbrannoe/">Избранное</a></li>', '<li><a href="/#podbor">Подбор по запросу</a></li>', '<li><a href="/karta/">Карта объектов</a></li>', '<li><a href="/voprosy/">Вопросы и ответы</a></li>', ...(REVIEWS.length ? ['<li><a href="/otzyvy/">Отзывы</a></li>'] : [])])}
     </div>
     <div class="ftr-bottom">
       <p>Помогаем с белым картоном, регистрацией, открытием счёта в банке и ВНЖ.</p>
@@ -344,24 +375,50 @@ function leadForm(title = 'Подберём жильё под ваш запро�
 </section>`;
 }
 
+function faqItems(key) { return FAQ.filter((f) => f.tag === key); }
+const faqLd = (items) => ({
+  '@context': 'https://schema.org', '@type': 'FAQPage',
+  mainEntity: items.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+});
 function seoText(key) {
-  const rent = [
-    ['Как снять квартиру в Белграде', 'Большинство собственников сдают жильё на срок от года и просят депозит, обычно в размере месячной аренды. Коммунальные платежи чаще всего оплачиваются отдельно, по счетам. Перед просмотром стоит уточнить, включены ли в цену интернет и обслуживание дома.'],
-    ['Белый картон и регистрация', 'Иностранец, который живёт в Сербии, должен зарегистрировать место проживания в полиции. Документ о регистрации называют белым картоном, он нужен для ВНЖ и для открытия счёта в банке. Мы заранее договариваемся с собственником о регистрации и помогаем её оформить.'],
-    ['Как мы работаем', 'Вы выбираете объекты на сайте или присылаете запрос, мы связываемся с собственниками и составляем маршрут просмотров. Трансфер по отобранным квартирам входит в комиссию, которая составляет 50% от месячной аренды.'],
-  ];
-  const sale = [
-    ['Покупка жилья иностранцем', 'Граждане России и многих других стран могут покупать квартиры и дома в Сербии. Сделку заверяет нотариус, после чего право собственности регистрируется в кадастре.'],
-    ['Что проверить перед покупкой', 'Главное — выписка из кадастра: в ней видно, кто собственник и есть ли обременения. Также стоит проверить, совпадает ли фактическая площадь с документами и узаконены ли перепланировки. Мы проверяем документы до внесения задатка.'],
-    ['Как мы работаем', 'Подбираем объекты под бюджет, организуем просмотры, проверяем документы, сопровождаем сделку у нотариуса и помогаем с открытием счёта и последующим ВНЖ.'],
-  ];
-  const items = key === 'sale' ? sale : rent;
+  const items = faqItems(key).slice(0, 5);
   return `<section class="seo">
   <div class="wrap">
-    <h2>${key === 'sale' ? 'О покупке недвижимости в Сербии' : 'Об аренде в Белграде'}</h2>
-    <div class="acc">${items.map(([q, a], i) => `<details${i ? '' : ' open'}><summary>${esc(q)}${ICON.chevron}</summary><p>${esc(a)}</p></details>`).join('')}</div>
+    <div class="block-head"><h2>${key === 'sale' ? 'Вопросы о покупке' : 'Вопросы об аренде'}</h2><a class="link-arrow" href="/voprosy/">Все вопросы</a></div>
+    <div class="acc">${items.map((f, i) => `<details${i ? '' : ' open'}><summary>${esc(f.q)}${ICON.chevron}</summary><p>${esc(f.a)}</p></details>`).join('')}</div>
   </div>
 </section>`;
+}
+
+// Средние цены по объявлениям каталога (медиана, от 2 объявлений в группе)
+function priceStats(list, deal) {
+  const med = (a) => { const s = [...a].sort((x, y) => x - y); const m = s.length >> 1; return s.length % 2 ? s[m] : Math.round((s[m - 1] + s[m]) / 2); };
+  const groups = [
+    ['Студии', (l) => roomsKey(l) === '0'],
+    ['1–1,5 комнаты', (l) => ['1', '1.5'].includes(roomsKey(l))],
+    ['2–2,5 комнаты', (l) => ['2', '2.5'].includes(roomsKey(l))],
+    ['3 комнаты и больше', (l) => ['3', '3.5', '4'].includes(roomsKey(l))],
+    ['Дома', (l) => l.type === 'house'],
+  ];
+  const rows = groups.map(([name, test]) => {
+    const g = list.filter((l) => l.price && test(l));
+    if (g.length < 2) return null;
+    const m2 = g.filter((l) => l.area).map((l) => l.price / l.area);
+    return [name, g.length, med(g.map((l) => l.price)), m2.length >= 2 ? med(m2) : 0];
+  }).filter(Boolean);
+  if (!rows.length) return '';
+  return `<div class="stats"><table><thead><tr><th>Тип</th><th>Объявлений</th><th>${deal === 'rent' ? 'Средняя аренда в месяц' : 'Средняя цена'}</th>${deal === 'sale' ? '<th>За м²</th>' : ''}</tr></thead>
+<tbody>${rows.map(([n, c, p, m]) => `<tr><td>${n}</td><td>${c}</td><td>${price(p)}</td>${deal === 'sale' ? `<td>${m ? price(m, '/м²') : '—'}</td>` : ''}</tr>`).join('')}</tbody></table>
+<p class="muted small-note">Медиана по объявлениям в нашем каталоге на ${TODAY.split('-').reverse().join('.')}. Это ориентир, а не рыночная оценка.</p></div>`;
+}
+
+function districtAbout(slug, name, list, deal) {
+  const text = DISTRICT_TEXT[slug];
+  if (!text && !list.length) return '';
+  return `<section class="block"><div class="wrap about-district">
+  <div><h2>О районе ${esc(name)}</h2>${(text || []).map((p) => `<p>${esc(p)}</p>`).join('')}</div>
+  <div>${list.length >= 2 ? `<h3 class="h-small">Цены в районе</h3>${priceStats(list, deal)}` : ''}</div>
+</div></section>`;
 }
 
 // Каталог: фильтры, сортировка, вид «список / плитка / карта»
@@ -456,7 +513,7 @@ const HOME_PAGE = 12;
         <label><input type="radio" name="deal" value="sale"><span>Купить</span></label>
       </div>
       <div class="finder-row">
-        <label class="finder-f"><span>Тип</span><select name="type"><option value="">Любой</option><option value="apartment">Квартира</option><option value="house">Дом</option></select></label>
+        <label class="finder-f"><span>Тип</span><select name="type"><option value="">Любой</option><option value="flat">Квартира</option><option value="new">Новостройка</option><option value="house">Дом или участок</option><option value="commercial">Коммерческая</option></select></label>
         <label class="finder-f"><span>Район</span><select name="district"><option value="">Любой</option>${BELGRADE.map((d) => `<option value="${esc(d.slug)}">${esc(d.name)}</option>`).join('')}</select></label>
         <label class="finder-f"><span>Комнат</span><select name="rooms"><option value="">Любое</option>${ROOMS.filter(([k]) => k !== 'house').map(([k, t]) => `<option value="${k}">${t}</option>`).join('')}</select></label>
         <label class="finder-f"><span>Бюджет до, <span data-cur-sym>€</span></span><input name="max" inputmode="numeric" placeholder="Без ограничений"></label>
@@ -475,11 +532,11 @@ const HOME_PAGE = 12;
 
 ${LISTINGS.length ? `<section class="block" id="katalog">
   <div class="wrap">
-    <div class="block-head"><div><h2>Каталог Белграда</h2><p class="block-sub">${objects(LISTINGS.length)} от собственников. Новые сверху.</p></div>
-      <div class="seg seg-inline home-cat-deal" data-home-cat-deal><label><input type="radio" name="hcdeal" value="" checked><span>Все</span></label><label><input type="radio" name="hcdeal" value="rent"><span>Снять</span></label><label><input type="radio" name="hcdeal" value="sale"><span>Купить</span></label></div>
+    <div class="block-head"><div><h2>Каталог Белграда</h2><p class="block-sub">Объекты от собственников, новые сверху.</p></div>
+      <div class="seg seg-inline home-cat-deal" data-home-cat-deal><label><input type="radio" name="hcdeal" value="rent" checked><span>Снять</span></label><label><input type="radio" name="hcdeal" value="sale"><span>Купить</span></label></div>
     </div>
-    <div class="cards cards-grid home-cat" data-home-cat>${LISTINGS.slice(0, HOME_PAGE).map((l, i) => card(l, i < 4)).join('')}</div>
-    <div class="more"><button class="btn btn-line" type="button" data-home-more${LISTINGS.length > HOME_PAGE ? '' : ' hidden'}>Другие квартиры</button></div>
+    <div class="cards cards-grid home-cat" data-home-cat>${byDeal.rent.slice(0, HOME_PAGE).map((l, i) => card(l, i < 4)).join('')}</div>
+    <div class="more"><button class="btn btn-line" type="button" data-home-more${byDeal.rent.length > HOME_PAGE ? '' : ' hidden'}>Другие квартиры</button></div>
   </div>
 </section>` : ''}
 
@@ -509,6 +566,7 @@ ${SITE.channel ? `<section class="block">
   </div>
 </section>` : ''}
 
+${REVIEWS.length ? `<section class="block"><div class="wrap"><div class="block-head"><h2>Отзывы клиентов</h2>${REVIEWS.length > 3 ? '<a class="link-arrow" href="/otzyvy/">Все отзывы</a>' : ''}</div><div class="reviews">${REVIEWS.slice(0, 3).map(reviewCard).join('')}</div></div></section>` : ''}
 ${leadForm()}
 ${seoText('rent')}`;
   write('index.html', page({
@@ -532,7 +590,7 @@ ${seoText('rent')}`;
 }
 
 // Разделы, районы, подборки
-function listPage({ url, h1, lead, list, items, nav, seo, showDistricts = true, dealSwitch = false, extra = '' }) {
+function listPage({ url, h1, lead, list, items, nav, seo, showDistricts = true, dealSwitch = false, extra = '', before = '', ld = [], indexEmpty = false }) {
   const min = minPrice(list);
   const intro = list.length
     ? `${lead} ${objects(list.length)}${Number.isFinite(min) ? `, цены от ${money(min)}` : ''}.`
@@ -548,7 +606,8 @@ function listPage({ url, h1, lead, list, items, nav, seo, showDistricts = true, 
     <p class="page-lead">${introHtml}</p>
   </div>
 </section>
-<section class="block block-tight"><div class="wrap">${catalog(list, { showDistricts, dealSwitch })}</div></section>
+${before}
+<section class="block block-tight"><div class="wrap">${list.length ? catalog(list, { showDistricts, dealSwitch }) : ''}</div></section>
 ${extra}
 ${leadForm()}
 ${seo ? seoText(seo) : ''}`;
@@ -557,29 +616,45 @@ ${seo ? seoText(seo) : ''}`;
     desc: intro,
     url,
     image: list[0] ? photo(list[0]) : '',
-    jsonld: [crumbsLd(items), {
+    jsonld: [...ld, crumbsLd(items), {
       '@context': 'https://schema.org', '@type': 'ItemList', name: h1,
       itemListElement: list.slice(0, 50).map((l, i) => ({ '@type': 'ListItem', position: i + 1, url: abs(`/obekt/${l.slug}/`) })),
     }],
     body,
     nav,
+    head: list.length || indexEmpty ? '' : '<meta name="robots" content="noindex, follow">',
   }));
-  addUrl(url, list[0]?.updated);
+  if (list.length || indexEmpty) addUrl(url, list[0]?.updated);
 }
 
 for (const key of ['rent', 'sale']) {
   const d = DEAL[key];
   const dists = districtsOf(byDeal[key]);
   const links = dists.length > 1 ? `<section class="block block-tight"><div class="wrap"><h2 class="h-small">${key === 'rent' ? 'Аренда' : 'Продажа'} по районам</h2><p class="tags">${dists.map((x) => `<a href="/${d.path}/${x.slug}/">${esc(x.name)} <em>${x.items.length}</em></a>`).join('')}</p></div></section>` : '';
-  listPage({ url: `/${d.path}/`, h1: d.h1, lead: d.lead, list: byDeal[key], items: [['/', 'Главная'], [`/${d.path}/`, d.name]], nav: key, seo: key, extra: links });
-  for (const dist of dists) {
+  const tiles = key === 'sale' ? `<section class="block block-tight"><div class="wrap">${catTiles('')}</div></section>` : '';
+  const statsBlock = byDeal[key].length >= 4 ? `<section class="block block-tight"><div class="wrap"><h2 class="h-small">Средние цены ${key === 'rent' ? 'аренды' : 'продажи'} в Белграде</h2>${priceStats(byDeal[key], key)}</div></section>` : '';
+  listPage({ url: `/${d.path}/`, h1: d.h1, lead: d.lead, list: byDeal[key], items: [['/', 'Главная'], [`/${d.path}/`, d.name]], nav: key, seo: key, extra: links + statsBlock, before: tiles, ld: [faqLd(faqItems(key).slice(0, 5))] });
+  if (key === 'sale') {
+    for (const c of SALE_CATS) {
+      listPage({
+        url: `/prodazha/${c.slug}/`, h1: c.h1, lead: c.lead, list: byDeal.sale.filter(c.test),
+        items: [['/', 'Главная'], ['/prodazha/', d.name], [`/prodazha/${c.slug}/`, c.name]],
+        nav: key, seo: key, before: `<section class="block block-tight"><div class="wrap">${catTiles(c.key)}</div></section>`,
+      });
+    }
+  }
+  const distPages = key === 'rent'
+    ? [...BELGRADE.map((b) => dists.find((x) => x.slug === b.slug) || { ...b, items: [] }), ...dists.filter((x) => !BG_NAME[x.slug])]
+    : dists;
+  for (const dist of distPages) {
     listPage({
       url: `/${d.path}/${dist.slug}/`,
-      h1: `${key === 'rent' ? 'Аренда' : 'Продажа'} в районе ${dist.name}`,
+      h1: `${key === 'rent' ? 'Аренда квартир' : 'Продажа квартир и домов'} в районе ${dist.name}`,
       lead: `${key === 'rent' ? 'Квартиры и дома в аренду' : 'Квартиры и дома на продажу'} в районе ${dist.name}, Белград.`,
       list: dist.items,
       items: [['/', 'Главная'], [`/${d.path}/`, d.name], [`/${d.path}/${dist.slug}/`, dist.name]],
-      nav: key, seo: key, showDistricts: false,
+      nav: key, seo: key, showDistricts: false, indexEmpty: !!DISTRICT_TEXT[dist.slug],
+      extra: districtAbout(dist.slug, dist.name, dist.items, key),
     });
   }
 }
@@ -733,6 +808,39 @@ write('karta/index.html', page({
 addUrl('/karta/');
 
 
+
+
+// Вопросы и ответы
+{
+  const groups = [['Аренда', 'rent'], ['Покупка', 'sale'], ['Общие вопросы', 'all']];
+  write('voprosy/index.html', page({
+    title: 'Вопросы и ответы: аренда и покупка недвижимости в Белграде',
+    desc: 'Ответы на частые вопросы о том, как снять или купить квартиру в Белграде иностранцу: депозит, коммунальные платежи, белый картон, налоги, проверка документов, ВНЖ.',
+    url: '/voprosy/', nav: 'faq',
+    jsonld: [faqLd(FAQ), crumbsLd([['/', 'Главная'], ['/voprosy/', 'Вопросы и ответы']])],
+    body: `<section class="page-head"><div class="wrap">${crumbs([['/', 'Главная'], ['/voprosy/', 'Вопросы и ответы']])}<h1>Вопросы и ответы</h1>
+<p class="page-lead">Коротко о том, как снять или купить жильё в Белграде. Не нашли ответ — <a href="https://t.me/${esc(SITE.tg)}" rel="noopener">напишите нам</a>.</p></div></section>
+${groups.map(([title, tag]) => `<section class="block block-tight"><div class="wrap"><h2 class="h-small">${title}</h2><div class="acc">${FAQ.filter((f) => f.tag === tag).map((f) => `<details><summary>${esc(f.q)}${ICON.chevron}</summary><p>${esc(f.a)}</p></details>`).join('')}</div></div></section>`).join('')}
+${leadForm('Остались вопросы? Оставьте заявку')}`,
+  }));
+  addUrl('/voprosy/');
+}
+
+// Отзывы: только настоящие, которые вы добавили в расширении
+function reviewCard(r) { return `<figure class="review"><blockquote>${esc(r.text)}</blockquote><figcaption><b>${esc(r.name)}</b>${r.date ? `<span>${esc(r.date)}</span>` : ''}${r.link ? `<a href="${esc(r.link)}" rel="noopener nofollow">Источник</a>` : ''}</figcaption></figure>`; }
+if (REVIEWS.length) {
+  write('otzyvy/index.html', page({
+    title: `Отзывы клиентов — ${SITE.name}`,
+    desc: 'Отзывы клиентов, которые сняли или купили жильё в Белграде с нашей помощью.',
+    url: '/otzyvy/', nav: 'reviews',
+    jsonld: [crumbsLd([['/', 'Главная'], ['/otzyvy/', 'Отзывы']])],
+    body: `<section class="page-head"><div class="wrap">${crumbs([['/', 'Главная'], ['/otzyvy/', 'Отзывы']])}<h1>Отзывы клиентов</h1>
+<p class="page-lead">Что говорят люди, которые нашли жильё в Белграде вместе с нами.</p></div></section>
+<section class="block block-tight"><div class="wrap"><div class="reviews">${REVIEWS.map(reviewCard).join('')}</div>
+<p class="review-cta">Работали с нами? <a href="https://t.me/${esc(SITE.tg)}?text=${encodeURIComponent('Здравствуйте! Хочу оставить отзыв: ')}" rel="noopener">Оставьте отзыв в Telegram</a>, и мы опубликуем его здесь.</p></div></section>`,
+  }));
+  addUrl('/otzyvy/');
+}
 
 // Избранное (заполняется скриптом из localStorage)
 write('izbrannoe/index.html', page({
