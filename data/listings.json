@@ -18130,6 +18130,456 @@
   "updated": "2026-10-26"
  },
  {
+  "id": "ho-5425647797691",
+  "slug": "ho-5425647797691-izdavanje-stan-retenzija",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 45 м², Ретензия, Земун",
+  "kind": "двухкомнатная квартира",
+  "price": 700,
+  "area": 45,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Ретензия",
+  "street": "Старца Вуядина",
+  "geo": {
+   "lat": 44.83731,
+   "lng": 20.41393
+  },
+  "facts": [
+   [
+    "Площадь",
+    "45 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "5-й из 8"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "гараж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 45 м² в районе Ретензия (Земун, Белград). 5-й этаж из 8, с мебелью, отопление автономное, люкс. Есть: депозит, не последний этаж, можно въехать сразу, гараж, домофон, интернет, кабельное ТВ, кондиционер, лифт, парковка, терраса, видеонаблюдение. Аренда 700 € в месяц.",
+  "originalLang": "sr",
+  "original": "Lux sređen stan u kvalitetnoj zgradi, potpuno namešten, funkcionalan, odvojena spavaća soba, video nadzor, garažno mesto uz doplatu 100 eur.\n\nAgencijska provizija za zakupca se plaća u iznosu od 50% + PDV dogovorene jednomesečne zakupnine za period zakupa u trajanju do 12 meseci",
+  "photos": 12,
+  "added": "2026-10-26",
+  "updated": "2026-10-26"
+ },
+ {
+  "id": "ho-5425647871168",
+  "slug": "ho-5425647871168-izdavanje-stan-beograd-na-vodi",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 80 м², Београд на води, Савски-Венац",
+  "kind": "трёхкомнатная квартира",
+  "price": 1500,
+  "area": 80,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "opstina-savski-venac",
+  "location": "Београд на води",
+  "street": "Луке Человича Требиньца",
+  "geo": {
+   "lat": 44.801,
+   "lng": 20.4474
+  },
+  "facts": [
+   [
+    "Площадь",
+    "80 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "8-й"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "терраса",
+   "депозит",
+   "есть право собственности"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 80 м² в районе Београд на води (Савски-Венац, Белград). 8-й этаж, с мебелью, отопление центральное, дом современной постройки. Есть: домофон, интернет, кабельное ТВ, кондиционер, лифт, терраса, депозит, есть право собственности. Аренда 1 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Useljiv od 25. novembra.\nAgencijska provizija 50%",
+  "photos": 13,
+  "added": "2026-10-26",
+  "updated": "2026-10-26"
+ },
+ {
+  "id": "ho-5425647194118",
+  "slug": "ho-5425647194118-izdavanje-stan-beograd-na-vodi",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 80 м², Београд на води -, Савски-Венац",
+  "kind": "трёхкомнатная квартира",
+  "price": 2500,
+  "area": 80,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "opstina-savski-venac",
+  "location": "Београд на води -",
+  "street": "",
+  "geo": {
+   "lat": 44.8087,
+   "lng": 20.4495
+  },
+  "facts": [
+   [
+    "Площадь",
+    "80 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "15-й"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "гараж",
+   "парковка",
+   "терраса",
+   "можно въехать сразу"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 80 м² в районе Београд на води - (Савски-Венац, Белград). 15-й этаж, с мебелью, отопление автономное, люкс, дом современной постройки. Есть: гараж, парковка, терраса, можно въехать сразу. Аренда 2 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se nov, neuseljavan trosoban stan površine 80 m², smešten na 15. spratu prestižne stambene zgrade BW Iris, u okviru kompleksa Beograd na vodi.\n\nStan je funkcionalno organizovan i pažljivo projektovan kako bi pružio visok nivo komfora i privatnosti. Sastoji se od ulaznog hodnika iz kojeg se pristupa dnevnom delu, koji obuhvata dnevni boravak sa izlazom na terasu, kuhinju i trpezarijski prostor.\n\nSpavaći deo čine dve spavaće sobe, od kojih je jedna master soba sa sopstvenim kupatilom, dok je druga manja soba. Stan raspolaže i dodatnim kupatilom, kao i zasebnom vešernicom, što doprinosi praktičnosti i funkcionalnosti prostora.\n\nZahvaljujući visokoj spratnosti, novom i neuseljavanom stanju, stan predstavlja odličan izbor za zakupce koji traže moderan i komforan dom u jednom od najtraženijih stambenih kompleksa u Beogradu.\n\nGaražno mesto dostupno je uz doplatu od 100 EUR mesečno.\n\nZa vise informacija\nAgencijska provizija je 50% od prve zakupnine.\n\nA brand-new, never-occupied two-bedroom apartment of 80 m² is available for rent on the 15th floor of the prestigious BW Iris residential building, located within the Belgrade Waterfront complex.\n\nThe apartment features a functional layout, thoughtfully designed to provide a high level of comfort and privacy. It comprises an entrance hall leading to the living area, which includes a living room with access to the terrace, a kitchen and a dining area.\n\nThe sleeping area consists of two bedrooms, including a master bedroom with its own en-suite bathroom and a second, smaller bedroom. The apartment also features an additional bathroom and a separate laundry room, further enhancing its practicality and functionality.\n\nThanks to its high-floor position and brand-new, never-occupied condition, this apartment is an excellent choice for tenants seeking a modern and comfortable home in one of Belgrade's most sought-after residential complexes.\n\nA garage parking space is available for an additional €100 per month.\n\nFor further information, please contact us.\n\nThe agency commission amounts to 50% of the first month's rent.",
+  "photos": 15,
+  "added": "2026-10-26",
+  "updated": "2026-10-26"
+ },
+ {
+  "id": "ho-5425647871178",
+  "slug": "ho-5425647871178-izdavanje-stan-blok-65",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: четырёхкомнатная квартира, 135 м², Блок 65, Новый Белград",
+  "kind": "четырёхкомнатная квартира",
+  "price": 3000,
+  "area": 135,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Блок 65",
+  "street": "Джорджа Станоевича",
+  "geo": {
+   "lat": 44.8088,
+   "lng": 20.4032
+  },
+  "facts": [
+   [
+    "Площадь",
+    "135 м²"
+   ],
+   [
+    "Комнат",
+    "4"
+   ],
+   [
+    "Этаж",
+    "12-й из 12"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "гараж",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "терраса"
+  ],
+  "text": "Сдаётся четырёхкомнатная квартира площадью 135 м² в районе Блок 65 (Новый Белград, Белград). 12-й этаж из 12, с мебелью, отопление центральное. Есть: депозит, гараж, интернет, кабельное ТВ, кондиционер, лифт, терраса. Аренда 3 000 € в месяц.",
+  "originalLang": "sr",
+  "original": "50% od prve mesečne zakupnine",
+  "photos": 12,
+  "added": "2026-10-26",
+  "updated": "2026-10-26"
+ },
+ {
+  "id": "ho-5425643217735",
+  "slug": "ho-5425643217735-izdavanje-stan-blok-21",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 63 м², Блок 21, Новый Белград",
+  "kind": "двухкомнатная квартира",
+  "price": 800,
+  "area": 63,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Блок 21",
+  "street": "Булевар Михайла Пупина",
+  "geo": {
+   "lat": 44.81376,
+   "lng": 20.43229
+  },
+  "facts": [
+   [
+    "Площадь",
+    "63 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "2-й из 5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "частично меблирована"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "домофон",
+   "интернет",
+   "кондиционер",
+   "терраса"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 63 м² в районе Блок 21 (Новый Белград, Белград). 2-й этаж из 5, частично меблирована, отопление центральное, после ремонта, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу, домофон, интернет, кондиционер, терраса. Аренда 800 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se kompletno renoviran stan u Bloku 21.Stan se izdaje sa kompletno opremljenom kuhinjom  i ves mašinom.\nStan se sastoji od ulaznog hodnika , dnevnog boravka, kuhinje sa trpezarijom,  spavaće sobe, kupatila, ostave i terase.",
+  "photos": 14,
+  "added": "2026-10-26",
+  "updated": "2026-10-26"
+ },
+ {
+  "id": "ho-5425647793160",
+  "slug": "ho-5425647793160-izdavanje-stan-beograd-na-vodi",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 80 м², Београд на води, Савски-Венац",
+  "kind": "трёхкомнатная квартира",
+  "price": 2600,
+  "area": 80,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "opstina-savski-venac",
+  "location": "Београд на води",
+  "street": "Кралице Драге Обренович",
+  "geo": {
+   "lat": 44.80951,
+   "lng": 20.45051
+  },
+  "facts": [
+   [
+    "Площадь",
+    "80 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "15-й"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "гараж",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 80 м² в районе Београд на води (Савски-Венац, Белград). 15-й этаж, с мебелью, отопление центральное, люкс, дом современной постройки. Есть: депозит, не последний этаж, гараж, кондиционер, лифт, парковка, терраса, видеонаблюдение. Аренда 2 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se nov neuseljevan stan u zgradi Iris na 15. spratu, kompletno namesten, u stanu ce biti televizori i zavese. Zgrada se nalazi u blizini apolo centra. Garazno mesto po ceni od 100€",
+  "photos": 15,
+  "added": "2026-10-26",
+  "updated": "2026-10-26"
+ },
+ {
+  "id": "ho-5425646152003",
+  "slug": "ho-5425646152003-izdavanje-stan-beograd-na-vodi",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 62 м², Београд на води, Савски-Венац",
+  "kind": "двухкомнатная квартира",
+  "price": 2900,
+  "area": 62,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "opstina-savski-venac",
+  "location": "Београд на води",
+  "street": "Николая Кравцова",
+  "geo": {
+   "lat": 44.80424,
+   "lng": 20.4497
+  },
+  "facts": [
+   [
+    "Площадь",
+    "62 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "24-й"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "гараж",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 62 м² в районе Београд на води (Савски-Венац, Белград). 24-й этаж, с мебелью, отопление центральное, люкс, дом современной постройки. Есть: депозит, не последний этаж, гараж, кондиционер, лифт, парковка, видеонаблюдение. Аренда 2 900 € в месяц.",
+  "originalLang": "sr",
+  "original": "U prilici smo da Vam ponudimo fantastican stan u Kuli sa jednom spavacom sobom. Stan je luskuzno namesten ukljucujuci i belu tehniku \"Miele\". Stan gleda na reku i TC Galerija. Na drugom spratu se nalazi spa centar koji ukljucuje, bazen, saunu dzakuzi, teretanu. U cenu stana je ukljuceno jedno garazno mesto.",
+  "photos": 15,
+  "added": "2026-10-26",
+  "updated": "2026-10-26"
+ },
+ {
   "id": "ho-5425647871187",
   "slug": "ho-5425647871187-izdavanje-stan-blok-65",
   "deal": "rent",
@@ -18322,7 +18772,7 @@
   "text": "Сдаётся четырёхкомнатная квартира площадью 148 м² в районе Дедине (Савски-Венац, Белград). 1-й этаж из 2, с мебелью, отопление газовое, люкс, дом современной постройки. Есть: депозит, можно въехать сразу, пентхаус, гараж, домофон, интернет, камин, кабельное ТВ, кондиционер, парковка, подвал, с садом, терраса, горячая вода, видеонаблюдение. Аренда 2 400 € в месяц.",
   "originalLang": "sr",
   "original": "Luksuzan stan na Dedinju – Velisava Vulovića 15\n\n4.0\nIznajmljuje se luksuzan stan površine 148 m², smešten na 1. spratu (od ukupno 2), u ekskluzivnom kompleksu koji pruža potpunu privatnost.\n\nO zgradi i kompleksu:\n\nStan se nalazi u kompleksu sa samo 6 stanova, pri čemu je svaki stan smešten na zasebnom spratu, bez komšija na istom nivou, čime je zagarantovana maksimalna privatnost.\n\nZgrada je dobitnik nagrade za arhitektonsko delo zbog savremenog dizajna, vrhunskih materijala i promišljenih detalja.\n\nBezbednost:\n\nVideo nadzor sa preko 20 kamera pokriva ceo kompleks\n\nBlindirana vrata u stanu pružaju dodatni nivo sigurnosti\n\nU okviru kompleksa nalaze se:\n\nBazen dostupan isključivo stanarima\n\nDvorište sa uređenom privatnom baštom\n\nStruktura stana:\n\n 4.0\n\nVisina plafona: 2,85 m\n\nJedna Master i 2 spavaće sobe manje \nDva kupatila (jedno sa đakuzi kadom)\n\nDve terase\n\nOstava (24 m²) sa mašinama za pranje i sušenje veša\n\nDva garažna mesta\n\nOpremljenost stana:\n\nKamin sa automatskim izduvavanjem vazduha\n\nPrvoklasan hrastov parket vrhunskog kvaliteta\n\nKupatila obložena italijanskom keramikom Porcelanosa (prva klasa)\n\nZidovi obloženi mermerom — luksuzan i sofisticiran izgled\n\nKuhinja opremljena Bosch elementima i najnovijom tehnikom\n\nGranitni šank u kuhinji, elegantan i trajan\n\nLED rasveta kroz ceo stan\n\nCrna stakla za dodatnu privatnost, sa roletnama na daljinsko upravljanje\n\nModeran nameštaj vrhunskog kvaliteta\n\nSvi elementi i uređaji u stanu su potpuno novi\n\nIspunjava najviše standarde kvaliteta i komfora\n\nCena zakupa: 2.000 € mesečno\n\nOdržavanje zgrade: 400 € mesečno\n\nU cenu održavanja su uključeni:\n\n Održavanje zgrade i bazena\n\n Video nadzor\n\n Centralna topla voda\n\nDodatni troškovi:\n\nSBB: ~ 40 €\n\nStruja: ~ 70 €\n\nInfostan: ~ 60 € leti (zimi više)\n\nGas: ~ 2 € leti (zimi prema potrošnji)",
-  "photos": 12,
+  "photos": 15,
   "added": "2026-10-26",
   "updated": "2026-10-26"
  },
@@ -18393,7 +18843,7 @@
   "text": "Сдаётся однокомнатная квартира площадью 30 м² в районе Алтина (Земун, Белград). Низкий приземный этаж из 2, с мебелью, отопление центральное, люкс, дом современной постройки. Есть: домофон, интернет, кабельное ТВ, лифт, парковка, горячая вода, видеонаблюдение, депозит, не последний этаж, можно въехать сразу, для некурящих, подходит студентам. Аренда 380 € в месяц.",
   "originalLang": "sr",
   "original": "Novogradnja stan/ garsonjera na altini jako dobro pozicioniran, u neposrednoj blizini marketa, frekventnih ulica i sadrzaja. Neuseljivan, kompletno namesten i opremljen uz mogucnost adaptacije prema potrebama zakupca. Stan ima pripadajuce parking mesto koje ulazi u cenu zakupa. Za vise informacija kontaktirajte putem broja .",
-  "photos": 12,
+  "photos": 15,
   "added": "2026-10-26",
   "updated": "2026-10-26"
  },
@@ -18456,7 +18906,7 @@
   "text": "Сдаётся двухкомнатная квартира площадью 55 м² в районе Баница (Вождовац, Белград). 1-й этаж из 4, с мебелью, отопление автономное, дом современной постройки. Есть: можно въехать сразу, гараж, домофон, интернет, кабельное ТВ, кондиционер, подвал, терраса. Аренда 550 € в месяц.",
   "originalLang": "sr",
   "original": "Banjica 2-Paunov breg\n\n2.0, 55m2 (terasa), 1/4 EG/PODNO, interfon, internet, telefon, KATV, klima\n\nProstorije: hodnik, dnevni boravak sa kuhinjom i trpezarijom- open space, spavaća soba, kupatilo, prostrana terasa sa lepim pogledom na okruženje\n\nIzuzetno svetao, funkcionalan stan u kvalitetnom stambenom objektu novije gradnje. \n\nU stanu je ugradjena kvalitetna višekomorna pvc stolarija, sigurnosna ulazna vrata, izuzetno kvalitetna keramika i sanitarije. Grejanje u celom je podno sa maksimalno iskorišćenjem toplotne energije.\n\nRežijski troškovi veoma niski (infostan 4000 dinara), električna energija po potrošnji.\n\nStan se izdaje kompletno namešten na godinu dana i duži vremenski period. Kućni ljubimci nisu dozvoljeni.\n\nOdmah je useljiv.\n\nUz stan se izdaje i garažno mesto na čvrstoj podlozi u suterenu zgrade. Ulaz u garažu je na daljinsko upravljanje sa rolo vratima. Cena zakupa je 100e na mesečnom nivou.\n\nStambeni objekat se nalazi u mirnoj ulici sa puno porodičnih vila i kuća, u parkovskom okruženju, a na svega 200 metara od okretnice autobuske linije 78 i trolejbuske linije 41, u neposrednoj blizini nalazi se: osnovna škola, vrtić, apoteke, banke, Maxi, tržni centar Banjica, pijaca, sportski centar Banjica, VMA... \n\nStan za svaku preporuku!\n\nObavezan depozit u visini jednog mesečnog zakupa. \n\nAgencijska provizija u skladu sa opštim uslovima poslovanja. \n\nZa više informacija agent: Dragutin",
-  "photos": 12,
+  "photos": 14,
   "added": "2026-10-26",
   "updated": "2026-10-26"
  },
@@ -18583,7 +19033,7 @@
   "text": "Сдаётся четырёхкомнатная квартира площадью 120 м² в районе Београд на води (Савски-Венац, Белград). 14-й этаж из 19, с мебелью, отопление центральное. Есть: депозит, не последний этаж, гараж, интернет, кабельное ТВ, кондиционер, лифт, терраса. Аренда 4 000 € в месяц.",
   "originalLang": "sr",
   "original": "50% od prve mesečne zakupnine",
-  "photos": 12,
+  "photos": 15,
   "added": "2026-10-26",
   "updated": "2026-10-26"
  },
