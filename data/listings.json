@@ -1,1 +1,651 @@
-[]
+[
+ {
+  "id": "kp-196700770",
+  "slug": "kp-196700770-prodaja-kuca-kosmaj",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 140 м², Космай, Сопот",
+  "kind": "дом",
+  "price": 208000,
+  "area": 140,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Сопот",
+  "districtSlug": "sopot",
+  "location": "Космай",
+  "street": "Краля Александра 22A",
+  "geo": {
+   "lat": 44.50161,
+   "lng": 20.55615
+  },
+  "facts": [
+   [
+    "Площадь",
+    "140 м²"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса"
+  ],
+  "text": "Продаётся дом площадью 140 м² в районе Космай (Сопот, Белград). С мебелью, отопление центральное. Есть: можно въехать сразу, терраса. Цена 208 000 €.",
+  "originalLang": "sr",
+  "original": "Uknjižena kuća na Kosmaju okružena zelenilom na ravnom placu od 10a sa dve zasebne stambene jedince na prvom i drugom spratu i dve pomoćne prostorije (letnja kuhinja i ostava) u prizemlju. Oba stana imaju po 55m², a pomoćne prostorije po 15m². Kuća poseduje i 2 spratne terase od po 9m², kao i veliku betoniranu površinu u prizemlju od 32m² u upotrebi dvorišne terase - okruženu vrtom i malom borovom šumom.  \n\nStan na prvom spratu i letnja kuhinja su renovirani, a stan na drugom spratu je upravo završen i nije useljavan. Ugrađeno je centralno grejanje sa kotlom na struju (moguć priključak na gas). Voda je gradska.  \n\nPlac poseduje sa jedne strane malu borovu šumu, dok je u ostalom delu okružen zimzelenom živom ogradom - lovor višnjom, fotinijom i tujama. Prostor ispred kuće je uređen kao mini park sa stazom kroz centralni deo i posađenim raznovrsnim biljkama - voćke, zelene i srebrne jelke, raznobojne ruže, lavanda i slično, ali vodeći računa da visinom ne ometaju otvoren pogled ka Kosmaju koji se pruža sa centralne terase. Vrt sa borovom šumicom, jelkama i raznovrsnim ukrasnim biljakama, pogled sa centralne terase ka Kosmaju i pogled sa bočne terase ka šumadijskoj panorami su neprocenjivi za ovakav tip nekretnine koji je namenjen isključivo odmoru. Okruženje će vam omogućiti potpuno vikend resetovanje ili svakodnevno uživanje u ovom mirnom delu udaljenom od gradske gužve.",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-190567133",
+  "slug": "kp-190567133-prodaja-kuca-ratari",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 60 м², Ратари, Обреновац",
+  "kind": "дом",
+  "price": 40000,
+  "area": 60,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Обреновац",
+  "districtSlug": "obrenovac",
+  "location": "Ратари",
+  "street": "Цумицево Сокаце",
+  "geo": {
+   "lat": 44.64976,
+   "lng": 20.10597
+  },
+  "facts": [
+   [
+    "Площадь",
+    "60 м²"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся дом площадью 60 м² в районе Ратари (Обреновац, Белград). Без мебели, после ремонта, старый фонд. Цена 40 000 €.",
+  "originalLang": "sr",
+  "original": "Prodajem kucu od 60 m2 ,8 ari placa i 25m2 pomicni objekat. Kucu treba kompletno renovirati. Voda, trofazna struja, bunar . Prodavnica na uglu ulice kao i autobuska stanica.",
+  "photos": 12,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-192529260",
+  "slug": "kp-192529260-prodaja-kuca-lisovic",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 140 м², Лисович, Бараево",
+  "kind": "дом",
+  "price": 149999,
+  "area": 140,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Бараево",
+  "districtSlug": "barajevo",
+  "location": "Лисович",
+  "street": "Бараево- Лисовиц Космайских Партизана",
+  "geo": {
+   "lat": 44.56182,
+   "lng": 20.45361
+  },
+  "facts": [
+   [
+    "Площадь",
+    "140 м²"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "частично меблирован"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 140 м² в районе Лисович (Бараево, Белград). Частично меблирован, отопление центральное, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, терраса, кабельное ТВ, кондиционер, парковка, гараж. Цена 149 999 €.",
+  "originalLang": "sr",
+  "original": "Porodična stambena zgrada pozicionirana u mirnom i ušuškanom kraju, sa osunčanim dvoristem, pogodna za porodice sa malom decom.\n\nSam plac je ograđen, postoji bunar sa pijaćom vodom, i jedan sa tehničkom vodom. Na samom placu su fino raspoređene sadnice voća, koje rađaju svake godine, kao i zidana pušnica, koja je funkcionalna. Lokacijski je dobro pozicionirana, za svega par minuta ste u samom cenru, 5 min vožnje do osnovne i srednje škole, glavne autobuske stanice, doma zdravlja, visebrojnih marketa, kafića, restorana, crkve, trznog centra, a sam sportski centar je udaljen od svega 3 minuta vožnje. Takođe, lokacija je dobro povezna sa Kosmajem, kao i ostalim atraktivnim mestima u okolini.\nVIDEO NA TIKTOK PLATFORMI\n\nhttps: //vt. tiktok. com/ZS4G2rDDo/\nVideo https: //youtube. com/shorts/Wkxwr2ctnmE? si=mSeK5a7NV8Dv-N4B",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196720461",
+  "slug": "kp-196720461-prodaja-kuca-lazarevac-mesto",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 88 м², Лазаревац (mesto), Лазаревац",
+  "kind": "дом",
+  "price": 150000,
+  "area": 88,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Лазаревац",
+  "districtSlug": "lazarevac",
+  "location": "Лазаревац (mesto)",
+  "street": "",
+  "geo": {
+   "lat": 44.37906,
+   "lng": 20.26427
+  },
+  "facts": [
+   [
+    "Площадь",
+    "88 м²"
+   ],
+   [
+    "Отопление",
+    "твёрдое топливо"
+   ],
+   [
+    "Мебель",
+    "частично меблирован"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "подвал",
+   "парковка",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 88 м² в районе Лазаревац (mesto) (Лазаревац, Белград). Частично меблирован, отопление твёрдое топливо, после ремонта, старый фонд. Есть: можно въехать сразу, терраса, подвал, парковка, гараж. Цена 150 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju kuća u ulici Kolubarski trg, u Lazarevcu, udaljena 1km od centra grada.\n\nPovršina osnove kuće je 88 kvadrata, dok je ukupna površina koja uključuje prizemne prostorije, garažu i sprat 168 kvadrata.\n\nPlac je površine 9,3 ari.\n\nKuća je uknjižena.  \n\nKompletno renovirana, spremna za useljenje.  \n\nGrejanje je individualno centralno na čvrsto gorivo.\n\nKuća se sastoji od dve etaže, plus tavan. Kvalitetna gradnja.\n\nDonja etaža: boravak sa kuhinjom, ostava, kotlarnica i garaža.\n\nGornja etaža: predsoblje, kuhinja sa trpezarijom, kupatilo, dnevna soba, dve spavaće sobe, dve terase.\n\nDirektna prodaja od vlasnika.",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196722637",
+  "slug": "kp-196722637-prodaja-kuca-ugrinovci",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 220 м², Угриновци, Земун",
+  "kind": "дом",
+  "price": 165000,
+  "area": 220,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "Угриновци",
+  "street": "Владислава Стойковича 4",
+  "geo": {
+   "lat": 44.87665,
+   "lng": 20.18978
+  },
+  "facts": [
+   [
+    "Площадь",
+    "220 м²"
+   ],
+   [
+    "Отопление",
+    "кондиционер, твёрдое топливо"
+   ],
+   [
+    "Мебель",
+    "частично меблирован"
+   ],
+   [
+    "Состояние",
+    "строится"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "кондиционер",
+   "парковка"
+  ],
+  "text": "Продаётся дом площадью 220 м² в районе Угриновци (Земун, Белград). Частично меблирован, отопление кондиционер, твёрдое топливо, строится, дом современной постройки. Есть: кондиционер, парковка. Цена 165 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju je kuća u samom centru Ugrinovaca, na izuzetnoj lokaciji, u neposrednoj blizini škole, doma zdravlja i svih glavnih sadržaja u mestu.  \n\nPovršina placa: 7,7 ari\nPovršina kuće: oko 220 m²\nPriključci: voda, struja i kanalizacija\n\nStanje i raspored prostorija:  \n\nPrizemlje (delimično sređeno): Polovina prizemlja je potpuno sređena i useljiva kao funkcionalan dvosoban stan. Sastoji se od ulaznog hodnika, prostrane dnevne sobe, jedne spavaće sobe, kupatila i male ostave (špajza).  \nIzvedeni radovi: Na ovom delu kuće postavljena je kvalitetna stolarija i urađena izolacija kamenom vunom. Ozidan je dimnjak, a međuspratne betonske ploče su urađene u punom betonu sa dodatnih 5 cm sloja stiropor izolacije.  \n\nVeliki investicioni potencijal:  \n\nKuća je u osnovi zamišljena kao dvojna, ali pruža izvanredne mogućnosti adaptacije, po želji se lako može preurediti u četiri odvojena stana, pri čemu svaki može imati svoj zaseban ulaz i potpunu privatnost. Unutrašnjost je projektovana u open space stilu, a urađena su i dva betonska stepeništa. To vam ostavlja potpunu slobodu da prostor organizujete prema sopstvenim potrebama.  \n\nZa sve dodatne informacije, razgledanje i dogovor, stojimo vam na raspolaganju.",
+  "photos": 9,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196727255",
+  "slug": "kp-196727255-prodaja-kuca-nemenikuce",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 154 м², Неменикуче, Сопот",
+  "kind": "дом",
+  "price": 220000,
+  "area": 154,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Сопот",
+  "districtSlug": "sopot",
+  "location": "Неменикуче",
+  "street": "Касталянска",
+  "geo": {
+   "lat": 44.48491,
+   "lng": 20.61287
+  },
+  "facts": [
+   [
+    "Площадь",
+    "154 м²"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "подвал",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся дом площадью 154 м² в районе Неменикуче (Сопот, Белград). С мебелью, дом современной постройки. Есть: можно въехать сразу, терраса, подвал, видеонаблюдение. Цена 220 000 €.",
+  "originalLang": "sr",
+  "original": "PORODIČNA KUĆA 154 m² NA 30 ARI – NEMENIKUĆE, KOSMAJ\n\nPanoramski pogled • mir i privatnost • odmah useljiva\n\nBeograd – Sopot – Nemenikuće, Kastaljanska | 154 m² | PR + potkrovlje | plac 30 ari | 4.0\n\nNa prodaju porodična kuća na izuzetno mirnoj i otvorenoj lokaciji u Nemenikućama, u neposrednoj blizini Kosmaja. Nekretnina se nalazi na prostranom placu od 30 ari, sa potpuno otvorenim panoramskim pogledom na okolne predele, bez gradske gužve i uz visok nivo privatnosti.\n\nLokacija je pogodna kako za stalno stanovanje, tako i za kuću za odmor, porodično imanje ili turističko izdavanje. Okruženje pruža mnogo otvorenog prostora i neposredan kontakt sa prirodom.\n\nKuća ima približno 154 m² korisne površine, od čega je 103 m² uknjiženo, dok potkrovlje nije uknjiženo.\n\nU prizemlju se nalaze tri spavaće sobe, prostran dnevni boravak povezan sa trpezarijom i kuhinjom, kupatilo i komunikacija prema potkrovlju. Dnevni deo je svetao i funkcionalno organizovan, sa izlazom na veliku natkrivenu terasu – jedan od najlepših delova kuće. Sa terase se pruža širok pogled preko imanja i okolnih brda, idealan za odmor i druženje tokom većeg dela godine. Kupatilo je uređeno kvalitetnom keramikom modernog izgleda.\n\nPotkrovlje raspolaže sa približno 34 m² korisnog prostora, uz dodatnu ostavu od oko 4 m², kupatilo, čajnu kuhinju i dve terase. Sa jedne strane pruža se pogled prema Kablaru, Mladenovcu i Bukulji, a sa druge prema Kosmaju i Avali. Prostor je svetao i otvoren i može se koristiti kao dodatna spavaća zona, apartman, radni prostor ili prostor za odmor.\n\nIspod terase nalazi se podrum od oko 12 m², sa cisternom kapaciteta 2.370 litara i hidroforom za rezervno vodosnabdevanje. Preostali deo podruma može se koristiti kao ostava, tehnička prostorija ili prostor za alat i opremu.\n\nKuća je građena kvalitetnim savremenim materijalima: Ytong blok 20 cm + 10 cm termoizolacije. Ugrađena je aluminijumska stolarija sa troslojnim staklom „4 godišnja doba“, punjenim argonom, roletnama i komarnicima, što obezbeđuje odličnu toplotnu i zvučnu izolaciju.\n\nPlac od 30 ari je uređen, poravnat u blagom nagibu i potpuno ograđen. Na imanju se nalazi više od 150 sadnica voća, ruža i ukrasnog bilja. Prilaz kući i pešačke staze su uređeni prirodnim kamenom. Plac pruža dovoljno prostora za bazen, letnjikovac, dodatni objekat, voćnjak ili druge sadržaje.\n\nNa placu su već izvedene instalacije i priprema za vodu, električnu energiju i internet, sa podzemno postavljenim kablovima za još jednu kuću u dvorištu.\n\nPosebnu vrednost daje položaj na otvorenom terenu, sa pogledom koji se pruža kilometrima i teško može biti zaklonjen budućom gradnjom.\n\nKuća je odmah useljiva i ima upotrebnu dozvolu. Predstavlja odličan izbor za kupca koji traži kvalitetno izgrađen objekat na velikom placu, mir, privatnost i pogled koji se teško pronalazi na ovoj udaljenosti od Beograda.\n\nNemenikuće – Kosmaj. Priroda, otvoren prostor i pogled koji se pruža kilometrima.\n\nKontakt: 060*",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196727894",
+  "slug": "kp-196727894-prodaja-kuca-lipovica",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 100 м², Липовица, Бараево",
+  "kind": "дом",
+  "price": 150000,
+  "area": 100,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Бараево",
+  "districtSlug": "barajevo",
+  "location": "Липовица",
+  "street": "",
+  "geo": {
+   "lat": 44.64393,
+   "lng": 20.43404
+  },
+  "facts": [
+   [
+    "Площадь",
+    "100 м²"
+   ],
+   [
+    "Отопление",
+    "электрическое"
+   ],
+   [
+    "Мебель",
+    "частично меблирован"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "подвал",
+   "видеонаблюдение",
+   "парковка",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 100 м² в районе Липовица (Бараево, Белград). Частично меблирован, отопление электрическое, в исходном состоянии, старый фонд. Есть: можно въехать сразу, терраса, подвал, видеонаблюдение, парковка, гараж. Цена 150 000 €.",
+  "originalLang": "sr",
+  "original": "Kuca na prodaju ili zamjena za drugu nekretninu stan poslovni prostor vlasnik lično može svaki dogovor.",
+  "photos": 8,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196729392",
+  "slug": "kp-196729392-prodaja-kuca-mali-mokri-lug",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 37 м², Мали Мокри Луг, Звездара",
+  "kind": "дом",
+  "price": 60000,
+  "area": 37,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Мали Мокри Луг",
+  "street": "",
+  "geo": {
+   "lat": 44.78054,
+   "lng": 20.52614
+  },
+  "facts": [
+   [
+    "Площадь",
+    "37 м²"
+   ],
+   [
+    "Отопление",
+    "кондиционер"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка"
+  ],
+  "text": "Продаётся дом площадью 37 м² в районе Мали Мокри Луг (Звездара, Белград). С мебелью, отопление кондиционер, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, кабельное ТВ, кондиционер, парковка. Цена 60 000 €.",
+  "originalLang": "sr",
+  "original": "? PRODAJA STANA – MALI MOKRI LUG, CRVENA ZVEZDA 1\n\nNa prodaju stan na odličnoj lokaciji u Malom Mokrom Lugu, ulica Crvena Zvezda br. 1.\n\nStan se nalazi u mirnom i lepo povezanom delu naselja, u neposrednoj blizini male pijace, a svega dve stanice od okretnice na Ustaničkoj. Lokacija je veoma praktična za svakodnevni život, sa svim važnim sadržajima u blizini.\n\n? U neposrednoj blizini nalaze se:\n\n•Aman\n•Maxi\n•DIS\n•mala pijaca\n•prodavnice i ostali sadržaji\n\n? Obezbeđen parking za stanare.\n\n? Odlična saobraćajna povezanost sa ostatkom grada, a istovremeno mirna lokacija pogodna za život.\n\nStan je odličan izbor kako za život, tako i kao investicija za izdavanje.",
+  "photos": 10,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196732514",
+  "slug": "kp-196732514-prodaja-kuca-mladenovac-mesto",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 250 м², Младеновац (mesto), Младеновац",
+  "kind": "дом",
+  "price": 300000,
+  "area": 250,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Младеновац",
+  "districtSlug": "mladenovac",
+  "location": "Младеновац (mesto)",
+  "street": "",
+  "geo": {
+   "lat": 44.43046,
+   "lng": 20.68437
+  },
+  "facts": [
+   [
+    "Площадь",
+    "250 м²"
+   ],
+   [
+    "Отопление",
+    "центральное, газовое"
+   ],
+   [
+    "Мебель",
+    "частично меблирован"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "парковка",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 250 м² в районе Младеновац (mesto) (Младеновац, Белград). Частично меблирован, отопление центральное, газовое, после ремонта, дом современной постройки. Есть: можно въехать сразу, терраса, парковка, гараж. Цена 300 000 €.",
+  "originalLang": "sr",
+  "original": "Kuca u fenomenalnom stanju, na super lokaciji,500m od Selters banje. Pre par godina renovirana. Nov krov, nova izolacija krova i zidova.\n\nBroj telefona nalazi se na poslednjoj slici.\n\nZamolio bih agencije da me ne kontaktiraju.",
+  "photos": 10,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-194036436",
+  "slug": "kp-194036436-prodaja-kuca-surcin-mesto",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 80 м², Сурчин (mesto), Сурчин",
+  "kind": "дом",
+  "price": 125950,
+  "area": 80,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Сурчин",
+  "districtSlug": "surcin",
+  "location": "Сурчин (mesto)",
+  "street": "",
+  "geo": {
+   "lat": 44.79359,
+   "lng": 20.28552
+  },
+  "facts": [
+   [
+    "Площадь",
+    "80 м²"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "подвал",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 80 м² в районе Сурчин (mesto) (Сурчин, Белград). Отопление центральное, в исходном состоянии, старый фонд. Есть: можно въехать сразу, подвал, гараж. Цена 125 950 €.",
+  "originalLang": "sr",
+  "original": "Potrebno odredjeno renoviranje. Prednost kupovine od vlasnika ne plaćate proviziju od 2,5% agenciji. Postoji prostor za dogovor. Srećna kupovina potencijalnom kupcu.",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-195434873",
+  "slug": "kp-195434873-prodaja-kuca-medakovic-2",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 143 м², Медакович 2, Вождовац",
+  "kind": "дом",
+  "price": 190000,
+  "area": 143,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Медакович 2",
+  "street": "",
+  "geo": {
+   "lat": 44.77511,
+   "lng": 20.49771
+  },
+  "facts": [
+   [
+    "Площадь",
+    "143 м²"
+   ],
+   [
+    "Отопление",
+    "твёрдое топливо"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка"
+  ],
+  "text": "Продаётся дом площадью 143 м² в районе Медакович 2 (Вождовац, Белград). Без мебели, отопление твёрдое топливо, после ремонта, старый фонд. Есть: интернет, терраса, кабельное ТВ, кондиционер, парковка. Цена 190 000 €.",
+  "originalLang": "sr",
+  "original": "Prodaje se kuća u naselju Medaković u blizini okretnice autobusa 30\nPovršine 132 kvadrata, dimenzija u osnovi 11m x 6m, prizemlje i sprat. U prizemlju površine 66 kvadrata ima ulazni hodnik, prolazna prostorija od 10 kvadrata gde se nalaze stepenice za sprat i dnevni boravak sa kuhinjom i trpezarijom od 38 kvadrata i vc\nSprat ima 4 sobe, kupatilo i terasu od 18 kvadrata pred izlaz na terasu ima prostorija koja je kao zatvorena zimska terasa, ima i tavanski deo iznad sprata celom dužinom, u sklopu donjeg dela posle ulaznog hodnika je i odvojena šupa koja se koristi za ogrev a može i za stalno grejanje za poziciju peci na pelet, dok celu dužinu kuće prati prostor iza od 11 metara dužine i 1 m širine sto je još 11 kvadrata iza kuće prostor za odlaganje stvari. Znaci ukupna površina kuće je 132 kvadrata i plus tih 11 kvadrata sve ukupno 144 kvadrata. Na kući je uradjena kompleta fasada stiropor na već uradjenu grebanu fasadu sa kompletnim PVC prozorima, od ulaganja imaju stepenice nove da se urade jos neke sitnice, ispred kuće mogu se parkirati dva do tri auta autaomobila. NAJBOLJE POGLEDATI UZIVO, u pocesu legalizacije\n\nCena je ***190.000eura ***\n\n***Samo za keš i za ozbiljnog kupca pregovor oko cene ***",
+  "photos": 11,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "ho-5425644917181",
+  "slug": "ho-5425644917181-izdavanje-stan-cubura",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 27 м², Чубура, Врачар",
+  "kind": "студия",
+  "price": 480,
+  "area": 27,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "opstina-vracar",
+  "location": "Чубура",
+  "street": "Церска",
+  "geo": {
+   "lat": 44.80235,
+   "lng": 20.48029
+  },
+  "facts": [
+   [
+    "Площадь",
+    "27 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "6-й из 9"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 60 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "кондиционер",
+   "лифт",
+   "терраса",
+   "горячая вода"
+  ],
+  "text": "Сдаётся студия площадью 27 м² в районе Чубура (Врачар, Белград). 6-й этаж из 9, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу, кондиционер, лифт, терраса, горячая вода. Аренда 480 € в месяц.",
+  "originalLang": "sr",
+  "original": "Od 1. novembra 2026. VLASNIK izdaje garaonjeru od 27m2 od na 6. spratu u Niškoj broj 30 na Vračaru.\n\nStan se nalazi izmedju Kalenić pijace i Bulevara kralja Aleksandra.\n\nSvetao, namešten (krevet nov.) Kuhinja je u hodniku, soba, kupatilo i terasa\n\nTroškovi: infostan je 5700 dinara (centralno grejanje) i struja po potrošnji.\n\nDepozit u iznosu od 240 evra (koji mozete dati iz dva puta - po 120 evra uz prve dve kirije).\n\nZvati na telefon Violeta",
+  "photos": 12,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ }
+]
