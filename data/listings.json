@@ -608,6 +608,646 @@
   "updated": "2026-10-28"
  },
  {
+  "id": "kp-196307031",
+  "slug": "kp-196307031-prodaja-kuca-torlak",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 167 м², Торлак, Вождовац",
+  "kind": "дом",
+  "price": 170000,
+  "area": 167,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Торлак",
+  "street": "",
+  "geo": {
+   "lat": 44.73695,
+   "lng": 20.49901
+  },
+  "facts": [
+   [
+    "Площадь",
+    "167 м²"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "частично меблирован"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "подвал",
+   "парковка",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 167 м² в районе Торлак (Вождовац, Белград). Частично меблирован, отопление автономное, в исходном состоянии. Есть: можно въехать сразу, терраса, подвал, парковка, гараж. Цена 170 000 €.",
+  "originalLang": "sr",
+  "original": "Prodajem veoma povoljno kucu na odlicnoj lokaciji, u mirnom delu Kumodraza. Gradnja je iz 2000-tih. Podnet zahtev za lagalizaciju,3 ara placa,167 m2. Za detalje pozvati, dogovor oko cene. ..",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196314618",
+  "slug": "kp-196314618-prodaja-kuca-mirijevo",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 65 м², Мириево, Звездара",
+  "kind": "дом",
+  "price": 100000,
+  "area": 65,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Мириево",
+  "street": "",
+  "geo": {
+   "lat": 44.79818,
+   "lng": 20.52611
+  },
+  "facts": [
+   [
+    "Площадь",
+    "65 м²"
+   ],
+   [
+    "Отопление",
+    "электрическое"
+   ],
+   [
+    "Мебель",
+    "частично меблирован"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса"
+  ],
+  "text": "Продаётся дом площадью 65 м² в районе Мириево (Звездара, Белград). Частично меблирован, отопление электрическое, после ремонта, старый фонд. Есть: можно въехать сразу, терраса. Цена 100 000 €.",
+  "originalLang": "sr",
+  "original": "Prodajem kucu na Zvezdari ulica Predraga Vasica 17c sa 2.5 ari placa Koji je uknjizen dok je kuca u postupku legalizaciju.",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-191661833",
+  "slug": "kp-191661833-prodaja-kuca-avala",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 170 м², Авала, Вождовац",
+  "kind": "дом",
+  "price": 260000,
+  "area": 170,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Авала",
+  "street": "Рипань Тресня",
+  "geo": {
+   "lat": 44.71111,
+   "lng": 20.50626
+  },
+  "facts": [
+   [
+    "Площадь",
+    "170 м²"
+   ],
+   [
+    "Отопление",
+    "твёрдое топливо"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "подвал",
+   "парковка"
+  ],
+  "text": "Продаётся дом площадью 170 м² в районе Авала (Вождовац, Белград). С мебелью, отопление твёрдое топливо, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, терраса, подвал, парковка. Цена 260 000 €.",
+  "originalLang": "sr",
+  "original": "Kompletno renovirana kuca u prelepom delu naselja Trešnja, blizu stare okretnice autobusa.\nKuca se nalazi na ravnom, ogradjenom placu povrsine 9.7 ari, sa preko 20 vocki (tresnja, jabuka, sljiva. .. ).\nNa kuci je prosle godine odradjen krov, fasada, stolarija, enterijer.\nPlac je 1/1, a predat je zahtev za legalizaciju, kao i zahtev za Svoj na svome.",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196318682",
+  "slug": "kp-196318682-prodaja-kuca-vlaska",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 97 м², Влашка, Младеновац",
+  "kind": "дом",
+  "price": 76000,
+  "area": 97,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Младеновац",
+  "districtSlug": "mladenovac",
+  "location": "Влашка",
+  "street": "Влашки Венац",
+  "geo": {
+   "lat": 44.50504,
+   "lng": 20.67705
+  },
+  "facts": [
+   [
+    "Площадь",
+    "97 м²"
+   ],
+   [
+    "Отопление",
+    "твёрдое топливо"
+   ],
+   [
+    "Мебель",
+    "частично меблирован"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "кабельное ТВ",
+   "парковка",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 97 м² в районе Влашка (Младеновац, Белград). Частично меблирован, отопление твёрдое топливо, в исходном состоянии, старый фонд. Есть: можно въехать сразу, интернет, терраса, кабельное ТВ, парковка, гараж. Цена 76 000 €.",
+  "originalLang": "sr",
+  "original": "Struja, bunar voda,  \n\nGas i vodovod pored kuće\n\nPotok iza kuće\n\nAsvalt do same kapije placa.  \n\nZadnja kuća u sokaku.  \n\nMir tišina. Za vikendicu extra. 76.000€.  \n\nSve je legalizovano.  \n\nParcele 1942/3; 1942/4 i 1943\n\nNa prodaju porodicna kuca povrsine 97 m², na izuzetnoj lokaciji u Vlaskoj, svega oko 500 metara od centra. Smestena na prelepom placu od 12 ari, okruzena zelenilom, ova nekretnina spaja mir porodicnog doma sa blizinom centra naselja.  \n\nProstrano dvoriste predstavlja posebnu vrednost imanja — dovoljno prostora za deciju igru, porodicna okupljanja, bastu i kutak za odmor na otvorenom. Idealna prilika za porodicu koja zeli sopstveni dom, vise prostora i zivot u prijatnom, prirodnom okruzenju.  \n\nNa placu se nalazi i pomocni objekat povrsine preko 100 m², koji je u procesu legalizacije i pruza dodatni prostor za skladistenje, radionicu ili druge potrebe buducih vlasnika.  \n\nOdlicna lokacija, veliki plac i dodatni objekat cine ovu nekretninu privlacnim izborom za porodicni zivot i uredjenje doma prema sopstvenim zeljama.  \n\nMoguće dokupiti - proširiti plac za još 10ari parcela 1944 koji nisu u mom vlasništvu oko 4000€",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-195311861",
+  "slug": "kp-195311861-prodaja-kuca-mala-vrbica",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 423 м², Мала Врбица, Младеновац",
+  "kind": "дом",
+  "price": 99000,
+  "area": 423,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Младеновац",
+  "districtSlug": "mladenovac",
+  "location": "Мала Врбица",
+  "street": "",
+  "geo": {
+   "lat": 44.4686,
+   "lng": 20.6477
+  },
+  "facts": [
+   [
+    "Площадь",
+    "423 м²"
+   ],
+   [
+    "Отопление",
+    "твёрдое топливо"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "подвал",
+   "кондиционер",
+   "парковка"
+  ],
+  "text": "Продаётся дом площадью 423 м² в районе Мала Врбица (Младеновац, Белград). Без мебели, отопление твёрдое топливо, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, терраса, подвал, кондиционер, парковка. Цена 99 000 €.",
+  "originalLang": "sr",
+  "original": "Zameni gradsku gužvu šapatom prirode – tvoje mesto u podnožju Kosmaja te čeka!  \n\nZamisli: budiš se uz pesmu ptica, piješ kafu na prostranoj terasi gledajući u zelenilo, dok deca bezbrižno trče po dvorištu. . . \n\nSamo 45 minuta od Beograda, u selu Mala Vrbica, čeka te kuća koja može postati porodično gnezdo, vikendica ili miran kutak za odmor.  \n\nLokacija: 46 km od Beograda, prilaz sa Mladenovačkog puta, prolazi i gradski autobus\n\nPlac: 21,78 ari – voćke, prostor za baštu, dečije igralište ili bazen\n\nKuća: 483 m² gradjevinske povrsine - 427 korisne povrsine\n\nInfrastruktura: 2 brojila za struju, bunar sa pijaćom vodom, internet i telefon – samo treba priključiti\n\nGrejanje: kotao i radijatori već ugrađeni – potrebno povezivanje\n\nPrilaz: privatni ulaz, ograđeno dvorište, parking\n\nDodatno: gas prolazi pored, uskoro povezivanje sa gradskim vodovodom.  \n\nSve je spremno za novi početak :  \n\n– Kuća je kompletno uknjižena - 483m2\n\n– Odmah useljiva\n\n– Na 21ari placa, se nalazi samo kuća, drveće i veliki potencijal za organsku baštu\n\nOstalo je samo da doneseš odluku!  \n\nIdealno za:  \n\n– Porodice koje traže svoj mir i privatni prostor\n\n– Idealno za bezbrižno odrastanje dece u dvorištu\n\n– Ljubitelje prirode i organske bašte\n\n– Sve koji žele da pobegnu od gradske gužve.  \n\nNa raspolaganju sam da zajedno pogledamo kuću i oslušnemo tvoj doživljaj.",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-194132194",
+  "slug": "kp-194132194-prodaja-kuca-mali-mokri-lug",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 82 м², Мали Мокри Луг, Звездара",
+  "kind": "дом",
+  "price": 160000,
+  "area": 82,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Мали Мокри Луг",
+  "street": "Нине Кирсанове 4A",
+  "geo": {
+   "lat": 44.77787,
+   "lng": 20.54766
+  },
+  "facts": [
+   [
+    "Площадь",
+    "82 м²"
+   ],
+   [
+    "Отопление",
+    "кондиционер"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "кабельное ТВ",
+   "кондиционер"
+  ],
+  "text": "Продаётся дом площадью 82 м² в районе Мали Мокри Луг (Звездара, Белград). Без мебели, отопление кондиционер, после ремонта, дом современной постройки. Есть: можно въехать сразу, кабельное ТВ, кондиционер. Цена 160 000 €.",
+  "originalLang": "sr",
+  "original": "Ako ste ovih meseci gledali kuće u Beogradu, znate kako to ide. Ili je jeftina pa treba sve da se ruši i preziduje. Ili je gotova i lepa pa je duplo iznad vašeg budžeta. A i kada nađete onu pravu, kvadratura je to što je. Koliko ima danas, toliko će imati i za deset godina.\n\n \n\nOva ne mora.\n\n \n\nNine Kirsanove 4A, kraj Mirijeva. Prizemna kuća od 82 m² sa potkrovljem koje čeka da od nje napravi 164.\n\n------------------------------------------------\n\n \n\n82 KVADRATA KOJA MOGU DA POSTANU 164\n\n \n\nKupujete prizemnu kuću od 82 m² . Iznad nje stoji POTKROVLJE U SIVOJ FAZI koje se NE RAČUNA u kvadraturu i za koje ne plaćate ni evro.\n\nSredite ga i dobijate još jednu sobu. Ili ga, uz nešto veće ulaganje, podignete u pun sprat i dobijate DODATNIH 82m² . Kuća koja raste zajedno sa vašom porodicom. Danas vam treba prizemlje. Za pet godina, kad stigne još jedno dete, ne selite se. Popnete se na sprat.\n\n \n\nMalo koja kuća u Beogradu vam daje da udvostručite kvadraturu bez kupovine ijednog dodatnog metra placa.\n\n------------------------------------------------\n\n \n\nRASPORED\n\n \n\nUlazite u hodnik. Levo su dve odvojene sobe. Pravo je veliko kupatilo sa WC-om. Desno velika dnevna soba spojena sa kuhinjom, sa balkonskim vratima koja izlaze ispred kuće. Tu se lako pravi terasa za jutarnju kafu i letnje večeri.  Sve u prizemlju. Bez stepenica, bez kompromisa.\n\n------------------------------------------------\n\n \n\nNA SAMOM VRHU MIRIJEVA\n\n \n\nKuća je na kraju Mirijeva, na uzvišenju koje meštani zovu Zeleno brdo. Zbog visine i ruže vetrova vazduh je ovde osetno svežiji i čistiji nego dole u naselju. To je sitnica koju primetite već prve večeri.\n\nA ceo grad vam je i dalje na dohvat ruke.\n\n------------------------------------------------\n\n \n\nDVORIŠTE KOJE JE SAMO VAŠE\n\n \n\nPlac od 2 ara. Kuća zauzima jedan, a ispred nje je vaše dvorište od jednog ara. Bez deljenja, bez zajedničke kapije, bez komšije koji vam prolazi kroz dvorište što je ogromna prednost naspram stana.\n\n \n\nU njemu stoji jedno veliko, staro drvo koje leti pravi hlad kakav ne možete da kupite ni za kakve pare.\n\nI izbetoniran parking za automobil. Ko traži kuću u Beogradu zna koliko to vredi.\n\n \n\nMali raj, a u gradu.\n\n------------------------------------------------\n\n \n\nPREVOZ I OKOLINA\n\n \n\n• 1,5 km do Bulevara kralja Aleksandra, gde vas već čeka TRAMVAJ.\n• 200 m do autobuske stanice, linije 302, 303, 304, 305, 306, 307, 309, 322 i još.\n• Centar Mirijeva na nekoliko minuta: prodavnice, kafići, restorani, osnovne i srednje škole, sve što porodici treba.\n\n \n\nI ono što malo ko računa: po planovima razvoja grada, KRAJNJA STANICA BEOGRADSKOG METROA predviđena je upravo u Mirijevu. Linija od Železnika, preko Trga republike, do Mirijeva. Ako se to realizuje, ovaj kraj više neće imati današnje cene.\n\n \n\nKupujete u naselju koje tek raste.\n\n------------------------------------------------\n\n \n\nGRAĐENA 2020, KAKO TREBA\n\n \n\n• Termo blok sa 10 cm stiropora. Zimi topla, leti hladna, a računi vas neće terati da se oblačite u sopstven",
+  "photos": 14,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196343697",
+  "slug": "kp-196343697-prodaja-kuca-galenika",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 250 м², Галеника, Земун",
+  "kind": "дом",
+  "price": 300000,
+  "area": 250,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "Галеника",
+  "street": "Момчила Радивоевича 26",
+  "geo": {
+   "lat": 44.85813,
+   "lng": 20.37075
+  },
+  "facts": [
+   [
+    "Площадь",
+    "250 м²"
+   ],
+   [
+    "Отопление",
+    "центральное, кондиционер, автономное, электрическое, аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "подвал",
+   "кабельное ТВ",
+   "кондиционер",
+   "энергопаспорт",
+   "парковка"
+  ],
+  "text": "Продаётся дом площадью 250 м² в районе Галеника (Земун, Белград). С мебелью, отопление центральное, кондиционер, автономное, электрическое, аккумуляционные печи, в исходном состоянии, старый фонд. Есть: можно въехать сразу, интернет, терраса, подвал, кабельное ТВ, кондиционер, энергопаспорт, парковка. Цена 300 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju kuća sa 4 stana i dvorište 2 ara na Galenici\n\nProdaje\nse desna vertikala kuće koja je fizički odvojena kao posebna celina sa dvorištem i pomočnim objektom od 20 kvadrata\nSvaki stan je na\npo jednom spratu odvojen sa posebnim ulazima\nOdlična lokacija blizina svega potrebnog na par stotina metara stanovi su u izvornom stanju i legalni postoji mogućnost prodajesi na kredit\nCela kuća cena 300000 eur 250+20 kvadrata cena je fiksna\nStanovi su po 52 kvadrata\nPotkrovlje dupleks 77 kvadrata (blok faza) ne prodaju se posebno stanovi samo u celosti kuća sa placem\n\nPostoji mogućnost dogovora oko adaptacije stanova po vašoj želji\nInfo Željko\nŠaljem video kuće sa stanovima zainteresovanim kupcima",
+  "photos": 6,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196347551",
+  "slug": "kp-196347551-prodaja-kuca-siljakovac",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 10 м², Шиляковац, Бараево",
+  "kind": "дом",
+  "price": 120000,
+  "area": 10,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Бараево",
+  "districtSlug": "barajevo",
+  "location": "Шиляковац",
+  "street": "Марка Тодоровича 11B",
+  "geo": {
+   "lat": 44.57115,
+   "lng": 20.33285
+  },
+  "facts": [
+   [
+    "Площадь",
+    "10 м²"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "подвал",
+   "парковка",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 10 м² в районе Шиляковац (Бараево, Белград). После ремонта. Есть: можно въехать сразу, терраса, подвал, парковка, гараж. Цена 120 000 €.",
+  "originalLang": "sr",
+  "original": "Prodajem kucu potpuno izrađenu, prizemlje i sprat, 10x6,60cm sa 10 ari placa pod voćem i pratećim objektima, uknjižena Struja, voda, asfalt, ulično svetlo, gas.  \n\n35 km od Beograda, Ima plan i projekat.",
+  "photos": 2,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-192583080",
+  "slug": "kp-192583080-prodaja-kuca-konatice",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 231.45 м², Конатице, Обреновац",
+  "kind": "дом",
+  "price": 69000,
+  "area": 231.45,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Обреновац",
+  "districtSlug": "obrenovac",
+  "location": "Конатице",
+  "street": "",
+  "geo": {
+   "lat": 44.55599,
+   "lng": 20.24718
+  },
+  "facts": [
+   [
+    "Площадь",
+    "231.45 м²"
+   ],
+   [
+    "Отопление",
+    "твёрдое топливо"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 231.45 м² в районе Конатице (Обреновац, Белград). С мебелью, отопление твёрдое топливо, старый фонд. Есть: можно въехать сразу, терраса, гараж. Цена 69 000 €.",
+  "originalLang": "sr",
+  "original": "Kuća neto površine 231,45 m2,   plac 24 ara,\nBeograd, Opština Obrenovac, Konatice\nNa prodaju porodična stambena kuća  ukupne neto površine 231,45 m2 sa placem od 24,24 ara čiji veći deo čini šljivik.  \n\nKuća se nalazi na lepom i mirnom mestu u Konaticama. Udaljena je oko 20 km od Obrenovca i oko 40 km od Beograda. Seoska autobuska stanica se nalazi na dva minuta hoda od kuće.\n\nObjekat je spratnosti: suteren + prizemlje + potkrovlje. Suteren čine kuhinja sa trpezarijom, ostava i natkriveni ulaz - ukupna neto površina 50,10 m2. U prizemlju se nalaze hodnik, dnevni boravak, spavaća soba, kupatilo, garaža, terasa i trem - ukupna neto površina 88,75 m2. Potkrovlje čine velika ostava, lođa i balkon, ukupne neto površine 92,60 m2. Idealno je za izgradnju kompletnog stana.\n\nObjekat je izveden u skladu sa svim standardima i normativima propisanim zakonom za ovakvu vrstu objekta. Krov nad objektom je na dve vode sa nagibom krovnih ravni od 35o. Iznad garaže je izveden ravan prohodan krov koji se koristi kao balkon. Objekat poseduje trofaznu struju, gradsku vodu i septičku jamu. Greje se pomoću peći na čvrsto gorivo.\n\nKuća i plac su uknjiženi, vlasništvo je uredno i prodaje se sa kompletnim nameštajem.\n\nPisati za",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196352946",
+  "slug": "kp-196352946-prodaja-kuca-zvecka",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 158 м², Звечка, Обреновац",
+  "kind": "дом",
+  "price": 199500,
+  "area": 158,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Обреновац",
+  "districtSlug": "obrenovac",
+  "location": "Звечка",
+  "street": "Браче Йоксича 102",
+  "geo": {
+   "lat": 44.63467,
+   "lng": 20.18122
+  },
+  "facts": [
+   [
+    "Площадь",
+    "158 м²"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся дом площадью 158 м² в районе Звечка (Обреновац, Белград). Без мебели, после ремонта, старый фонд. Цена 199 500 €.",
+  "originalLang": "sr",
+  "original": "Vlasnik 1/1, uknjizena, legalizovana\n\nKuca 158 kv(500 evra po kv)\n\nGaraza 70 kv (150 evra po kv)\n\nPlac 44 ara (2500 evra po aru)\n\nGradsko gradjevinsko zemljiste \n\nNalazi se na glavnom putu, ulaz za kucu i plac sa glavnog puta i plus ulaz  direktan na plac sa drugog sporednog puta.  \n\nObrenovac, Zvecka, Brace Joksica 102",
+  "photos": 9,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-195308610",
+  "slug": "kp-195308610-prodaja-kuca-vranic",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 420 м², Вранич, Бараево",
+  "kind": "дом",
+  "price": 185000,
+  "area": 420,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Бараево",
+  "districtSlug": "barajevo",
+  "location": "Вранич",
+  "street": "братства и единства",
+  "geo": {
+   "lat": 44.57236,
+   "lng": 20.30617
+  },
+  "facts": [
+   [
+    "Площадь",
+    "420 м²"
+   ],
+   [
+    "Отопление",
+    "центральное, кондиционер, твёрдое топливо"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "кондиционер",
+   "парковка",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 420 м² в районе Вранич (Бараево, Белград). Без мебели, отопление центральное, кондиционер, твёрдое топливо, после ремонта, старый фонд. Есть: можно въехать сразу, терраса, кондиционер, парковка, гараж. Цена 185 000 €.",
+  "originalLang": "sr",
+  "original": "Kupovinom ove kuce dobijate dva u jednom.\nKuca je stambeno poslovnog tipa\nPrizemlje je poslovni prostor visine 320cm koji se moze adaptirati u bilo koju namenu\nSprat je cetvorosoban stan useljiv i spreman za zivot\nOkrecen nova stolarija sa roletnama i komarnicima\nPodovi su laminat Eger 1 klasa alu radijatoti klima inverter\nStruja trofazna voda gradski vodovod kanalizacija septicka jama\nPotkrovlje grubi grubi radovi otvorenog tipa OPEN SPACE  trostrano orjentisan i moze se adaptirati po zelji 4 badze terasa na čelu kuce\nKuca je dvostrano orjentisana gleda na kosmaj bukulju a sa druge strane na avalu\nDvoriste 17 ari koje pruza privatnost za letnjikovac bazen i slicno\nDirekt izlaz na ibarsku tako da ste u Beogradu za 25 minuta\nKuca pruza utociste iz Beograda i radno mesto za rad od kuce\nZamena moze auto bager kamion vikendica",
+  "photos": 12,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196366871",
+  "slug": "kp-196366871-prodaja-kuca-vranic",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 399 м², Вранич, Бараево",
+  "kind": "дом",
+  "price": 250000,
+  "area": 399,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Бараево",
+  "districtSlug": "barajevo",
+  "location": "Вранич",
+  "street": "",
+  "geo": {
+   "lat": 44.59475,
+   "lng": 20.30505
+  },
+  "facts": [
+   [
+    "Площадь",
+    "399 м²"
+   ],
+   [
+    "Отопление",
+    "кондиционер, автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "терраса",
+   "кондиционер",
+   "доступ для колясок",
+   "парковка",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 399 м² в районе Вранич (Бараево, Белград). С мебелью, отопление кондиционер, автономное, в исходном состоянии, старый фонд. Есть: терраса, кондиционер, доступ для колясок, парковка, гараж. Цена 250 000 €.",
+  "originalLang": "sr",
+  "original": "Kuća na prodaju Vranić magistrala opština Barajevo. Kuća pogodna za dve porodice. Sa čistim papirima i lepim rasporedom. Grejanje na čvrsto i na pelet",
+  "photos": 6,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
   "id": "kp-196472736",
   "slug": "kp-196472736-prodaja-kuca-ugrinovci",
   "deal": "sale",
