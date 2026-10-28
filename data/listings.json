@@ -1849,6 +1849,478 @@
   "updated": "2026-10-28"
  },
  {
+  "id": "kp-196224380",
+  "slug": "kp-196224380-prodaja-kuca-boljevci",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 120 м², Болевци, Сурчин",
+  "kind": "дом",
+  "price": 175000,
+  "area": 120,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Сурчин",
+  "districtSlug": "surcin",
+  "location": "Болевци",
+  "street": "",
+  "geo": {
+   "lat": 44.72183,
+   "lng": 20.22305
+  },
+  "facts": [
+   [
+    "Площадь",
+    "120 м²"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "кондиционер",
+   "парковка",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 120 м² в районе Болевци (Сурчин, Белград). Отопление центральное, в исходном состоянии, старый фонд. Есть: можно въехать сразу, терраса, кондиционер, парковка, гараж. Цена 175 000 €.",
+  "originalLang": "sr",
+  "original": "Prodaje se kuća u Boljevcima, opština Surčin, na placu površine 7,28 ari. Nekretnina se sastoji iz dva odvojena stambena dela sa zasebnim ulazima, što je idealno za veću porodicu ili dve porodice .\n\nPrvi stambeni deo – 80 m²\n\n3 spavaće sobe\n\nkuhinja sa trpezarijom\n\nveliki hodnik\n\nkupatilo\n\nDrugi stambeni deo – 40 m²\n\nkuhinja sa trpezarijom\n\nsoba\n\nkupatilo\n\nposeban ulaz\n\nDodatne informacije\n\nPlac 7,28 ari – uknjižen\n\nNekretnina je uknjižena\n\nUknjiženo 57 m² + 24 m², kao i 9 m² šupa\n\nVlasništvo 1/1\n\nMoguća kupovina putem stambenog kredita\n\nGrejanje na pelet, postoji mogućnost priključka na gas\n\nKombinacija PVC i drvene stolarije\n\nNa placu se nalaze šupe i garaža\n\nDva odvojena stambena dela i zasebni ulazi pružaju mogućnost odvojenog stanovanja dve porodice, dok plac od 7,28 ari pruža dovoljno prostora za različite namene. Udaljeno 15 km od Novog Beograda autoputem i isto toliko od EXPO 2027.\n\nLokacija: Boljevci, opština Surčin\n\nCena nije fiksna – postoji mogućnost dogovora sa ozbiljnim kupcem.",
+  "photos": 6,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-195305421",
+  "slug": "kp-195305421-prodaja-kuca-mladenovac-mesto",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 100 м², Младеновац (mesto), Младеновац",
+  "kind": "дом",
+  "price": 100000,
+  "area": 100,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Младеновац",
+  "districtSlug": "mladenovac",
+  "location": "Младеновац (mesto)",
+  "street": "Младеновац-куча",
+  "geo": {
+   "lat": 44.4403,
+   "lng": 20.6957
+  },
+  "facts": [
+   [
+    "Площадь",
+    "100 м²"
+   ],
+   [
+    "Отопление",
+    "электрическое"
+   ],
+   [
+    "Мебель",
+    "частично меблирован"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "парковка"
+  ],
+  "text": "Продаётся дом площадью 100 м² в районе Младеновац (mesto) (Младеновац, Белград). Частично меблирован, отопление электрическое, в исходном состоянии, старый фонд. Есть: парковка. Цена 100 000 €.",
+  "originalLang": "sr",
+  "original": "Prodajem kuću u centru Mladenovca, površine 100 kvadrata. Posedujem građevinsku dozvolu za još jedan sprat. Završen  projekat, može se dozidati sprat, plaćeno je uređenje građevinskog zemljušta. Cena 100.000€ fiksno.",
+  "photos": 3,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196225672",
+  "slug": "kp-196225672-prodaja-kuca-petrovcic",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 89 м², Петровчич, Сурчин",
+  "kind": "дом",
+  "price": 120000,
+  "area": 89,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Сурчин",
+  "districtSlug": "surcin",
+  "location": "Петровчич",
+  "street": "Гавриловичева",
+  "geo": {
+   "lat": 44.79294,
+   "lng": 20.14269
+  },
+  "facts": [
+   [
+    "Площадь",
+    "89 м²"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "парковка"
+  ],
+  "text": "Продаётся дом площадью 89 м² в районе Петровчич (Сурчин, Белград). С мебелью, отопление автономное, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, кондиционер, видеонаблюдение, парковка. Цена 120 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju kuca u Petrovčiću površine 89m2 na placu od skoro 7ara.  \n\nNa kući je 2025. godine zamenjen krov i sto se toga tiče nema ulaganja.  \n\nKuca se sastoji od 3 spavaće sobe, ogromnog predsoblja (koje se može koristiti kao spavaca ili dnevna soba), dnevne sobe sa trpezarijom, kuhinjom i kupatilom. Plac je ravan i pogodan za porodične aktivnosti preko godine.  \n\nGrejanje je etažno na pelet i kuca sadrzi klima uredjaj u dnevnoj sobi, koja ohladi većinu kuce kada su vreli dani.  \n\nZa sve informacije pozvati.",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-192104147",
+  "slug": "kp-192104147-prodaja-kuca-parcani",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 35 м², Парцани, Сопот",
+  "kind": "дом",
+  "price": 48000,
+  "area": 35,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Сопот",
+  "districtSlug": "sopot",
+  "location": "Парцани",
+  "street": "Якова Вичентиевича",
+  "geo": {
+   "lat": 44.5664,
+   "lng": 20.51519
+  },
+  "facts": [
+   [
+    "Площадь",
+    "35 м²"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 35 м² в районе Парцани (Сопот, Белград). Старый фонд. Есть: можно въехать сразу, интернет, гараж. Цена 48 000 €.",
+  "originalLang": "sr",
+  "original": "Seosko imanje od 20 ari u mirnom i zelenom okruženju, u selu Parcani (opština Sopot), na oko 300 m nadmorske visine. Samo 300 m od okretnice autobusa Parcanski Vis (početna stanica), uz dobru povezanost sa Beogradom.   \nUknjižena nekretnina. Gradsko-građevinsko zemljište.  \n Na imanju se nalaze:  \n• montažna kuća – 35 m²  • stara kuća – 42 m² (trenutno služi kao pomoćni objekat) • nova garaža • garaža sa pomoćnim objektom\n\nPriključci i infrastruktura:  \n• struja • izvorska voda (Parcanski vodovod) • optički internet dostupan u ulici • u toku uvođenje gasne mreže • grejanje na peć (drva)\n\nVoćnjak sa starim sortama voća:  \n• trešnje • višnje • kruške • jabuke • dunje • šljive • smokve • dud\n\nPrevoz:  \n• autobus 474 (Trošarina) • autobus 4403 (Sopot)\n Udaljenost:  \n• Banovo brdo – oko 35 min • Autoput – oko 20 min • Sopot – oko 12 min\n Idealno za one koji žele mir i prirodu, uz mogućnost renoviranja postojećih objekata ili izgradnje nove kuće.  \n Cena: 48.000 €  Adresa: Jakova Vićentijevića 4, Parcani",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196235925",
+  "slug": "kp-196235925-prodaja-kuca-knezevac",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 423 м², Кнежевац, Раковица",
+  "kind": "дом",
+  "price": 280000,
+  "area": 423,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Раковица",
+  "districtSlug": "rakovica",
+  "location": "Кнежевац",
+  "street": "Славка Родица бб",
+  "geo": {
+   "lat": 44.7381,
+   "lng": 20.431
+  },
+  "facts": [
+   [
+    "Площадь",
+    "423 м²"
+   ],
+   [
+    "Состояние",
+    "строится"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся дом площадью 423 м² в районе Кнежевац (Раковица, Белград). Строится, дом современной постройки. Цена 280 000 €.",
+  "originalLang": "sr",
+  "original": "Kuca se nalazi u Knezevcu, opstina Rakovica, ul Slavka Rodica. povrsina kuce je 423m2\npredata za legalizaciju.\nKuca je u sivoj fazi.\nPlac na kojem se nalazi kuca je u mom vladnistvu 1/1\nZa vise informacija pozvati.",
+  "photos": 4,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-195767727",
+  "slug": "kp-195767727-prodaja-kuca-dorcol",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 38 м², Дорчол, Старый город",
+  "kind": "дом",
+  "price": 200000,
+  "area": 38,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "stari-grad",
+  "location": "Дорчол",
+  "street": "",
+  "geo": {
+   "lat": 44.82583,
+   "lng": 20.46154
+  },
+  "facts": [
+   [
+    "Площадь",
+    "38 м²"
+   ],
+   [
+    "Отопление",
+    "электрическое"
+   ],
+   [
+    "Мебель",
+    "частично меблирован"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "подвал",
+   "кабельное ТВ",
+   "парковка"
+  ],
+  "text": "Продаётся дом площадью 38 м² в районе Дорчол (Старый город, Белград). Частично меблирован, отопление электрическое, после ремонта, старый фонд. Есть: можно въехать сразу, подвал, кабельное ТВ, парковка. Цена 200 000 €.",
+  "originalLang": "sr",
+  "original": "Donji dorcol, kuca od 60m2, uknjizeno 38m2, predato z uknjizenje jos 30m2\n\nveom miran kraj,500 met. od zoo vrta, isto toliko od skadarlije i kneza\n\nKuca je za potpuno renoviranje i uredjenje po vasoj zelji \n\nVlasnik 1 \\1",
+  "photos": 10,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-194439525",
+  "slug": "kp-194439525-prodaja-kuca-mali-mokri-lug",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 42 м², Мали Мокри Луг, Звездара",
+  "kind": "дом",
+  "price": 59000,
+  "area": 42,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Мали Мокри Луг",
+  "street": "Келтска 11",
+  "geo": {
+   "lat": 44.78399,
+   "lng": 20.52566
+  },
+  "facts": [
+   [
+    "Площадь",
+    "42 м²"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "кабельное ТВ",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 42 м² в районе Мали Мокри Луг (Звездара, Белград). С мебелью, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, кабельное ТВ, гараж. Цена 59 000 €.",
+  "originalLang": "sr",
+  "original": "Prodajem sprat porodicne kuce, potpuno namesten, renoviran. . .42m2 plus 18 m2 garaza. . . na 5 min od vrha ustanicke ulice i okretnice mnogih linija tramvaja i autobusa. . . predato za legalizaciju(svoj na svome). . . vlasnik. . . .",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196257553",
+  "slug": "kp-196257553-prodaja-kuca-vinca",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 98 м², Винча, Гроцка",
+  "kind": "дом",
+  "price": 125000,
+  "area": 98,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Гроцка",
+  "districtSlug": "grocka",
+  "location": "Винча",
+  "street": "Книнска",
+  "geo": {
+   "lat": 44.74867,
+   "lng": 20.60298
+  },
+  "facts": [
+   [
+    "Площадь",
+    "98 м²"
+   ],
+   [
+    "Отопление",
+    "кондиционер, мраморные радиаторы, твёрдое топливо"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "подвал",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка"
+  ],
+  "text": "Продаётся дом площадью 98 м² в районе Винча (Гроцка, Белград). С мебелью, отопление кондиционер, мраморные радиаторы, твёрдое топливо, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, домофон, терраса, подвал, кабельное ТВ, кондиционер, парковка. Цена 125 000 €.",
+  "originalLang": "sr",
+  "original": "RETKO U PONUDI - SALONAC!   Trosoban stan + Lokal-Atelje / Horizontala kuće sa prelepim dvorištem i salonskim stanom – Početak Vinče (1 minut od 307)\n\nCena: 165.000 €\n\nUkupna površina: 98 m²\n\nPlac: 2 ara\n\n TOP LOKACIJA – EKSTREMNO DOBRA POVEZANOST\n\nNekretnina se nalazi na samom početku Vinče, u izuzetno mirnom i pristupačnom okruženju:  \n\nAutobuska stanica (linija 307): Samo 1 minut hoda!  \n\nUstanička / Bulevar kralja Aleksandra: Oko 20 minuta gradskim prevozom ili svega 12 minuta automobilom.  \n\n UNIKATAN STAMBENI PROSTOR (SALONSKI STIL)\n\nProstran, moderan i kompletno renoviran prostor ukupne površine 98 m² bez potrebe za bilo kakvim dodatnim ulaganjima:  \n\nStruktura: Dve komforne spavaće sobe sa direktnim izlazom u dvorište, velika dnevna soba sa funkcionalnim kaminom za pravu porodičnu atmosferu, kuhinja, kao i atelje (30 m²) i dodatne pomoćne prostorije (17 m²).  \n\nKupatilo: Izuzetno prostrano, sa ugradnom ugaonom kadom i kompletnom belom tehnikom.  \n\nOpremljenost i podovi: Kvalitetni vinil podovi, potpuno nova elektro i vodovodna instalacija.  \n\nKlimatizacija i grejanje: 3 nove inverter klime koje obezbeđuju izuzetno ekonomično grejanje i hlađenje. Alfa plam Rustik kamin u dnevnoj sobi. Mermerni radijator u radnoj ili sobi za decu.  \n\nNezavisnost: Kompletno odvojeni strujomer i vodomer – bez deljenja računa. Niski rezije infostana.  \n\n PRIVATNO I UREĐENO DVORIŠTE (2 ARA)\n\nOaza mira i privatnosti kreirana za uživanje na otvorenom:  \n\nDvorište je kompletno ograđeno i pedantno betonirano sa lepo uređenim delom za baštu.  \n\nLetnjikovac: Preko 50 m² pokriveno natstrešnicom – savršeno mesto za roštilj, druženje i odmor u hladu.  \n\nPrirodni ambijent: Prelepo veliko drvo Magnolije, grožđe, šljiva i kajsija.  \n\n PRAVNI STATUS\n\nUkupna površina: 98 m²\n\nStruktura uknjižbe: 51 m² uknjiženo kao grejna površina dvosobnog stana 1/1 + evedentirana povrsina atelje 30 m² i pomoćni objekti 17 m²\n\nPlac: 2 ara (uknjiženo 1/2 od ukupno 396 m² placa)\n\n Ne propustite šansu – nekretnina koja spaja komfor kuće i praktičnost stana na jednoj od najboljih lokacija u okolini!  \n\nZa više informacija i zakazivanje gledanja pozovite: VLASNIK Olga\n\np. s.  \n\n*Mogucnost zamene samo za manji lokal ili garsonjeru na teritoriji Zvezdara ili Vracar uz Vasu doplatu.  \n\n*Mogucnost kupovine iz kredita\n\n*Za kes kupci korekcija ceni",
+  "photos": 14,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196258928",
+  "slug": "kp-196258928-prodaja-kuca-grocka-mesto",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 212 м², Гроцка (mesto), Гроцка",
+  "kind": "дом",
+  "price": 190000,
+  "area": 212,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Гроцка",
+  "districtSlug": "grocka",
+  "location": "Гроцка (mesto)",
+  "street": "",
+  "geo": {
+   "lat": 44.67308,
+   "lng": 20.7172
+  },
+  "facts": [
+   [
+    "Площадь",
+    "212 м²"
+   ],
+   [
+    "Отопление",
+    "автономное, тёплый пол"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "подвал",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "парковка",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 212 м² в районе Гроцка (mesto) (Гроцка, Белград). С мебелью, отопление автономное, тёплый пол, в исходном состоянии, дом современной постройки. Есть: можно въехать сразу, интернет, терраса, подвал, кабельное ТВ, кондиционер, видеонаблюдение, парковка, гараж. Цена 190 000 €.",
+  "originalLang": "sr",
+  "original": "Kuca u Grockoj sa garazom, na placunod 5,5 ari pod vocem. Prilaz je asvaltiran, udaljenost od auto-puta 9km. U kuci zivimo. Uredjena, kvalitetno gradjena sa kompletnim papirima, prodajem uz mogucnost zamene uz vasu doplatu za noviju kucu sa garazom do 100 kvadrata u Sremskoj Mitrovici. Komunikacija iskljucivo na Vas poziv. Broj telefona prilozen u oglasu.\nNapomena: ja nisam odredio lokaciju koja je prikazana na mapi i ona je neprecizna. Kuca je na mestu gde nema klizista. Kada sam gradio kucu, uradio sam i geotehnicki elaborat za mesto gradnje.",
+  "photos": 1,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
   "id": "kp-196259502",
   "slug": "kp-196259502-prodaja-kuca-rozanci",
   "deal": "sale",
@@ -3093,6 +3565,173 @@
   "originalLang": "sr",
   "original": "Kuća na prodaju Vranić magistrala opština Barajevo. Kuća pogodna za dve porodice. Sa čistim papirima i lepim rasporedom. Grejanje na čvrsto i na pelet",
   "photos": 6,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196367433",
+  "slug": "kp-196367433-prodaja-kuca-mislodjin",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 55 м², Мислоджин, Обреновац",
+  "kind": "дом",
+  "price": 45000,
+  "area": 55,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Обреновац",
+  "districtSlug": "obrenovac",
+  "location": "Мислоджин",
+  "street": "",
+  "geo": {
+   "lat": 44.63318,
+   "lng": 20.21884
+  },
+  "facts": [
+   [
+    "Площадь",
+    "55 м²"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "подвал"
+  ],
+  "text": "Продаётся дом площадью 55 м² в районе Мислоджин (Обреновац, Белград). С мебелью, в исходном состоянии, дом современной постройки. Есть: можно въехать сразу, подвал. Цена 45 000 €.",
+  "originalLang": "sr",
+  "original": "Prodaje se porodična. Kuća vlasništvo1/1. . . zbog preseljenje",
+  "photos": 2,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196369328",
+  "slug": "kp-196369328-prodaja-kuca-velika-krsna",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 157 м², Велика Крсна, Младеновац",
+  "kind": "дом",
+  "price": 120000,
+  "area": 157,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Младеновац",
+  "districtSlug": "mladenovac",
+  "location": "Велика Крсна",
+  "street": "Йована Дучича 53",
+  "geo": {
+   "lat": 44.45871,
+   "lng": 20.80675
+  },
+  "facts": [
+   [
+    "Площадь",
+    "157 м²"
+   ],
+   [
+    "Отопление",
+    "электрическое, твёрдое топливо, аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "подвал",
+   "кабельное ТВ",
+   "энергопаспорт",
+   "доступ для колясок",
+   "парковка",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 157 м² в районе Велика Крсна (Младеновац, Белград). С мебелью, отопление электрическое, твёрдое топливо, аккумуляционные печи, в исходном состоянии, старый фонд. Есть: можно въехать сразу, интернет, терраса, подвал, кабельное ТВ, энергопаспорт, доступ для колясок, парковка, гараж. Цена 120 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju seosko domacinstvo u Velikoj Krsni (BG opstina)  (20km od Mladenovca, 70km od Beograda, 30km od Smedereva). Domacinstvo poseduje 2 kuce (spratna 157m2, prizemna 79m2) Pomocnu zgradu sa ambarom, magazom i podrumom. Garazu 57m2. Takodje pomocni objekat koji sadrzi furunu i pusnicu za susenje mesa. Na domacinstvu se nalazi i bunar sa vodom i hidroforom(posto nije prikljuceno na gradsku vodovodnu mrezu, iako je u skorijem planu), trofazna struja, internet, gas je moguce naknadno prikljuciti. Jedna kuca je namestena, a ova manja je polunamestena. Spratna kuca poseduje u prizemlju hodnik, dnevnu sobu, kuhinju, kupatilo, spajz, spavacu sobu i terasu, dok na spratu poseduje 3 spavace sobe, hodnik i balkon! Prizemna kuca poseduje terasu, dnevnu sobu, kuhinju, spajz, veliku gostinsku sobu i spavacu sobu. Sve je legalizovano 2017god i vlasnik je 1/1. Skola i centar sela su udaljeni 2km, a najbliza prodavnica 1km. . Domacinstvo se nalazi u mirnom delu sela, idealno za odmor. Kuca poseduje generali osiguranje. U kuci je kombinacija cistog drveta, kvalitetne lamperije i spanskog zida. Kucu kao i sve objekte je pravio covek koji je bio zidar, tako da je sve radjeno kvalitetno od cigle, betona i od kvalitetnog gvozdja! Parcele su 8987 i 8988 . . Otac je vlasnik parcele koja pripada dvoristu(8988) (gde se nalaze stala i obori za svinje) u dogovoru zajedno prodajemo, ja sam vlasnik svega ostalog na imanju!\nMogucnost zamene za stan u gradu, cena u zameni 150000e.  \n\nCena domacinstva je 120 000e, cena nije fiksna i moguc je svaki dogovor. Moguca je kupovina na kredit preko banke.",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-195471750",
+  "slug": "kp-195471750-prodaja-kuca-vinca",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 364 м², Винча, Гроцка",
+  "kind": "дом",
+  "price": 270000,
+  "area": 364,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Гроцка",
+  "districtSlug": "grocka",
+  "location": "Винча",
+  "street": "Капетана Бате",
+  "geo": {
+   "lat": 44.75047,
+   "lng": 20.60947
+  },
+  "facts": [
+   [
+    "Площадь",
+    "364 м²"
+   ],
+   [
+    "Отопление",
+    "твёрдое топливо"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "подвал",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 364 м² в районе Винча (Гроцка, Белград). Без мебели, отопление твёрдое топливо, в исходном состоянии, дом современной постройки. Есть: можно въехать сразу, терраса, подвал, кабельное ТВ, кондиционер, парковка, гараж. Цена 270 000 €.",
+  "originalLang": "sr",
+  "original": "Kuća u Vinči od 364 kvadrata. Dva trofazna priključka , voda i asvaltni prilaz. Kuča se nalazi u blizini škole, vrtića i pijace. Osam ari placa. Prizemlje sprat i potkrovlje. Kuća je useljiva i legalizovana. Blizina i dobra povezanost sa Beogradom. Sastoji se od šest spavaćih soba tri dnevna boravka sa kuhinjom . Dve ostave i podruma i tri kupatila.",
+  "photos": 14,
   "added": "2026-10-28",
   "updated": "2026-10-28"
  },
