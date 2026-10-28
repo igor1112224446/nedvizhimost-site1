@@ -1,5 +1,605 @@
 [
  {
+  "id": "kp-194228239",
+  "slug": "kp-194228239-prodaja-kuca-umka",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 200 м², Умка, Чукарица",
+  "kind": "дом",
+  "price": 85000,
+  "area": 200,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "cukarica",
+  "location": "Умка",
+  "street": "",
+  "geo": {
+   "lat": 44.67888,
+   "lng": 20.30492
+  },
+  "facts": [
+   [
+    "Площадь",
+    "200 м²"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся дом площадью 200 м² в районе Умка (Чукарица, Белград). После ремонта. Цена 85 000 €.",
+  "originalLang": "sr",
+  "original": "Prodaje se spratna kuća u Umci, udaljena oko 20 minuta od centra Beograda.  \n\nPlac: 4 ara (uknjižen)\n\nKuća: oko 200 m² \n\n24 kvadrata uknjizeno\n\nPomoćni objekat: oko 40 m² \n\nStruja i voda priključeni\n\nGas prolazi ulicom\n\nAsfaltni prilaz\n\nKuća se ne nalazi na klizištu\n\nKuća je nedovršena i zahteva renoviranje.  \n\nVlasništvo nad placem je uredno. Za kuću je podnet zahtev za legalizaciju i postupak je u toku.  \n\nNekretnina je pogodna za porodično stanovanje ili kao investicija, na mirnoj lokaciji sa dobrom povezanošću",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196062785",
+  "slug": "kp-196062785-prodaja-kuca-lestane",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 215 м², Лештане, Гроцка",
+  "kind": "дом",
+  "price": 200000,
+  "area": 215,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Гроцка",
+  "districtSlug": "grocka",
+  "location": "Лештане",
+  "street": "",
+  "geo": {
+   "lat": 44.72946,
+   "lng": 20.57339
+  },
+  "facts": [
+   [
+    "Площадь",
+    "215 м²"
+   ],
+   [
+    "Отопление",
+    "кондиционер, твёрдое топливо, тёплый пол"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка"
+  ],
+  "text": "Продаётся дом площадью 215 м² в районе Лештане (Гроцка, Белград). Отопление кондиционер, твёрдое топливо, тёплый пол. Есть: можно въехать сразу, терраса, кабельное ТВ, кондиционер, парковка. Цена 200 000 €.",
+  "originalLang": "sr",
+  "original": "Leštane, kuća se nalazi u mirnom kraju, ograđeno celo dvorište od 5 ari na kom su 30-ak mladih voćki u rodu. Prizemna kuća, 108 kvadrata, plus isto 108 kvadrata tavanskog prostora. Radijatori u svim prostorijama I kupatilu, 60 kvadrata podnog grejanja, kotlarnica, a moze se grejati i posebno na šporet. Kuća izgrađena 90-ih. Uknjižen, Vlasnik.",
+  "photos": 10,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196065107",
+  "slug": "kp-196065107-prodaja-kuca-krnjaca",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 112 м², Крняча, Палилула",
+  "kind": "дом",
+  "price": 220000,
+  "area": 112,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "Крняча",
+  "street": "Доловска br.1",
+  "geo": {
+   "lat": 44.85301,
+   "lng": 20.4827
+  },
+  "facts": [
+   [
+    "Площадь",
+    "112 м²"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "парковка",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 112 м² в районе Крняча (Палилула, Белград). Без мебели, в исходном состоянии. Есть: можно въехать сразу, терраса, парковка, гараж. Цена 220 000 €.",
+  "originalLang": "sr",
+  "original": "Kuća se sastoi od tri spavace sobe , dnevne sobe , kuhinje , kupatila , predsoblja , garaze , dve pomočne prostorije i velike terase od 49 kvadrata.",
+  "photos": 2,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196069740",
+  "slug": "kp-196069740-prodaja-kuca-centar",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 5 м², Центр, Чукарица",
+  "kind": "дом",
+  "price": 38000,
+  "area": 5,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "cukarica",
+  "location": "Центр",
+  "street": "",
+  "geo": {
+   "lat": 44.78273,
+   "lng": 20.41567
+  },
+  "facts": [
+   [
+    "Площадь",
+    "5 м²"
+   ],
+   [
+    "Отопление",
+    "твёрдое топливо"
+   ],
+   [
+    "Мебель",
+    "частично меблирован"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "подвал",
+   "кабельное ТВ",
+   "парковка"
+  ],
+  "text": "Продаётся дом площадью 5 м² в районе Центр (Чукарица, Белград). Частично меблирован, отопление твёрдое топливо, в исходном состоянии. Есть: можно въехать сразу, интернет, терраса, подвал, кабельное ТВ, парковка. Цена 38 000 €.",
+  "originalLang": "sr",
+  "original": "Hitno prodajem kuću u centru Rekovca vlasništvo 1/1\n\nUknjižena ozakonjena , moguć priključak na gas za grejanje \n\nU  neposrednoj blizini prodavnice, marketi osnovna i srednja škola obdanište dom zdravlja, pijaca, banka, pošta, restorani, autobuska stanica, benzinska pumpa i ostale javne ustanove.\n\nRekovac je opština Levča i nalazi se na magistralnom putu 183 Kragujevac -Kruševac udaljen od Kragujevca 25km, isto toliko i od Jagodine za sve ostalo što vas interesuje pitajte, porukom preko KP. , ili na broj telefona(imate ispisan na slikama), može i na viber/",
+  "photos": 13,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196071880",
+  "slug": "kp-196071880-prodaja-kuca-krnjaca",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 400 м², Крняча, Палилула",
+  "kind": "дом",
+  "price": 430000,
+  "area": 400,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "Крняча",
+  "street": "владимира бецица",
+  "geo": {
+   "lat": 44.83703,
+   "lng": 20.49731
+  },
+  "facts": [
+   [
+    "Площадь",
+    "400 м²"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "домофон",
+   "терраса",
+   "подвал",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "доступ для колясок",
+   "парковка",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 400 м² в районе Крняча (Палилула, Белград). С мебелью, отопление центральное, в исходном состоянии, старый фонд. Есть: интернет, домофон, терраса, подвал, кабельное ТВ, кондиционер, видеонаблюдение, доступ для колясок, парковка, гараж. Цена 430 000 €.",
+  "originalLang": "sr",
+  "original": "Na placu od 6.5 ari se nalaze dve odvojene kuce jedna 65 kvadrata druga 314m2, n aplacu je jos pomocnih objekata, sve uknjizeno 1/1 vlasnik bez opterecenja, ceo plac ogradjen betonskom ogradom, uredjeno.\n\nMoze kompezacija za manji stan i vasa doplata.",
+  "photos": 8,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196073834",
+  "slug": "kp-196073834-prodaja-kuca-kaludjerica",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 280 м², Калуджерица, Гроцка",
+  "kind": "дом",
+  "price": 160000,
+  "area": 280,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Гроцка",
+  "districtSlug": "grocka",
+  "location": "Калуджерица",
+  "street": "Ратка Павловича Чичка 23",
+  "geo": {
+   "lat": 44.7638,
+   "lng": 20.54628
+  },
+  "facts": [
+   [
+    "Площадь",
+    "280 м²"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "парковка",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 280 м² в районе Калуджерица (Гроцка, Белград). Без мебели, в исходном состоянии, дом современной постройки. Есть: можно въехать сразу, терраса, парковка, гараж. Цена 160 000 €.",
+  "originalLang": "sr",
+  "original": "Stambeno poslovni objekat u Kaluđerici na dva sprata i sa dve garaže odvojene od objekta. Siva faza, cela omalterisana iznutra sa ugrađenom stolarijom i instalacijama za vodu, struju i kanalizaciju.\n\nKuća je površine 280m2, a dve garaže su 38m2. Plac je površine 3ara. Plac je uknjižen na ime vlasnika, a kuća i garaže su u procesu legalizacije.\n\nSvaki sprat ima sopstveno brojilo za struju.\n\nPrizemlje = dva lokala i stambena jedinica 1\n\nPrvi sprat = stambena jedinica 2\n\nDrugi sprat = stambena jedinica 3\n\nPotkrovlje = slobodna površina\n\nGaraže = sa instalacijom za vodu, struju, kanalizaciju i jednim kanalom za vozilo",
+  "photos": 3,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-176052104",
+  "slug": "kp-176052104-prodaja-kuca-zaklopaca",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 150 м², Заклопача, Гроцка",
+  "kind": "дом",
+  "price": null,
+  "area": 150,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Гроцка",
+  "districtSlug": "grocka",
+  "location": "Заклопача",
+  "street": "Марса Тита 17",
+  "geo": {
+   "lat": 44.67782,
+   "lng": 20.66121
+  },
+  "facts": [
+   [
+    "Площадь",
+    "150 м²"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "частично меблирован"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "подвал",
+   "парковка"
+  ],
+  "text": "Продаётся дом площадью 150 м² в районе Заклопача (Гроцка, Белград). Частично меблирован, отопление центральное, в исходном состоянии, старый фонд. Есть: можно въехать сразу, терраса, подвал, парковка. Цена по запросу.",
+  "originalLang": "sr",
+  "original": "Na prodaju kuca u Zaklopaci pri centru\nKuca 150 m2 sa 2 lokala useljiva odmah\nPomocna zgrada 150 m2 sa stambeni prostorom\nCentralno grejanje I 10 ari placa\nVlasnik 1/1",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-175456273",
+  "slug": "kp-175456273-prodaja-kuca-zaklopaca",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 383 м², Заклопача, Гроцка",
+  "kind": "дом",
+  "price": null,
+  "area": 383,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Гроцка",
+  "districtSlug": "grocka",
+  "location": "Заклопача",
+  "street": "8. Марта 4",
+  "geo": {
+   "lat": 44.67842,
+   "lng": 20.66093
+  },
+  "facts": [
+   [
+    "Площадь",
+    "383 м²"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "строится"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "подвал",
+   "парковка",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 383 м² в районе Заклопача (Гроцка, Белград). Без мебели, строится, дом современной постройки. Есть: подвал, парковка, гараж. Цена по запросу.",
+  "originalLang": "sr",
+  "original": "Na prodaju kuca u Zaklopaci opstina Grocka\n383m2, struja, voda uknjizena 1/1 vlasnik\nMoze zamena za stan",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196076207",
+  "slug": "kp-196076207-prodaja-kuca-barajevo-mesto",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 200 м², Бараево (mesto), Бараево",
+  "kind": "дом",
+  "price": 105000,
+  "area": 200,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Бараево",
+  "districtSlug": "barajevo",
+  "location": "Бараево (mesto)",
+  "street": "",
+  "geo": {
+   "lat": 44.58258,
+   "lng": 20.42264
+  },
+  "facts": [
+   [
+    "Площадь",
+    "200 м²"
+   ],
+   [
+    "Отопление",
+    "кондиционер, электрическое, твёрдое топливо"
+   ],
+   [
+    "Мебель",
+    "частично меблирован"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 200 м² в районе Бараево (mesto) (Бараево, Белград). Частично меблирован, отопление кондиционер, электрическое, твёрдое топливо, дом современной постройки. Есть: интернет, кабельное ТВ, кондиционер, гараж. Цена 105 000 €.",
+  "originalLang": "sr",
+  "original": "Oglas je USLUZNOG karaktera ! ! Zvati na broj za sve informacije ! Spoji brojeve ! 0 6 9 M 41. E 43. H 104 A",
+  "photos": 6,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196083434",
+  "slug": "kp-196083434-prodaja-kuca-smederevski-put",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 290 м², Смедеревски пут, Гроцка",
+  "kind": "дом",
+  "price": 479000,
+  "area": 290,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Гроцка",
+  "districtSlug": "grocka",
+  "location": "Смедеревски пут",
+  "street": "",
+  "geo": {
+   "lat": 44.72325,
+   "lng": 20.62784
+  },
+  "facts": [
+   [
+    "Площадь",
+    "290 м²"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "кондиционер",
+   "видеонаблюдение",
+   "парковка"
+  ],
+  "text": "Продаётся дом площадью 290 м² в районе Смедеревски пут (Гроцка, Белград). Дом современной постройки. Есть: можно въехать сразу, интернет, терраса, кондиционер, видеонаблюдение, парковка. Цена 479 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju kuća sa poslovnim prostorom i velikim placem – Smederevski put\n\nKuća ukupne površine oko 290 m² (prizemlje 186 m² + potkrovlje oko 60 m² + terasa 16 m² sa pogledom ka Dunavu + 30 m2 letnjikovac). Projekat predviđa tri kupatila, od kojih je jedno površine 16 m² sa mogućnošću ugradnje đakuzija. Terasa u potkrovlju pruža mogućnost dogradnje vidikovca sa direktnim pogledom na Dunav.  \n\nPlac površine 19 ari, širine 49 m, nalazi se neposredno uz glavni put (Smederevski put). Autobuska stanica udaljena je svega 3 metra od placa.  \n\nDodatno, ispred placa se nalazi parking površine 4,5 ara (širina 49 m, dubina 9 m), sa direktnim izlazom na Smederevski put.  \n\nKuća je zidana 2022. godine pod stalnim nadzorom ovlašćenog arhitekte. Ima ojačane donju i gornju armiranobetonsku ploču, što omogućava nadogradnju još jednog sprata i potkrovlja.  \n\nMoguća izgradnja jos dva stambena objekta ili poslovna objekta sličih dimenzija, na istom placu uz među Komšija, imam overena ovlašćenja.  \n\nTehničke karakteristike objekta:  \n\nSpoljna izolacija: stiropor 10 cm sa završenim cementnim malterom\n\nUnutrašnji zidovi i plafoni: gipsane ploče sa ispunom od kamene vune\n\nSpoljna rasveta: reflektori sa stubovima\n\nVideo nadzor: 5 kamera (moguće proširenje na još 3)\n\nAlarmni sistem\n\nGrejanje: Midea inverter klime (24, 18 i 12 BTU) – garancija još 5 godina\n\nNova PVC stolarija\n\nDodatne pogodnosti:  \n\nMogućnost izgradnje bazena i letnjikovca\n\nPrelep pogled na Viline strane\n\nU sklopu objekta se nalazi poslovni prostor površine 50 m² sa kupatilom\n\nVisina plafona: 3,4 m u stambenom delu, 3,7 m u poslovnom prostoru\n\nMoguća nadogradnja terase od 30 m² u prizemlju",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-194367046",
+  "slug": "kp-194367046-prodaja-kuca-sopot-mesto",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 180 м², Сопот (mesto), Сопот",
+  "kind": "дом",
+  "price": 225000,
+  "area": 180,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Сопот",
+  "districtSlug": "sopot",
+  "location": "Сопот (mesto)",
+  "street": "",
+  "geo": {
+   "lat": 44.52489,
+   "lng": 20.57734
+  },
+  "facts": [
+   [
+    "Площадь",
+    "180 м²"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся дом площадью 180 м² в районе Сопот (mesto) (Сопот, Белград). С мебелью, отопление центральное, после ремонта, старый фонд. Цена 225 000 €.",
+  "originalLang": "sr",
+  "original": "U mirnoj ulici male, ali razvijene opštine Sopot, sa odličnom saobraćajnom povezanošću do Beograda, nalazi se funkcionalna i očuvana porodična kuća površine 180 m² , smeštena na 7 ari ravnog, zelenilom okruženog placa.\n\nRaspored prostorija:\n\nKuća se prostire na više poluetaža, sa pažljivo osmišljenim rasporedom prostorija:\n\nPrizemlje: radionica/ostava opremljena svim potrebnim mašinama i alatima za održavanje kuće i dvorišta. Pored radionice nalazi se i natkriveno parking mesto.\n\nPrva poluetaža: predsoblje, prostrani dnevni boravak sa izlazom na terasu, odvojena trpezarija sa pogledom na dvorište, kompletno opremljena kuhinja i kupatilo sa tuš kabinom.\n\nDruga poluetaža:  spavaća soba sa terasom i pogledom na prednje dvorište.\n\nTreća etaža: dve velike spavaće sobe, terasa, kupatilo sa kadom, garderober koji se može koristiti i kao dodatna spavaća soba. Iz te prostorije postoji pristup tavanu.\n\nDodatne pogodnosti:\n\nKuća je kompletno renovirana 2015. godine\nPVC stolarija, parket u sobama, kvalitetne keramičke pločice u kupatilu\nOpremljena funkcionalna kuhinja sa ugradnim uređajima\nSav nameštaj je pažljivo biran i ulazi u cenu kuće\nDvorište:\nPrelepo uređeno dvorište okružuje celu kuću i sadrži:\nRazličite sadnice: ruže, višnje, trešnje, aroniju\nLjuljašku i kutak za sedenje i opuštanje\nPomoćni objekat sa mokrim čvorom, kotlarnicom (čvrsto gorivo, gas, struja) i baštenskim alatom\n\nLokacija:\nU neposrednoj blizini nalaze se:\nŠkola, vrtić, market, pekara\nCentar Sopota (5 minuta hoda) sa kompletnom infrastrukturom: banka, pošta, pijaca, SUP, supermarket i ostali sadržaji\n\nKuća koju stvarno vredi pogledati, cena nije fiksna , moguć dogovor.",
+  "photos": 7,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196091375",
+  "slug": "kp-196091375-prodaja-kuca-ugrinovci",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 220 м², Угриновци, Земун",
+  "kind": "дом",
+  "price": 195000,
+  "area": 220,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "Угриновци",
+  "street": "кривайска",
+  "geo": {
+   "lat": 44.89325,
+   "lng": 20.21846
+  },
+  "facts": [
+   [
+    "Площадь",
+    "220 м²"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "парковка",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 220 м² в районе Угриновци (Земун, Белград). Без мебели, отопление автономное, в исходном состоянии, дом современной постройки. Есть: можно въехать сразу, терраса, парковка, гараж. Цена 195 000 €.",
+  "originalLang": "sr",
+  "original": "Prodajem odma useljivu kuću sa prelepim dvorištem trofazna struja gradska voda zagrađeno ima lep ljetnikovac pečenjaru i malu fontanicu kuća ima dva ulaza mogu dvije zasebne jedinice šest ari placa legalizovano uredni papiri nalazi se na samom ulazu u busije blizu batajnice tri kilometra unutra je sve urađeno nema spolja fasadu prodajem radi odlaska u inostranstvo",
+  "photos": 14,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
   "id": "kp-196259502",
   "slug": "kp-196259502-prodaja-kuca-rozanci",
   "deal": "sale",
