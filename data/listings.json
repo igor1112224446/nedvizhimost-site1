@@ -600,6 +600,617 @@
   "updated": "2026-10-28"
  },
  {
+  "id": "kp-196095240",
+  "slug": "kp-196095240-prodaja-kuca-pregrevica",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 75 м², Прегревица, Земун",
+  "kind": "дом",
+  "price": 206000,
+  "area": 75,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "Прегревица",
+  "street": "",
+  "geo": {
+   "lat": 44.85487,
+   "lng": 20.39108
+  },
+  "facts": [
+   [
+    "Площадь",
+    "75 м²"
+   ],
+   [
+    "Мебель",
+    "частично меблирован"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся дом площадью 75 м² в районе Прегревица (Земун, Белград). Частично меблирован, после ремонта, старый фонд. Цена 206 000 €.",
+  "originalLang": "sr",
+  "original": "? KUĆA SA PLACEM 2,75 ARI – PREGRЕVICA, ZEMUN – 200.000 €\nNa prodaju uknjižena kuća sa placem površine 2,75 ari (275 m²) na atraktivnoj lokaciji u Pregrеvici, opština Zemun, na strani Dunava.\nNekretnina ima izuzetno dobar potencijal za investiciju i novu izgradnju. Postojeća kuća je pogodna za rušenje, čime se otvara mogućnost izgradnje novog objekta, u skladu sa važećim urbanističkim uslovima.\nPlac ima pristup asfaltiranim putem, a priključci struje i vode postoje.\nNa parceli postoje i drugi suvlasnički delovi, pri čemu su pojedini suvlasnici zainteresovani za prodaju svojih udela, što potencijalnom kupcu pruža mogućnost za dodatno proširenje vlasničkog udela.\nPovršina placa: 275 m²\nPovršina: 2,75 ari\nLokacija: Pregrеvica, Zemun\nCena: 200.000 €\nOdlična prilika za investitore i kupce koji traže nekretninu sa potencijalom za izgradnju na dobroj lokaciji.\nZa ozbiljne kupce – više informacija i dogovor oko obilaska nekretnine putem poruke ili telefona.",
+  "photos": 4,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196101964",
+  "slug": "kp-196101964-prodaja-kuca-barajevo-mesto",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 140 м², Бараево (mesto), Бараево",
+  "kind": "дом",
+  "price": 190000,
+  "area": 140,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Бараево",
+  "districtSlug": "barajevo",
+  "location": "Бараево (mesto)",
+  "street": "",
+  "geo": {
+   "lat": 44.61515,
+   "lng": 20.46613
+  },
+  "facts": [
+   [
+    "Площадь",
+    "140 м²"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "подвал",
+   "кабельное ТВ",
+   "энергопаспорт",
+   "видеонаблюдение",
+   "парковка"
+  ],
+  "text": "Продаётся дом площадью 140 м² в районе Бараево (mesto) (Бараево, Белград). Без мебели, отопление автономное, в исходном состоянии, старый фонд. Есть: можно въехать сразу, интернет, терраса, подвал, кабельное ТВ, энергопаспорт, видеонаблюдение, парковка. Цена 190 000 €.",
+  "originalLang": "sr",
+  "original": "Kuća useljiva. Nekorišćeno do sada. Odlične lokacije i pogleda u daljinu. Okružena voćkama i zelenilom.",
+  "photos": 9,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-194529521",
+  "slug": "kp-194529521-prodaja-kuca-beli-potok",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 120 м², Бели поток, Вождовац",
+  "kind": "дом",
+  "price": 199000,
+  "area": 120,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Бели поток",
+  "street": "Гледжевачка",
+  "geo": {
+   "lat": 44.68407,
+   "lng": 20.53335
+  },
+  "facts": [
+   [
+    "Площадь",
+    "120 м²"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "терраса",
+   "подвал",
+   "кондиционер",
+   "парковка",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 120 м² в районе Бели поток (Вождовац, Белград). После ремонта. Есть: интернет, терраса, подвал, кондиционер, парковка, гараж. Цена 199 000 €.",
+  "originalLang": "sr",
+  "original": "Kuća se nalazi u malom naselju, sa sjajnim komšijama, na prelepoj lokaciji, oko 20 metara od Avalske šume. Ima dve etaže, veliki trem, četiri sobe, veliki dnevni boravak sa puno prirodnog svetla, modernu kuhinju, dva kupatila, tri terase,  kao i dve sređene podrumske prostorije koje su potpuno suve (visina 215 cm), i tavansku prostoriju koja je odličan prostor za odlaganje stvari.  \n\nKuća uglavnom ima kvalitetnu novu PVC stolariju koja je još pod garancijom. Postoje tri vrste grejanja: dve inverter klime, etažno grejanje na drva i grejanje na struju. Sama kuća ima oko 120 m².  \n\nPomoćni objekat ima garsonjeru sa sopstvenom kuhinjom i kupatilom, tako da neko tu ima sve potrebne uslove za odvojen život. U pomoćnom objektu se nalaze i ostava, prostrana šupa, sušara i pečenjara. Ovaj objekat ima više od 40 m².  \n\nKuća ima i modernu, prostranu garažu od 42 m² za dva automobila, sa automatskim garažnim vratima na daljinsko upravljanje.  \n\nSve zajedno, pod krovom ima nešto više od 200 m² korisne površine. Zbirno gledano, ovde ima šest soba, tri kupatila, dve kuhinje, kao i dodatne pomoćne prostorije. Zbog ograničenog broja fotografija, neke prostorije nisu prikazane na slikama.  \n\nNajveća prednost ove kuće je njena lokacija, koja je svakako jedna od najboljih na području grada Beograda. Ne samo da se kuća nalazi na izuzetno mirnoj lokaciji, u slepoj ulici, u veoma lepo sređenom i prestižnom naselju, već je i u pravoj vazdušnoj banji, sa svih strana okružena prirodom, a u neposrednoj blizini avalske šume i brojnih staza za šetnju. Stazama, koje kreću u neposrednoj blizini kuće, možete šetati kroz šumu po ravnom, ili otići i do samog vrha Avale. Sa terasa se pruža predivan pogled na izlaske sunca. Ovde udišete šumski vazduh i imate osećaj kao da ste na godišnjem odmoru, premda do IKEA-e imate svega 5–6 minuta vožnje automobilom, a do Autokomande oko 15–20 minuta. Povezanost sa gradom je dobra jer je blizu i glavni auto-put, a i obilaznica.  \n\nBlizina više linija javnog prevoza čini ovu lokaciju veoma pogodnom za porodični život (stanica je oko 4-5 minuta peške).  \nLokacija je Avala, Beli Potok je mesto kojem pripada katastarski, Voždovac je katastarska opština, a nalazi se između Belog Potoka i Zuca.  \n\nPlac je površine 6 ari, a na njemu ima raznog voća: jabuke, šljive, kruška, vinogradarske breskva, grožđe, smokva, dud, kupine itd. Postoje i izdignute leje za uzgajanje povrća i/ili začinskog bilja.  \n\nKuća se prodaje zbog poslovne relokacije.",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196114105",
+  "slug": "kp-196114105-prodaja-kuca-radiofar",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 100 м², Радиофар, Сурчин",
+  "kind": "дом",
+  "price": 390000,
+  "area": 100,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Сурчин",
+  "districtSlug": "surcin",
+  "location": "Радиофар",
+  "street": "Милана Коньовича",
+  "geo": {
+   "lat": 44.82871,
+   "lng": 20.30782
+  },
+  "facts": [
+   [
+    "Площадь",
+    "100 м²"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся дом площадью 100 м² в районе Радиофар (Сурчин, Белград). Цена 390 000 €.",
+  "originalLang": "sr",
+  "original": "Cena po dogovoru. Kuca sa magacinom plus jos jedan manji objekat. Predato za legalizaciju.",
+  "photos": 4,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-193478927",
+  "slug": "kp-193478927-prodaja-kuca-borca",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 80 м², Борча, Палилула",
+  "kind": "дом",
+  "price": 187000,
+  "area": 80,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "Борча",
+  "street": "Виктора Кина",
+  "geo": {
+   "lat": 44.87822,
+   "lng": 20.47221
+  },
+  "facts": [
+   [
+    "Площадь",
+    "80 м²"
+   ],
+   [
+    "Отопление",
+    "кондиционер, тёплый пол"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "энергопаспорт",
+   "видеонаблюдение",
+   "парковка",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 80 м² в районе Борча (Палилула, Белград). С мебелью, отопление кондиционер, тёплый пол. Есть: можно въехать сразу, интернет, терраса, кабельное ТВ, кондиционер, энергопаспорт, видеонаблюдение, парковка, гараж. Цена 187 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju prelepa montazna kuća u mirnom delu Borce, sa prelepim dvoristem, stampanim betonom, uredjenim travnjakom i ukrasnim biljem.   Objekat je prizemni, ima 3 sobe (dnevnu, spavacu i deciju), kuhinju, kupatilo sa tus kabinom, ogromnu trpezariju. Zidovi unutrasnjosti  sa dekorativnim tehnikama, PVC stolarija, video nadzor 6 kamera, 2 inverter klime, podno grejanje, pod granit u celoj kuci. Ima pomocni objekat kao mini garaza, ostava za alat, razne pribore, bicikle, motore. . . kotlarnica - kotao na struju (prosao je gas pored kuce, ocekujemo prikljucak iskoro) Sve je smart, ukljucuje se preko aplikacije sa daljine preko telefonakog aparata, prati se takodje putem aplikacije i viedeo nadzor kuće.   Prodaje se sa sve stvarima. Za porodicu , za starije, mladje. . . za one koji znaju da uzivaju, za opuštanje, nema lepse i bolje za taj novac. Uknjizen i plac i objekat, vlasnik 1/1.",
+  "photos": 13,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196114634",
+  "slug": "kp-196114634-prodaja-kuca-vrcin",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 90 м², Врчин, Гроцка",
+  "kind": "дом",
+  "price": 115000,
+  "area": 90,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Гроцка",
+  "districtSlug": "grocka",
+  "location": "Врчин",
+  "street": "",
+  "geo": {
+   "lat": 44.66501,
+   "lng": 20.58978
+  },
+  "facts": [
+   [
+    "Площадь",
+    "90 м²"
+   ],
+   [
+    "Отопление",
+    "твёрдое топливо"
+   ],
+   [
+    "Мебель",
+    "частично меблирован"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся дом площадью 90 м² в районе Врчин (Гроцка, Белград). Частично меблирован, отопление твёрдое топливо, в исходном состоянии, старый фонд. Цена 115 000 €.",
+  "originalLang": "sr",
+  "original": "Oaza prirode na 11 ari voćnjaka - Uknjižena kuća 90m² (4km od autoputa Vrčin)\n​\n​Tražite nekretninu sa čistim papirima, prostranim placem i odličnom lokacijom nadomak Beograda? Ova kuća nudi savršen spoj mira, prirode i kompletne infrastrukture za život ili vikend uživanje.\n​Plac od 10,8 ari pod voćem je uknjižen 1/1, bez ikakvih tereta. Kuća od 90 m² je u potpunosti legalizovana (moguća brza i sigurna realizacija kupoprodaje).\n​Struja i sopstvena bunarska voda na placu.\n​Gasovod i vodovod dovedeni do kuće (u toku je priključivanje na Beogradski vodovod – što dugoročno značajno podiže vrednost ove nekretnine).\n​Kuća je kvalitetne i čvrste gradnje, zidana bez skrivenih mana – novom vlasniku ostaje samo estetsko završavanje fasade po sopstvenoj želji.\n​Mirno i tiho okruženje, idealno za beg od gradske buke.\n​Svega 4 km od isključenja za Vrčin (Autoput) i 4 km od Smederevskog puta.\n​Autobuska stanica na samo 3 minuta peške! (Linije: 303, 354, 354A, 354B, 467, 468) – odlična povezanost sa gradom.\n​Cena: 115.000 €",
+  "photos": 10,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196115128",
+  "slug": "kp-196115128-prodaja-kuca-ripanj",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 300 м², Рипань, Вождовац",
+  "kind": "дом",
+  "price": 175000,
+  "area": 300,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Рипань",
+  "street": "Прнявор Павичевац 12",
+  "geo": {
+   "lat": 44.63469,
+   "lng": 20.54561
+  },
+  "facts": [
+   [
+    "Площадь",
+    "300 м²"
+   ],
+   [
+    "Отопление",
+    "центральное, твёрдое топливо"
+   ],
+   [
+    "Мебель",
+    "частично меблирован"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 300 м² в районе Рипань (Вождовац, Белград). Частично меблирован, отопление центральное, твёрдое топливо, в исходном состоянии, старый фонд. Есть: можно въехать сразу, гараж. Цена 175 000 €.",
+  "originalLang": "sr",
+  "original": "Prodajem kuci u ripnju 600metara od kragujevačkog puta. . kuca je 400kvadrata\nsa terasama, unutrašnja 300kvadrata. pomocni objekat sa garazom 70 kvadrata.11.5kv. plac.\nbunar u dvorištu, bunarska i gradska voda.\nTrofazna struja. centralno grejanje na drva.\nUveden priključak za gas. asvaltni prilaz.\nU blizini su market, skola ambulanta mesara.\nTakođe i gradski prevoz u vise pravaca.\nKuca je uknjizena. vlasnik.",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196118688",
+  "slug": "kp-196118688-prodaja-kuca-busije",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 101 м², Бусие, Земун",
+  "kind": "дом",
+  "price": 170000,
+  "area": 101,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "Бусие",
+  "street": "",
+  "geo": {
+   "lat": 44.90007,
+   "lng": 20.22799
+  },
+  "facts": [
+   [
+    "Площадь",
+    "101 м²"
+   ],
+   [
+    "Отопление",
+    "центральное, кондиционер, автономное"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер"
+  ],
+  "text": "Продаётся дом площадью 101 м² в районе Бусие (Земун, Белград). Без мебели, отопление центральное, кондиционер, автономное, в исходном состоянии, дом современной постройки. Есть: можно въехать сразу, интернет, терраса, кабельное ТВ, кондиционер. Цена 170 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju kuca u Busijama. 101 m2 + 101m2 za dogradnju visokog potkrovlja. Mlad vocnjak na placu od 6 ari. Struja , voda etazno grejanje i grejanje na drva. Gas doveden do placa. Uknjizeno. Laki",
+  "photos": 11,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196121983",
+  "slug": "kp-196121983-prodaja-kuca-ripanj",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 55 м², Рипань, Вождовац",
+  "kind": "дом",
+  "price": 130000,
+  "area": 55,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Рипань",
+  "street": "",
+  "geo": {
+   "lat": 44.64047,
+   "lng": 20.51879
+  },
+  "facts": [
+   [
+    "Площадь",
+    "55 м²"
+   ],
+   [
+    "Отопление",
+    "норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "парковка"
+  ],
+  "text": "Продаётся дом площадью 55 м² в районе Рипань (Вождовац, Белград). С мебелью, отопление норвежские радиаторы, в исходном состоянии, дом современной постройки. Есть: можно въехать сразу, терраса, парковка. Цена 130 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju kompletno nameštena, moderno građena kuća od 55 m² u prelepom i mirnom šumskom okruženju u Ripnju, idealna kao beg od gradske gužve i spremna za useljenje bez ikakvih ulaganja. Unutrašnjost se sastoji od dnevne sobe, spavaće sobe, kuhinje i kupatila, dok eksterijer krase kvalitetna drvena fasada, veliki stakleni klizni portali sa komarnicima i prostrani štampani beton ispred kuće koji je savršen za letnjikovac ili bazen. Poseban premium dodatak je funkcionalni đakuzi sa hidromasažerima smešten u zastakljenoj terasi za maksimalno opuštanje sa pogledom u prirodu. Nekretnina je uknjižena (vlasništvo 1/1), ima uvedenu struju i vodu, a do nje vodi oko 1 km makadamskog puta koji garantuje potpunu privatnost i mir. Odlična je kako za lični odmor, tako i kao investicija za izdavanje. Za sve dodatne informacije, cenu i dogovor oko obilaska, kontaktirajte me putem KP poruka ili na broj telefona: Nemanja.\n\nKatastarska parcela- Ripanj Voždovac 3367/1,2,3 i 3368/1,2,3",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196128389",
+  "slug": "kp-196128389-prodaja-kuca-lazarevac-mesto",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 180 м², Лазаревац (mesto), Лазаревац",
+  "kind": "дом",
+  "price": 170000,
+  "area": 180,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Лазаревац",
+  "districtSlug": "lazarevac",
+  "location": "Лазаревац (mesto)",
+  "street": "",
+  "geo": {
+   "lat": 44.38266,
+   "lng": 20.25872
+  },
+  "facts": [
+   [
+    "Площадь",
+    "180 м²"
+   ],
+   [
+    "Мебель",
+    "частично меблирован"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "подвал",
+   "кондиционер",
+   "парковка",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 180 м² в районе Лазаревац (mesto) (Лазаревац, Белград). Частично меблирован, в исходном состоянии, старый фонд. Есть: можно въехать сразу, терраса, подвал, кондиционер, парковка, гараж. Цена 170 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju prostrana porodična kuća od 180m² na placu od 25 ari – mir, komfor i potencijal\n\nNa prodaju prelepa i funkcionalna porodična kuća površine 180m², smeštena na prostranom placu od 25 ari koji pruža potpun mir, privatnost i brojne mogućnosti za uživanje i dodatne sadržaje.\n\nKuća je spratna i pažljivo organizovana kako bi pružila maksimalan komfor. U prizemlju se nalazi prostrana dnevna soba povezana sa trpezarijom i kuhinjom, kupatilo, kao i velika sala idealna za porodična okupljanja, proslave ili razne namene. U sklopu prizemlja nalazi se i praktičan špajz (podrum). Na sprat se dolazi kvalitetnim drvenim stepeništem, gde su smešteni kupatilo, jedna velika spavaća soba, dve manje spavaće sobe, kao i još dve dodatne prostorije koje se mogu prilagoditi različitim potrebama – kao dečije sobe, radni prostor ili sobe za goste.\n\nPored glavnog objekta, nekretnina obuhvata i kotlarnicu, pomoćni objekat i garažu, što dodatno doprinosi funkcionalnosti i svakodnevnoj praktičnosti.\n\nPlac je posebno atraktivan – prostire se na 25 ari i sadrži uređen voćnjak, baštu i plastenik, pružajući idealne uslove za ljubitelje prirode ili jednostavno uživanje u sopstvenom dvorištu.\n\nOva nekretnina predstavlja savršen spoj komfora, prostora i potencijala – kako za porodični život, tako i kao investicija.",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196132663",
+  "slug": "kp-196132663-prodaja-kuca-ledine",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 198 м², Ледине, Новый Белград",
+  "kind": "дом",
+  "price": 55900,
+  "area": 198,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "novi-beograd",
+  "location": "Ледине",
+  "street": "Еврейских Жртава 2",
+  "geo": {
+   "lat": 44.80212,
+   "lng": 20.35128
+  },
+  "facts": [
+   [
+    "Площадь",
+    "198 м²"
+   ],
+   [
+    "Отопление",
+    "электрическое"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "парковка",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 198 м² в районе Ледине (Новый Белград, Белград). Без мебели, отопление электрическое, в исходном состоянии, дом современной постройки. Есть: парковка, гараж. Цена 55 900 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju plac sa kucom i dva  pomocna  objekta\n\nPlac je 2 ara",
+  "photos": 10,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196063336",
+  "slug": "kp-196063336-prodaja-kuca-babe",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 100 м², Бабе, Сопот",
+  "kind": "дом",
+  "price": 137000,
+  "area": 100,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Сопот",
+  "districtSlug": "sopot",
+  "location": "Бабе",
+  "street": "Партизански пут",
+  "geo": {
+   "lat": 44.52641,
+   "lng": 20.53935
+  },
+  "facts": [
+   [
+    "Площадь",
+    "100 м²"
+   ],
+   [
+    "Отопление",
+    "электрическое, норвежские радиаторы, аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "терраса",
+   "подвал",
+   "кабельное ТВ",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 100 м² в районе Бабе (Сопот, Белград). Без мебели, отопление электрическое, норвежские радиаторы, аккумуляционные печи, после ремонта, старый фонд. Есть: интернет, терраса, подвал, кабельное ТВ, гараж. Цена 137 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju kuća od 100 m² sa prelepim placem od 21 ar građevinskog zemljišta pod višedecenijskim borovima u naselju Babe (Sopot), na samo 37 km od centra Beograda.\n​Imanje nudi potpunu privatnost, mir i čist vazduh. Priključeno je na gradsku vodu i struju, a poseduje i sopstveni bunar. Plac je prostran i ima ogroman potencijal za bazen, letnjikovac ili dodatne sadržaje.\n​Cena: 137.000 € (moguć dogovor za ozbiljne kupce).",
+  "photos": 10,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
   "id": "kp-196259502",
   "slug": "kp-196259502-prodaja-kuca-rozanci",
   "deal": "sale",
