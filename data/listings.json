@@ -647,5 +647,75 @@
   "photos": 12,
   "added": "2026-10-28",
   "updated": "2026-10-28"
+ },
+ {
+  "id": "ho-5425645092667",
+  "slug": "ho-5425645092667-izdavanje-stan-naselje-stepa-stepanovic",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 50 м², Населе Степа Степанович, Вождовац",
+  "kind": "двухкомнатная квартира",
+  "price": 650,
+  "area": 50,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "Населе Степа Степанович",
+  "street": "Генерала Штефаника",
+  "geo": {
+   "lat": 44.76041,
+   "lng": 20.4863
+  },
+  "facts": [
+   [
+    "Площадь",
+    "50 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "3-й из 6"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 50 м² в районе Населе Степа Степанович (Вождовац, Белград). 3-й этаж из 6, с мебелью, отопление центральное, люкс, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, домофон, интернет, кабельное ТВ, кондиционер, лифт, парковка, терраса, видеонаблюдение. Аренда 650 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se stan od 50m2 sa odvojenom spavacom sobom, na odlicnoj lokaciji u naselju Stepa Stepanovic. Stan je dvostrano orjentisan i nalazi  se na trecem spratu, izuzetno je svetao i ima lep pogled. Sadrži dnevnu sobu sa garniturom na izvlacenje, tv, klima, opremljenu spavacu sobu (krevet, dusek, plakari), kompletno opremljenu kuhinju sa belom tehnikom (frižider sa zamrzivačem, masina za pranje sudova, sporet, rerna) kupatilo komplet opremljeno sa ves masinom, terasu i predsoblje sa ugradnim plakarom. Stan je opremljen luxuznim namestajem koji je potpuno nov.\nNa samo 50metara od zgrade nalazi se osnovna skola i vrtic, marketi za nabavku namernica i teretana. Postoje slobodna mesta za parkiranje ispred zgrade.\nDirektno od vlasnika, bez provizije",
+  "photos": 14,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
  }
 ]
