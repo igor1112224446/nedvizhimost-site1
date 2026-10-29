@@ -133,6 +133,8 @@ const roomsLabel = (l) => (l.type === 'house' ? 'Дом' : !l.rooms || l.rooms <
 const heading = (l) => `${cap(l.kind)}${l.area ? `, ${l.area}\u00a0м²` : ''}`;
 const perM2 = (l) => (l.deal === 'sale' && l.price && l.area ? price(l.price / l.area, '/м²') : '');
 const floorText = (l) => { const v = fact(l, 'Этаж'); return v ? v.replace(/^(.+?)( из \d+)?$/, '$1 этаж$2') : ''; };
+const RU_MONTHS = ['января', 'февраля', 'марта', 'апреля', 'мая', 'июня', 'июля', 'августа', 'сентября', 'октября', 'ноября', 'декабря'];
+const ruDate = (iso) => { const [y, m, d] = String(iso || '').split('-').map(Number); return y && m && d ? `${d} ${RU_MONTHS[m - 1]} ${y}` : ''; };
 const isNew = (l) => String(l.added) >= NEW_SINCE;
 const ICON = {
   heart: '<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10z" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></svg>',
@@ -524,7 +526,6 @@ const HOME_PAGE = 12;
   <div class="hero-strip">
     <div class="wrap hero-strip-in">
       <span><b>${LISTINGS.length}</b> ${plural(LISTINGS.length, ['объект', 'объекта', 'объектов'])} от собственников</span>
-      <span><b>${ALL_DISTRICTS.length}</b> ${plural(ALL_DISTRICTS.length, ['район', 'района', 'районов'])} Белграда</span>
       <span>Описания и сопровождение на русском</span>
     </div>
   </div>
@@ -709,7 +710,9 @@ for (const l of LISTINGS) {
       <dl class="key-facts">${keyFacts.map(([k, v]) => `<div><dt>${esc(k)}</dt><dd>${k === 'Цена за м²' ? v : esc(v)}</dd></div>`).join('')}</dl>
       <section class="obj-sec">
         <h2>Об объекте</h2>
+        ${l.added ? `<p class="obj-date">Опубликовано на сайте ${ruDate(l.added)}${l.updated && l.updated !== l.added ? `, обновлено ${ruDate(l.updated)}` : ''}</p>` : ''}
         <p>${esc(l.text)}</p>
+        ${l.originalLang === 'ru' && l.original ? `<p class="obj-desc">${esc(l.original).replace(/\n+/g, '<br>')}</p>` : ''}
         ${restFacts.length ? `<dl class="facts">${restFacts.map(([k, v]) => `<div><dt>${esc(k)}</dt><dd>${esc(v)}</dd></div>`).join('')}</dl>` : ''}
       </section>
       ${l.features?.length ? `<section class="obj-sec"><h2>Удобства</h2><ul class="feat">${l.features.map((f) => `<li>${esc(cap(f))}</li>`).join('')}</ul></section>` : ''}
