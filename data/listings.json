@@ -4997,6 +4997,583 @@
   "updated": "2026-10-28"
  },
  {
+  "id": "kp-196064369",
+  "slug": "kp-196064369-prodaja-kuca-lekino-brdo",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 120 м², Лекино брдо, Вождовац",
+  "kind": "дом",
+  "price": 250000,
+  "area": 120,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Лекино брдо",
+  "street": "Тодора Дукина",
+  "geo": {
+   "lat": 44.78771,
+   "lng": 20.48292
+  },
+  "facts": [
+   [
+    "Площадь",
+    "120 м²"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "парковка"
+  ],
+  "text": "Продаётся дом площадью 120 м² в районе Лекино брдо (Вождовац, Белград). С мебелью, отопление автономное, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, кондиционер, видеонаблюдение, парковка. Цена 250 000 €.",
+  "originalLang": "sr",
+  "original": "Lekino Brdo 120m2 PR+1 , dve odvojene stambene jedinice mogu biti, jer je stepeniste spoljasne.",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-194895161",
+  "slug": "kp-194895161-prodaja-kuca-obrenovac-mesto",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 139 м², Обреновац (mesto), Обреновац",
+  "kind": "дом",
+  "price": 120000,
+  "area": 139,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Обреновац",
+  "districtSlug": "obrenovac",
+  "location": "Обреновац (mesto)",
+  "street": "",
+  "geo": {
+   "lat": 44.65302,
+   "lng": 20.20674
+  },
+  "facts": [
+   [
+    "Площадь",
+    "139 м²"
+   ],
+   [
+    "Отопление",
+    "тепловой насос"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кондиционер"
+  ],
+  "text": "Продаётся дом площадью 139 м² в районе Обреновац (mesto) (Обреновац, Белград). С мебелью, отопление тепловой насос, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, домофон, терраса, кондиционер. Цена 120 000 €.",
+  "originalLang": "sr",
+  "original": "Nekretnina je udaljena 500m od centra obrenovca , za sve informacije pozvati",
+  "photos": 10,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-191909758",
+  "slug": "kp-191909758-prodaja-kuca-ledine",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 200 м², Ледине, Новый Белград",
+  "kind": "дом",
+  "price": 310000,
+  "area": 200,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "novi-beograd",
+  "location": "Ледине",
+  "street": "Томаса Мана 15",
+  "geo": {
+   "lat": 44.80317,
+   "lng": 20.35589
+  },
+  "facts": [
+   [
+    "Площадь",
+    "200 м²"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "подвал",
+   "кондиционер",
+   "видеонаблюдение",
+   "парковка"
+  ],
+  "text": "Продаётся дом площадью 200 м² в районе Ледине (Новый Белград, Белград). С мебелью, после ремонта, дом современной постройки. Есть: можно въехать сразу, терраса, подвал, кондиционер, видеонаблюдение, парковка. Цена 310 000 €.",
+  "originalLang": "sr",
+  "original": "HITNO!\n\n \n\nVlasnik 1/1\nKuća je ozakonjena i upisana kao 3 odvojena stana\n\nOdvojene jedinice:\n- Garsonjera\n- Dvosoban stan\n- Četvorosoban stan\n\nIma mogućnost dogradnje još 1 nivoa. Izvedene su stepenice, struja, voda i kanalizacija.",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196535385",
+  "slug": "kp-196535385-prodaja-kuca-veliki-crljeni",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 65 м², Велики Црлени, Лазаревац",
+  "kind": "дом",
+  "price": 64000,
+  "area": 65,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Лазаревац",
+  "districtSlug": "lazarevac",
+  "location": "Велики Црлени",
+  "street": "",
+  "geo": {
+   "lat": 44.46791,
+   "lng": 20.2838
+  },
+  "facts": [
+   [
+    "Площадь",
+    "65 м²"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "подвал"
+  ],
+  "text": "Продаётся дом площадью 65 м² в районе Велики Црлени (Лазаревац, Белград). Есть: можно въехать сразу, терраса, подвал. Цена 64 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju kuća u Velikim Crljenima nalazi se ne tek koloniji, površine 65 mkv, dvorište 3 ara sa dosta zelenila.\nOgradjeno, poseduje garažu za auto sa radionicom.\nKuća uknjižena 1/1 zemljište u državnom vlasništvu.\nKuća u odličnom stanju sa izolacijom na zidovima gradsko grejanje.\nBlizu prevoz za bgd, marketi ambulanta škola vrtić i bazen.\nRaspored hodnik, kupatilo, trpezarija sa kuhinjom, dnevni, jedna soba, podrum, dve velike terase.\nCena 64.000e.\ntel 063*8730*237",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196535475",
+  "slug": "kp-196535475-prodaja-kuca-stepojevac",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 200 м², Степоевац, Лазаревац",
+  "kind": "дом",
+  "price": 82000,
+  "area": 200,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Лазаревац",
+  "districtSlug": "lazarevac",
+  "location": "Степоевац",
+  "street": "",
+  "geo": {
+   "lat": 44.51404,
+   "lng": 20.2943
+  },
+  "facts": [
+   [
+    "Площадь",
+    "200 м²"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 200 м² в районе Степоевац (Лазаревац, Белград). Отопление автономное. Есть: можно въехать сразу, терраса, гараж. Цена 82 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju kuća u Stepojevcu,1 km udaljena od centra na placu površine 20 ari.\n\nKuća se sastoji iz niskog prizemlja, prizemlja i podkrovlja koje je adaptirano, površina kuće 200 mkv, poseduje i garažu za auto i dve terase, trof struja, gradska i bunarska voda, grejanje na kotao, uknjižena 1 1.  \n\nCena 82.000e \n\nTel 063*8730*237",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196535638",
+  "slug": "kp-196535638-prodaja-kuca-slatina",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 370 м², Слатина, Сопот",
+  "kind": "дом",
+  "price": 230000,
+  "area": 370,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Сопот",
+  "districtSlug": "sopot",
+  "location": "Слатина",
+  "street": "",
+  "geo": {
+   "lat": 44.49415,
+   "lng": 20.45191
+  },
+  "facts": [
+   [
+    "Площадь",
+    "370 м²"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "парковка"
+  ],
+  "text": "Продаётся дом площадью 370 м² в районе Слатина (Сопот, Белград). С мебелью. Есть: можно въехать сразу, терраса, парковка. Цена 230 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju dve kuće u Slatini-Kosmaj.\n\nNalazi se na glavnom putu, udaljene od Beograda 40 km od kosmaja 4.\n\nKuća površine 250 mkv, sastoji se od prizemlja i sprata. U prizemlju dva velika dnevna boravka sa kupatilima i kotlarnicom.\n\nSprat dnevni sa kupatilom i apartmanom za goste, na spratu takodje velika terasa.\n\nDruga kuća površine 120 mkv poseduje dnevni boravak i sobu sa kupatilom zastakljeni dnevni boravak sa grilom i pečenjarom.\n\nPlac kompletno ogradjen površine 15 ari, elektro kapija dva parking mesta, asfaltiran prilaz, video nadzor, gradska voda, bunar u dvorištu sa fontanom, prodajem se sa stvarima, vlasnik 1/1.\n\nCena 230.000e.\n\nKontakt 063*873*0237",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196535719",
+  "slug": "kp-196535719-prodaja-kuca-veliki-crljeni",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 190 м², Велики Црлени, Лазаревац",
+  "kind": "дом",
+  "price": 85000,
+  "area": 190,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Лазаревац",
+  "districtSlug": "lazarevac",
+  "location": "Велики Црлени",
+  "street": "",
+  "geo": {
+   "lat": 44.46791,
+   "lng": 20.2838
+  },
+  "facts": [
+   [
+    "Площадь",
+    "190 м²"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 190 м² в районе Велики Црлени (Лазаревац, Белград). С мебелью, отопление автономное. Есть: можно въехать сразу, терраса, гараж. Цена 85 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju domaćinstvo u Velikim Crljenima.\n\nSastoji se iz tri useljive kuće ukupne površine 190m2, pomoćnih objekata, garaže, dvorište komplet ogradjeno, grejanje na kotao, gradska voda i bunar,2.5 km od centra crljena, sve uknjiženo vlasnik 1/1, prodaje se sa većinom stvari. Plac 50ari.\n\nCena 85.000e\n\nTel 063*8730*237",
+  "photos": 14,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196536418",
+  "slug": "kp-196536418-prodaja-kuca-openstreetmap-contributors",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 360 м², © ОпенСтреетМап цонтрибуторс, Лазаревац",
+  "kind": "дом",
+  "price": 200000,
+  "area": 360,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Лазаревац",
+  "districtSlug": "lazarevac",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "",
+  "geo": {
+   "lat": 44.51404,
+   "lng": 20.2943
+  },
+  "facts": [
+   [
+    "Площадь",
+    "360 м²"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу"
+  ],
+  "text": "Продаётся дом площадью 360 м² в районе © ОпенСтреетМап цонтрибуторс (Лазаревац, Белград). Старый фонд. Есть: можно въехать сразу. Цена 200 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju zemljište 1.05 ha, sa kućom 360 m2, nalazi se Stepojevcu 40 km udaljeno od Beograda, plac je dvostrano orjentisan izlazi na magistralu i na lokalni put, potpuno ravan, moguće dokupiti još zemlje, pogodno za investicionu delatnost, cena po dogovoru!  \n\nTel 063*873*0237",
+  "photos": 4,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196536563",
+  "slug": "kp-196536563-prodaja-kuca-lazarevac-mesto",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 200 м², Лазаревац (mesto), Лазаревац",
+  "kind": "дом",
+  "price": 70000,
+  "area": 200,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Лазаревац",
+  "districtSlug": "lazarevac",
+  "location": "Лазаревац (mesto)",
+  "street": "",
+  "geo": {
+   "lat": 44.38266,
+   "lng": 20.25872
+  },
+  "facts": [
+   [
+    "Площадь",
+    "200 м²"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу"
+  ],
+  "text": "Продаётся дом площадью 200 м² в районе Лазаревац (mesto) (Лазаревац, Белград). Есть: можно въехать сразу. Цена 70 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju polovina kuće u Lazarevcu udaljena 600 m od novog vatrogasnog.\n\nPovršine 200 mkv, plac 5 ari, poseduje prizemlje sprat i potkrovlje koje se može adaptirati u stambeni.\n\nU prizemlju dve spavaće dnevna kupatilo, na spratu isto, unutrašnje stepenice, kuća je odvojena svim infrastrukturnim priključcima od drugog dela, poseduje svoju kat parcelu.\n\nMoguće priključenje na gradsko grejanje, vlasnik 1/1.  \n\nCena 70000e \n\nTel 063*873*0237",
+  "photos": 11,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196539900",
+  "slug": "kp-196539900-prodaja-kuca-kaludjerica",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 220 м², Калуджерица, Гроцка",
+  "kind": "дом",
+  "price": 218000,
+  "area": 220,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Гроцка",
+  "districtSlug": "grocka",
+  "location": "Калуджерица",
+  "street": "Нушичева 10B",
+  "geo": {
+   "lat": 44.75645,
+   "lng": 20.55318
+  },
+  "facts": [
+   [
+    "Площадь",
+    "220 м²"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "частично меблирован"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "парковка",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 220 м² в районе Калуджерица (Гроцка, Белград). Частично меблирован, отопление центральное, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, терраса, кабельное ТВ, кондиционер, видеонаблюдение, парковка, гараж. Цена 218 000 €.",
+  "originalLang": "sr",
+  "original": "На продају пространа и функционална породична кућа (вертикала) у центру Калуђерице, у тихој, слепој улици са пуно зеленила, без саобраћаја – савршена за миран живот и одрастање деце. Кућа се налази на крају улице, са великим заједничким двориштем које делује као природан продужетак улице – безбедан и простран амбијент за игру и свакодневни боравак напољу. Кућа има два паркинг места.",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-191240955",
+  "slug": "kp-191240955-prodaja-kuca-ledine",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 128 м², Ледине, Новый Белград",
+  "kind": "дом",
+  "price": 269000,
+  "area": 128,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "novi-beograd",
+  "location": "Ледине",
+  "street": "Боже Петровича 12",
+  "geo": {
+   "lat": 44.79824,
+   "lng": 20.34318
+  },
+  "facts": [
+   [
+    "Площадь",
+    "128 м²"
+   ],
+   [
+    "Отопление",
+    "электрическое"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "парковка"
+  ],
+  "text": "Продаётся дом площадью 128 м² в районе Ледине (Новый Белград, Белград). Без мебели, отопление электрическое, дом современной постройки. Есть: можно въехать сразу, терраса, парковка. Цена 269 000 €.",
+  "originalLang": "sr",
+  "original": "Novogradnja!\n\nProdajem kucu 128 m2 lneto povrsine). Dvoriste 3 ara. Kuca je legalizovana. Vlasnik. Prizemlje : velika dnevna soba, trpezarija i kuhinja, manje kupatilo. Sprat : 3 spavace sobe i veliko kupatilo. Kuca prikacena na sve instalacije.",
+  "photos": 13,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-195623017",
+  "slug": "kp-195623017-prodaja-kuca-beli-potok",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 850 м², Бели поток, Вождовац",
+  "kind": "дом",
+  "price": 1130000,
+  "area": 850,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Бели поток",
+  "street": "Васе Царапица 73",
+  "geo": {
+   "lat": 44.70792,
+   "lng": 20.52065
+  },
+  "facts": [
+   [
+    "Площадь",
+    "850 м²"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "домофон",
+   "терраса",
+   "подвал",
+   "кабельное ТВ"
+  ],
+  "text": "Продаётся дом площадью 850 м² в районе Бели поток (Вождовац, Белград). Без мебели, отопление газовое, после ремонта, старый фонд. Есть: можно въехать сразу, домофон, терраса, подвал, кабельное ТВ. Цена 1 130 000 €.",
+  "originalLang": "sr",
+  "original": "Prodaje se kuca na izuzetnoj lokaciji u neposrednoj blizini Avalskog tornja.\n\nKuca ima lift tako da je pogodna i za poslovni ptostror.\n\nSve je renovirano od instalacija do keramike i podova.\n\nOdmah useljiva.\n\nMoze svaki vid saradnje.",
+  "photos": 9,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
   "id": "kp-196562021",
   "slug": "kp-196562021-prodaja-kuca-bolec",
   "deal": "sale",
