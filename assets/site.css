@@ -672,3 +672,6 @@ p { margin: 0; }
 .review figcaption span, .review figcaption a { color: var(--muted); }
 .review-cta { margin-top: 28px; color: var(--ink-2); }
 @media (max-width: 860px) { .about-district { grid-template-columns: 1fr; gap: 28px; } }
+
+.obj-date { font-size: 13px; color: var(--muted); margin: -6px 0 14px; }
+.obj-desc { margin-top: 16px; max-width: 44em; color: var(--ink-2); font-size: 17px; }
