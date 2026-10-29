@@ -7461,6 +7461,321 @@
   "updated": "2026-10-28"
  },
  {
+  "id": "kp-196675743",
+  "slug": "kp-196675743-prodaja-kuca-pecani",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 120 м², Печани, Чукарица",
+  "kind": "дом",
+  "price": 180000,
+  "area": 120,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "cukarica",
+  "location": "Печани",
+  "street": "Живана Илича 5",
+  "geo": {
+   "lat": 44.69922,
+   "lng": 20.32322
+  },
+  "facts": [
+   [
+    "Площадь",
+    "120 м²"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "парковка",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 120 м² в районе Печани (Чукарица, Белград). С мебелью, отопление автономное, в исходном состоянии, старый фонд. Есть: можно въехать сразу, парковка, гараж. Цена 180 000 €.",
+  "originalLang": "sr",
+  "original": "PRODAJA KUĆE SA PLACEM OD 30 ARI – PEĆANI, ČUKARICA\nCena: 180.000 €\n\nProdaje se kuća na sprat površine 120m² sa prostranim placem površine 30 ari.\nNameštena i pogodna je za useljenje bez čekanja. Nekretnina je uknjižena.\n\nDodatni objekti na placu:\nPored kuće, na placu se nalazi više pomoćnih objekata koji pružaju dodatni prostor i praktičnost, uključujući:\n- špajz\n- letnju kuhinju\n- garažu\n- druge pomoćne prostorije.\n\nVelika površina zemljišta pruža brojne mogućnosti za uređenje dvorišta, baštu, voćnjak ili druge namene, u skladu sa važećim urbanističkim uslovima.\n\nZa više informacija i dogovor oko razgledanja, kontaktirati prodavca.",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196677285",
+  "slug": "kp-196677285-prodaja-kuca-lazarevac-mesto",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 70 м², Лазаревац (mesto), Лазаревац",
+  "kind": "дом",
+  "price": 45000,
+  "area": 70,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Лазаревац",
+  "districtSlug": "lazarevac",
+  "location": "Лазаревац (mesto)",
+  "street": "",
+  "geo": {
+   "lat": 44.38266,
+   "lng": 20.25872
+  },
+  "facts": [
+   [
+    "Площадь",
+    "70 м²"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "парковка"
+  ],
+  "text": "Продаётся дом площадью 70 м² в районе Лазаревац (mesto) (Лазаревац, Белград). Без мебели, после ремонта, старый фонд. Есть: парковка. Цена 45 000 €.",
+  "originalLang": "sr",
+  "original": "Potrebna adaptacija kuće , Lokacija do centra Lazarevca 1km i nalazi se na asvaltnom putu Milovana Lazarevic 126, Kuca upisana, vlasnik 1/1.",
+  "photos": 3,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-194764346",
+  "slug": "kp-194764346-prodaja-kuca-rakovica-selo",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 90 м², Раковица село, Вождовац",
+  "kind": "дом",
+  "price": 99000,
+  "area": 90,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Раковица село",
+  "street": "Йована Миловановича",
+  "geo": {
+   "lat": 44.72198,
+   "lng": 20.49659
+  },
+  "facts": [
+   [
+    "Площадь",
+    "90 м²"
+   ],
+   [
+    "Отопление",
+    "электрическое, твёрдое топливо, аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "подвал",
+   "кондиционер",
+   "парковка"
+  ],
+  "text": "Продаётся дом площадью 90 м² в районе Раковица село (Вождовац, Белград). С мебелью, отопление электрическое, твёрдое топливо, аккумуляционные печи, старый фонд. Есть: можно въехать сразу, подвал, кондиционер, парковка. Цена 99 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju kuća od 90m2 na predivnom placu od 12 ari, sa pogledom na Avalu.  \n\nKuća je u izvornom stanju, odmah useljiva i sastoji se od: hodnika, kuhinje, dnevne sobe, dve spavaće sobe i kupatila. Takođe, kuća ima 2 podruma.  \n\nStruja, voda, kanalizacija, asfaltiran put.  \n\nNa placu se izuzev kuće nalaze i bunar i šupa.  \n\nU blizini autobuskog stajališta sa velikim brojem linija: 401, 402, 403, 405, 406, 407, 408, 450, 491, 503 itd.  \n\nPredato za legalizaciju.",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196695342",
+  "slug": "kp-196695342-prodaja-kuca-obrenovac-mesto",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 70 м², Обреновац (mesto), Обреновац",
+  "kind": "дом",
+  "price": 40000,
+  "area": 70,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Обреновац",
+  "districtSlug": "obrenovac",
+  "location": "Обреновац (mesto)",
+  "street": "",
+  "geo": {
+   "lat": 44.66458,
+   "lng": 20.23885
+  },
+  "facts": [
+   [
+    "Площадь",
+    "70 м²"
+   ],
+   [
+    "Отопление",
+    "электрическое"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "парковка"
+  ],
+  "text": "Продаётся дом площадью 70 м² в районе Обреновац (mesto) (Обреновац, Белград). Без мебели, отопление электрическое, после ремонта, старый фонд. Есть: можно въехать сразу, парковка. Цена 40 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju kuća/ vikendica u najlepšem delu Obrenovca, izletištu Zabran.\nPovršine 70 m2, na placu od 5 ari.",
+  "photos": 7,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196695925",
+  "slug": "kp-196695925-prodaja-kuca-borca",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 150 м², Борча, Палилула",
+  "kind": "дом",
+  "price": 215000,
+  "area": 150,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "Борча",
+  "street": "Равничарска",
+  "geo": {
+   "lat": 44.87214,
+   "lng": 20.47665
+  },
+  "facts": [
+   [
+    "Площадь",
+    "150 м²"
+   ],
+   [
+    "Отопление",
+    "электрическое"
+   ],
+   [
+    "Мебель",
+    "частично меблирован"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "парковка"
+  ],
+  "text": "Продаётся дом площадью 150 м² в районе Борча (Палилула, Белград). Частично меблирован, отопление электрическое, после ремонта, дом современной постройки. Есть: можно въехать сразу, интернет, терраса, кабельное ТВ, кондиционер, видеонаблюдение, парковка. Цена 215 000 €.",
+  "originalLang": "sr",
+  "original": "Prodaje se spratna porodična kuća u Borča površine 150 kvadrata na placu površine 4,75 ara. ( + 2 terase) Donji deo je kompletno sređen i odmah useljiv, sprat se nalazi u sivoj fazi. Kuća se može koristiti kao dve zasebne jedinice. Na spratu je sprovedena struja i voda. U dvorištu koje je ogradjeno se nalaze dva parking mesta i voćnjak.    Uz kuću se nalazi i pomoćni objekat(kotlarnica)",
+  "photos": 15,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
+  "id": "kp-196696627",
+  "slug": "kp-196696627-prodaja-kuca-bolec",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 240 м², Болеч, Гроцка",
+  "kind": "дом",
+  "price": 280000,
+  "area": 240,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Гроцка",
+  "districtSlug": "grocka",
+  "location": "Болеч",
+  "street": "Войводе Степе Степановича 22",
+  "geo": {
+   "lat": 44.7278,
+   "lng": 20.59498
+  },
+  "facts": [
+   [
+    "Площадь",
+    "240 м²"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "подвал",
+   "кабельное ТВ",
+   "кондиционер",
+   "доступ для колясок",
+   "парковка"
+  ],
+  "text": "Продаётся дом площадью 240 м² в районе Болеч (Гроцка, Белград). После ремонта, дом современной постройки. Есть: можно въехать сразу, интернет, терраса, подвал, кабельное ТВ, кондиционер, доступ для колясок, парковка. Цена 280 000 €.",
+  "originalLang": "sr",
+  "original": "Kuća površine 240 m2, u mirnom delu Boleca pogodna za poslovni ili stambeni prostor. U dvoristu otvoreni parking za 2-3 auta. Kuca je na 10 minuta voznje od Ava parka i autoputa. Na 20 minuta voznje od centra grada.\nZa vise informacija pozovite : )",
+  "photos": 13,
+  "added": "2026-10-28",
+  "updated": "2026-10-28"
+ },
+ {
   "id": "kp-196700770",
   "slug": "kp-196700770-prodaja-kuca-kosmaj",
   "deal": "sale",
