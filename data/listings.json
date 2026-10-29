@@ -2656,7 +2656,7 @@
   "original": "Kuća je odmah useljiva i prodajese sa kompletnim nameštajem u cenu je već uračunata njiva od 9 ari i šuma od 10 ari. autobuska stanica na 50m od kuće, škola i dečije obdanište 1km",
   "photos": 15,
   "added": "2026-10-28",
-  "updated": "2026-10-28"
+  "updated": "2026-10-29"
  },
  {
   "id": "kp-196283677",
@@ -4223,11 +4223,11 @@
  },
  {
   "id": "kp-196408028",
-  "slug": "kp-196408028-prodaja-kuca-popovic",
+  "slug": "kp-196408028-prodaja-kuca-openstreetmap-contributors",
   "deal": "sale",
   "type": "house",
   "cat": "house",
-  "title": "Продажа: дом, 56 м², Попович, Сопот",
+  "title": "Продажа: дом, 56 м², © ОпенСтреетМап цонтрибуторс, Сопот",
   "kind": "дом",
   "price": 74000,
   "area": 56,
@@ -4235,7 +4235,7 @@
   "city": "Белград",
   "district": "Сопот",
   "districtSlug": "sopot",
-  "location": "Попович",
+  "location": "© ОпенСтреетМап цонтрибуторс",
   "street": "",
   "geo": {
    "lat": 44.56873,
@@ -4269,12 +4269,12 @@
    "кабельное ТВ",
    "парковка"
   ],
-  "text": "Продаётся дом площадью 56 м² в районе Попович (Сопот, Белград). Частично меблирован, отопление электрическое, газовое, в исходном состоянии, старый фонд. Есть: можно въехать сразу, терраса, кабельное ТВ, парковка. Цена 74 000 €.",
+  "text": "Продаётся дом площадью 56 м² в районе © ОпенСтреетМап цонтрибуторс (Сопот, Белград). Частично меблирован, отопление электрическое, газовое, в исходном состоянии, старый фонд. Есть: можно въехать сразу, терраса, кабельное ТВ, парковка. Цена 74 000 €.",
   "originalLang": "sr",
   "original": "Šarmantna, svetla, uknjižena kuća od 56m2 u osnovi, sa potkrovljem 112m2, siva faza, u selu Popović, opstina Sopot, 300m od centra sela, autobuske stanice za Beograd, na 10.5 ari placa.\n\nVoćnjak pod sljivama, jabukama, kruskom, smokvom, višnjom. Od pomoćnih objekata poseduje šupu i sušaru, bunar sa tehničkom vodom. Grejanje na gas iz cisterne, koja se dopunjuje po potrošnji, TA peć. Mogucnost priključenja na gradski gasovod. Kuća je priključena na gradski vodovod, struja je trofazna. Komšiluk izuzetno druželjubiv i kulturan. Od prostorija u prizemlju: hodnik, malo kupatilo sa prirodnom ventilacijom, spavaća soba, dnevni boravak, kuhinja sa trpezarijom, ostava i unutrašnje stepenice. Za svaku preporuku i beg sa nezdravog betona, a cena je upravo u niveli jedne skučene garsonjere u velegradu. Priroda leči. Od Beograda udaljeno 35km.\n\nZa agencije, moguca saradnja, provizija samo od kupca.\n\nSrecna kupovina! Dušan i Tanja\n\nBeautiful 2-Bedroom House with 10.5-Acre Orchard Near Belgrade (Sopot, Popović) – €75,000\n\nProperty Overview (Osnovni detalji)\n\n• Price: €75,000 (Fixed price)\n\n• Property Type: Detached House (Entire property)\n\n• Size: 112 m² total (56 m² base layout + high potential attic/loft space)\n\n• Lot / Yard Size: 10.50 ares (1,050 m²)\n\n• Rooms: 2.0 (1 Bedroom + 1 Living Room + Kitchen/Dining)\n\n• Legal Status: 1/1 Registered (Uknjižen) – Clean paperwork, ready for immediate transfer.\n\n• Availability: Move-in ready immediately.\n\n• Listed by: Owner (Dušan &Tanja)\n\nLocation &Logistics (Lokacija i povezanost)\n\n• Address: Kosovska Street, Popović village, Sopot Municipality, Belgrade District.\n\n• Distance to Belgrade Center: Only 35 km (approx. 35-40 minutes drive).\n\n• Local Convenience: Located just 300 meters from the village center and the direct bus station to Belgrade.\n\nDetailed Description : Escape the crowded city and invest in your own peaceful oasis! This charming, sun-drenched 112 m² house is located in the quiet and picturesque village of Popović, nestled in the green municipality of Sopot, just a short drive from Belgrade.\n\nThe property sits on a spacious 10.5-acre beautiful yard, featuring a mature organic orchard with plums, apples, pears, figs, and cherries. It is perfect for families, retirees, or anyone looking for a serene getaway or a healthy lifestyle transition.\n\nLayout &Interior:\n\n• Ground Floor (Fully Functional): Entrance hallway, cozy bedroom, bright living room, kitchen with a dining area, pantry/storage room, bathroom with natural ventilation, and internal stairs.\n\n• Upper Floor (Attic/Loft): 56 m² in the grey phase (unfinished interior), offering a blank canvas to design additional bedrooms, a home office, or an open-plan lounge.\n\nUtilities &Infrastructure:\n\n• Water: Connected to the Belgrade city water supply system. The yard also features a private well with technical water for gardening/orchard maintenance.\n\n• Electricity: 3-phase high-voltage electricity installed.",
   "photos": 15,
   "added": "2026-10-28",
-  "updated": "2026-10-28"
+  "updated": "2026-10-29"
  },
  {
   "id": "kp-196472736",
@@ -7982,11 +7982,11 @@
  },
  {
   "id": "kp-196722637",
-  "slug": "kp-196722637-prodaja-kuca-ugrinovci",
+  "slug": "kp-196722637-prodaja-kuca-openstreetmap-contributors",
   "deal": "sale",
   "type": "house",
   "cat": "house",
-  "title": "Продажа: дом, 220 м², Угриновци, Земун",
+  "title": "Продажа: дом, 220 м², © ОпенСтреетМап цонтрибуторс, Земун",
   "kind": "дом",
   "price": 165000,
   "area": 220,
@@ -7994,7 +7994,7 @@
   "city": "Белград",
   "district": "Земун",
   "districtSlug": "zemun",
-  "location": "Угриновци",
+  "location": "© ОпенСтреетМап цонтрибуторс",
   "street": "Владислава Стойковича 4",
   "geo": {
    "lat": 44.87665,
@@ -8026,12 +8026,12 @@
    "кондиционер",
    "парковка"
   ],
-  "text": "Продаётся дом площадью 220 м² в районе Угриновци (Земун, Белград). Частично меблирован, отопление кондиционер, твёрдое топливо, строится, дом современной постройки. Есть: кондиционер, парковка. Цена 165 000 €.",
+  "text": "Продаётся дом площадью 220 м² в районе © ОпенСтреетМап цонтрибуторс (Земун, Белград). Частично меблирован, отопление кондиционер, твёрдое топливо, строится, дом современной постройки. Есть: кондиционер, парковка. Цена 165 000 €.",
   "originalLang": "sr",
   "original": "Na prodaju je kuća u samom centru Ugrinovaca, na izuzetnoj lokaciji, u neposrednoj blizini škole, doma zdravlja i svih glavnih sadržaja u mestu.  \n\nPovršina placa: 7,7 ari\nPovršina kuće: oko 220 m²\nPriključci: voda, struja i kanalizacija\n\nStanje i raspored prostorija:  \n\nPrizemlje (delimično sređeno): Polovina prizemlja je potpuno sređena i useljiva kao funkcionalan dvosoban stan. Sastoji se od ulaznog hodnika, prostrane dnevne sobe, jedne spavaće sobe, kupatila i male ostave (špajza).  \nIzvedeni radovi: Na ovom delu kuće postavljena je kvalitetna stolarija i urađena izolacija kamenom vunom. Ozidan je dimnjak, a međuspratne betonske ploče su urađene u punom betonu sa dodatnih 5 cm sloja stiropor izolacije.  \n\nVeliki investicioni potencijal:  \n\nKuća je u osnovi zamišljena kao dvojna, ali pruža izvanredne mogućnosti adaptacije, po želji se lako može preurediti u četiri odvojena stana, pri čemu svaki može imati svoj zaseban ulaz i potpunu privatnost. Unutrašnjost je projektovana u open space stilu, a urađena su i dva betonska stepeništa. To vam ostavlja potpunu slobodu da prostor organizujete prema sopstvenim potrebama.  \n\nZa sve dodatne informacije, razgledanje i dogovor, stojimo vam na raspolaganju.",
   "photos": 9,
   "added": "2026-10-28",
-  "updated": "2026-10-28"
+  "updated": "2026-10-29"
  },
  {
   "id": "kp-196727255",
