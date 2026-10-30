@@ -1,5 +1,1258 @@
 [
  {
+  "id": "kp-196769337",
+  "slug": "kp-196769337-prodaja-stan-kamalj",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: трёхкомнатная квартира, 89 м², Камаль, Камаль",
+  "kind": "трёхкомнатная квартира",
+  "price": 1800,
+  "area": 89,
+  "rooms": 3,
+  "city": "Златибор",
+  "district": "Камаль",
+  "districtSlug": "kamalj",
+  "location": "Камаль",
+  "street": "",
+  "geo": {
+   "lat": 43.72085,
+   "lng": 19.69897
+  },
+  "facts": [
+   [
+    "Площадь",
+    "89 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "2-й из 4"
+   ],
+   [
+    "Отопление",
+    "центральное, электрическое, твёрдое топливо"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "французский балкон",
+   "кабельное ТВ",
+   "двухуровневая",
+   "кондиционер",
+   "парковка"
+  ],
+  "text": "Продаётся трёхкомнатная квартира площадью 89 м² в районе Камаль. 2-й этаж из 4, с мебелью, отопление центральное, электрическое, твёрдое топливо, в исходном состоянии, дом современной постройки. Есть: можно въехать сразу, интернет, терраса, французский балкон, кабельное ТВ, двухуровневая, кондиционер, парковка. Цена 1 800 €.",
+  "originalLang": "sr",
+  "original": "Unknjizen 1/1\n\nParking\n\nLyx app 89 km",
+  "photos": 10,
+  "added": "2026-10-30",
+  "updated": "2026-10-30"
+ },
+ {
+  "id": "kp-195880166",
+  "slug": "kp-195880166-prodaja-stan-zova",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 1,5-комнатная квартира, 39 м², Зова, Зова",
+  "kind": "1,5-комнатная квартира",
+  "price": 58000,
+  "area": 39,
+  "rooms": 1.5,
+  "city": "Златибор",
+  "district": "Зова",
+  "districtSlug": "zova",
+  "location": "Зова",
+  "street": "",
+  "geo": {
+   "lat": 43.73566,
+   "lng": 19.68789
+  },
+  "facts": [
+   [
+    "Площадь",
+    "39 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "приземный из 3"
+   ],
+   [
+    "Отопление",
+    "норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "кабельное ТВ",
+   "видеонаблюдение",
+   "парковка"
+  ],
+  "text": "Продаётся 1,5-комнатная квартира площадью 39 м² в районе Зова. Приземный этаж из 3, с мебелью, отопление норвежские радиаторы, дом современной постройки. Есть: можно въехать сразу, интернет, терраса, кабельное ТВ, видеонаблюдение, парковка. Цена 58 000 €.",
+  "originalLang": "sr",
+  "original": "Prodajem stan u mirnom naselju Zova.\nVlasnik 1/1, sve je uknjizeno i regularno.\n\nMogucnost prodaje namestenog i praznog. Namesten 60 000eur nenamesten 58 000 eur.\nZAMENA kamion sa kranom, u zameni druga cena.\n\nU stanu nema vlage.\n\nZa sve ostale informacije pozvati.",
+  "photos": 4,
+  "added": "2026-10-30",
+  "updated": "2026-10-30"
+ },
+ {
+  "id": "kp-196689033",
+  "slug": "kp-196689033-prodaja-stan-cajetinska-cesma",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 1,5-комнатная квартира, 36.2 м², Чаетинска чесма, Чаетинска чесма",
+  "kind": "1,5-комнатная квартира",
+  "price": 68270,
+  "area": 36.2,
+  "rooms": 1.5,
+  "city": "Копаоник",
+  "district": "Чаетинска чесма",
+  "districtSlug": "cajetinska-cesma",
+  "location": "Чаетинска чесма",
+  "street": "",
+  "geo": {
+   "lat": 43.27437,
+   "lng": 20.78172
+  },
+  "facts": [
+   [
+    "Площадь",
+    "36.2 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "2-й из 3"
+   ],
+   [
+    "Отопление",
+    "электрическое, норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "видеонаблюдение",
+   "парковка"
+  ],
+  "text": "Продаётся 1,5-комнатная квартира площадью 36.2 м² в районе Чаетинска чесма. 2-й этаж из 3, с мебелью, отопление электрическое, норвежские радиаторы, дом современной постройки. Есть: можно въехать сразу, видеонаблюдение, парковка. Цена 68 270 €.",
+  "originalLang": "sr",
+  "original": "Apartman u Gornjem delu Vikend Naselja, iza hotela Mujen. Objekat je udaljen 1500m od parkinga kod ski staze Sunčeva Dolina. Objekat je u gornjem delu Vikend Naselja na 1480 MNV\n\nZgrada ima 16apartmana, nedavno završena, u mirnom delu odmaknuta od glavne ulice 50m. Korišćeni su najbolji materijali za gradnju:  \n\n- stolarija Sinego REHAU 7komorna  (spolja orah, unutra belo),  \n\n- ATLAS CONCORD keramika,  \n\n- IDEAL STANDARD (baterije, sanitarije, ugradni vodokotlići),  \n\n- REHAU podno grejanje u kupatilima,   \n\n- podovi od višeslojnog Tarket boja oraha,  \n\n- Bekament fasada 15cm,  \n\n- krov CONTINENTAL WIENERBERGER,  \n\n- BRICK HOUS belgijska fasadna cigla, .. .\n\nObjekat je osvetljen esskluzivnom fasadnom rasvetom, i sa svih strana obezbedjen video nadzorom.\n\nObjekat je odlično hidro izolovan, termoizolacija vrhunska, zvučnost, lep položaj, odma useljiv, UKNJIŽEN.",
+  "photos": 10,
+  "added": "2026-10-30",
+  "updated": "2026-10-30"
+ },
+ {
+  "id": "kp-189387850",
+  "slug": "kp-189387850-prodaja-stan-divcibare",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: студия, 24.5 м², Дивчибаре, Дивчибаре",
+  "kind": "студия",
+  "price": 58800,
+  "area": 24.5,
+  "rooms": 0.5,
+  "city": "Валево",
+  "district": "Дивчибаре",
+  "districtSlug": "divcibare",
+  "location": "Дивчибаре",
+  "street": "",
+  "geo": {
+   "lat": 44.10468,
+   "lng": 19.99163
+  },
+  "facts": [
+   [
+    "Площадь",
+    "24.5 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "2-й"
+   ],
+   [
+    "Отопление",
+    "тёплый пол"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "парковка"
+  ],
+  "text": "Продаётся студия площадью 24.5 м² в районе Дивчибаре. 2-й этаж, с мебелью, отопление тёплый пол, дом современной постройки. Есть: можно въехать сразу, парковка. Цена 58 800 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju funkcionalan apartman površine 24,5 m² na Divčibarama, u neposrednoj blizini ski staze.\n• II sprat\n• Podno grejanje\n• Uknjižen – čista dokumentacija\n• Parking mesto\n• Odlična lokacija\n• Idealan za odmor ili izdavanje\n• Velika potražnja za turističkim najmom\nOdlična investicija na sve popularnijoj planinskoj destinaciji.\nZa više informacija – pozvati.",
+  "photos": 7,
+  "added": "2026-10-30",
+  "updated": "2026-10-30"
+ },
+ {
+  "id": "kp-196540440",
+  "slug": "kp-196540440-prodaja-stan-miljakovac",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 3,5-комнатная квартира, 71 м², Миляковац, Раковица",
+  "kind": "3,5-комнатная квартира",
+  "price": 152000,
+  "area": 71,
+  "rooms": 3.5,
+  "city": "Белград",
+  "district": "Раковица",
+  "districtSlug": "rakovica",
+  "location": "Миляковац",
+  "street": "Миляковачко Брдо 9A",
+  "geo": {
+   "lat": 44.73631,
+   "lng": 20.45439
+  },
+  "facts": [
+   [
+    "Площадь",
+    "71 м²"
+   ],
+   [
+    "Комнат",
+    "3,5"
+   ],
+   [
+    "Этаж",
+    "приземный из 1"
+   ],
+   [
+    "Отопление",
+    "кондиционер"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка"
+  ],
+  "text": "Продаётся 3,5-комнатная квартира площадью 71 м² в районе Миляковац (Раковица, Белград). Приземный этаж из 1, с мебелью, отопление кондиционер, в исходном состоянии, дом современной постройки. Есть: можно въехать сразу, интернет, терраса, кабельное ТВ, кондиционер, парковка. Цена 152 000 €.",
+  "originalLang": "sr",
+  "original": "Parking i deo dvorista ulaze u cenu",
+  "photos": 10,
+  "added": "2026-10-30",
+  "updated": "2026-10-30"
+ },
+ {
+  "id": "kp-196778253",
+  "slug": "kp-196778253-prodaja-stan-krnjaca",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: студия, 30 м², Крняча, Палилула",
+  "kind": "студия",
+  "price": 45000,
+  "area": 30,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "Крняча",
+  "street": "Томашевачка 6",
+  "geo": {
+   "lat": 44.85716,
+   "lng": 20.48003
+  },
+  "facts": [
+   [
+    "Площадь",
+    "30 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "2-й из 2"
+   ],
+   [
+    "Отопление",
+    "кондиционер"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кондиционер",
+   "видеонаблюдение",
+   "парковка"
+  ],
+  "text": "Продаётся студия площадью 30 м² в районе Крняча (Палилула, Белград). 2-й этаж из 2, с мебелью, отопление кондиционер, в исходном состоянии, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, терраса, кондиционер, видеонаблюдение, парковка. Цена 45 000 €.",
+  "originalLang": "sr",
+  "original": "Garsonjera je na dobroj lokaciji i u super stanju , pet stanice od pancevackog mosta a nedaleko je i osnovna skola , dom zdravlja , maxi , auto mehanicrka radnja , staklar , prodavnica  ,    benziska pumpa i igraonaca FAN FAN je na dva minuta  .  \n\nDo samog autobuskog  stajalista  , Zrenjaninski put  jedaj min .  \n\nZgrada ima zajednicko dvoriste kao i parking i sifru za vrata od zdrade .  \n\nGarsonjera ima ulazna vrata za 10 cilindra ( protiv provalne ) kao i video nadzor koji prati i detektuje osobe .  \n\nMiran kraj za ucenike i starija lica .  \n\nOd autobusa staju 101 , 104 , 105 , 112 , 95 , 96 . . .  \n\nPredata je za svej na svome i ima sve papire .  \n\nSamo ozbiljni kupci. .",
+  "photos": 10,
+  "added": "2026-10-30",
+  "updated": "2026-10-30"
+ },
+ {
+  "id": "kp-196778894",
+  "slug": "kp-196778894-prodaja-stan-visnjicka-banja",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: трёхкомнатная квартира, 67 м², Вишничка Баня, Палилула",
+  "kind": "трёхкомнатная квартира",
+  "price": 236840,
+  "area": 67,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "Вишничка Баня",
+  "street": "Сланачки Пут 76Lj",
+  "geo": {
+   "lat": 44.8128,
+   "lng": 20.53659
+  },
+  "facts": [
+   [
+    "Площадь",
+    "67 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "5-й из 5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "лифт",
+   "парковка"
+  ],
+  "text": "Продаётся трёхкомнатная квартира площадью 67 м² в районе Вишничка Баня (Палилула, Белград). 5-й этаж из 5, с мебелью, отопление центральное, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, кондиционер, видеонаблюдение, лифт, парковка. Цена 236 840 €.",
+  "originalLang": "sr",
+  "original": "Prodajemo kompletno namešten trosoban stan od 67 m² u novogradnji u Višnjičkoj Banji. Stan je na petom, poslednjem spratu zgrade sa liftom.\n\nOno što ovaj stan izdvaja je pogled sa terase direktno na Dunav. Nova gradnja je planirana u donjem delu naselja i ništa od toga ne može da zakloni pogled koji imate danas.\n\nRaspored: dnevna soba spojena sa trpezarijom i kuhinjom, dve spavaće sobe, kupatilo, hodnik sa ugradnim plakarima, ostava i terasa.\n\nStan je ove godine imao blagu adaptaciju:\n\n- frontovi u kuhinji su zamenjeni u februaru\n\n- trosed, fotelja i tabure su kupljeni u martu\n\n- tepisi su kupljeni početkom marta\n\n- kupljene su i slike za zid iznad troseda u dnevnoj sobi, nikada nisu postavljene i idu uz stan\n\nOprema stana:\n\n- smart home rasveta sa upravljanjem preko aplikacije\n\n- elektro roletne u spavaćim sobama\n\n- aluminijumska stolarija\n\n- klima uređaj\n\nGrejanje je centralno i plaća se po utrošku. Stan je izuzetno topao. Prethodne četiri godine smo grejali ceo stan sa samo dva radijatora, jednim u dnevnoj i jednim u dečijoj sobi, pa su i računi za grejanje niski.\n\nZgrada i naselje:\n\n- besplatan parking u naselju, mesta ima dovoljno\n\n- mogućnost iznajmljivanja garažnog mesta po korektnoj ceni\n\n- video nadzor u zgradi i kontrola pristupa na ulaznim vratima\n\n- zgrada i naselje se uredno održavaju\n\nKomšiluk: kupovinom ovog stana postajete deo zajednice kakvu je u Beogradu teško pronaći. Naselje je puno mladih, obrazovanih i društveno odgovornih ljudi, stambena zajednica je organizovana i odgovorna, a komšije se poznaju i druže. Ovde se lako sklapaju nova prijateljstva, a deca odrastaju zajedno.\n\nUknjižavanje: naselje je građeno uz sve potrebne dozvole, u skladu sa Zakonom o planiranju i izgradnji, sve se može proveriti preko CEOP-a (Centralna evidencija objedinjenih procedura). Poslednji korak je upotrebna dozvola, koja se očekuje nakon proširenja kanalizacione mreže na Slanačkom putu. Izvođač je uveden u posao i projekat je u toku realizacije. Provera sa bankom je urađena i kupovina stana na kredit je moguća.\n\nLokacija: u okviru kompleksa se nalaze ugostiteljski objekti, marketi, dečija igraonica i apoteka. U neposrednoj blizini su vrtići, osnovna škola, pošta i pijaca. Naselje uskoro dobija i tržni centar u okviru Sunnyville Plaze.",
+  "photos": 10,
+  "added": "2026-10-30",
+  "updated": "2026-10-30"
+ },
+ {
+  "id": "kp-195908955",
+  "slug": "kp-195908955-prodaja-stan-centar",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: студия, 35 м², Центр, Центр",
+  "kind": "студия",
+  "price": 49900,
+  "area": 35,
+  "rooms": 0.5,
+  "city": "Бела Црква",
+  "district": "Центр",
+  "districtSlug": "centar",
+  "location": "Центр",
+  "street": "",
+  "geo": {
+   "lat": 44.89929,
+   "lng": 21.42274
+  },
+  "facts": [
+   [
+    "Площадь",
+    "35 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "низкий приземный из 1"
+   ],
+   [
+    "Отопление",
+    "электрическое, тёплый пол"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка"
+  ],
+  "text": "Продаётся студия площадью 35 м² в районе Центр. Низкий приземный этаж из 1, с мебелью, отопление электрическое, тёплый пол, дом современной постройки. Есть: можно въехать сразу, интернет, кабельное ТВ, кондиционер, парковка. Цена 49 900 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju Apartman u Rafaello kompleksu sa bazenom, 30 metara od samog jezera.\nApartman je potpuno namešten i spreman za korištenje i izdavanje.\nSve je novo kupljeno i uređeno pre par godina i nikada nije bilo za izdavanje nego samo za licne potrebe.\nU apartmanu mogu boraviti 2 odrasle i dve mlađe osobe.\nMi smo prerasli i kupili kuću na Neri i zbog toga prodajemo apartman.\nSav namestaj osim TV-a i Sonya je ukljucen u prodaju.\nJa sam Vlasnik 1/1 i živim u Temerinu, ali imaju kljucevi kod prijatelja pa može da se pokaže uvek.\nZa više detalja",
+  "photos": 10,
+  "added": "2026-10-30",
+  "updated": "2026-10-30"
+ },
+ {
+  "id": "kp-196780108",
+  "slug": "kp-196780108-prodaja-stan-jelena-anzujska",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: трёхкомнатная квартира, 75 м², Елена Анжуйска, Аутобуска станица",
+  "kind": "трёхкомнатная квартира",
+  "price": 119990,
+  "area": 75,
+  "rooms": 3,
+  "city": "Златибор",
+  "district": "Аутобуска станица",
+  "districtSlug": "autobuska-stanica",
+  "location": "Елена Анжуйска",
+  "street": "",
+  "geo": {
+   "lat": 43.72563,
+   "lng": 19.69668
+  },
+  "facts": [
+   [
+    "Площадь",
+    "75 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "приземный"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "двухуровневая",
+   "парковка",
+   "гараж"
+  ],
+  "text": "Продаётся трёхкомнатная квартира площадью 75 м² в районе Елена Анжуйска (Аутобуска станица, Златибор). Приземный этаж, с мебелью, дом современной постройки. Есть: можно въехать сразу, терраса, двухуровневая, парковка, гараж. Цена 119 990 €.",
+  "originalLang": "sr",
+  "original": "Prodajemo ušuškan i kompletno opremljen dupleks površine 75m², na prelepoj lokaciji na Zlatiboru, u mirnom ekološkom naselju Jelena Anžujska.\n\nOva nekretnina je prava retkost na planini jer se nalazi u malom objektu i ima potpuno zaseban ulaz. Izbegnite gužvu velikih stambenih zgrada i uživajte u privatnosti, komforu i direktnom kontaktu sa prirodom.\n\nGlavne karakteristike stana:\n\nStruktura (Donji nivo): Prostrana i svetla dnevna soba sa izlazom na veliku terasu idealnu za uživanje, praktična i potpuno opremljena kuhinja, i toalet.\nStruktura (Gornji nivo): Dve udobne spavaće sobe (obe imaju sopstveni izlaz na terasu sa prelepim pogledom) i veliko, funkcionalno kupatilo.\nKompletno namešten: Prodaje se sa svim stvarima. Sve je namešteno sa ukusom, odlično očuvano i spremno za useljenje velike porodice ili premium izdavanje \"stan na dan\" od prvog dana.\nGaraža: Postoji mogućnost kupovine  garaže u sklopu kompleksa, što rešava svako pitanje parkinga i zimi i leti.\n\nLokacija:\nNalazi se u zoni bez buke i saobraćajnog kolapsa, a do jezera i Kraljevog trga vas deli svega 15 minuta lagane šetnje uređenom pešačkom stazom.\n\nStan je uknjižen 1/1, bez tereta.",
+  "photos": 10,
+  "added": "2026-10-30",
+  "updated": "2026-10-30"
+ },
+ {
+  "id": "kp-195903916",
+  "slug": "kp-195903916-prodaja-stan-kalenic-pijaca",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: двухкомнатная квартира, 66 м², Каленич пияца, Врачар",
+  "kind": "двухкомнатная квартира",
+  "price": 298000,
+  "area": 66,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "vracar",
+  "location": "Каленич пияца",
+  "street": "",
+  "geo": {
+   "lat": 44.80016,
+   "lng": 20.47569
+  },
+  "facts": [
+   [
+    "Площадь",
+    "66 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кондиционер",
+   "видеонаблюдение",
+   "лифт",
+   "гараж"
+  ],
+  "text": "Продаётся двухкомнатная квартира площадью 66 м² в районе Каленич пияца (Врачар, Белград). С мебелью, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, терраса, кондиционер, видеонаблюдение, лифт, гараж. Цена 298 000 €.",
+  "originalLang": "sr",
+  "original": "Vračar, Kod Čuburskog parka i Kalenić pijace, odličan moderan  stan , 66 kvm, u novijoj zgradi sa liftom, u mirnoj , lepoj ulici.     \n\n Struktura : dnevna soba sa trpezarijom i kuhinjom,   kupatilo, spavaća soba, terase.   \n\n Opremljena nova kuhinja. Klima, interfon, centralno grejanje po potrošnji. Garažno mesto 14 kvm. , cena 30000 eura. Stan se može kupiti bez garaže, cena 298000 eura.  \n\n Sve uknjiženo.   Useljiv odmah.  \n\nAgencijska provizija 2 %\n\nVračar, modern apartment 66 sqm, garage 14 sqm\n\nVračar, near Čubura Park and Kalenić Market: excellent, modern apartment ,66 sqm, in a newer building with an elevator, in a nice, quiet street.  \n\nLayout: living room with dining area and kitchen, bathroom, bedroom, and terraces.  \n\nEquipped new kitchen. air conditioning, intercom, central heating billed based on consumption.  \n\n14 sqm garage space, price 30000 eura.  \n\nRegistered in the cadastre.  \n\nReady to move in.  \n\nAgency fee 2 %\n\nBroj u Registru posrednika:  025 \nProverite podatke o posredniku",
+  "photos": 10,
+  "added": "2026-10-30",
+  "updated": "2026-10-30"
+ },
+ {
+  "id": "kp-195329306",
+  "slug": "kp-195329306-prodaja-stan-dedinje",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: четырёхкомнатная квартира, 145 м², Дедине, Савски-Венац",
+  "kind": "четырёхкомнатная квартира",
+  "price": 510000,
+  "area": 145,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "savski-venac",
+  "location": "Дедине",
+  "street": "",
+  "geo": {
+   "lat": 44.77842,
+   "lng": 20.45592
+  },
+  "facts": [
+   [
+    "Площадь",
+    "145 м²"
+   ],
+   [
+    "Комнат",
+    "4"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "домофон",
+   "терраса",
+   "подвал",
+   "кондиционер",
+   "лифт",
+   "гараж"
+  ],
+  "text": "Продаётся четырёхкомнатная квартира площадью 145 м² в районе Дедине (Савски-Венац, Белград). С мебелью, отопление газовое. Есть: интернет, домофон, терраса, подвал, кондиционер, лифт, гараж. Цена 510 000 €.",
+  "originalLang": "sr",
+  "original": "Dedinje, predivan, luksuzan, moderan stan, 145 kvm. Sastoji se od dnevnog boravka u sklopu koga je I kućni office prostor , tri spavaće sobe, dva kupatila, vešernice, moderne kuhinje I prelepe terase sa pogledom . Ima ugradjenu kuhinju I plakare, rasvetu, kamin, kućni bioskop. Grejanje je na gas. Centralna klima &pojedinačni klima uređaji. U suterenu zgrade je garažno mesto 12 kvm cena 30000 eura. Stan i garaža su uknjiženi, bez tereta i zabeležbi. U suterenu je i pripadajućua ostava 8 kvm. Stan se nalazi u maloj zgradi novije gradnje, sa liftom, u \n\nmirnoj ulici. U blizini mnogih ambasada, internacionalnih škola, prodavnica, parkova I prevoza.  \n\nUseljiv je, odličnog kvaliteta I bez ulaganja.  \n\nAgencijska provizija 2 %\n\nDedinje, beautiful, luxurious, modern apartment, 145 sq. m. It consists of a living room, including a home office, three bedrooms, two bathrooms, a laundry room, a modern, fully equipped kitchen, and a beautiful terrace, with a view . It has a built-in kitchen and closets, lights, fireplace, home cinema. Heating is on gas. Central air conditioning &individual air conditioners. In the basement of the building there is a garage space of 12 square meters, the price is 30,000 euros. The apartment and the garage are registered, without encumbrances and notes. In the basement there is also a storage room of 8 sqm.  \n\nThe apartment is located in a small, newly built building, with an elevator, in a quiet street, near many embassies, international schools, shops, parks and transportation.  \n\nIt is ready to move in, excellent quality .  \n\nAgency fee 2%\n\nBroj u Registru posrednika:  025 \nProverite podatke o posredniku",
+  "photos": 10,
+  "added": "2026-10-30",
+  "updated": "2026-10-30"
+ },
+ {
+  "id": "kp-196662923",
+  "slug": "kp-196662923-prodaja-stan-novo-naselje",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: трёхкомнатная квартира, 88 м², Ново Населе, Нови-Сад",
+  "kind": "трёхкомнатная квартира",
+  "price": 220000,
+  "area": 88,
+  "rooms": 3,
+  "city": "Нови-Сад",
+  "district": "Нови-Сад",
+  "districtSlug": "novi-sad",
+  "location": "Ново Населе",
+  "street": "",
+  "geo": {
+   "lat": 45.25381,
+   "lng": 19.80079
+  },
+  "facts": [
+   [
+    "Площадь",
+    "88 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "4-й из 4"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "лоджия",
+   "видеонаблюдение",
+   "лифт"
+  ],
+  "text": "Продаётся трёхкомнатная квартира площадью 88 м² в районе Ново Населе. 4-й этаж из 4, без мебели, отопление газовое, в исходном состоянии, дом современной постройки. Есть: интернет, домофон, терраса, кабельное ТВ, кондиционер, лоджия, видеонаблюдение, лифт. Цена 220 000 €.",
+  "originalLang": "sr",
+  "original": "Odlican trosoban stan  u novijoj zgradi- moguc cetvorosoban; funkcionalan, iz hodnika u sve prostorije; ima 3 terase, lift u zgradi; nalazi se u naselju Jugovicevo, blok novijih zgrada; oko zgrade je veliki parking, koji se ne placa; ublizini je osnovna skola, trzni centri, gradski saobracaj; ! ! !   Pravi porodicni stan za vecu porodicu  ! ! !\n\nBroj u Registru posrednika:  727 \nProverite podatke o posredniku",
+  "photos": 10,
+  "added": "2026-10-30",
+  "updated": "2026-10-30"
+ },
+ {
+  "id": "kp-195418475",
+  "slug": "kp-195418475-prodaja-stan-ledine",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "new",
+  "title": "Продажа: 2,5-комнатная квартира, 47 м², Ледине, Новый Белград",
+  "kind": "2,5-комнатная квартира",
+  "price": 55000,
+  "area": 47,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "novi-beograd",
+  "location": "Ледине",
+  "street": "Рембрантова 23D",
+  "geo": {
+   "lat": 44.8072,
+   "lng": 20.34104
+  },
+  "facts": [
+   [
+    "Площадь",
+    "47 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "5-й из 5"
+   ],
+   [
+    "Отопление",
+    "центральное, кондиционер"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "строится"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "домофон",
+   "терраса",
+   "кондиционер",
+   "лифт",
+   "парковка"
+  ],
+  "text": "Продаётся 2,5-комнатная квартира площадью 47 м² в районе Ледине (Новый Белград, Белград). 5-й этаж из 5, без мебели, отопление центральное, кондиционер, строится, дом современной постройки. Есть: интернет, домофон, терраса, кондиционер, лифт, парковка. Цена 55 000 €.",
+  "originalLang": "sr",
+  "original": "Ledine, Novi Beograd. Stambena zgrada u izgradnji. Zavrsetak radova mart 2027 god. Zgrada je sa liftom i ima 36 stanova. Postoji mogucnost strukture stana sa dve spavace sobe i dnevnim boravkom ili jedna spavaca soba i veci dnevni boravak plus terasa.\n\nZgrada i stanovi su u fazi preduknjizenja po novom zakonu \" Svoj na Svome\" . Overava se ugovor kod notara. Nije moguca kupovina za kreditne kupce.\n\nCena je za sivu fazu stana(instalacije vode struje i stolarija). Kljuc u ruke cena 75000\nCena je fixna i za keš!\n\nSAMO KES KUPCI ! ! !",
+  "photos": 2,
+  "added": "2026-10-30",
+  "updated": "2026-10-30"
+ },
+ {
+  "id": "kp-196253176",
+  "slug": "kp-196253176-izdavanje-stan-brace-jerkovic",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 50 м², Браче Еркович, Вождовац",
+  "kind": "двухкомнатная квартира",
+  "price": 450,
+  "area": 50,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Браче Еркович",
+  "street": "",
+  "geo": {
+   "lat": 44.76822,
+   "lng": 20.49238
+  },
+  "facts": [
+   [
+    "Площадь",
+    "50 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "1-й из 1"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "кондиционер",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 50 м² в районе Браче Еркович (Вождовац, Белград). 1-й этаж из 1, с мебелью, отопление газовое, в исходном состоянии, старый фонд. Есть: можно въехать сразу, терраса, кондиционер, парковка, депозит. Аренда 450 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stan u kuci 50m2 na prvom spratu ima grejanje, klima, parking.\nCena je sa svim troskovima: grejanje, struja, voda.\nStrance ne primam.\nDepozit obavezan u visini jedne zakupnine.\nZa vise informacja pozvati.",
+  "photos": 15,
+  "added": "2026-10-30",
+  "updated": "2026-10-30"
+ },
+ {
+  "id": "kp-195151807",
+  "slug": "kp-195151807-izdavanje-stan-zarkovo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 30 м², Жарково, Чукарица",
+  "kind": "однокомнатная квартира",
+  "price": 240,
+  "area": 30,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "cukarica",
+  "location": "Жарково",
+  "street": "Жарковачки Брег 5",
+  "geo": {
+   "lat": 44.76024,
+   "lng": 20.41865
+  },
+  "facts": [
+   [
+    "Площадь",
+    "30 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "кабельное ТВ"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 30 м² в районе Жарково (Чукарица, Белград). Есть: можно въехать сразу, интернет, терраса, кабельное ТВ. Аренда 240 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem nameštenu -garsonjeru u okviru kuće 30m2 na Čukarici-Žarkovo, zasebni ulaz, studentkinji ili zaposlenoj ženskoj osobi , ulica Žarkovački breg preko puta Doma zdravlja, blizu Trgovačke ulice, super Vera. . . internet, kablovska tv, lepo i mirno mesto\n\nuslužni oglas javite se na telefon, na prvoj slici",
+  "photos": 6,
+  "added": "2026-10-30",
+  "updated": "2026-10-30"
+ },
+ {
+  "id": "kp-195895219",
+  "slug": "kp-195895219-izdavanje-stan-visnjicka-banja",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 60 м², Вишничка Баня, Палилула",
+  "kind": "трёхкомнатная квартира",
+  "price": 400,
+  "area": 60,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "Вишничка Баня",
+  "street": "Зоре Дремпетич",
+  "geo": {
+   "lat": 44.81926,
+   "lng": 20.54051
+  },
+  "facts": [
+   [
+    "Площадь",
+    "60 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "приземный из 3"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "частично меблирована"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "подвал",
+   "парковка",
+   "можно с животными"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 60 м² в районе Вишничка Баня (Палилула, Белград). Приземный этаж из 3, частично меблирована, отопление автономное, в исходном состоянии, дом современной постройки. Есть: можно въехать сразу, подвал, парковка, можно с животными. Аренда 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "7km. od centra grada,250m. od okretnice BUS-a 35,63,202. Dve spavaće sobe, veliki dnevni boravak. U blizini Ada Huja, BG Fashion, Lidl itd. . .",
+  "photos": 8,
+  "added": "2026-10-30",
+  "updated": "2026-10-30"
+ },
+ {
+  "id": "kp-135967293",
+  "slug": "kp-135967293-izdavanje-stan-lazarevac",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, Лазаревац",
+  "kind": "однокомнатная квартира",
+  "price": null,
+  "area": null,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Лазаревац",
+  "districtSlug": "lazarevac",
+  "location": "",
+  "street": "",
+  "geo": null,
+  "facts": [
+   [
+    "Комнат",
+    "1"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся однокомнатная квартира в районе Лазаревац. Цена по запросу.",
+  "originalLang": "sr",
+  "original": "Dve sobe, u spavaćoj francuski ležaj i samac, a u dnevnoj ugaona. Mogućnost rezervacije doručka, spa i teretane sa stolom za stoni tenis, sve na 15 metara od smeštaja.\n\nPostoji i mogućnost upisa dece u školu skijanja kod tima instruktora iz Vile Pirat, koja na skijanja polaze bukvalno na 50m od ulaznih vrata.\n\nSmeštaj se nalazi na 300 metara od Kraljevih čardaka. U neposrednjoj blizini se nalazi autobuska stanica Ski bus Kopaonik, odakle možete da se prevezete do Sunčanog brega.\nApartman je opremljen .\n\nSmeštajni kapaciteti su za 5 osoba.\n\n \n\nZa sve informacije viber 06********",
+  "photos": 15,
+  "added": "2026-10-30",
+  "updated": "2026-10-30"
+ },
+ {
+  "id": "kp-195330703",
+  "slug": "kp-195330703-izdavanje-stan-autokomanda",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 3,5-комнатная квартира, 133 м², Аутокоманда, Вождовац",
+  "kind": "3,5-комнатная квартира",
+  "price": 100,
+  "area": 133,
+  "rooms": 3.5,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Аутокоманда",
+  "street": "Medakoviceva113",
+  "geo": {
+   "lat": 44.78755,
+   "lng": 20.47243
+  },
+  "facts": [
+   [
+    "Площадь",
+    "133 м²"
+   ],
+   [
+    "Комнат",
+    "3,5"
+   ],
+   [
+    "Этаж",
+    "2-й из 2"
+   ],
+   [
+    "Отопление",
+    "кондиционер, автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "домофон",
+   "терраса",
+   "подвал",
+   "двухуровневая",
+   "кондиционер",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся 3,5-комнатная квартира площадью 133 м² в районе Аутокоманда (Вождовац, Белград). 2-й этаж из 2, с мебелью, отопление кондиционер, автономное, в исходном состоянии, старый фонд. Есть: можно въехать сразу, домофон, терраса, подвал, двухуровневая, кондиционер, парковка, депозит. Аренда 100 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem stan za radnike na drugom spratu , stan je u 2 nivoa, 2 kupatila\n2 terase. . Mozemo se dogovoriti za razne varijante, sve zavisi za koliko radnika Vam treba stan, i za koji  period .",
+  "photos": 9,
+  "added": "2026-10-30",
+  "updated": "2026-10-30"
+ },
+ {
+  "id": "kp-196539783",
+  "slug": "kp-196539783-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 32 м², © ОпенСтреетМап цонтрибуторс, Вождовац",
+  "kind": "студия",
+  "price": 540,
+  "area": 32,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "",
+  "geo": {
+   "lat": 44.7824,
+   "lng": 20.47106
+  },
+  "facts": [
+   [
+    "Площадь",
+    "32 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "4-й из 7"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "домофон",
+   "терраса",
+   "подвал",
+   "кондиционер",
+   "лифт",
+   "парковка"
+  ],
+  "text": "Сдаётся студия площадью 32 м² в районе © ОпенСтреетМап цонтрибуторс (Вождовац, Белград). 4-й этаж из 7, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: домофон, терраса, подвал, кондиционер, лифт, парковка. Аренда 540 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se namesten stan, kompletno renoviran, izuzetno svetao i ususkan na strani koja gleda ka dvoristu, iako je u zgradi koja je na samoj glavnoj ulici. Ispred zgrade se nalazi tramvajska stanica 9l, 10, 14, kafici, market, pekara, menjacnica, banka itd. U blizini FON-a, Saobracajnog fakulteta, Vise elektrotehnicke, Singidunuma, banjicke sume. Dobra povezanost sa svim delovima grada. Parking na javnim povrsinama oko zgrade je dostupan bez zone. Useljiv od 1. novembra",
+  "photos": 9,
+  "added": "2026-10-30",
+  "updated": "2026-10-30"
+ },
+ {
+  "id": "kp-194994918",
+  "slug": "kp-194994918-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 24 м², © ОпенСтреетМап цонтрибуторс, Чукарица",
+  "kind": "студия",
+  "price": 290,
+  "area": 24,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "cukarica",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "",
+  "geo": {
+   "lat": 44.72572,
+   "lng": 20.37362
+  },
+  "facts": [
+   [
+    "Площадь",
+    "24 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "высокий приземный"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "видеонаблюдение",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся студия площадью 24 м² в районе © ОпенСтреетМап цонтрибуторс (Чукарица, Белград). Высокий приземный этаж, с мебелью, отопление аккумуляционные печи, старый фонд. Есть: видеонаблюдение, парковка, депозит. Аренда 290 € в месяц.",
+  "originalLang": "sr",
+  "original": "Slobodna od aprila 2027.\n\nFunkcionalna i kompletno opremljena garsonjera površine 24 m², na visokom prizemlju manje zgrade, na svega par minuta hoda od gradskog prevoza (54, 58, 88, 511, 512. . . ) U blizini je više prodajnih objekata, restorana, pijaca, pekare, mali tržni centar, pošta, Lidl.\n\nOpremljena jednim krevetom, regalom iz tri dela, cipelarom i novim trpezarijskim stolom sa četiri stolice. Od uređaja poseduje nov Gorenje šporet, novu Vox veš-mašinu i frižider. Grejanje na TA peć.\n\nCena: 290 € mesečno (plus niski režijski troškovi).",
+  "photos": 10,
+  "added": "2026-10-30",
+  "updated": "2026-10-30"
+ },
+ {
+  "id": "ho-5425647861398",
+  "slug": "ho-5425647861398-izdavanje-stan-vma",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 40 м², ВМА, Савски-Венац",
+  "kind": "однокомнатная квартира",
+  "price": 650,
+  "area": 40,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "opstina-savski-venac",
+  "location": "ВМА",
+  "street": "Михаила Аврамовича 15a",
+  "geo": {
+   "lat": 44.76833,
+   "lng": 20.45887
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "1-й из 2"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 130 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "домофон",
+   "интернет",
+   "кондиционер",
+   "парковка",
+   "терраса"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 40 м² в районе ВМА (Савски-Венац, Белград). 1-й этаж из 2, с мебелью, люкс, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, домофон, интернет, кондиционер, парковка, терраса. Аренда 650 € в месяц.",
+  "originalLang": "sr",
+  "original": "Svetao i moderno opremljen Loft od 40m2 sa mogučnošću korišćenja kako u stambene tako i u poslovne svrhe. Smešten kod Rumunske Ambasade i dvorskog kompleksa, brojnih ambasada, diplomatsko konzularnih predstavništva, Vojnomedicinske akademije -VMA ortopedije Banjica. Zgrada je novije gradnje, uredna i održavana, u prostranom ogradjenom dvorištu sa puno zelenila. U okviru dvorišta se nailazi i odvojeni parking sa daljinskom kontrolom ulaza. Mogu se dodatno izdati  i 2 parking mesta po pojedinačnoj ceni od 80e . U blizini se nalaze svi neophodni sadržaji za udobno stanovanje ili rad. U neposrednoj blizini su Maxi, restorani i kafići, što dodatno doprinosi komforu. Stan je idealan za jednu osobu ili par koji želi miran, svetao i funkcionalan prostor u prijatnom okruženju ili kancelarijski prostor mirne delatnosti. Loft je trenutno opremljen kao kancelarijski prostor sa udobnim trosedom na razvlačenje, mašinama za pranje sudova i veša, jakuzi kadom. Moguća je izmena nameštaja na isključivo stambenu funkciju, ili kao prazan prostor.\nSaobaraćajna povezanost sa ostalim delovima grada je odlična. Autobuske linije 42,34,78,94\nVlasnik \n\nBright and modernly equipped Loft of 40m2 with the possibility of use for both residential and business purposes. Located near the Romanian Embassy and palace complex, numerous embassies, diplomatic consular offices, VMA Military Medical Academy, Banjica orthopedics. The building is of recent construction, neat and well maintained, in a spacious fenced yard with lots of plants. Within the courtyard, there is also a separate parking, with remote control of the entrance. Two parking spaces could be available for ekstra 80e per each . Nearby are all the necessary facilities for comforta ble living or working. In the immediate vicinity are Supermarket Maxi, restaurants and cafes, which further contributes to the comfort. The apartment is ideal for one person or a couple who wants a quiet, bright and functional space in a pleasant environment or an office space for quiet activity. The loft is currently furnished as an office space with a comfortable sofa bed, dish and clothes washer , jakutzi barh. It is possible to change the furniture to an exclusively residential function, or as an empty space.\n\nTraffic connections with other parts of the city are excellent. Bus lines 42,34,78,94\n\nOwner",
+  "photos": 7,
+  "added": "2026-10-29",
+  "updated": "2026-10-29"
+ },
+ {
   "id": "kp-196610112",
   "slug": "kp-196610112-izdavanje-stan-ledine",
   "deal": "rent",
@@ -11416,69 +12669,6 @@
   "updated": "2026-10-26"
  },
  {
-  "id": "kp-195418475",
-  "slug": "kp-195418475-prodaja-stan-novi-beograd",
-  "deal": "sale",
-  "type": "apartment",
-  "cat": "new",
-  "title": "Продажа: 2,5-комнатная квартира, 47 м², Новый Белград",
-  "kind": "2,5-комнатная квартира",
-  "price": 53000,
-  "area": 47,
-  "rooms": 2.5,
-  "city": "Белград",
-  "district": "Новый Белград",
-  "districtSlug": "novi-beograd",
-  "location": "",
-  "street": "Рембрантова 23D",
-  "geo": {
-   "lat": 44.8072,
-   "lng": 20.34104
-  },
-  "facts": [
-   [
-    "Площадь",
-    "47 м²"
-   ],
-   [
-    "Комнат",
-    "2,5"
-   ],
-   [
-    "Этаж",
-    "5-й из 5"
-   ],
-   [
-    "Отопление",
-    "центральное, кондиционер"
-   ],
-   [
-    "Мебель",
-    "без мебели"
-   ],
-   [
-    "Состояние",
-    "строится"
-   ],
-   [
-    "Дом",
-    "дом современной постройки"
-   ]
-  ],
-  "features": [
-   "интернет",
-   "домофон",
-   "терраса",
-   "кондиционер"
-  ],
-  "text": "Продаётся 2,5-комнатная квартира площадью 47 м² в районе Новый Белград. 5-й этаж из 5, без мебели, отопление центральное, кондиционер, строится, дом современной постройки. Есть: интернет, домофон, терраса, кондиционер. Цена 53 000 €.",
-  "originalLang": "sr",
-  "original": "Ledine, Novi Beograd. Stambena zgrada u izgradnji. Zavrsetak radova decembar 2026 god. Zgrada je sa liftom i ima 36 stanova. Postoji mogucnost strukture stana sa dve spavace sobe i dnevnim boravkom ili jedna spavaca soba i veci dnevni boravak plus terasa.\n\nZgrada i stanovi su u fazi preduknjizenja po novom zakonu \" Svoj na Svome\" . Overava se ugovor kod notara. Nije moguca kupovina za kreditne kupce.\n\nCena je za polu sivu fazu stana.\nCena je fixna i za keš!\n\nSAMO KES KUPCI ! ! !",
-  "photos": 2,
-  "added": "2026-10-26",
-  "updated": "2026-10-26"
- },
- {
   "id": "kp-196383238",
   "slug": "kp-196383238-izdavanje-stan-surcin",
   "deal": "rent",
@@ -13131,71 +14321,6 @@
   "updated": "2026-10-26"
  },
  {
-  "id": "kp-196539783",
-  "slug": "kp-196539783-izdavanje-stan-vozdovac",
-  "deal": "rent",
-  "type": "apartment",
-  "cat": "flat",
-  "title": "Аренда: студия, 32 м², Вождовац",
-  "kind": "студия",
-  "price": 540,
-  "area": 32,
-  "rooms": 0.5,
-  "city": "Белград",
-  "district": "Вождовац",
-  "districtSlug": "vozdovac",
-  "location": "",
-  "street": "",
-  "geo": {
-   "lat": 44.7824,
-   "lng": 20.47106
-  },
-  "facts": [
-   [
-    "Площадь",
-    "32 м²"
-   ],
-   [
-    "Комнат",
-    "студия"
-   ],
-   [
-    "Этаж",
-    "4-й из 7"
-   ],
-   [
-    "Отопление",
-    "центральное"
-   ],
-   [
-    "Мебель",
-    "с мебелью"
-   ],
-   [
-    "Состояние",
-    "после ремонта"
-   ],
-   [
-    "Дом",
-    "старый фонд"
-   ]
-  ],
-  "features": [
-   "домофон",
-   "терраса",
-   "подвал",
-   "кондиционер",
-   "лифт",
-   "парковка"
-  ],
-  "text": "Сдаётся студия площадью 32 м² в районе Вождовац. 4-й этаж из 7, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: домофон, терраса, подвал, кондиционер, лифт, парковка. Аренда 540 € в месяц.",
-  "originalLang": "sr",
-  "original": "Izdaje se namesten stan, kompletno renoviran, izuzetno svetao i ususkan na strani koja gleda ka dvoristu, iako je u zgradi koja je na samoj glavnoj ulici. Ispred zgrade se nalazi tramvajska stanica 9l, 10, 14, kafici, market, pekara, menjacnica, banka itd. U blizini FON-a, Saobracajnog fakulteta, Vise elektrotehnicke, Singidunuma, banjicke sume. Dobra povezanost sa svim delovima grada. Parking na javnim povrsinama oko zgrade je dostupan bez zone. Useljiv od 1. novembra",
-  "photos": 9,
-  "added": "2026-10-26",
-  "updated": "2026-10-26"
- },
- {
   "id": "kp-196148972",
   "slug": "kp-196148972-izdavanje-stan-cukarica",
   "deal": "rent",
@@ -13981,32 +15106,6 @@
   "originalLang": "sr",
   "original": "Praktično sve... Kupi i prodaj u najvećoj online zajednici u Srbiji. Probaj na kp!",
   "photos": 9,
-  "added": "2026-10-26",
-  "updated": "2026-10-26"
- },
- {
-  "id": "kp-196253176",
-  "slug": "kp-196253176-izdavanje-stan",
-  "deal": "rent",
-  "type": "apartment",
-  "cat": "flat",
-  "title": "Аренда: квартира, Белград",
-  "kind": "квартира",
-  "price": null,
-  "area": null,
-  "rooms": null,
-  "city": "Белград",
-  "district": "Белград",
-  "districtSlug": "",
-  "location": "",
-  "street": "",
-  "geo": null,
-  "facts": [],
-  "features": [],
-  "text": "Сдаётся квартира в районе Белград. Цена по запросу.",
-  "originalLang": "sr",
-  "original": "Praktično sve... Kupi i prodaj u najvećoj online zajednici u Srbiji. Probaj na kp!",
-  "photos": 15,
   "added": "2026-10-26",
   "updated": "2026-10-26"
  },
@@ -28557,73 +29656,6 @@
   "updated": "2026-10-26"
  },
  {
-  "id": "ho-5425647861398",
-  "slug": "ho-5425647861398-izdavanje-stan-vma",
-  "deal": "rent",
-  "type": "apartment",
-  "cat": "flat",
-  "title": "Аренда: однокомнатная квартира, 40 м², ВМА, Савски-Венац",
-  "kind": "однокомнатная квартира",
-  "price": 650,
-  "area": 40,
-  "rooms": 1,
-  "city": "Белград",
-  "district": "Савски-Венац",
-  "districtSlug": "opstina-savski-venac",
-  "location": "ВМА",
-  "street": "Михаила Аврамовича 15a",
-  "geo": {
-   "lat": 44.76833,
-   "lng": 20.45887
-  },
-  "facts": [
-   [
-    "Площадь",
-    "40 м²"
-   ],
-   [
-    "Комнат",
-    "1"
-   ],
-   [
-    "Этаж",
-    "1-й из 2"
-   ],
-   [
-    "Мебель",
-    "с мебелью"
-   ],
-   [
-    "Состояние",
-    "люкс"
-   ],
-   [
-    "Дом",
-    "дом современной постройки"
-   ],
-   [
-    "Коммунальные",
-    "около 130 € в месяц"
-   ]
-  ],
-  "features": [
-   "депозит",
-   "не последний этаж",
-   "можно въехать сразу",
-   "домофон",
-   "интернет",
-   "кондиционер",
-   "парковка",
-   "терраса"
-  ],
-  "text": "Сдаётся однокомнатная квартира площадью 40 м² в районе ВМА (Савски-Венац, Белград). 1-й этаж из 2, с мебелью, люкс, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, домофон, интернет, кондиционер, парковка, терраса. Аренда 650 € в месяц.",
-  "originalLang": "sr",
-  "original": "Svetao i moderno opremljen Loft od 40m2 sa mogučnošću korišćenja kako u stambene tako i u poslovne svrhe. Smešten kod Rumunske Ambasade i dvorskog kompleksa, brojnih ambasada, diplomatsko konzularnih predstavništva, Vojnomedicinske akademije -VMA ortopedije Banjica. Zgrada je novije gradnje, uredna i održavana, u prostranom ogradjenom dvorištu sa puno zelenila. U okviru dvorišta se nailazi i odvojeni parking sa daljinskom kontrolom ulaza. Mogu se dodatno izdati  i 2 parking mesta po pojedinačnoj ceni od 80e . U blizini se nalaze svi neophodni sadržaji za udobno stanovanje ili rad. U neposrednoj blizini su Maxi, restorani i kafići, što dodatno doprinosi komforu. Stan je idealan za jednu osobu ili par koji želi miran, svetao i funkcionalan prostor u prijatnom okruženju ili kancelarijski prostor mirne delatnosti. Loft je trenutno opremljen kao kancelarijski prostor sa udobnim trosedom na razvlačenje, mašinama za pranje sudova i veša, jakuzi kadom. Moguća je izmena nameštaja na isključivo stambenu funkciju, ili kao prazan prostor.\nSaobaraćajna povezanost sa ostalim delovima grada je odlična. Autobuske linije 42,34,78,94\nVlasnik \n\nBright and modernly equipped Loft of 40m2 with the possibility of use for both residential and business purposes. Located near the Romanian Embassy and palace complex, numerous embassies, diplomatic consular offices, VMA Military Medical Academy, Banjica orthopedics. The building is of recent construction, neat and well maintained, in a spacious fenced yard with lots of plants. Within the courtyard, there is also a separate parking, with remote control of the entrance. Two parking spaces could be available for ekstra 80e per each . Nearby are all the necessary facilities for comforta ble living or working. In the immediate vicinity are Supermarket Maxi, restaurants and cafes, which further contributes to the comfort. The apartment is ideal for one person or a couple who wants a quiet, bright and functional space in a pleasant environment or an office space for quiet activity. The loft is currently furnished as an office space with a comfortable sofa bed, dish and clothes washer , jakutzi barh. It is possible to change the furniture to an exclusively residential function, or as an empty space.\n\nTraffic connections with other parts of the city are excellent. Bus lines 42,34,78,94\n\nOwner",
-  "photos": 7,
-  "added": "2026-10-26",
-  "updated": "2026-10-26"
- },
- {
   "id": "ho-5425643400691",
   "slug": "ho-5425643400691-izdavanje-stan-banovo-brdo",
   "deal": "rent",
@@ -29346,49 +30378,6 @@
   "originalLang": "sr",
   "original": "Izdaje se kompletno namestena i funkcionalna garsonjera u novijoj, izuzetno cistoj I urednoj zgradi na odlicnoj lokaciji u naselju Medakovic lll (Padina, ulica Veselina Cajkanovica 6).  \n\nStan je kompletno namesten (TV, ves masina, frizider, sporet, mikrotalasna), grejanje TA pec, klima, nalazi se na mirnoj lokaciji, idealan za samce, parove ili studente. Stan poseduje terasu sa pogledom na grad. Izuzetno niski troskovi rezije.  \n\nOdlicno je povezan sa svim delovima grada zahvaljujuci blizini okretnice prevoza (29 i 18) kao i linijama 20, 26, 50, 80 i brzom izlazu na autoput.  \n\nU neposrednoj blizini nalaze se Lidl, Maxi, pijaca, manje prodavnice, skola, vrtic, park, apoteke, kafici i svi ostali prateci sadrzaji potrebni za ugodan zivot.  \n\nStan se izdaje ozbiljnim stanarima na duzi vremenski period. Obavezan je depozit u visini jednog mesecnog najma.  \n\nKucni ljubimci nisu dozvoljeni.",
   "photos": 9,
-  "added": "2026-10-26",
-  "updated": "2026-10-26"
- },
- {
-  "id": "kp-195151807",
-  "slug": "kp-195151807-izdavanje-stan-cukarica",
-  "deal": "rent",
-  "type": "apartment",
-  "cat": "flat",
-  "title": "Аренда: однокомнатная квартира, 30 м², Чукарица",
-  "kind": "однокомнатная квартира",
-  "price": 240,
-  "area": 30,
-  "rooms": 1,
-  "city": "Белград",
-  "district": "Чукарица",
-  "districtSlug": "cukarica",
-  "location": "",
-  "street": "Жарковачки Брег 5",
-  "geo": {
-   "lat": 44.76024,
-   "lng": 20.41865
-  },
-  "facts": [
-   [
-    "Площадь",
-    "30 м²"
-   ],
-   [
-    "Комнат",
-    "1"
-   ]
-  ],
-  "features": [
-   "можно въехать сразу",
-   "интернет",
-   "терраса",
-   "кабельное ТВ"
-  ],
-  "text": "Сдаётся однокомнатная квартира площадью 30 м² в районе Чукарица. Есть: можно въехать сразу, интернет, терраса, кабельное ТВ. Аренда 240 € в месяц.",
-  "originalLang": "sr",
-  "original": "Izdajem nameštenu -garsonjeru u okviru kuće 30m2 na Čukarici-Žarkovo, zasebni ulaz, studentkinji ili zaposlenoj ženskoj osobi , ulica Žarkovački breg preko puta Doma zdravlja, blizu Trgovačke ulice, super Vera. . . internet, kablovska tv, lepo i mirno mesto\n\nuslužni oglas javite se na telefon, na prvoj slici",
-  "photos": 6,
   "added": "2026-10-26",
   "updated": "2026-10-26"
  },
@@ -32103,70 +33092,6 @@
   "originalLang": "sr",
   "original": "Stan u kuci na prvom spratu, ima grejanje, klimu, parking.\nCena je sa svim troskovima 500eura.\nDepozit obavezan u visini jedne stanarine.\nStrance ne primam.\nZa vise informacija pozvati.",
   "photos": 15,
-  "added": "2026-10-25",
-  "updated": "2026-10-25"
- },
- {
-  "id": "kp-195895219",
-  "slug": "kp-195895219-izdavanje-stan-palilula",
-  "deal": "rent",
-  "type": "apartment",
-  "cat": "flat",
-  "title": "Аренда: трёхкомнатная квартира, 60 м², Палилула",
-  "kind": "трёхкомнатная квартира",
-  "price": 400,
-  "area": 60,
-  "rooms": 3,
-  "city": "Белград",
-  "district": "Палилула",
-  "districtSlug": "palilula",
-  "location": "",
-  "street": "Зоре Дремпетиц",
-  "geo": {
-   "lat": 44.81926,
-   "lng": 20.54051
-  },
-  "facts": [
-   [
-    "Площадь",
-    "60 м²"
-   ],
-   [
-    "Комнат",
-    "3"
-   ],
-   [
-    "Этаж",
-    "приземный из 3"
-   ],
-   [
-    "Отопление",
-    "автономное"
-   ],
-   [
-    "Мебель",
-    "частично меблирована"
-   ],
-   [
-    "Состояние",
-    "в исходном состоянии"
-   ],
-   [
-    "Дом",
-    "дом современной постройки"
-   ]
-  ],
-  "features": [
-   "можно въехать сразу",
-   "подвал",
-   "парковка",
-   "гараж",
-   "можно с животными"
-  ],
-  "text": "Сдаётся трёхкомнатная квартира площадью 60 м² в районе Палилула. Приземный этаж из 3, частично меблирована, отопление автономное, в исходном состоянии, дом современной постройки. Есть: можно въехать сразу, подвал, парковка, гараж, можно с животными. Аренда 400 € в месяц.",
-  "originalLang": "sr",
-  "original": "7km. od centra grada,250m. od okretnice BUS-a 35,63,202. Dve spavaće sobe, veliki dnevni boravak. U blizini Ada Huja, BG Fashion, Lidl itd. . .",
-  "photos": 8,
   "added": "2026-10-25",
   "updated": "2026-10-25"
  },
@@ -35363,64 +36288,6 @@
   "updated": "2026-10-25"
  },
  {
-  "id": "kp-194994918",
-  "slug": "kp-194994918-izdavanje-stan-cukarica",
-  "deal": "rent",
-  "type": "apartment",
-  "cat": "flat",
-  "title": "Аренда: студия, 24 м², Чукарица",
-  "kind": "студия",
-  "price": 290,
-  "area": 24,
-  "rooms": 0.5,
-  "city": "Белград",
-  "district": "Чукарица",
-  "districtSlug": "cukarica",
-  "location": "",
-  "street": "",
-  "geo": {
-   "lat": 44.72572,
-   "lng": 20.37362
-  },
-  "facts": [
-   [
-    "Площадь",
-    "24 м²"
-   ],
-   [
-    "Комнат",
-    "студия"
-   ],
-   [
-    "Этаж",
-    "высокий приземный"
-   ],
-   [
-    "Отопление",
-    "аккумуляционные печи"
-   ],
-   [
-    "Мебель",
-    "с мебелью"
-   ],
-   [
-    "Дом",
-    "старый фонд"
-   ]
-  ],
-  "features": [
-   "видеонаблюдение",
-   "парковка",
-   "депозит"
-  ],
-  "text": "Сдаётся студия площадью 24 м² в районе Чукарица. Высокий приземный этаж, с мебелью, отопление аккумуляционные печи, старый фонд. Есть: видеонаблюдение, парковка, депозит. Аренда 290 € в месяц.",
-  "originalLang": "sr",
-  "original": "Slobodna od aprila 2027.\n\nFunkcionalna i kompletno opremljena garsonjera površine 24 m², na visokom prizemlju manje zgrade, na svega par minuta hoda od gradskog prevoza (54, 58, 88, 511, 512. . . ) U blizini je više prodajnih objekata, restorana, pijaca, pekare, mali tržni centar, pošta, Lidl.\n\nOpremljena jednim krevetom, regalom iz tri dela, cipelarom i novim trpezarijskim stolom sa četiri stolice. Od uređaja poseduje nov Gorenje šporet, novu Vox veš-mašinu i frižider. Grejanje na TA peć.\n\nCena: 290 € mesečno (plus niski režijski troškovi).",
-  "photos": 10,
-  "added": "2026-10-25",
-  "updated": "2026-10-25"
- },
- {
   "id": "kp-194890043",
   "slug": "kp-194890043-izdavanje-stan-palilula",
   "deal": "rent",
@@ -35730,73 +36597,6 @@
   "originalLang": "sr",
   "original": "Slobodno od .\nGarsonjera na Vračaru, mesečna renta sa depozitom. Renoviran i opremljen stan, komforno za jednu osobu. Stan ima sobu, kuhinju i kupatilo. Na atraktivnoj lokaciji, raskrsnica ulica Maksima Gorkog i Južnog bulevara. Poseban ulaz iz dvorišta. U blizini sav potreban sadržaj: veliki market, banka, kafić i restoran, prodavnica, pekara, pijaca udaljena 15 min. Dobra povezanost sa autoputem i gradskim prevozom (bus 55, 46, 25, 26). Grejanje na TA peć.\nMiran komšijski kraj, pogled na dvorište.\n\nTroškovi struje, vode i kablovske televizije se dodatno plaćaju. Obavezan depozit u iznosu prve mesečne rente.",
   "photos": 3,
-  "added": "2026-10-25",
-  "updated": "2026-10-25"
- },
- {
-  "id": "kp-195330703",
-  "slug": "kp-195330703-izdavanje-stan-vozdovac",
-  "deal": "rent",
-  "type": "apartment",
-  "cat": "flat",
-  "title": "Аренда: 3,5-комнатная квартира, 133 м², Вождовац",
-  "kind": "3,5-комнатная квартира",
-  "price": 100,
-  "area": 133,
-  "rooms": 3.5,
-  "city": "Белград",
-  "district": "Вождовац",
-  "districtSlug": "vozdovac",
-  "location": "",
-  "street": "Medakoviceva113",
-  "geo": {
-   "lat": 44.78755,
-   "lng": 20.47243
-  },
-  "facts": [
-   [
-    "Площадь",
-    "133 м²"
-   ],
-   [
-    "Комнат",
-    "3,5"
-   ],
-   [
-    "Этаж",
-    "2-й из 2"
-   ],
-   [
-    "Отопление",
-    "кондиционер, автономное"
-   ],
-   [
-    "Мебель",
-    "с мебелью"
-   ],
-   [
-    "Состояние",
-    "в исходном состоянии"
-   ],
-   [
-    "Дом",
-    "старый фонд"
-   ]
-  ],
-  "features": [
-   "можно въехать сразу",
-   "домофон",
-   "терраса",
-   "подвал",
-   "двухуровневая",
-   "кондиционер",
-   "парковка",
-   "депозит"
-  ],
-  "text": "Сдаётся 3,5-комнатная квартира площадью 133 м² в районе Вождовац. 2-й этаж из 2, с мебелью, отопление кондиционер, автономное, в исходном состоянии, старый фонд. Есть: можно въехать сразу, домофон, терраса, подвал, двухуровневая, кондиционер, парковка, депозит. Аренда 100 € в месяц.",
-  "originalLang": "sr",
-  "original": "Izdajem stan za radnike na drugom spratu , stan je u 2 nivoa, 2 kupatila\n2 terase. . Mozemo se dogovoriti za razne varijante, sve zavisi za koliko radnika Vam treba stan, i za koji  period .",
-  "photos": 9,
   "added": "2026-10-25",
   "updated": "2026-10-25"
  },
@@ -36161,37 +36961,6 @@
   "text": "Сдаётся 3,5-комнатная квартира площадью 80 м² в районе Вождовац. Высокий приземный этаж из 3, с мебелью, отопление автономное, строится, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, кондиционер, энергопаспорт, лоджия, парковка, депозит. Аренда 550 € в месяц.",
   "originalLang": "sr",
   "original": "Izdajem POTPUNO NOV stan u Jajincima od 80m2.\nu stanu je ostala jos samo kuhinja da se ugradi i jos 20m2 laminata.\n\ngrejanje je etazno i ima inverter klima uredjaj.\nStan se izdaje kao NAMESTEN tj. ja sam u obavezi da obezbedim namestaj.\nstan ima :\n3 spavace sobe\ndvevni boravak sa kuhinjom\nkupatilo\nhodnik\nterasa\n\nStan se nalazi na adresi Jakova Galusa 20b\nto je preko puta Spomen Parka Jajinci.\nJajinci su 11km udaljeni od Slavije, i na samo 11km od centra grada imate mogucnost da zivite u prelepoj prirodi. U mom komsiluku postoji samo jos jedna stambena zgrada i sve oko mene su kuce.\n\nu cenu su ukljuceni infostan i voda.\nod troskova jedino sto se placa je struja po potrosnji.\n\ninfo\nnula šest četiri / 1 7 1 7 2 3 1",
-  "photos": 15,
-  "added": "2026-10-25",
-  "updated": "2026-10-25"
- },
- {
-  "id": "kp-135967293",
-  "slug": "kp-135967293-izdavanje-stan-lazarevac",
-  "deal": "rent",
-  "type": "apartment",
-  "cat": "flat",
-  "title": "Аренда: однокомнатная квартира, Лазаревац",
-  "kind": "однокомнатная квартира",
-  "price": null,
-  "area": null,
-  "rooms": 1,
-  "city": "Белград",
-  "district": "Лазаревац",
-  "districtSlug": "lazarevac",
-  "location": "",
-  "street": "",
-  "geo": null,
-  "facts": [
-   [
-    "Комнат",
-    "1"
-   ]
-  ],
-  "features": [],
-  "text": "Сдаётся однокомнатная квартира в районе Лазаревац. Цена по запросу.",
-  "originalLang": "sr",
-  "original": "Dve sobe, u spavaćoj francuski ležaj i samac, a u dnevnoj ugaona. Mogućnost rezervacije doručka, spa i teretane sa stolom za stoni tenis, sve na 15 metara od smeštaja.\n\nPostoji i mogućnost upisa dece u školu skijanja kod tima instruktora iz Vile Pirat, koja na skijanja polaze bukvalno na 50m od ulaznih vrata.\n\nSmeštaj se nalazi na 300 metara od Kraljevih čardaka. U neposrednjoj blizini se nalazi autobuska stanica Ski bus Kopaonik, odakle možete da se prevezete do Sunčanog brega.\nApartman je opremljen .\n\nSmeštajni kapaciteti su za 5 osoba.\n\n \n\nZa sve informacije viber 06********",
   "photos": 15,
   "added": "2026-10-25",
   "updated": "2026-10-25"
