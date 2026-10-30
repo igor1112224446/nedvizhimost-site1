@@ -697,6 +697,7 @@ p { margin: 0; }
 
 /* ---------- Услуги ---------- */
 .svc-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+@media (min-width: 1181px) { .svc-grid { grid-template-columns: repeat(4, 1fr); } .svc-t { font-size: 19px; } .svc-s { font-size: 15px; } }
 .svc { display: grid; justify-items: center; align-content: start; gap: 6px; padding: 40px 24px 32px; background: #f4f5f6; border-radius: 12px; text-align: center; text-decoration: none; color: var(--ink); transition: transform .2s, box-shadow .2s, background .2s; }
 .svc:hover { background: #fff; transform: translateY(-3px); box-shadow: 0 12px 32px rgba(0, 42, 56, .12); }
 .svc-ico { display: grid; place-items: center; width: 64px; height: 64px; margin-bottom: 14px; color: var(--brand); }
