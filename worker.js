@@ -79,10 +79,12 @@ async function lead(request, env) {
   if (!g('name') || !g('phone')) return json({ error: 'укажите имя и телефон' }, 400);
   const line = (k, v) => (v ? `<b>${esc(k)}:</b> ${esc(v)}` : '');
   const viewing = g('kind') === 'viewing';
+  const service = g('kind') === 'service';
   const text = [
-    viewing ? '📅 <b>Запись на просмотр</b>' : '🔎 <b>Заявка на подбор</b>',
-    viewing ? line('Объект', [g('title'), g('price')].filter(Boolean).join(', ')) : line('Ищет', g('wish')),
-    viewing && g('url') ? esc(g('url')) : '',
+    viewing ? '📅 <b>Запись на просмотр</b>' : service ? '💼 <b>Заявка на консультацию</b>' : '🔎 <b>Заявка на подбор</b>',
+    service ? line('Услуга', g('service')) : '',
+    viewing ? line('Объект', [g('title'), g('price')].filter(Boolean).join(', ')) : line(service ? 'Комментарий' : 'Ищет', g('wish')),
+    (viewing || service) && g('url') ? esc(g('url')) : '',
     line('Имя', g('name')),
     line('Телефон', g('phone')),
     line('Ответить в', g('via')),

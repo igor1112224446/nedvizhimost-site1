@@ -45,7 +45,10 @@ p { margin: 0; }
 /* шапка */
 .hdr { position: sticky; top: 0; z-index: 30; background: rgba(255,255,255,.96); backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); }
 .hdr-row { display: flex; align-items: center; gap: 40px; min-height: 76px; }
-.logo { display: grid; text-decoration: none; line-height: 1.15; }
+.logo { display: flex; align-items: center; gap: 12px; text-decoration: none; line-height: 1.15; color: inherit; }
+.logo-ico { width: 40px; height: 40px; flex: none; }
+.logo-ico-light { display: none; }
+.logo-txt { display: grid; }
 .logo-name { font-size: 15px; font-weight: 600; letter-spacing: .16em; text-transform: uppercase; white-space: nowrap; }
 .logo-sub { font-size: 12px; color: var(--muted); margin-top: 3px; }
 .nav { display: flex; gap: 30px; flex: 1; }
@@ -675,3 +678,75 @@ p { margin: 0; }
 
 .obj-date { font-size: 13px; color: var(--muted); margin: -6px 0 14px; }
 .obj-desc { margin-top: 16px; max-width: 44em; color: var(--ink-2); font-size: 17px; }
+
+/* ---------- Maxis Group: логотип ---------- */
+:root { --brand: #002a38; }
+.logo-name { color: var(--brand); text-transform: uppercase; letter-spacing: .14em; font-weight: 600; }
+.has-hero .hdr:not(.is-solid):not(:hover):not(:focus-within) .logo-ico-dark { display: none; }
+.has-hero .hdr:not(.is-solid):not(:hover):not(:focus-within) .logo-ico-light { display: block; }
+.has-hero .hdr:not(.is-solid):not(:hover):not(:focus-within) .logo-name { color: #fff; }
+.ftr-logo img { width: 160px; height: auto; display: block; }
+.agent-mark { object-fit: contain; background: none; border-radius: 0; }
+.ftr-legal { padding: 28px 0 0; color: #9a9a9a; font-size: 13px; line-height: 1.6; }
+.ftr-legal p + p { margin-top: 6px; }
+.ftr-legal b { color: #d9d9d9; font-weight: 500; }
+.ftr-legal a { text-decoration: underline; }
+.panel-legal, .obj-legal { font-size: 12px; color: var(--muted); }
+.obj-legal { margin-top: 14px; padding: 10px 12px; border-left: 2px solid var(--line-2); }
+@media (max-width: 720px) { .logo-sub { display: none; } .logo-ico { width: 34px; height: 34px; } }
+
+/* ---------- Услуги ---------- */
+.svc-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+.svc { display: grid; justify-items: center; align-content: start; gap: 6px; padding: 40px 24px 32px; background: #f4f5f6; border-radius: 12px; text-align: center; text-decoration: none; color: var(--ink); transition: transform .2s, box-shadow .2s, background .2s; }
+.svc:hover { background: #fff; transform: translateY(-3px); box-shadow: 0 12px 32px rgba(0, 42, 56, .12); }
+.svc-ico { display: grid; place-items: center; width: 64px; height: 64px; margin-bottom: 14px; color: var(--brand); }
+.svc-ico svg { width: 100%; height: 100%; fill: none; stroke: currentColor; stroke-width: 1.6; stroke-linecap: round; stroke-linejoin: round; }
+.svc-t { font-size: 21px; font-weight: 600; letter-spacing: .01em; }
+.svc-s { font-size: 17px; color: var(--ink-2); }
+.svc-more { margin-top: 14px; font-size: 12px; letter-spacing: .12em; text-transform: uppercase; color: var(--brand); border-bottom: 1px solid currentColor; padding-bottom: 2px; }
+.svc-head { display: grid; grid-template-columns: auto 1fr; gap: 28px; align-items: start; }
+.svc-head .btn { margin-top: 24px; }
+.svc-ico-lg { width: 88px; height: 88px; margin: 18px 0 0; padding: 14px; background: #f4f5f6; border-radius: 12px; }
+.svc-page { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 64px; align-items: start; padding-top: 24px; }
+.svc-aside { position: sticky; top: 96px; }
+.svc-aside .panel { display: grid; gap: 12px; }
+.panel-t { font-size: 20px; font-weight: 500; }
+.svc-list { margin: 0; padding: 0; list-style: none; display: grid; gap: 10px; }
+.svc-list li { position: relative; padding-left: 26px; }
+.svc-list li::before { content: ""; position: absolute; left: 0; top: .7em; width: 12px; height: 1px; background: var(--brand); }
+.svc-steps { list-style: none; margin: 0; padding: 0; display: grid; gap: 0; }
+.svc-steps li { display: grid; grid-template-columns: 56px 1fr; gap: 16px; padding: 20px 0; border-top: 1px solid var(--line); }
+.svc-steps h3, .svc-grounds h3 { font-size: 17px; font-weight: 600; margin: 0 0 4px; }
+.svc-steps p, .svc-grounds p { margin: 0; color: var(--ink-2); }
+.svc-steps .step-n { font-size: 22px; font-weight: 300; color: var(--brand); }
+.svc-grounds { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; }
+.svc-grounds > div { padding: 18px 20px; background: #f4f5f6; border-radius: 10px; }
+.lead-form select { min-height: 50px; padding: 0 14px; border: 1px solid var(--line-2); background: #fff; font-size: 16px; color: var(--ink); border-radius: 0; }
+
+/* ---------- О компании ---------- */
+.legal-dl { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 0 40px; margin: 0; }
+.legal-dl div { padding: 16px 0; border-top: 1px solid var(--line); }
+.legal-dl dt { font-size: 12px; color: var(--muted); letter-spacing: .04em; display: grid; }
+.legal-dl dt span { font-size: 11px; color: var(--line-2); }
+.legal-dl dd { margin: 6px 0 0; font-size: 18px; }
+.legal-text > * { max-width: 860px; }
+.legal-text p { margin: 0 0 14px; color: var(--ink-2); }
+.legal-sr { margin-top: 24px; padding: 24px 28px; background: #f4f5f6; border-radius: 10px; }
+.legal-sr h3 { font-size: 16px; font-weight: 600; margin: 18px 0 6px; }
+.legal-sr h3:first-child { margin-top: 0; }
+.legal-sr ul { margin: 0 0 14px; padding-left: 20px; color: var(--ink-2); }
+
+@media (max-width: 960px) {
+  .svc-grid { grid-template-columns: repeat(2, 1fr); }
+  .svc-page { grid-template-columns: 1fr; gap: 24px; }
+  .svc-aside { position: static; }
+}
+@media (max-width: 560px) {
+  .svc-grid { grid-template-columns: 1fr 1fr; gap: 10px; }
+  .svc { padding: 24px 12px 20px; }
+  .svc-ico { width: 48px; height: 48px; margin-bottom: 8px; }
+  .svc-t { font-size: 16px; } .svc-s { font-size: 14px; }
+  .svc-head { grid-template-columns: 1fr; gap: 0; }
+  .svc-ico-lg { width: 64px; height: 64px; }
+  .svc-grounds { grid-template-columns: 1fr; }
+}

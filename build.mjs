@@ -5,6 +5,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
 import { FAQ, DISTRICT_TEXT } from './content.mjs';
+import { SERVICES, SERVICE_ICON } from './services.mjs';
 
 const ROOT = path.dirname(new URL(import.meta.url).pathname);
 const OUT = path.join(ROOT, 'dist');
@@ -17,8 +18,29 @@ const SITE = {
   phone: '+381 61 215 98 64',
   whatsapp: '+381612159864',
   channel: 'rentch_serbia',
+  brand: 'Maxis Group',
   ...read('data/site.json', {}),
 };
+// Данные агентства для проверяющих органов (Закон о посредовании в прометe и закупе непокретности, ст. 18).
+// Можно переопределить в data/site.json ключом "legal": { ... }
+SITE.legal = {
+  company: 'Maxis Group d.o.o. Beograd',
+  address: 'Hercegovačka 15/303, 11000 Beograd',
+  pib: '112901267',
+  mb: '',
+  registry: '1850',
+  agentLicense: '5744',
+  agentName: '',
+  director: '',
+  insurance: '',
+  commissionRent: '50% od iznosa mesečne zakupnine',
+  commissionSale: '2% od kupoprodajne cene',
+  ...(SITE.legal || {}),
+};
+const L = SITE.legal;
+const BRAND = SITE.brand || 'Maxis Group';
+// Короткая строка, обязательная в каждом объявлении: пословно име и номер в Регистре посредников
+const legalLine = `${L.company}, upisan u Registar posrednika pod brojem ${L.registry}`;
 SITE.url = String(SITE.url || process.env.SITE_URL || '').replace(/\/+$/, '');
 SITE.tg = String(SITE.tg || '').replace(/^@/, '');
 SITE.channel = String(SITE.channel || '').replace(/^@/, '');
@@ -150,6 +172,12 @@ const ICON = {
   menu: '<svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16" stroke="currentColor" stroke-width="1.5"/></svg>',
 };
 
+const logoMark = (inv = false) => `<a class="logo${inv ? ' logo-inv' : ''}" href="/" aria-label="${esc(BRAND)}, на главную">
+  <img class="logo-ico logo-ico-dark" src="/assets/maxis-icon-navy.png" alt="" width="40" height="40">
+  <img class="logo-ico logo-ico-light" src="/assets/maxis-icon-white.png" alt="" width="40" height="40">
+  <span class="logo-txt"><span class="logo-name">${esc(BRAND)}</span><span class="logo-sub">Агентство недвижимости</span></span>
+</a>`;
+
 function write(rel, html) {
   const file = path.join(OUT, rel);
   fs.mkdirSync(path.dirname(file), { recursive: true });
@@ -225,7 +253,8 @@ function page({ title, desc, url, image, jsonld = [], body, nav, head = '', over
 <meta property="og:url" content="${esc(canonical)}">
 ${image ? `<meta property="og:image" content="${esc(abs(image))}">\n<meta name="twitter:card" content="summary_large_image">` : ''}
 <meta name="theme-color" content="#ffffff">
-<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/assets/favicon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/favicon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap">
@@ -237,10 +266,11 @@ ${jsonld.map((j) => `<script type="application/ld+json">${JSON.stringify(j).repl
 <a class="skip" href="#main">К содержанию</a>
 <header class="hdr">
   <div class="wrap hdr-row">
-    <a class="logo" href="/"><span class="logo-name">Gloria: квартиры в Сербии</span></a>
+    ${logoMark()}
     <nav class="nav" aria-label="Разделы">
       ${mega('sale', nav)}
       ${mega('rent', nav)}
+      ${link('services', '/uslugi/', 'Услуги')}
       ${link('map', '/karta/', 'Карта')}
       ${link('faq', '/voprosy/', 'Вопросы')}
       ${link('contacts', '/kontakty/', 'Контакты')}
@@ -261,8 +291,10 @@ ${jsonld.map((j) => `<script type="application/ld+json">${JSON.stringify(j).repl
         <div class="burger-panel">
           <a href="/prodazha/">Купить</a>
           <a href="/arenda/">Снять</a>
+          <a href="/uslugi/">Услуги</a>
           <a href="/karta/">Карта</a>
           <a href="/voprosy/">Вопросы и ответы</a>
+          <a href="/o-kompanii/">О компании</a>
           ${REVIEWS.length ? '<a href="/otzyvy/">Отзывы</a>' : ''}
           <a href="/izbrannoe/">Избранное</a>
           <a href="/kontakty/">Контакты</a>
@@ -287,7 +319,7 @@ function footer() {
   return `<footer class="ftr">
   <div class="wrap">
     <div class="ftr-top">
-      <a class="logo logo-inv" href="/"><span class="logo-name">Gloria: квартиры в Сербии</span></a>
+      <a class="ftr-logo" href="/" aria-label="${esc(BRAND)}, на главную"><img src="/assets/maxis-logo-white.png" alt="${esc(BRAND)} DOO" width="180" height="142" loading="lazy"></a>
       <div class="ftr-contacts">
         ${SITE.phone ? `<a class="ftr-phone" href="${esc(telHref)}">${esc(SITE.phone)}</a>` : ''}
         <div class="ftr-msg">
@@ -300,8 +332,14 @@ function footer() {
     <div class="ftr-cols">
       ${col('Купить', [`<li><a href="/prodazha/">Все объекты</a></li>`, ...dl('sale')])}
       ${col('Снять', [`<li><a href="/arenda/">Все объекты</a></li>`, ...dl('rent')])}
+      ${col('Услуги', SERVICES.map((x) => `<li><a href="/uslugi/${x.slug}/">${esc(x.short || x.title)}</a></li>`))}
       ${col('Подборки', COLLECTIONS.map((c) => `<li><a href="/podborki/${c.slug}/">${esc(c.short)}</a></li>`))}
-      ${col('Агентство', ['<li><a href="/kontakty/">Контакты</a></li>', '<li><a href="/izbrannoe/">Избранное</a></li>', '<li><a href="/#podbor">Подбор по запросу</a></li>', '<li><a href="/karta/">Карта объектов</a></li>', '<li><a href="/voprosy/">Вопросы и ответы</a></li>', ...(REVIEWS.length ? ['<li><a href="/otzyvy/">Отзывы</a></li>'] : [])])}
+      ${col('Агентство', ['<li><a href="/o-kompanii/">О компании и лицензия</a></li>', '<li><a href="/o-kompanii/#opsti-uslovi">Общие условия работы</a></li>', '<li><a href="/kontakty/">Контакты</a></li>', '<li><a href="/izbrannoe/">Избранное</a></li>', '<li><a href="/#podbor">Подбор по запросу</a></li>', '<li><a href="/karta/">Карта объектов</a></li>', '<li><a href="/voprosy/">Вопросы и ответы</a></li>', ...(REVIEWS.length ? ['<li><a href="/otzyvy/">Отзывы</a></li>'] : [])])}
+    </div>
+    <div class="ftr-legal">
+      <p><b>${esc(L.company)}</b> · ${esc(L.address)}${L.pib ? ` · PIB ${esc(L.pib)}` : ''}${L.mb ? ` · MB ${esc(L.mb)}` : ''}</p>
+      <p>Посредник в обороте и аренде недвижимости, внесён в Реестр посредников (Registar posrednika) под номером <b>${esc(L.registry)}</b>.${L.agentLicense ? ` Лицензированный агент: лицензия № ${esc(L.agentLicense)}${L.agentName ? `, ${esc(L.agentName)}` : ''}.` : ''} <a href="/o-kompanii/">Правовая информация</a></p>
+      <p lang="sr">Posrednik u prometu i zakupu nepokretnosti upisan u Registar posrednika pod brojem ${esc(L.registry)}.${L.agentLicense ? ` Broj licence posrednika: ${esc(L.agentLicense)}.` : ''}</p>
     </div>
     <div class="ftr-bottom">
       <p>Помогаем с белым картоном, регистрацией, открытием счёта в банке и ВНЖ.</p>
@@ -553,6 +591,13 @@ ${LISTINGS.some((l) => l.geo) ? `<section class="block" id="karta">
 
 <section class="block">
   <div class="wrap">
+    <div class="block-head"><div><h2>Наши услуги</h2><p class="block-sub">Помогаем не только с жильём, но и с документами для жизни и бизнеса в Сербии.</p></div><a class="link-arrow" href="/uslugi/">Все услуги</a></div>
+    ${serviceTiles()}
+  </div>
+</section>
+
+<section class="block">
+  <div class="wrap">
     <div class="block-head"><h2>Как мы работаем</h2></div>
     <ol class="steps">${steps.map(([t, d], i) => `<li><span class="step-n">${String(i + 1).padStart(2, '0')}</span><span class="step-t">${t}</span><span class="step-d">${d}</span></li>`).join('')}</ol>
   </div>
@@ -579,9 +624,10 @@ ${seoText('rent')}`;
     jsonld: [
       { '@context': 'https://schema.org', '@type': 'WebSite', name: SITE.name, url: abs('/'), inLanguage: 'ru' },
       {
-        '@context': 'https://schema.org', '@type': 'RealEstateAgent', name: SITE.name, url: abs('/'),
+        '@context': 'https://schema.org', '@type': 'RealEstateAgent', name: BRAND, legalName: L.company, url: abs('/'),
+        logo: abs('/assets/maxis-logo-navy.png'), image: abs('/assets/maxis-logo-navy.png'), taxID: L.pib || undefined,
         telephone: SITE.phone || undefined, areaServed: { '@type': 'City', name: 'Белград' },
-        address: { '@type': 'PostalAddress', addressLocality: 'Белград', addressCountry: 'RS' },
+        address: { '@type': 'PostalAddress', streetAddress: L.address.split(',')[0], addressLocality: 'Beograd', addressCountry: 'RS' },
         sameAs: [`https://t.me/${SITE.tg}`, SITE.channel ? `https://t.me/${SITE.channel}` : null].filter(Boolean),
       },
     ],
@@ -713,6 +759,7 @@ for (const l of LISTINGS) {
         ${l.added ? `<p class="obj-date">Опубликовано на сайте ${ruDate(l.added)}${l.updated && l.updated !== l.added ? `, обновлено ${ruDate(l.updated)}` : ''}</p>` : ''}
         <p>${esc(l.text)}</p>
         ${l.originalLang === 'ru' && l.original ? `<p class="obj-desc">${esc(l.original).replace(/\n+/g, '<br>')}</p>` : ''}
+        <p class="obj-legal" lang="sr">Oglašivač: ${esc(legalLine)}. Cena: ${esc(money(l.price))}${l.deal === 'rent' && l.price ? ' mesečno' : ''}. Lokacija: ${esc([l.location, l.district, l.city].filter(Boolean).join(', '))}.${l.area ? ` Površina: ${l.area} m².` : ''} Struktura: ${esc(l.type === 'house' ? 'kuća' : !l.rooms || l.rooms <= 0.5 ? 'garsonjera' : `${String(l.rooms).replace('.', ',')}-sobni stan`)}.</p>
         ${restFacts.length ? `<dl class="facts">${restFacts.map(([k, v]) => `<div><dt>${esc(k)}</dt><dd>${esc(v)}</dd></div>`).join('')}</dl>` : ''}
       </section>
       ${l.features?.length ? `<section class="obj-sec"><h2>Удобства</h2><ul class="feat">${l.features.map((f) => `<li>${esc(cap(f))}</li>`).join('')}</ul></section>` : ''}
@@ -725,13 +772,14 @@ for (const l of LISTINGS) {
         ${perM2(l) ? `<p class="muted">${perM2(l)}</p>` : ''}
         <p class="panel-note" data-rate-note hidden>Пересчёт из евро по курсу на ${rateDate}. Цена в договоре — в евро.</p>
         <div class="agent">
-          <span class="agent-mark" aria-hidden="true">G</span>
-          <div><p class="agent-name">Gloria: квартиры в Сербии</p>${SITE.phone ? `<a href="${esc(telHref)}">${esc(SITE.phone)}</a>` : ''}</div>
+          <img class="agent-mark" src="/assets/maxis-icon-navy.png" alt="" width="52" height="52">
+          <div><p class="agent-name">${esc(BRAND)}</p>${SITE.phone ? `<a href="${esc(telHref)}">${esc(SITE.phone)}</a>` : ''}</div>
         </div>
         <button class="btn btn-dark btn-wide" type="button" data-open-viewing>Записаться на просмотр</button>
         ${waDigits ? `<a class="btn btn-line btn-wide" href="https://wa.me/${waDigits}?text=${waText}" rel="noopener">${ICON.wa}Написать в WhatsApp</a>` : ''}
         <a class="btn btn-line btn-wide" href="${esc(tgHref)}" rel="noopener" data-tg-text="${esc(decodeURIComponent(waText))}">${ICON.tg}Написать в Telegram</a>
         <p class="panel-note">Номер объекта: <span class="obj-id">${esc(l.id)}</span></p>
+        <p class="panel-note panel-legal">Посредник: ${esc(L.company)}, номер в Реестре посредников ${esc(L.registry)}. <a href="/o-kompanii/">Подробнее</a></p>
         ${l.deal === 'rent' ? '<p class="panel-note">Трансфер на просмотры входит в комиссию: 50% от месячной аренды.</p>' : ''}
       </div>
     </aside>
@@ -764,6 +812,7 @@ ${similar.length + more.length ? `<section class="block"><div class="wrap"><div 
   const ld = {
     '@context': 'https://schema.org', '@type': 'RealEstateListing', name: `${heading(l)}, ${placeLine(l)}`, url: abs(url), datePosted: l.added,
     description: l.text, image: photos.slice(0, 6).map(abs), inLanguage: 'ru',
+    provider: { '@type': 'RealEstateAgent', name: BRAND, legalName: L.company, url: abs('/') },
     about: {
       '@type': l.type === 'house' ? 'SingleFamilyResidence' : 'Apartment',
       floorSize: l.area ? { '@type': 'QuantitativeValue', value: l.area, unitCode: 'MTK' } : undefined,
@@ -852,6 +901,180 @@ write('izbrannoe/index.html', page({
 <section class="block block-tight"><div class="wrap"><div class="cards cards-grid" data-favs></div><p class="empty" data-favs-empty hidden>Пока пусто. Нажмите на сердечко у объекта, чтобы сохранить его здесь. <a href="/arenda/">Перейти в каталог</a></p></div></section>`,
 }));
 
+// ---------- Наши услуги ----------
+function serviceTiles(exclude = '') {
+  return `<div class="svc-grid">${SERVICES.filter((x) => x.slug !== exclude).map((x) => `<a class="svc" href="/uslugi/${x.slug}/">
+    <span class="svc-ico">${SERVICE_ICON[x.icon] || ''}</span>
+    <span class="svc-t">${esc(x.title)}</span>
+    <span class="svc-s">${esc(x.sub)}</span>
+    <span class="svc-more">Подробнее</span>
+  </a>`).join('')}</div>`;
+}
+function serviceForm(svc) {
+  return `<section class="lead" id="konsultaciya">
+  <div class="wrap lead-row">
+    <div class="lead-text">
+      <p class="eyebrow">Бесплатная консультация</p>
+      <h2>${svc ? esc(svc.h1) : 'Получите консультацию'}</h2>
+      <p>Оставьте имя и телефон: специалист свяжется с вами, разберёт вашу ситуацию и назовёт сроки и стоимость. Консультация ни к чему не обязывает.</p>
+    </div>
+    <form class="lead-form" data-service-form data-wa="${waDigits}" data-tg="${esc(SITE.tg)}">
+      <input type="hidden" name="service" value="${esc(svc ? `${svc.title} ${svc.sub}` : '')}">
+      ${svc ? '' : `<label class="fld fld-wide"><span>Услуга</span><select name="service_pick">${SERVICES.map((x) => `<option>${esc(x.title)} ${esc(x.sub)}</option>`).join('')}<option>Другое</option></select></label>`}
+      <label class="fld"><span>Имя</span><input name="name" autocomplete="name" required></label>
+      <label class="fld"><span>Телефон</span><input name="phone" type="tel" autocomplete="tel" inputmode="tel" required placeholder="+381 6… или +7 9…"></label>
+      <label class="fld fld-wide"><span>Комментарий</span><input name="comment" placeholder="Например: гражданство, сроки, ваши вопросы"></label>
+      <fieldset class="seg">
+        <legend>Где ответить</legend>
+        ${waDigits ? '<label><input type="radio" name="via" value="wa" checked><span>WhatsApp</span></label>' : ''}
+        <label><input type="radio" name="via" value="tg"${waDigits ? '' : ' checked'}><span>Telegram</span></label>
+        <label><input type="radio" name="via" value="call"><span>Звонок</span></label>
+      </fieldset>
+      <button class="btn btn-dark btn-wide" type="submit">Получить консультацию</button>
+      <input type="text" name="website" class="hp-field" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <p class="lead-note" data-lead-note role="status">Нажимая кнопку, вы соглашаетесь на обработку имени и телефона для ответа на заявку.</p>
+    </form>
+  </div>
+</section>`;
+}
+{
+  const items = [['/', 'Главная'], ['/uslugi/', 'Услуги']];
+  write('uslugi/index.html', page({
+    title: `Услуги в Сербии: ВНЖ, счёт в банке, открытие DOO и ИП — ${BRAND}`,
+    desc: 'Открытие счёта в сербском банке для физических и юридических лиц, ВНЖ и ПМЖ Сербии под ключ, регистрация ИП и DOO, юридический адрес в Белграде. Бесплатная консультация.',
+    url: '/uslugi/', nav: 'services',
+    jsonld: [crumbsLd(items), {
+      '@context': 'https://schema.org', '@type': 'ItemList', name: 'Наши услуги',
+      itemListElement: SERVICES.map((x, i) => ({ '@type': 'ListItem', position: i + 1, url: abs(`/uslugi/${x.slug}/`), name: x.h1 })),
+    }],
+    body: `<section class="page-head"><div class="wrap">${crumbs(items)}<h1>Наши услуги</h1>
+<p class="page-lead">Кроме подбора жилья, помогаем с документами для жизни и бизнеса в Сербии: банковские счета, ВНЖ и ПМЖ, регистрация компании. Выберите услугу, чтобы узнать, как всё устроено.</p></div></section>
+<section class="block block-tight"><div class="wrap">${serviceTiles()}</div></section>
+${serviceForm(null)}`,
+  }));
+  addUrl('/uslugi/');
+  for (const x of SERVICES) {
+    const url = `/uslugi/${x.slug}/`;
+    const its = [...items, [url, `${x.title} ${x.sub}`]];
+    const body = `<section class="page-head"><div class="wrap">${crumbs(its)}
+  <div class="svc-head">
+    <span class="svc-ico svc-ico-lg">${SERVICE_ICON[x.icon] || ''}</span>
+    <div><h1>${esc(x.h1)}</h1><p class="page-lead">${esc(x.lead)}</p>
+    <a class="btn btn-dark" href="#konsultaciya">Получить консультацию</a></div>
+  </div>
+</div></section>
+<div class="wrap svc-page">
+  <div class="svc-main">
+    <section class="obj-sec"><h2>Кому подходит</h2><ul class="svc-list">${x.who.map((w) => `<li>${esc(w)}</li>`).join('')}</ul></section>
+    ${x.grounds ? `<section class="obj-sec"><h2>Основания для ВНЖ</h2><div class="svc-grounds">${x.grounds.map(([t, d]) => `<div><h3>${esc(t)}</h3><p>${esc(d)}</p></div>`).join('')}</div></section>` : ''}
+    <section class="obj-sec"><h2>Как это происходит</h2><ol class="svc-steps">${x.steps.map(([t, d], i) => `<li><span class="step-n">${String(i + 1).padStart(2, '0')}</span><div><h3>${esc(t)}</h3><p>${esc(d)}</p></div></li>`).join('')}</ol></section>
+    <section class="obj-sec"><h2>Какие документы понадобятся</h2><ul class="svc-list">${x.docs.map((d) => `<li>${esc(d)}</li>`).join('')}</ul><p class="muted">Точный список зависит от вашей ситуации, мы подготовим его на консультации.</p></section>
+    <section class="obj-sec"><h2>Сроки</h2><p>${esc(x.terms)}</p></section>
+    ${x.faq?.length ? `<section class="obj-sec"><h2>Частые вопросы</h2><div class="acc">${x.faq.map(([q, a], i) => `<details${i ? '' : ' open'}><summary>${esc(q)}${ICON.chevron}</summary><p>${esc(a)}</p></details>`).join('')}</div></section>` : ''}
+  </div>
+  <aside class="svc-aside"><div class="panel">
+    <p class="panel-t">Консультация бесплатно</p>
+    <p class="muted">Расскажем, подходит ли вам этот вариант, сколько займёт и сколько будет стоить.</p>
+    <a class="btn btn-dark btn-wide" href="#konsultaciya">Оставить заявку</a>
+    ${waDigits ? `<a class="btn btn-line btn-wide" href="https://wa.me/${waDigits}?text=${encodeURIComponent(`Здравствуйте! Интересует услуга: ${x.h1}`)}" rel="noopener">${ICON.wa}WhatsApp</a>` : ''}
+    <a class="btn btn-line btn-wide" href="https://t.me/${esc(SITE.tg)}?text=${encodeURIComponent(`Здравствуйте! Интересует услуга: ${x.h1}`)}" rel="noopener">${ICON.tg}Telegram</a>
+    ${SITE.phone ? `<p class="panel-note">Телефон: <a href="${esc(telHref)}">${esc(SITE.phone)}</a></p>` : ''}
+  </div></aside>
+</div>
+${serviceForm(x)}
+<section class="block"><div class="wrap"><div class="block-head"><h2>Другие услуги</h2><a class="link-arrow" href="/uslugi/">Все услуги</a></div>${serviceTiles(x.slug)}</div></section>`;
+    write(url.slice(1) + 'index.html', page({
+      title: `${x.h1} — ${BRAND}`,
+      desc: x.lead,
+      url, nav: 'services',
+      jsonld: [crumbsLd(its), {
+        '@context': 'https://schema.org', '@type': 'Service', name: x.h1, description: x.lead, areaServed: { '@type': 'Country', name: 'Сербия' },
+        provider: { '@type': 'Organization', name: BRAND, legalName: L.company, url: abs('/') },
+      }, ...(x.faq?.length ? [{ '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: x.faq.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a } })) }] : [])],
+      body,
+    }));
+    addUrl(url);
+  }
+}
+
+// ---------- О компании: данные посредника для проверяющих органов ----------
+{
+  const items = [['/', 'Главная'], ['/o-kompanii/', 'О компании']];
+  const row = (ru, sr, v) => (v ? `<div><dt>${ru}<span lang="sr">${sr}</span></dt><dd>${v}</dd></div>` : '');
+  const body = `<section class="page-head"><div class="wrap">${crumbs(items)}<h1>О компании и правовая информация</h1>
+<p class="page-lead">${esc(BRAND)} работает как зарегистрированный посредник в обороте и аренде недвижимости в Республике Сербия. Ниже приведены сведения, которые закон обязывает публиковать, а также общие условия нашей работы.</p></div></section>
+
+<section class="block block-tight"><div class="wrap">
+  <h2 class="h-small">Сведения о посреднике <span class="muted" lang="sr">/ Podaci o posredniku</span></h2>
+  <dl class="legal-dl">
+    ${row('Наименование', 'Poslovno ime', esc(L.company))}
+    ${row('Адрес (седиште)', 'Sedište', esc(L.address))}
+    ${row('ПИБ', 'PIB', esc(L.pib))}
+    ${row('Матичный номер', 'Matični broj', esc(L.mb))}
+    ${row('Номер в Реестре посредников', 'Broj u Registru posrednika', `<b>${esc(L.registry)}</b>`)}
+    ${row('Лицензия агента', 'Broj licence posrednika', L.agentLicense ? `№ ${esc(L.agentLicense)}${L.agentName ? `, ${esc(L.agentName)}` : ''}` : '')}
+    ${row('Директор', 'Direktor', esc(L.director))}
+    ${row('Страхование ответственности', 'Osiguranje od odgovornosti', esc(L.insurance))}
+    ${row('Телефон', 'Telefon', SITE.phone ? `<a href="${esc(telHref)}">${esc(SITE.phone)}</a>` : '')}
+    ${row('Сайт', 'Internet stranica', esc(SITE.url || ''))}
+  </dl>
+</div></section>
+
+<section class="block block-tight"><div class="wrap legal-text">
+  <h2 class="h-small">Правовая основа</h2>
+  <p>Деятельность посредника регулируется Законом о посредовании в обороте и аренде недвижимости Республики Сербия («Službeni glasnik RS», br. 95/2013, 41/2018 и 91/2019). Реестр посредников ведёт министерство, отвечающее за торговлю; сведения реестра публичны, и любой желающий может проверить в нём нашу компанию по номеру ${esc(L.registry)}.</p>
+  <p>В соответствии со статьёй 18 Закона в каждом нашем объявлении указаны наименование посредника, номер в Реестре посредников, цена, местоположение, площадь и структура объекта.</p>
+  <p>Посредничество осуществляется на основании письменного договора о посредничестве, заключаемого с клиентом (налогодавцем). До заключения договора мы знакомим клиента с общими условиями работы и размером вознаграждения.</p>
+  <div lang="sr" class="legal-sr">
+    <h3>Pravni okvir</h3>
+    <p>${esc(L.company)}, ${esc(L.address)}${L.pib ? `, PIB ${esc(L.pib)}` : ''}${L.mb ? `, MB ${esc(L.mb)}` : ''}, obavlja delatnost posredovanja u prometu i zakupu nepokretnosti u skladu sa Zakonom o posredovanju u prometu i zakupu nepokretnosti („Sl. glasnik RS”, br. 95/2013, 41/2018 i 91/2019) i upisan je u Registar posrednika pod brojem ${esc(L.registry)}.${L.agentLicense ? ` Broj licence posrednika: ${esc(L.agentLicense)}${L.agentName ? ` (${esc(L.agentName)})` : ''}.` : ''}</p>
+    <p>U skladu sa članom 18. Zakona, u svakom oglasu na ovoj internet stranici navedeni su poslovno ime posrednika, broj pod kojim je upisan u Registar posrednika, kao i cena, lokacija, površina i struktura nepokretnosti.</p>
+  </div>
+</div></section>
+
+<section class="block block-tight" id="opsti-uslovi"><div class="wrap legal-text">
+  <h2 class="h-small">Общие условия работы <span class="muted" lang="sr">/ Opšti uslovi poslovanja</span></h2>
+  <p>Кратко: мы ищем для клиента вторую сторону сделки (покупателя, продавца, арендатора или арендодателя), организуем просмотры, проверяем документы и помогаем подготовить договор. Вознаграждение посредника выплачивается только после заключения сделки, если иное не указано в договоре о посредничестве.</p>
+  <div lang="sr" class="legal-sr">
+    <h3>1. Opšte odredbe</h3>
+    <p>Ovim Opštim uslovima poslovanja uređuje se poslovni odnos između posrednika ${esc(L.company)} (u daljem tekstu: Posrednik) i nalogodavca, fizičkog ili pravnog lica. Posredovanje se vrši na osnovu pisanog ugovora o posredovanju. Zaključenjem ugovora o posredovanju nalogodavac potvrđuje da je upoznat i saglasan sa ovim Opštim uslovima.</p>
+    <h3>2. Obaveze posrednika</h3>
+    <p>Posrednik je dužan da postupa savesno i pošteno, da nastoji da nađe i dovede u vezu sa nalogodavcem lice radi zaključenja ugovora, da izvrši uvid u isprave kojima se dokazuje pravo svojine na nepokretnosti i upozori nalogodavca na očigledne rizike, da obavesti nalogodavca o okolnostima značajnim za posao, da posreduje u pregovorima, da omogući razgledanje nepokretnosti, da čuva lične podatke nalogodavca i da u oglasima navodi zakonom propisane podatke.</p>
+    <h3>3. Obaveze nalogodavca</h3>
+    <p>Nalogodavac je dužan da posredniku pruži tačne podatke o nepokretnosti i dostavi na uvid isprave o pravu svojine, da obavesti posrednika o svim promenama, da omogući razgledanje nepokretnosti i da posredniku isplati ugovorenu posredničku naknadu.</p>
+    <h3>4. Posrednička naknada (cenovnik)</h3>
+    <p>Posrednik stiče pravo na naknadu u trenutku zaključenja ugovora o prometu ili zakupu nepokretnosti sa licem koje je posrednik doveo u vezu sa nalogodavcem, ukoliko ugovorom o posredovanju nije drugačije određeno.</p>
+    <ul>
+      <li>Posredovanje u zakupu: ${esc(L.commissionRent)}.</li>
+      <li>Posredovanje u kupoprodaji: ${esc(L.commissionSale)}.</li>
+    </ul>
+    <p>Tačan iznos naknade utvrđuje se ugovorom o posredovanju. Dodatne usluge (prevod, pratnja u banci, priprema dokumentacije) naplaćuju se samo ako su posebno ugovorene.</p>
+    <h3>5. Ekskluzivno posredovanje</h3>
+    <p>Ako je ugovoreno ekskluzivno posredovanje, nalogodavac se obavezuje da za vreme trajanja ugovora ne angažuje drugog posrednika. Posrednik je dužan da nalogodavca posebno upozori na značenje i pravne posledice klauzule o ekskluzivnom posredovanju.</p>
+    <h3>6. Prestanak ugovora</h3>
+    <p>Ugovor o posredovanju prestaje istekom roka na koji je zaključen, zaključenjem pravnog posla radi kojeg je zaključen ili otkazom u skladu sa ugovorom i zakonom.</p>
+    <h3>7. Zaštita podataka i reklamacije</h3>
+    <p>Lični podaci nalogodavaca i lica koja ostavljaju upite preko ove internet stranice obrađuju se isključivo radi pružanja usluge posredovanja. Prigovori se podnose pisanim putem na adresu sedišta Posrednika ili preko kontakata navedenih na sajtu; Posrednik odgovara u roku od osam dana.</p>
+    <h3>8. Primena propisa</h3>
+    <p>Na sve što nije uređeno ugovorom o posredovanju i ovim Opštim uslovima primenjuju se odredbe Zakona o posredovanju u prometu i zakupu nepokretnosti i Zakona o obligacionim odnosima.</p>
+  </div>
+</div></section>
+${serviceForm(null)}`;
+  write('o-kompanii/index.html', page({
+    title: `О компании ${BRAND}: лицензия, реестр посредников, общие условия`,
+    desc: `${L.company}: посредник в обороте и аренде недвижимости, номер в Реестре посредников Сербии ${L.registry}. Реквизиты и общие условия работы.`,
+    url: '/o-kompanii/', nav: 'about',
+    jsonld: [crumbsLd(items), {
+      '@context': 'https://schema.org', '@type': 'RealEstateAgent', name: BRAND, legalName: L.company, url: abs('/'), taxID: L.pib || undefined,
+      logo: abs('/assets/maxis-logo-navy.png'), telephone: SITE.phone || undefined,
+      address: { '@type': 'PostalAddress', streetAddress: L.address.split(',')[0], addressLocality: 'Beograd', addressCountry: 'RS' },
+      identifier: { '@type': 'PropertyValue', name: 'Registar posrednika', value: L.registry },
+    }],
+    body,
+  }));
+  addUrl('/o-kompanii/');
+}
+
 // Контакты
 write('kontakty/index.html', page({
   title: `Контакты — ${SITE.name}`, desc: 'Как связаться с агентством: Telegram, WhatsApp, телефон.', url: '/kontakty/', nav: 'contacts',
@@ -861,7 +1084,9 @@ write('kontakty/index.html', page({
   <div><dt>Telegram</dt><dd><a href="https://t.me/${esc(SITE.tg)}" rel="noopener">@${esc(SITE.tg)}</a></dd></div>
   ${waDigits ? `<div><dt>WhatsApp</dt><dd><a href="https://wa.me/${waDigits}" rel="noopener">Написать</a></dd></div>` : ''}
   ${SITE.channel ? `<div><dt>Канал с новыми объектами</dt><dd><a href="https://t.me/${esc(SITE.channel)}" rel="noopener">@${esc(SITE.channel)}</a></dd></div>` : ''}
-  <div><dt>Город</dt><dd>Белград, Сербия</dd></div>
+  <div><dt>Адрес</dt><dd>${esc(L.address)}</dd></div>
+  <div><dt>Компания</dt><dd>${esc(L.company)}</dd></div>
+  <div><dt>Номер в Реестре посредников</dt><dd>${esc(L.registry)}</dd></div>
 </dl></div></section>
 ${leadForm('Оставьте запрос')}`,
 }));
@@ -882,7 +1107,12 @@ write('llms.txt', `# ${SITE.name}
 
 > Каталог квартир и домов в Белграде (Сербия) для аренды и покупки, объекты от собственников, описания на русском языке. Агентство помогает русскоязычным клиентам с подбором жилья, просмотрами, белым картоном, регистрацией, банковским счётом и ВНЖ.
 
+Агентство: ${L.company}, ${L.address}. Номер в Реестре посредников Сербии: ${L.registry}.
 Контакты: Telegram @${SITE.tg}${SITE.phone ? `, телефон ${SITE.phone}` : ''}.
+
+## Услуги
+${SERVICES.map((x) => `- [${x.h1}](${abs(`/uslugi/${x.slug}/`)})`).join('\n')}
+- [О компании и правовая информация](${abs('/o-kompanii/')})
 
 ## Разделы
 - [Аренда](${abs('/arenda/')}): ${objects(byDeal.rent.length)}

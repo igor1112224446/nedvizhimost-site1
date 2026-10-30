@@ -603,6 +603,44 @@
     });
   });
 
+  // ---------- заявка на консультацию по услуге ----------
+  $$('[data-service-form]').forEach((form) => {
+    const t0 = Date.now();
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const f = form.elements;
+      const via = form.querySelector('input[name="via"]:checked')?.value || 'tg';
+      const viaName = via === 'wa' ? 'WhatsApp' : via === 'call' ? 'Звонок' : 'Telegram';
+      const service = (f.service_pick ? f.service_pick.value : f.service.value) || '';
+      const note = form.querySelector('[data-lead-note]');
+      const btn = form.querySelector('button[type="submit"]');
+      const fd = new FormData();
+      fd.append('kind', 'service');
+      fd.append('service', service);
+      fd.append('name', f.name.value.trim());
+      fd.append('phone', f.phone.value.trim());
+      fd.append('wish', f.comment.value.trim());
+      fd.append('via', viaName);
+      fd.append('url', location.href);
+      fd.append('website', f.website ? f.website.value : '');
+      fd.append('t0', t0);
+      btn.disabled = true;
+      note.textContent = 'Отправляю…';
+      try {
+        await postLead(fd);
+        note.textContent = 'Спасибо! Заявка принята, специалист свяжется с вами в ближайшее время.';
+        form.reset();
+      } catch (err) {
+        const text = `Здравствуйте! Меня зовут ${f.name.value.trim()}, телефон ${f.phone.value.trim()}. Нужна консультация: ${service}.${f.comment.value.trim() ? ` ${f.comment.value.trim()}` : ''}`;
+        if (via === 'wa' && form.dataset.wa) window.open(`https://wa.me/${form.dataset.wa}?text=${encodeURIComponent(text)}`, '_blank', 'noopener');
+        else window.open(`https://t.me/${form.dataset.tg}?text=${encodeURIComponent(text)}`, '_blank', 'noopener');
+        note.textContent = 'Открыли мессенджер с готовым сообщением, нажмите «Отправить».';
+      } finally {
+        btn.disabled = false;
+      }
+    });
+  });
+
   // ---------- запись на просмотр ----------
   const vw = document.querySelector('[data-viewing]');
   if (vw) {
