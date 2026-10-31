@@ -2,6 +2,6 @@
   "name": "nedvizhimost-site1",
   "private": true,
   "type": "module",
-  "scripts": { "build": "node build.mjs" },
+  "scripts": { "build": "node build.mjs && SITE_LANG=en node build.mjs" },
   "engines": { "node": ">=18" }
 }

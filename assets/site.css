@@ -751,3 +751,9 @@ p { margin: 0; }
   .svc-ico-lg { width: 64px; height: 64px; }
   .svc-grounds { grid-template-columns: 1fr; }
 }
+
+/* ---------- переключатель языка ---------- */
+.lang-sw { display: inline-grid; place-items: center; min-width: 40px; height: 40px; padding: 0 8px; border: 1px solid var(--line-2); font-size: 12px; font-weight: 600; letter-spacing: .08em; text-decoration: none; color: inherit; }
+.lang-sw:hover { border-color: currentColor; }
+.has-hero .hdr:not(.is-solid):not(:hover):not(:focus-within) .lang-sw { border-color: rgba(255,255,255,.5); }
+@media (max-width: 720px) { .lang-sw { min-width: 34px; height: 34px; } }

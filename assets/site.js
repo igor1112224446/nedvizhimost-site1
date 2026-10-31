@@ -2,11 +2,15 @@
 (() => {
   const $$ = (s, r = document) => [...r.querySelectorAll(s)];
   const plural = (n, f) => { const a = n % 100, b = n % 10; return a >= 11 && a <= 14 ? f[2] : b === 1 ? f[0] : b >= 2 && b <= 4 ? f[1] : f[2]; };
-  const objects = (n) => `${n} ${plural(n, ['объект', 'объекта', 'объектов'])}`;
+  // язык страницы: английская версия лежит в /en/
+  const EN = document.documentElement.lang === 'en';
+  const T = (ru, en) => (EN ? en : ru);
+  const P = EN ? '/en' : '';
+  const objects = (n) => (EN ? `${n} listing${n === 1 ? '' : 's'}` : `${n} ${plural(n, ['объект', 'объекта', 'объектов'])}`);
   // ---------- валюта: евро, динары, рубли ----------
   let RATES = { EUR: 1 };
   try { RATES = { ...RATES, ...JSON.parse(document.documentElement.dataset.rates || '{}') }; } catch (e) { /* только евро */ }
-  const SYM = { EUR: '€', RSD: 'дин.', RUB: '₽' };
+  const SYM = { EUR: '€', RSD: T('дин.', 'RSD'), RUB: '₽' };
   const CKEY = 'ns-cur';
   let cur = (() => { try { const c = localStorage.getItem(CKEY); return RATES[c] ? c : 'EUR'; } catch (e) { return 'EUR'; } })();
   const conv = (eur) => {
@@ -16,14 +20,14 @@
     return Math.round(v / step) * step;
   };
   const fmt = (eur, suf = '') => `${conv(eur).toLocaleString('ru-RU')}\u00a0${SYM[cur]}${suf}`;
-  const money = (n) => (n ? fmt(n) : 'Цена по запросу');
+  const money = (n) => (n ? fmt(n) : T('Цена по запросу', 'Price on request'));
   const toEur = (v) => (v ? v / RATES[cur] : 0); // значения фильтров вводятся в выбранной валюте
   function paintCur() {
     $$('.pr[data-eur]').forEach((el) => { el.textContent = fmt(+el.dataset.eur, el.dataset.suf || ''); });
     $$('[data-cur-sym]').forEach((el) => { el.textContent = SYM[cur].replace('.', ''); });
     $$('[data-cur]').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.cur === cur)));
     $$('[data-rate-note]').forEach((el) => { el.hidden = cur === 'EUR'; });
-    $$('[data-cur-ph]').forEach((el) => { el.placeholder = `Цена до, ${SYM[cur]}`; });
+    $$('[data-cur-ph]').forEach((el) => { el.placeholder = `${T('Цена до', 'Price up to')}, ${SYM[cur]}`; });
   }
   document.addEventListener('click', (e) => {
     const b = e.target.closest('[data-cur]');
@@ -36,7 +40,7 @@
   paintCur();
   const reduced = matchMedia('(prefers-reduced-motion: reduce)').matches;
   let liteCache;
-  const lite = () => (liteCache ||= fetch('/data/lite.json').then((r) => r.json()).catch(() => []));
+  const lite = () => (liteCache ||= fetch(P + '/data/lite.json').then((r) => r.json()).catch(() => []));
 
   async function loadLeafletLib() {
     if (window.L) return;
@@ -61,9 +65,9 @@
     $$('[data-fav]').forEach((b) => {
       const on = f.has(b.dataset.fav);
       b.setAttribute('aria-pressed', String(on));
-      b.setAttribute('aria-label', on ? 'Убрать из избранного' : 'В избранное');
+      b.setAttribute('aria-label', on ? T('Убрать из избранного', 'Remove from saved') : T('В избранное', 'Save'));
       const t = b.querySelector('span');
-      if (t) t.textContent = on ? 'В избранном' : 'В избранное';
+      if (t) t.textContent = on ? T('В избранном', 'Saved') : T('В избранное', 'Save');
     });
     $$('[data-fav-count]').forEach((c) => { c.textContent = f.size; c.hidden = !f.size; });
   }
@@ -141,8 +145,8 @@
         if (checked.length === 1) text = checked[0].closest('label').querySelector('span').textContent;
         else if (checked.length > 1) text = `${base}: ${checked.length}`;
         else if (nums.some(Boolean)) {
-          const unit = base === 'Цена' ? ` ${SYM[cur]}` : ' м²';
-          text = nums[0] && nums[1] ? `${nums[0].toLocaleString('ru-RU')}–${nums[1].toLocaleString('ru-RU')}${unit}` : nums[0] ? `от ${nums[0].toLocaleString('ru-RU')}${unit}` : `до ${nums[1].toLocaleString('ru-RU')}${unit}`;
+          const unit = (base === 'Цена' || base === 'Price') ? ` ${SYM[cur]}` : T(' м²', ' m²');
+          text = nums[0] && nums[1] ? `${nums[0].toLocaleString('ru-RU')}–${nums[1].toLocaleString('ru-RU')}${unit}` : nums[0] ? `${T('от', 'from')} ${nums[0].toLocaleString('ru-RU')}${unit}` : `${T('до', 'up to')} ${nums[1].toLocaleString('ru-RU')}${unit}`;
         }
         lab.textContent = text;
         d.classList.toggle('is-set', text !== base);
@@ -181,10 +185,10 @@
       cards.forEach((c) => { c.hidden = true; });
       visible.forEach((c, i) => { box.appendChild(c); c.hidden = view !== 'map' && i >= shown; });
       cards.filter((c) => !set.has(c)).forEach((c) => box.appendChild(c));
-      found.textContent = `Найдено: ${objects(visible.length)}`;
+      found.textContent = `${T('Найдено', 'Found')}: ${objects(visible.length)}`;
       empty.hidden = visible.length > 0;
       more.hidden = view === 'map' || visible.length <= shown;
-      if (!more.hidden) more.textContent = `Показать ещё ${Math.min(PAGE, visible.length - shown)} из ${visible.length - shown}`;
+      if (!more.hidden) more.textContent = T(`Показать ещё ${Math.min(PAGE, visible.length - shown)} из ${visible.length - shown}`, `Show ${Math.min(PAGE, visible.length - shown)} more of ${visible.length - shown}`);
       labels();
       if (view === 'map') drawMap();
       // адрес страницы
@@ -228,7 +232,7 @@
       });
     }
     async function drawMap() {
-      try { await loadLeaflet(); } catch (e) { mapBox.textContent = 'Карта не загрузилась. Проверьте интернет и обновите страницу.'; return; }
+      try { await loadLeaflet(); } catch (e) { mapBox.textContent = T('Карта не загрузилась. Проверьте интернет и обновите страницу.', 'The map did not load. Check your connection and refresh the page.'); return; }
       const data = await lite();
       const byId = new Map(data.map((d) => [d.id, d]));
       if (!map) {
@@ -242,7 +246,7 @@
         const d = byId.get(c.dataset.id);
         if (!d || !d.g) return;
         const icon = L.divIcon({ className: '', html: `<span class="pin">${d.p ? money(d.p) : '—'}</span>`, iconSize: [0, 0] });
-        L.marker(d.g, { icon }).addTo(layer).bindPopup(`<div class="map-pop">${d.img ? `<img src="${d.img}" alt="">` : ''}<b>${money(d.p)}</b><span>${d.t}</span><br><span>${d.ad || d.pl}</span><br><a href="${d.u}">Подробнее</a></div>`);
+        L.marker(d.g, { icon }).addTo(layer).bindPopup(`<div class="map-pop">${d.img ? `<img src="${d.img}" alt="">` : ''}<b>${money(d.p)}</b><span>${d.t}</span><br><span>${d.ad || d.pl}</span><br><a href="${d.u}">${T('Подробнее', 'Details')}</a></div>`);
         pts.push(d.g);
       });
       setTimeout(() => { map.invalidateSize(); if (pts.length) map.fitBounds(pts, { padding: [40, 40], maxZoom: 15 }); }, 50);
@@ -271,7 +275,7 @@
       if (f.rooms.value) u.set('rooms', f.rooms.value);
       const max = parseInt(String(f.max.value).replace(/\D/g, ''), 10);
       if (max) u.set('max', max);
-      let path = deal === 'sale' ? '/prodazha/' : '/arenda/';
+      let path = P + (deal === 'sale' ? '/prodazha/' : '/arenda/');
       if (deal === 'sale') {
         const sub = { flat: 'kvartiry', new: 'novostrojki', house: 'doma-i-uchastki', commercial: 'kommercheskaya' }[type];
         if (sub) path += sub + '/';
@@ -314,10 +318,10 @@
     const cardHtml = (d) => {
       const n = Math.max(1, d.n || 1);
       const imgs = Array.from({ length: n }, (_, i) => `<img src="${d.img.replace(/1\.jpg$/, `${i + 1}.jpg`)}" alt="${d.t}, ${d.pl}" width="640" height="480" loading="lazy" decoding="async">`).join('');
-      return `<article class="card" data-id="${d.id}"><div class="slider" data-slider><a class="slider-track" href="${d.u}" tabindex="-1">${d.img ? imgs : ''}</a>${n > 1 ? `<button class="sl-btn sl-prev" type="button" aria-label="Предыдущее фото">${arrows}</button><button class="sl-btn sl-next" type="button" aria-label="Следующее фото">${arrowsN}</button><span class="sl-count" aria-hidden="true">1 / ${n}</span>` : ''}${d.nw ? '<span class="badges"><span class="badge">Новое</span></span>' : ''}<button class="fav" type="button" data-fav="${d.id}" aria-label="В избранное" aria-pressed="false">${heart}</button></div>
+      return `<article class="card" data-id="${d.id}"><div class="slider" data-slider><a class="slider-track" href="${d.u}" tabindex="-1">${d.img ? imgs : ''}</a>${n > 1 ? `<button class="sl-btn sl-prev" type="button" aria-label="${T('Предыдущее фото', 'Previous photo')}">${arrows}</button><button class="sl-btn sl-next" type="button" aria-label="${T('Следующее фото', 'Next photo')}">${arrowsN}</button><span class="sl-count" aria-hidden="true">1 / ${n}</span>` : ''}${d.nw ? `<span class="badges"><span class="badge">${T('Новое', 'New')}</span></span>` : ''}<button class="fav" type="button" data-fav="${d.id}" aria-label="${T('В избранное', 'Save')}" aria-pressed="false">${heart}</button></div>
         <div class="card-main"><p class="card-place">${d.pl}</p><h3 class="card-title"><a href="${d.u}">${d.t.charAt(0).toUpperCase() + d.t.slice(1)}</a></h3>
-        <dl class="card-facts">${d.a ? `<div><dt>Площадь</dt><dd>${d.a} м²</dd></div>` : ''}<div><dt>Комнат</dt><dd>${d.rl}</dd></div>${d.fl ? `<div><dt>Этаж</dt><dd>${d.fl}</dd></div>` : ''}</dl></div>
-        <div class="card-side"><p class="card-price">${d.p ? `<span class="pr" data-eur="${d.p}">${money(d.p)}</span><small>${d.d === 'rent' ? ' / мес' : ''}</small>` : 'Цена по запросу'}</p></div></article>`;
+        <dl class="card-facts">${d.a ? `<div><dt>${T('Площадь', 'Area')}</dt><dd>${d.a} ${T('м²', 'm²')}</dd></div>` : ''}<div><dt>${T('Комнат', 'Rooms')}</dt><dd>${d.rl}</dd></div>${d.fl ? `<div><dt>${T('Этаж', 'Floor')}</dt><dd>${d.fl}</dd></div>` : ''}</dl></div>
+        <div class="card-side"><p class="card-price">${d.p ? `<span class="pr" data-eur="${d.p}">${money(d.p)}</span><small>${d.d === 'rent' ? T(' / мес', ' / mo') : ''}</small>` : T('Цена по запросу', 'Price on request')}</p></div></article>`;
     };
     const render = (from) => {
       const deal = sw?.querySelector('input:checked')?.value || '';
@@ -351,7 +355,7 @@
     const io = new IntersectionObserver(async ([en]) => {
       if (!en.isIntersecting) return;
       io.disconnect();
-      try { await loadLeafletLib(); } catch (e) { hm.textContent = 'Карта не загрузилась. Проверьте интернет и обновите страницу.'; return; }
+      try { await loadLeafletLib(); } catch (e) { hm.textContent = T('Карта не загрузилась. Проверьте интернет и обновите страницу.', 'The map did not load. Check your connection and refresh the page.'); return; }
       const data = (await lite()).filter((d) => d.g);
       const map = L.map(hm, { scrollWheelZoom: false }).setView([44.8125, 20.4612], 12);
       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19, attribution: '&copy; OpenStreetMap' }).addTo(map);
@@ -363,7 +367,7 @@
         const pts = [];
         data.filter((d) => !deal || d.d === deal).forEach((d) => {
           const icon = L.divIcon({ className: '', html: `<span class="pin">${d.p ? money(d.p) : '—'}</span>`, iconSize: [0, 0] });
-          L.marker(d.g, { icon }).addTo(layer).bindPopup(`<div class="map-pop">${d.img ? `<img src="${d.img}" alt="">` : ''}<b>${money(d.p)}${d.d === 'rent' && d.p ? ' / мес' : ''}</b><span>${d.t}</span><br><span>${d.ad || d.pl}</span><br><a href="${d.u}">Подробнее</a></div>`);
+          L.marker(d.g, { icon }).addTo(layer).bindPopup(`<div class="map-pop">${d.img ? `<img src="${d.img}" alt="">` : ''}<b>${money(d.p)}${d.d === 'rent' && d.p ? T(' / мес', ' / mo') : ''}</b><span>${d.t}</span><br><span>${d.ad || d.pl}</span><br><a href="${d.u}">Подробнее</a></div>`);
           pts.push(d.g);
         });
         if (fit && pts.length) map.fitBounds(pts, { padding: [40, 40], maxZoom: 14 });
@@ -388,7 +392,7 @@
       else if (form.elements[k]) form.elements[k].value = v;
     }
     (async () => {
-      try { await loadLeafletLib(); } catch (e) { canvas.textContent = 'Карта не загрузилась. Проверьте интернет и обновите страницу.'; return; }
+      try { await loadLeafletLib(); } catch (e) { canvas.textContent = T('Карта не загрузилась. Проверьте интернет и обновите страницу.', 'The map did not load. Check your connection and refresh the page.'); return; }
       const data = await lite();
       const map = L.map(canvas, { zoomControl: true }).setView([44.8125, 20.4612], 12);
       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19, attribution: '&copy; OpenStreetMap' }).addTo(map);
@@ -401,19 +405,19 @@
         const max = toEur(parseInt(String(f.max.value).replace(/\D/g, ''), 10) || 0);
         return (!deal || d.d === deal) && (!f.district.value || d.ds === f.district.value) && (!f.rooms.value || d.r === f.rooms.value) && (!max || (d.p && d.p <= max));
       };
-      const item = (d) => `<a class="ml-item" href="${d.u}" data-id="${d.id}">${d.img ? `<img src="${d.img}" alt="" loading="lazy" width="160" height="120">` : '<span class="ml-noimg"></span>'}<span><b>${money(d.p)}${d.d === 'rent' && d.p ? ' / мес' : ''}</b><span>${d.t}</span><small>${d.ad || d.pl}</small></span></a>`;
+      const item = (d) => `<a class="ml-item" href="${d.u}" data-id="${d.id}">${d.img ? `<img src="${d.img}" alt="" loading="lazy" width="160" height="120">` : '<span class="ml-noimg"></span>'}<span><b>${money(d.p)}${d.d === 'rent' && d.p ? T(' / мес', ' / mo') : ''}</b><span>${d.t}</span><small>${d.ad || d.pl}</small></span></a>`;
       const renderList = () => {
         const b = map.getBounds();
         const inView = shown.filter((d) => b.contains(d.g));
-        listEl.innerHTML = inView.length ? inView.slice(0, 60).map(item).join('') : '<p class="ml-empty">В этой части карты объектов нет. Отдалите карту или измените фильтр.</p>';
-        foundEl.textContent = `На карте: ${objects(shown.length)}`;
+        listEl.innerHTML = inView.length ? inView.slice(0, 60).map(item).join('') : `<p class="ml-empty">${T('В этой части карты объектов нет. Отдалите карту или измените фильтр.', 'No listings in this part of the map. Zoom out or change the filter.')}</p>`;
+        foundEl.textContent = `${T('На карте', 'On the map')}: ${objects(shown.length)}`;
       };
       const draw = (fit) => {
         layer.clearLayers(); markers.clear();
         shown = data.filter((d) => d.g && pass(d));
         shown.forEach((d) => {
           const icon = L.divIcon({ className: '', html: `<span class="pin">${d.p ? money(d.p) : '—'}</span>`, iconSize: [0, 0] });
-          const m = L.marker(d.g, { icon }).addTo(layer).bindPopup(`<div class="map-pop">${d.img ? `<img src="${d.img}" alt="">` : ''}<b>${money(d.p)}</b><span>${d.t}</span><br><span>${d.ad || d.pl}</span><br><a href="${d.u}">Подробнее</a></div>`);
+          const m = L.marker(d.g, { icon }).addTo(layer).bindPopup(`<div class="map-pop">${d.img ? `<img src="${d.img}" alt="">` : ''}<b>${money(d.p)}</b><span>${d.t}</span><br><span>${d.ad || d.pl}</span><br><a href="${d.u}">${T('Подробнее', 'Details')}</a></div>`);
           markers.set(d.id, m);
         });
         if (fit && shown.length) map.fitBounds(shown.map((d) => d.g), { padding: [40, 40], maxZoom: 15 });
@@ -445,7 +449,7 @@
       const sale = of.querySelector('input[name="deal"]:checked').value === 'Продать';
       $$('[data-rent-only]', of).forEach((el) => { el.hidden = sale; });
       $$('[data-sale-only]', of).forEach((el) => { el.hidden = !sale; });
-      of.querySelector('[data-price-label]').textContent = sale ? 'Цена, € *' : 'Цена в месяц, € *';
+      of.querySelector('[data-price-label]').textContent = sale ? T('Цена, € *', 'Price, € *') : T('Цена в месяц, € *', 'Monthly rent, € *');
     };
     of.addEventListener('change', (e) => { if (e.target.name === 'deal') syncDeal(); });
     syncDeal();
@@ -466,7 +470,7 @@
       } catch (e) { return file; }
     };
     const paint = () => {
-      listBox.innerHTML = photos.map((p, i) => `<div class="ph"><img src="${p.url}" alt="Фото ${i + 1}"><button type="button" data-rm="${i}" aria-label="Убрать фото ${i + 1}">×</button>${i ? '' : '<span>Обложка</span>'}</div>`).join('');
+      listBox.innerHTML = photos.map((p, i) => `<div class="ph"><img src="${p.url}" alt="${T('Фото', 'Photo')} ${i + 1}"><button type="button" data-rm="${i}" aria-label="${T('Убрать фото', 'Remove photo')} ${i + 1}">×</button>${i ? '' : `<span>${T('Обложка', 'Cover')}</span>`}</div>`).join('');
     };
     input.addEventListener('change', async () => {
       const files = [...input.files].filter((f) => f.type.startsWith('image/')).slice(0, 10 - photos.length);
@@ -486,14 +490,14 @@
     of.addEventListener('submit', async (e) => {
       e.preventDefault();
       const bad = $$('[required]', of).find((el) => (el.type === 'checkbox' ? !el.checked : !String(el.value).trim()));
-      if (bad) { note.textContent = 'Заполните поля со звёздочкой и подтвердите согласие.'; note.classList.add('err'); bad.focus(); return; }
+      if (bad) { note.textContent = T('Заполните поля со звёздочкой и подтвердите согласие.', 'Fill in the fields marked with an asterisk and confirm your consent.'); note.classList.add('err'); bad.focus(); return; }
       const fd = new FormData(of);
       fd.delete('photos');
       photos.forEach((p, i) => fd.append('photos', p.blob, `photo_${i + 1}.jpg`));
       const btn = of.querySelector('[data-owner-submit]');
       btn.disabled = true;
       note.classList.remove('err');
-      note.textContent = photos.length ? `Отправляю объявление и ${photos.length} фото…` : 'Отправляю…';
+      note.textContent = photos.length ? T(`Отправляю объявление и ${photos.length} фото…`, `Sending the listing and ${photos.length} photos…`) : T('Отправляю…', 'Sending…');
       try {
         const r = await fetch('/api/submit', { method: 'POST', body: fd });
         const j = await r.json().catch(() => ({}));
@@ -503,7 +507,7 @@
         scrollTo({ top: 0, behavior: reduced ? 'auto' : 'smooth' });
       } catch (err) {
         note.classList.add('err');
-        note.innerHTML = `Не получилось отправить: ${err.message}. Напишите нам напрямую в <a href="https://t.me/${of.dataset.tg}">Telegram</a>.`;
+        note.innerHTML = T(`Не получилось отправить: ${err.message}. Напишите нам напрямую в <a href="https://t.me/${of.dataset.tg}">Telegram</a>.`, `Could not send: ${err.message}. Please message us directly on <a href="https://t.me/${of.dataset.tg}">Telegram</a>.`);
         btn.disabled = false;
       }
     });
@@ -517,7 +521,7 @@
     const img = lb.querySelector('img');
     const cnt = lb.querySelector('.lb-count');
     let i = 0;
-    const show = (n) => { i = (n + photos.length) % photos.length; img.src = photos[i]; img.alt = `Фото ${i + 1}`; cnt.textContent = `${i + 1} / ${photos.length}`; };
+    const show = (n) => { i = (n + photos.length) % photos.length; img.src = photos[i]; img.alt = `${T('Фото', 'Photo')} ${i + 1}`; cnt.textContent = `${i + 1} / ${photos.length}`; };
     gal.addEventListener('click', (e) => { const b = e.target.closest('[data-open]'); if (!b) return; show(+b.dataset.open); lb.showModal(); });
     lb.querySelector('.lb-prev').onclick = () => show(i - 1);
     lb.querySelector('.lb-next').onclick = () => show(i + 1);
@@ -558,7 +562,7 @@
       const byId = new Map(data.map((d) => [d.id, d]));
       const list = ids.map((id) => byId.get(id)).filter(Boolean);
       document.querySelector('[data-favs-empty]').hidden = list.length > 0;
-      favBox.innerHTML = list.map((d) => `<article class="card"><div class="slider"><a class="slider-track" href="${d.u}">${d.img ? `<img src="${d.img}" alt="" loading="lazy" width="640" height="480">` : ''}</a><button class="fav" type="button" data-fav="${d.id}" aria-pressed="true">${document.querySelector('.fav-link svg').outerHTML}</button></div><div class="card-side"><p class="card-price">${money(d.p)}${d.d === 'rent' && d.p ? '<small> / мес</small>' : ''}</p></div><div class="card-main"><p class="card-place">${d.pl}</p><h3 class="card-title"><a href="${d.u}">${d.t}</a></h3></div></article>`).join('');
+      favBox.innerHTML = list.map((d) => `<article class="card"><div class="slider"><a class="slider-track" href="${d.u}">${d.img ? `<img src="${d.img}" alt="" loading="lazy" width="640" height="480">` : ''}</a><button class="fav" type="button" data-fav="${d.id}" aria-pressed="true">${document.querySelector('.fav-link svg').outerHTML}</button></div><div class="card-side"><p class="card-price">${money(d.p)}${d.d === 'rent' && d.p ? `<small>${T(' / мес', ' / mo')}</small>` : ''}</p></div><div class="card-main"><p class="card-place">${d.pl}</p><h3 class="card-title"><a href="${d.u}">${d.t}</a></h3></div></article>`).join('');
       paintFavs();
     });
   }
@@ -586,17 +590,17 @@
       fd.append('website', f.website ? f.website.value : '');
       fd.append('t0', t0);
       btn.disabled = true;
-      note.textContent = 'Отправляю…';
+      note.textContent = T('Отправляю…', 'Sending…');
       try {
         await postLead(fd);
-        note.textContent = 'Спасибо! Заявка у агента, ответим в ближайшее время.';
+        note.textContent = T('Спасибо! Заявка у агента, ответим в ближайшее время.', 'Thank you! Your request is with an agent; we will reply shortly.');
         form.reset();
       } catch (err) {
         // запасной путь: открыть мессенджер с готовым текстом
-        const text = `Здравствуйте! Меня зовут ${f.name.value.trim()}, телефон ${f.phone.value.trim()}.${f.wish.value.trim() ? ` Ищу: ${f.wish.value.trim()}.` : ''} Пришлите, пожалуйста, подборку.`;
+        const text = EN ? `Hello! My name is ${f.name.value.trim()}, phone ${f.phone.value.trim()}.${f.wish.value.trim() ? ` I am looking for: ${f.wish.value.trim()}.` : ''} Please send me a selection.` : `Здравствуйте! Меня зовут ${f.name.value.trim()}, телефон ${f.phone.value.trim()}.${f.wish.value.trim() ? ` Ищу: ${f.wish.value.trim()}.` : ''} Пришлите, пожалуйста, подборку.`;
         if (via === 'wa' && form.dataset.wa) window.open(`https://wa.me/${form.dataset.wa}?text=${encodeURIComponent(text)}`, '_blank', 'noopener');
         else window.open(`https://t.me/${form.dataset.tg}?text=${encodeURIComponent(text)}`, '_blank', 'noopener');
-        note.textContent = 'Открыли мессенджер с готовым сообщением, нажмите «Отправить».';
+        note.textContent = T('Открыли мессенджер с готовым сообщением, нажмите «Отправить».', 'We opened the messenger with a ready message, just press Send.');
       } finally {
         btn.disabled = false;
       }
@@ -625,16 +629,16 @@
       fd.append('website', f.website ? f.website.value : '');
       fd.append('t0', t0);
       btn.disabled = true;
-      note.textContent = 'Отправляю…';
+      note.textContent = T('Отправляю…', 'Sending…');
       try {
         await postLead(fd);
-        note.textContent = 'Спасибо! Заявка принята, специалист свяжется с вами в ближайшее время.';
+        note.textContent = T('Спасибо! Заявка принята, специалист свяжется с вами в ближайшее время.', 'Thank you! Your request has been received; a specialist will contact you shortly.');
         form.reset();
       } catch (err) {
-        const text = `Здравствуйте! Меня зовут ${f.name.value.trim()}, телефон ${f.phone.value.trim()}. Нужна консультация: ${service}.${f.comment.value.trim() ? ` ${f.comment.value.trim()}` : ''}`;
+        const text = EN ? `Hello! My name is ${f.name.value.trim()}, phone ${f.phone.value.trim()}. I need a consultation: ${service}.${f.comment.value.trim() ? ` ${f.comment.value.trim()}` : ''}` : `Здравствуйте! Меня зовут ${f.name.value.trim()}, телефон ${f.phone.value.trim()}. Нужна консультация: ${service}.${f.comment.value.trim() ? ` ${f.comment.value.trim()}` : ''}`;
         if (via === 'wa' && form.dataset.wa) window.open(`https://wa.me/${form.dataset.wa}?text=${encodeURIComponent(text)}`, '_blank', 'noopener');
         else window.open(`https://t.me/${form.dataset.tg}?text=${encodeURIComponent(text)}`, '_blank', 'noopener');
-        note.textContent = 'Открыли мессенджер с готовым сообщением, нажмите «Отправить».';
+        note.textContent = T('Открыли мессенджер с готовым сообщением, нажмите «Отправить».', 'We opened the messenger with a ready message, just press Send.');
       } finally {
         btn.disabled = false;
       }
@@ -657,15 +661,15 @@
     vw.addEventListener('click', (e) => { if (e.target === vw) vw.close(); });
     form.addEventListener('submit', async (e) => {
       e.preventDefault();
-      if (!form.elements.name.value.trim() || !form.elements.phone.value.trim()) { note.textContent = 'Укажите имя и телефон.'; note.classList.add('err'); return; }
+      if (!form.elements.name.value.trim() || !form.elements.phone.value.trim()) { note.textContent = T('Укажите имя и телефон.', 'Please enter your name and phone number.'); note.classList.add('err'); return; }
       const btn = form.querySelector('button[type="submit"]');
-      btn.disabled = true; note.classList.remove('err'); note.textContent = 'Отправляю…';
+      btn.disabled = true; note.classList.remove('err'); note.textContent = T('Отправляю…', 'Sending…');
       try {
         await postLead(new FormData(form));
         form.hidden = true; done.hidden = false;
       } catch (err) {
         note.classList.add('err');
-        note.textContent = `Не получилось отправить: ${err.message}. Напишите нам в WhatsApp или Telegram, кнопки на странице.`;
+        note.textContent = T(`Не получилось отправить: ${err.message}. Напишите нам в WhatsApp или Telegram, кнопки на странице.`, `Could not send: ${err.message}. Please message us on WhatsApp or Telegram using the buttons on the page.`);
       } finally {
         btn.disabled = false;
       }

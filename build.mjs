@@ -6,9 +6,13 @@ import path from 'node:path';
 import crypto from 'node:crypto';
 import { FAQ, DISTRICT_TEXT } from './content.mjs';
 import { SERVICES, SERVICE_ICON } from './services.mjs';
+import { makeTranslator, enListing } from './i18n.mjs';
 
 const ROOT = path.dirname(new URL(import.meta.url).pathname);
-const OUT = path.join(ROOT, 'dist');
+// Язык сборки: русская версия в dist/, английская (SITE_LANG=en) в dist/en/ с теми же адресами страниц
+const LANG = process.env.SITE_LANG === 'en' ? 'en' : 'ru';
+const EN = LANG === 'en';
+const OUT = EN ? path.join(ROOT, 'dist', 'en') : path.join(ROOT, 'dist');
 const read = (p, d) => { try { return JSON.parse(fs.readFileSync(path.join(ROOT, p), 'utf8')); } catch (e) { return d; } };
 
 const SITE = {
@@ -177,7 +181,7 @@ function rebuildListing(l) {
   return out;
 }
 const LISTINGS = read('data/listings.json', []).filter((l) => l && l.id && l.slug)
-  .map(sanitizeListing).map(rebuildListing)
+  .map(sanitizeListing).map(rebuildListing).map((l) => (EN ? enListing(l) : l))
   .sort((a, b) => String(b.added).localeCompare(String(a.added)) || String(b.updated).localeCompare(String(a.updated)));
 const TODAY = new Date().toISOString().slice(0, 10);
 // Отзывы клиентов: data/reviews.json пишет расширение (вкладка «Сайт» → «Отзывы»)
@@ -209,7 +213,8 @@ const NEW_SINCE = new Date(Date.now() - 7 * 86400000).toISOString().slice(0, 10)
 
 // ---------- помощники ----------
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
-const abs = (p) => (SITE.url ? SITE.url + p : p);
+// В английской версии адреса страниц начинаются с /en, а фото и файлы оформления общие
+const abs = (p) => (SITE.url ? SITE.url : '') + (EN && /^\//.test(p) && !/^\/(assets|photos)\//.test(p) ? '/en' : '') + p;
 const nb = (n) => Number(n).toLocaleString('ru-RU').replace(/[,\s\u202f]/g, '\u00a0');
 const money = (n) => (n ? `${nb(n)}\u00a0€` : 'Цена по запросу');
 // Цена в разметке: евро в атрибуте, скрипт пересчитывает в выбранную валюту
@@ -291,10 +296,11 @@ const logoMark = (inv = false) => `<a class="logo${inv ? ' logo-inv' : ''}" href
   <span class="logo-txt"><span class="logo-name">${esc(BRAND)}</span><span class="logo-sub">Агентство недвижимости</span></span>
 </a>`;
 
+const T = EN ? makeTranslator(ROOT) : null;
 function write(rel, html) {
   const file = path.join(OUT, rel);
   fs.mkdirSync(path.dirname(file), { recursive: true });
-  fs.writeFileSync(file, html);
+  fs.writeFileSync(file, EN && rel.endsWith('.html') ? T.page(html) : html);
 }
 
 // ---------- группировки ----------
@@ -353,7 +359,7 @@ function page({ title, desc, url, image, jsonld = [], body, nav, head = '', over
   const canonical = abs(url);
   const link = (key, href, label) => `<a href="${href}"${nav === key ? ' aria-current="page"' : ''}>${label}</a>`;
   return `<!doctype html>
-<html lang="ru" data-rates='${JSON.stringify({ EUR: 1, RSD: RATES.RSD, RUB: RATES.RUB })}'>
+<html lang="${LANG}" data-rates='${JSON.stringify({ EUR: 1, RSD: RATES.RSD, RUB: RATES.RUB })}'>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -361,7 +367,10 @@ function page({ title, desc, url, image, jsonld = [], body, nav, head = '', over
 <meta name="description" content="${esc(desc)}">
 <link rel="canonical" href="${esc(canonical)}">
 <meta property="og:type" content="website">
-<meta property="og:locale" content="ru_RU">
+<meta property="og:locale" content="${EN ? 'en_US' : 'ru_RU'}">
+${url ? `<link rel="alternate" hreflang="ru" href="${esc(SITE.url + url)}">
+<link rel="alternate" hreflang="en" href="${esc(SITE.url + '/en' + url)}">
+<link rel="alternate" hreflang="x-default" href="${esc(SITE.url + url)}">` : ''}
 <meta property="og:site_name" content="${esc(SITE.name)}">
 <meta property="og:title" content="${esc(title)}">
 <meta property="og:description" content="${esc(desc)}">
@@ -396,6 +405,7 @@ ${jsonld.map((j) => `<script type="application/ld+json">${JSON.stringify(j).repl
         <button type="button" data-cur="RSD" aria-pressed="false">дин</button>
         <button type="button" data-cur="RUB" aria-pressed="false">₽</button>
       </div>
+      <a class="lang-sw" href="${esc(SITE.url + (EN ? '' : '/en') + (url || '/'))}" hreflang="${EN ? 'ru' : 'en'}" lang="${EN ? 'ru' : 'en'}" title="${EN ? 'Русская версия' : 'English version'}">${EN ? 'RU' : 'EN'}</a>
       <a class="fav-link" href="/izbrannoe/" aria-label="Избранное">${ICON.heart}<span data-fav-count hidden></span></a>
       ${SITE.phone ? `<a class="hdr-phone" href="${esc(telHref)}">${esc(SITE.phone)}</a>` : ''}
       <a class="icon-btn" href="https://t.me/${esc(SITE.tg)}" rel="noopener" aria-label="Telegram">${ICON.tg}</a>
@@ -619,9 +629,11 @@ const LITE = LISTINGS.map((l) => ({
 // ---------- сборка ----------
 fs.rmSync(OUT, { recursive: true, force: true });
 fs.mkdirSync(OUT, { recursive: true });
-fs.cpSync(path.join(ROOT, 'assets'), path.join(OUT, 'assets'), { recursive: true });
-if (fs.existsSync(path.join(ROOT, 'photos'))) fs.cpSync(path.join(ROOT, 'photos'), path.join(OUT, 'photos'), { recursive: true });
-write('data/lite.json', JSON.stringify(LITE));
+if (!EN) {
+  fs.cpSync(path.join(ROOT, 'assets'), path.join(OUT, 'assets'), { recursive: true });
+  if (fs.existsSync(path.join(ROOT, 'photos'))) fs.cpSync(path.join(ROOT, 'photos'), path.join(OUT, 'photos'), { recursive: true });
+}
+write('data/lite.json', JSON.stringify(EN ? LITE.map((d) => ({ ...d, u: '/en' + d.u, t: T.str(d.t), rl: T.str(d.rl), fl: d.fl ? T.str(d.fl) : d.fl })) : LITE));
 
 const sitemap = [];
 const addUrl = (url, lastmod) => sitemap.push({ url, lastmod: lastmod || TODAY });
@@ -839,7 +851,7 @@ for (const l of LISTINGS) {
   const photos = Array.from({ length: l.photos || 0 }, (_, i) => photo(l, i + 1));
   const similar = LISTINGS.filter((x) => x.id !== l.id && x.deal === l.deal && x.districtSlug === l.districtSlug).slice(0, 3);
   const more = similar.length < 3 ? LISTINGS.filter((x) => x.id !== l.id && x.deal === l.deal && !similar.includes(x)).slice(0, 3 - similar.length) : [];
-  const waText = encodeURIComponent(`Здравствуйте. Меня интересует ${l.type === 'house' ? 'этот дом' : 'эта квартира'}: ${abs(url)}`);
+  const waText = encodeURIComponent(EN ? `Hello! I am interested in this ${l.type === 'house' ? 'house' : 'apartment'}: ${abs(url)}` : `Здравствуйте. Меня интересует ${l.type === 'house' ? 'этот дом' : 'эта квартира'}: ${abs(url)}`);
   const tgHref = `https://t.me/${SITE.tg}?text=${waText}`;
   const keyFacts = [
     l.area ? ['Площадь', `${l.area}\u00a0м²`] : null,
@@ -1214,9 +1226,20 @@ write('404.html', page({
   title: 'Страница не найдена', desc: 'Такой страницы нет. Возможно, объект уже сдан или продан.', url: '/404.html',
   body: `<section class="page-head"><div class="wrap"><h1>Такой страницы нет</h1><p class="page-lead">Возможно, объект уже сдан или продан. Посмотрите <a href="/arenda/">аренду</a> или <a href="/prodazha/">покупку</a>.</p></div></section>`,
 }));
+if (EN) {
+  // английская сборка пишет только страницы и свой lite.json; общие файлы пишет русская
+  console.log(`English: ${LISTINGS.length} объектов, папка dist/en/`);
+  T.report();
+  process.exit(0);
+}
+// Карта сайта: каждая страница в двух языках, с указанием альтернативной версии (hreflang)
+const alt = (u) => `<xhtml:link rel="alternate" hreflang="ru" href="${esc(SITE.url + u.url)}"/><xhtml:link rel="alternate" hreflang="en" href="${esc(SITE.url + '/en' + u.url)}"/><xhtml:link rel="alternate" hreflang="x-default" href="${esc(SITE.url + u.url)}"/>`;
 write('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${sitemap.map((u) => `<url><loc>${esc(abs(u.url))}</loc><lastmod>${esc(u.lastmod)}</lastmod></url>`).join('\n')}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+${sitemap.flatMap((u) => [
+    `<url><loc>${esc(SITE.url + u.url)}</loc><lastmod>${esc(u.lastmod)}</lastmod>${alt(u)}</url>`,
+    `<url><loc>${esc(SITE.url + '/en' + u.url)}</loc><lastmod>${esc(u.lastmod)}</lastmod>${alt(u)}</url>`,
+  ]).join('\n')}
 </urlset>
 `);
 // Карта «номер объекта → адрес страницы»: worker.js по ней перенаправляет (301) старые и изменившиеся адреса
