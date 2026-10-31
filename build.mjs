@@ -112,8 +112,72 @@ function sanitizeListing(l) {
     title: fixText(l.title), text: fixText(l.text),
   };
 }
+// ---------- описание, факты и адрес страницы на русском ----------
+const FLOOR_NAME = { 'приземный': 'первый', 'высокий приземный': 'высокий первый', 'низкий приземный': 'низкий первый', 'полуподвал': 'полуподвал', 'подвал': 'подвал', 'мансарда': 'мансарда' };
+// «мансарда из 3» → «мансарда (дом в 3 этажа)», «1-й из 1» → «одноэтажный дом», «4-й из 5» → «4-й (дом в 5 этажей)»
+function floorRu(v) {
+  const m = String(v || '').trim().match(/^(.+?)(?:\s+из\s+(\d+))?$/);
+  if (!m) return '';
+  const [, raw, totalS] = m;
+  const total = Number(totalS) || 0;
+  const ground = /^(1-й|приземный|высокий приземный|низкий приземный)$/.test(raw);
+  if (total === 1 && ground) return 'первый (дом одноэтажный)';
+  const name = FLOOR_NAME[raw] || raw;
+  return total ? `${name} (дом в ${total} ${(total % 10 === 1 && total % 100 !== 11 ? 'этаж' : [2, 3, 4].includes(total % 10) && ![12, 13, 14].includes(total % 100) ? 'этажа' : 'этажей')})` : name;
+}
+// «кондиционер, электрическое» → «электрическое + кондиционер»
+function heatText(v) {
+  const parts = [...new Set(String(v || '').split(',').map((x) => x.trim()).filter(Boolean))];
+  parts.sort((a, b) => (a === 'кондиционер') - (b === 'кондиционер'));
+  return parts.join(' + ');
+}
+// Сумма депозита из описания собственника: «Depozit: 500 EUR», «depozit 350e», «депозит 400 €»
+function depositOf(l) {
+  const m = String(l.original || '').match(/(?:depozit|депозит)\w*[^0-9\n]{0,25}(\d{1,2}[.\s]?\d{3}|\d{2,4})\s*(?:€|eur|evra|евро|e\b)/i);
+  const n = m ? Number(m[1].replace(/[.\s]/g, '')) : 0;
+  return n >= 50 && n <= 20000 ? n : 0;
+}
+const TRANSLIT = { а: 'a', б: 'b', в: 'v', г: 'g', д: 'd', е: 'e', ё: 'e', ж: 'zh', з: 'z', и: 'i', й: 'y', к: 'k', л: 'l', м: 'm', н: 'n', о: 'o', п: 'p', р: 'r', с: 's', т: 't', у: 'u', ф: 'f', х: 'kh', ц: 'ts', ч: 'ch', ш: 'sh', щ: 'shch', ъ: '', ы: 'y', ь: '', э: 'e', ю: 'yu', я: 'ya' };
+const LAT_SR = { č: 'c', ć: 'c', š: 's', ž: 'z', đ: 'dj' };
+const ruSlug = (s) => String(s || '').toLowerCase().replace(/[а-яё]/g, (c) => TRANSLIT[c] ?? c).replace(/[čćšžđ]/g, (c) => LAT_SR[c])
+  .normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 60);
+// «kp-196622951-arenda-2-komnatnaya-rakovitsa», «ho-…-prodazha-dom-zemun», «…-arenda-studiya-ledine»
+function ruListingSlug(l) {
+  const kind = l.type === 'house' ? 'dom' : /студия/.test(l.kind || '') ? 'studiya'
+    : l.rooms ? `${String(l.rooms).replace('.', '-')}-komnatnaya` : 'kvartira';
+  return [l.id, l.deal === 'sale' ? 'prodazha' : 'arenda', kind, ruSlug(l.location || l.district)].filter(Boolean).join('-').replace(/-{2,}/g, '-');
+}
+function rebuildListing(l) {
+  const facts = [];
+  let heat = '';
+  for (const [k, v] of l.facts || []) {
+    if (k === 'Этаж') { const t = floorRu(v); if (t) facts.push(['Этаж', t]); }
+    else if (k === 'Отопление') { heat = heatText(v); facts.push(['Отопление', heat]); }
+    else facts.push([k, v]);
+  }
+  const hasDeposit = (l.features || []).includes('депозит');
+  const deposit = hasDeposit ? depositOf(l) : 0;
+  if (hasDeposit && l.deal === 'rent') facts.push(['Депозит', deposit ? `${deposit.toLocaleString('ru-RU')} €` : 'требуется, сумму уточним']);
+  // депозит — условие аренды, а не удобство; кондиционер не повторяем, если он уже в отоплении
+  const features = (l.features || []).filter((f) => f !== 'депозит' && !(f === 'кондиционер' && /кондиционер/.test(heat)));
+  const fact = (k) => (facts.find(([x]) => x === k) || [])[1] || '';
+  const sale = l.deal === 'sale';
+  const where = l.location ? `в районе ${l.location}${l.district && l.district !== l.location ? ` (${l.district})` : ''}` : l.district ? `в районе ${l.district}` : '';
+  const s1 = `${sale ? 'Продаётся' : 'Сдаётся'} ${l.kind || (l.type === 'house' ? 'дом' : 'квартира')}${l.area ? ` площадью ${l.area} м²` : ''}${where ? ` ${where}` : ''}.`;
+  const floor = fact('Этаж');
+  const bits = [l.type !== 'house' && floor && `Этаж: ${floor}`, heat && `Отопление: ${heat}`].filter(Boolean);
+  const cond = [fact('Мебель'), fact('Состояние'), fact('Дом')].filter(Boolean).join(', ');
+  const s2 = [...bits, cond && cond[0].toUpperCase() + cond.slice(1)].filter(Boolean).map((x) => x + '.').join(' ');
+  const s3 = features.length ? `Удобства: ${features.join(', ')}.` : '';
+  const s4 = l.price ? `${sale ? 'Цена' : 'Аренда'}: ${Number(l.price).toLocaleString('ru-RU')} €${sale ? '' : ' в месяц'}.` : 'Цена по запросу.';
+  const s5 = hasDeposit && !sale ? `Депозит: ${deposit ? `${deposit.toLocaleString('ru-RU')} €` : 'требуется'}.` : '';
+  const out = { ...l, facts, features, text: [s1, s2, s3, s4, s5].filter(Boolean).join(' ') };
+  out.slug = ruListingSlug(out);
+  if (out.slug !== l.slug && !OLD_SLUG[l.id]) OLD_SLUG[l.id] = l.slug;
+  return out;
+}
 const LISTINGS = read('data/listings.json', []).filter((l) => l && l.id && l.slug)
-  .map(sanitizeListing)
+  .map(sanitizeListing).map(rebuildListing)
   .sort((a, b) => String(b.added).localeCompare(String(a.added)) || String(b.updated).localeCompare(String(a.updated)));
 const TODAY = new Date().toISOString().slice(0, 10);
 // Отзывы клиентов: data/reviews.json пишет расширение (вкладка «Сайт» → «Отзывы»)
@@ -172,7 +236,7 @@ const roomsKey = (l) => (l.type === 'house' ? 'house' : !l.rooms || l.rooms <= 0
 const ROOMS = [['0', 'Студия'], ['1', '1'], ['1.5', '1,5'], ['2', '2'], ['2.5', '2,5'], ['3', '3'], ['3.5', '3,5'], ['4', '4+'], ['house', 'Дом']];
 const furnKey = (l) => { const f = fact(l, 'Мебель'); return /частично/.test(f) ? 'part' : /без/.test(f) ? 'none' : /с мебелью|меблирован/.test(f) ? 'full' : ''; };
 const floorNum = (l) => { const v = fact(l, 'Этаж'); const m = v.match(/^(\d+)/); return m ? +m[1] : (v ? 0 : -1); };
-const floorsNum = (l) => { const m = fact(l, 'Этаж').match(/из (\d+)/); return m ? +m[1] : 0; };
+const floorsNum = (l) => { const v = fact(l, 'Этаж'); if (/одноэтажный/.test(v)) return 1; const m = v.match(/(?:из|дом в) (\d+)/); return m ? +m[1] : 0; };
 const FEATS = [['терраса', 'Терраса или балкон'], ['лифт', 'Лифт'], ['парковка', 'Парковка или гараж'], ['кондиционер', 'Кондиционер'], ['можно с животными', 'Можно с животными'], ['интернет', 'Интернет']];
 // Разделы продажи
 const catOf = (l) => l.cat || (l.type === 'house' ? 'house' : 'flat');
@@ -262,9 +326,11 @@ const COLLECTIONS_OFF = [
 const COLLECTIONS = [];
 
 // Выпадающее меню «Купить» / «Снять»: районы и подборки
+// Районы в меню: одинаковый список в шапке и подвале — все общины Белграда, где есть объекты, по числу объектов
+const navDistricts = (key) => districtsOf(byDeal[key]).filter((d) => BG_NAME[d.slug]);
 function mega(key, nav) {
   const d = DEAL[key];
-  const dists = districtsOf(byDeal[key]).slice(0, 10);
+  const dists = navDistricts(key);
   const cols = COLLECTIONS.filter((c) => c.items.some((l) => l.deal === key));
   const types = key === 'sale'
     ? SALE_CATS.map((c) => [c.name, `/prodazha/${c.slug}/`])
@@ -364,7 +430,7 @@ ${footer()}
 
 function footer() {
   const col = (title, links) => (links.length ? `<div class="ftr-col"><p class="ftr-h">${title}</p><ul>${links.join('')}</ul></div>` : '');
-  const dl = (key) => districtsOf(byDeal[key]).slice(0, 12).map((d) => `<li><a href="/${DEAL[key].path}/${d.slug}/">${esc(d.name)}</a></li>`);
+  const dl = (key) => navDistricts(key).map((d) => `<li><a href="/${DEAL[key].path}/${d.slug}/">${esc(d.name)}</a></li>`);
   return `<footer class="ftr">
   <div class="wrap">
     <div class="ftr-top">
@@ -870,7 +936,9 @@ ${similar.length + more.length ? `<section class="block"><div class="wrap"><div 
       geo: l.geo ? { '@type': 'GeoCoordinates', latitude: l.geo.lat, longitude: l.geo.lng } : undefined,
     },
     offers: l.price ? {
-      '@type': 'Offer', price: l.price, priceCurrency: 'EUR', availability: 'https://schema.org/InStock',
+      '@type': 'Offer', price: l.price, priceCurrency: 'EUR', availability: 'https://schema.org/InStock', url: abs(url),
+      seller: { '@type': 'RealEstateAgent', name: BRAND, url: abs('/') },
+      ...(l.deal === 'rent' ? { priceSpecification: { '@type': 'UnitPriceSpecification', price: l.price, priceCurrency: 'EUR', unitCode: 'MON', unitText: 'в месяц' } } : {}),
       businessFunction: l.deal === 'rent' ? 'http://purl.org/goodrelations/v1#LeaseOut' : 'http://purl.org/goodrelations/v1#Sell',
     } : undefined,
   };
