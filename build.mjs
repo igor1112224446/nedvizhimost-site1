@@ -41,7 +41,13 @@ const L = SITE.legal;
 const BRAND = SITE.brand || 'Maxis Group';
 // Короткая строка, обязательная в каждом объявлении: пословно име и номер в Регистре посредников
 const legalLine = `${L.company}, upisan u Registar posrednika pod brojem ${L.registry}`;
-SITE.url = String(SITE.url || process.env.SITE_URL || '').replace(/\/+$/, '');
+// Основной домен. Технический адрес *.workers.dev никогда не используется в canonical, og:url, sitemap и ссылках:
+// иначе Google может проиндексировать его вместо maxisgroup-serbia.com.
+const CANONICAL = 'https://maxisgroup-serbia.com';
+{
+  const u = String(process.env.SITE_URL || SITE.url || '').trim().replace(/\/+$/, '');
+  SITE.url = !u || /workers\.dev|localhost|127\.0\.0\.1/i.test(u) ? CANONICAL : u.replace(/^http:\/\//, 'https://').replace('://www.', '://');
+}
 SITE.tg = String(SITE.tg || '').replace(/^@/, '');
 SITE.channel = String(SITE.channel || '').replace(/^@/, '');
 // Все 17 городских общин Белграда: в фильтрах показываются всегда
@@ -59,12 +65,55 @@ function normDistrict(raw) {
   const hit = match(base) || match(base.replace(/(^|-)beograd$/, '').replace(/^-+|-+$/g, ''));
   return hit ? hit.slug : base.replace(/(^|-)beograd$/, '').replace(/^-+|-+$/g, '') || base;
 }
+// Мусор вместо названия микрорайона: подписи карты (атрибуция OpenStreetMap / Leaflet), служебные фразы KP.
+// Проверяем и латиницу, и транслит на кириллицу («© ОпенСтреетМап цонтрибуторс»).
+const JUNK_PLACE = /©|\(c\)|openstreet|опенст|contributor|цонтриб|контриб|leaflet|леафлет|mapbox|google|pogledajte|okolini|nekretnine u|погледа|околин|\bmapa\b/i;
+// «Сурчин (mesto)», «Бараево (naselje)» → «Сурчин», «Бараево»
+const PAREN_JUNK = /\s*\((?:mesto|место|naselje|насеље|населье|selo|село|grad|град|opština|opstina|општина|општина|gm|go)\)/gi;
+const clean = (v) => String(v || '').replace(PAREN_JUNK, '').replace(/\s{2,}/g, ' ').trim();
+const OLD_SLUG = {}; // id -> прежний адрес страницы, чтобы старые ссылки вели на новые (301 в worker.js)
+
+function sanitizeListing(l) {
+  const ds = normDistrict(l.districtSlug);
+  const district = BG_NAME[ds] || clean(String(l.district || '').replace(/^(Општина|Opština|Община|Gradska opština)\s+/i, ''));
+  const city = clean(l.city) || 'Белград';
+  const rawLoc = String(l.location || '');
+  let location = JUNK_PLACE.test(rawLoc) ? '' : clean(rawLoc);
+  if (location && location.toLowerCase() === district.toLowerCase()) location = '';
+  const street = JUNK_PLACE.test(l.street || '') ? '' : clean(l.street);
+  const fixText = (t) => {
+    let x = String(t || '');
+    if (rawLoc && rawLoc !== location) {
+      const re = (str) => str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      // «в районе ЛОК (Район, Белград)» → «в районе Район» или «в районе НовыйЛок (Район, Белград)»
+      x = x.replace(new RegExp(`в районе ${re(rawLoc)}( \\([^)]*\\))?`, 'g'), location ? `в районе ${location}$1` : `в районе ${district}`);
+      x = x.replace(new RegExp(`,\\s*${re(rawLoc)}(?=,|$)`, 'g'), location ? `, ${location}` : '');
+      x = x.split(rawLoc).join(location);
+    }
+    x = x.replace(PAREN_JUNK, '');
+    // «Сурчин, Сурчин» и «в районе Сурчин (Сурчин, Белград)» → без повтора
+    if (district) {
+      const d = district.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      x = x.replace(new RegExp(`${d}, ${d}(?=$|[,.])`, 'g'), district)
+        .replace(new RegExp(`в районе ${d} \\(${d}, [^)]*\\)`, 'g'), `в районе ${district}`);
+    }
+    return x.replace(/,\s*,/g, ',').replace(/\s{2,}/g, ' ').replace(/,\s*$/, '').trim();
+  };
+  // адрес страницы: убираем «openstreetmap-contributors», «-mesto» и т.п.
+  let slug = String(l.slug)
+    .replace(/-?(?:c-)?openstreetmap-contributors/, ds ? `-${ds}` : '')
+    .replace(/-(?:mesto|naselje|selo)(?=-|$)/g, '')
+    .replace(/-{2,}/g, '-').replace(/-$/, '');
+  // «…-surcin-surcin» → «…-surcin»
+  slug = slug.replace(/(-[a-z0-9]+)\1$/, '$1');
+  if (slug !== l.slug) OLD_SLUG[l.id] = l.slug;
+  return {
+    ...l, slug, city, district, districtSlug: ds, location, street,
+    title: fixText(l.title), text: fixText(l.text),
+  };
+}
 const LISTINGS = read('data/listings.json', []).filter((l) => l && l.id && l.slug)
-  .map((l) => {
-    const ds = normDistrict(l.districtSlug);
-    const badLoc = /pogledajte|okolini|nekretnine u|погледа|околин/i.test(l.location || '');
-    return { ...l, location: badLoc ? '' : l.location, districtSlug: ds, district: BG_NAME[ds] || String(l.district || '').replace(/^(Општина|Opština|Община|Gradska opština)\s+/i, '') };
-  })
+  .map(sanitizeListing)
   .sort((a, b) => String(b.added).localeCompare(String(a.added)) || String(b.updated).localeCompare(String(a.updated)));
 const TODAY = new Date().toISOString().slice(0, 10);
 // Отзывы клиентов: data/reviews.json пишет расширение (вкладка «Сайт» → «Отзывы»)
@@ -1102,6 +1151,8 @@ write('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>
 ${sitemap.map((u) => `<url><loc>${esc(abs(u.url))}</loc><lastmod>${esc(u.lastmod)}</lastmod></url>`).join('\n')}
 </urlset>
 `);
+// Карта «номер объекта → адрес страницы»: worker.js по ней перенаправляет (301) старые и изменившиеся адреса
+write('obekt-map.json', JSON.stringify(Object.fromEntries(LISTINGS.map((l) => [l.id, l.slug]))));
 write('robots.txt', `User-agent: *\nAllow: /\nDisallow: /izbrannoe/\n${SITE.url ? `Sitemap: ${SITE.url}/sitemap.xml\n` : ''}`);
 write('llms.txt', `# ${SITE.name}
 

@@ -102,11 +102,35 @@ async function lead(request, env) {
   return json({ ok: true });
 }
 
+// Основной домен. Технический адрес *.workers.dev и www перенаправляются сюда навсегда (301).
+const CANONICAL_HOST = 'maxisgroup-serbia.com';
+
+let objMap = null; // номер объекта -> адрес страницы (dist/obekt-map.json)
+async function objectRedirect(request, env, url) {
+  const m = url.pathname.match(/^\/obekt\/([a-z]{2}-\d+)/);
+  if (!m) return null;
+  if (!objMap) {
+    try {
+      const r = await env.ASSETS.fetch(new Request(`${url.origin}/obekt-map.json`));
+      if (r.ok) objMap = await r.json();
+    } catch (e) { /* карта недоступна: отдаём обычную 404 */ }
+  }
+  const slug = objMap?.[m[1]];
+  return slug && url.pathname !== `/obekt/${slug}/` ? Response.redirect(`${url.origin}/obekt/${slug}/`, 301) : null;
+}
+
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
+    const host = env.CANONICAL_HOST || CANONICAL_HOST;
+    const read = request.method === 'GET' || request.method === 'HEAD';
+    if (read && url.hostname !== host && (url.hostname.endsWith('.workers.dev') || url.hostname === `www.${host}`)) {
+      return Response.redirect(`https://${host}${url.pathname}${url.search}`, 301);
+    }
     if (url.pathname === '/api/submit') return submit(request, env);
     if (url.pathname === '/api/lead') return lead(request, env);
-    return env.ASSETS.fetch(request);
+    const res = await env.ASSETS.fetch(request);
+    if (res.status === 404 && read) return (await objectRedirect(request, env, url)) || res;
+    return res;
   },
 };
