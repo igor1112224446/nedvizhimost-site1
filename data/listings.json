@@ -1,5 +1,198 @@
 [
  {
+  "id": "kp-196789675",
+  "slug": "kp-196789675-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 30 м², © ОпенСтреетМап цонтрибуторс, Новый Белград",
+  "kind": "студия",
+  "price": 650,
+  "area": 30,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "novi-beograd",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Радоя Дакича 63",
+  "geo": {
+   "lat": 44.83502,
+   "lng": 20.40422
+  },
+  "facts": [
+   [
+    "Площадь",
+    "30 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "4-й из 6"
+   ],
+   [
+    "Отопление",
+    "тепловой насос"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "домофон",
+   "кондиционер",
+   "видеонаблюдение",
+   "лифт",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся студия площадью 30 м² в районе © ОпенСтреетМап цонтрибуторс (Новый Белград, Белград). 4-й этаж из 6, с мебелью, отопление тепловой насос, дом современной постройки. Есть: можно въехать сразу, домофон, кондиционер, видеонаблюдение, лифт, парковка, депозит. Аренда 650 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stan je nov opremljen najmodernijim namestajem. Izuzetna lokacija u blizini su kej institut za majku i dete lidl fontana zemun",
+  "photos": 11,
+  "added": "2026-10-31",
+  "updated": "2026-10-31"
+ },
+ {
+  "id": "kp-196785509",
+  "slug": "kp-196785509-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 55 м², © ОпенСтреетМап цонтрибуторс, Звездара",
+  "kind": "двухкомнатная квартира",
+  "price": 600,
+  "area": 55,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Руди Чаявеца 31E",
+  "geo": {
+   "lat": 44.79252,
+   "lng": 20.54391
+  },
+  "facts": [
+   [
+    "Площадь",
+    "55 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "4-й из 4"
+   ],
+   [
+    "Отопление",
+    "центральное, кондиционер"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "домофон",
+   "терраса",
+   "кондиционер",
+   "лифт",
+   "парковка"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 55 м² в районе © ОпенСтреетМап цонтрибуторс (Звездара, Белград). 4-й этаж из 4, с мебелью, отопление центральное, кондиционер, дом современной постройки. Есть: можно въехать сразу, домофон, терраса, кондиционер, лифт, парковка. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "MODERAN NAMEŠTEN STAN 55 m² SA TERASOM I PARKINGOM – MIRIJЕВО\n\nIzdaje se moderno uređen, potpuno namešten stan površine 55 m², u Mirijevu, na 4. spratu.\n\nStan se sastoji od spavaće sobe, dnevnog boravka sa trpezarijom, kuhinje, kupatila i terase sa pogledom. Enterijer je uređen u modernom stilu, u svetlim tonovima, i pruža prijatan i udoban prostor za život.\n\nStan poseduje TV, veš-mašinu i opremljenu kuhinju. Parking je dostupan.\n\nCena: 500 € mesečno, uz plaćanje računa posebno.\n\nZa više informacija i dogovor oko gledanja stana, kontaktirati putem poruke.",
+  "photos": 13,
+  "added": "2026-10-31",
+  "updated": "2026-10-31"
+ },
+ {
+  "id": "kp-196782230",
+  "slug": "kp-196782230-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 65 м², © ОпенСтреетМап цонтрибуторс, Звездара",
+  "kind": "трёхкомнатная квартира",
+  "price": 750,
+  "area": 65,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "",
+  "geo": {
+   "lat": 44.79332,
+   "lng": 20.50606
+  },
+  "facts": [
+   [
+    "Площадь",
+    "65 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "1-й"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "лифт",
+   "парковка",
+   "гараж",
+   "депозит"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 65 м² в районе © ОпенСтреетМап цонтрибуторс (Звездара, Белград). 1-й этаж, с мебелью, отопление автономное, в исходном состоянии, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, кондиционер, видеонаблюдение, лифт, парковка, гараж, депозит. Аренда 750 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se namešten stan površine 65 m² na odličnoj lokaciji na Zvezdari, u blizini Cvetkove pijace.\n\nStan se nalazi na prvom spratu novogradnje i sastoji se od dve spavaće sobe, dnevne sobe, terase i kupatila sa tuš-kabinom.\n\nStan se nalazi na odličnoj lokaciji, u blizini Cvetkove pijace, prodavnica, javnog prevoza i svih sadržaja neophodnih za svakodnevni život.",
+  "photos": 7,
+  "added": "2026-10-31",
+  "updated": "2026-10-31"
+ },
+ {
   "id": "kp-196781326",
   "slug": "kp-196781326-izdavanje-stan-openstreetmap-contributors",
   "deal": "rent",
@@ -1496,6 +1689,315 @@
   "updated": "2026-10-30"
  },
  {
+  "id": "kp-195892895",
+  "slug": "kp-195892895-prodaja-stan-mirijevo",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 1,5-комнатная квартира, 40 м², Мириево, Звездара",
+  "kind": "1,5-комнатная квартира",
+  "price": 125000,
+  "area": 40,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Мириево",
+  "street": "Душана Радовича",
+  "geo": {
+   "lat": 44.79185,
+   "lng": 20.52047
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "3-й из 3"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "частично меблирована"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "домофон",
+   "терраса",
+   "кондиционер"
+  ],
+  "text": "Продаётся 1,5-комнатная квартира площадью 40 м² в районе Мириево (Звездара, Белград). 3-й этаж из 3, частично меблирована, отопление автономное, после ремонта, дом современной постройки. Есть: можно въехать сразу, домофон, терраса, кондиционер. Цена 125 000 €.",
+  "originalLang": "sr",
+  "original": "Prodajem stan u mirnom delu Mirijeva, nedaleko od Zvezdarske šume i Olimpa. Zgrada je novije gradnje iz 2013 godine, stan je kupljen 2015. Ispred zgrade je parking.   Stan je uknjižen, nema zabeležbi ili bilo kakvih drugih opterećenja. Iznad stana je vazdušna komora. Stan se prodaje namešten (osim spavaće sobe). Nisu potrebna ulaganja.   Niske režije.",
+  "photos": 10,
+  "added": "2026-10-30",
+  "updated": "2026-10-30"
+ },
+ {
+  "id": "kp-196750914",
+  "slug": "kp-196750914-prodaja-stan-kluz",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 1,5-комнатная квартира, 42 м², Клуз, Звездара",
+  "kind": "1,5-комнатная квартира",
+  "price": 110000,
+  "area": 42,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Клуз",
+  "street": "Руже Йованович",
+  "geo": {
+   "lat": 44.78629,
+   "lng": 20.52053
+  },
+  "facts": [
+   [
+    "Площадь",
+    "42 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "полуподвал из 3"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "кабельное ТВ"
+  ],
+  "text": "Продаётся 1,5-комнатная квартира площадью 42 м² в районе Клуз (Звездара, Белград). Полуподвал этаж из 3, с мебелью, отопление автономное, в исходном состоянии, старый фонд. Есть: можно въехать сразу, интернет, домофон, кабельное ТВ. Цена 110 000 €.",
+  "originalLang": "sr",
+  "original": "Izuzetno funkcionalan stan, potpuno namešten i opremljen. Na odličnoj lokaciji, u blizini \"Kluza\" i stare okretnice tramvaja u Bulevaru Kralja Aleksandra. Novija gradnja (2006. godina), uredno održavan ulaz. Stan je svetao i ušuškan. Stan je uknjižen na prodavca 1/1, bez tereta i zabeležbi.\n\nGrejanje na struju - električni kotao sa radijatorima, odlična toplotna izolacija.\n\nStan je, pored stanovanja, idealan i kao investicija - za izdavanje.\n\nU blizini ugostiteljskih, uslužnih i trgovinskih objekata, nedaleko od TC Aviv park i Lidl-a. ..\n\nLinije gradskog prevoza: bus br. 20, 64, tramvaj br. 5, 6, 7, 14.\n\nProstorije:\n\npredsoblje\ndnevni boravak sa kuhinjom i trpezarijom\nspavaća soba\nkupatilo\nostava (ne ulazi u površinu stana)\n\nOprema: veš mašina, kombinovani frižider, sudo mašina, staklokeramička ploča, ugradna rerna, smart TV, pvc stolarija, sigurnosna vrata.\n\nNapomena: Oznaka na mapi je informativnog karaktera, ne prikazuje preciznu lokaciju nekretnine.\n\nAgencijska provizija: 2% od ugovorene kupoprodajne cene.\n\nRedni broj agencije u Registru posrednika: 1006\n\nAgencijska provizija uključuje:\n\nprezentacija nepokretnosti,\nasistencija u pregovorima,\nprovera dokumentacije,\nsastavljanje Predugovora/Ugovora i pratećih akata,\norganizacija primopredaje,\npomoć pri prijavi poreza,\npromena korisnika el. energije i komunalija,\nkonsultacije,\nostale radnje u cilju realizacije posla.\nBroj u Registru posrednika:  1006 \nProverite podatke o posredniku",
+  "photos": 10,
+  "added": "2026-10-30",
+  "updated": "2026-10-30"
+ },
+ {
+  "id": "kp-196379766",
+  "slug": "kp-196379766-prodaja-stan-mirijevo",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: однокомнатная квартира, 43 м², Мириево, Звездара",
+  "kind": "однокомнатная квартира",
+  "price": 149000,
+  "area": 43,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Мириево",
+  "street": "Мирослава Крлеже",
+  "geo": {
+   "lat": 44.79818,
+   "lng": 20.52611
+  },
+  "facts": [
+   [
+    "Площадь",
+    "43 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "3-й из 4"
+   ],
+   [
+    "Отопление",
+    "центральное, кондиционер"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "подвал",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "лифт",
+   "парковка"
+  ],
+  "text": "Продаётся однокомнатная квартира площадью 43 м² в районе Мириево (Звездара, Белград). 3-й этаж из 4, с мебелью, отопление центральное, кондиционер, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, домофон, терраса, подвал, кабельное ТВ, кондиционер, видеонаблюдение, лифт, парковка. Цена 149 000 €.",
+  "originalLang": "sr",
+  "original": "Vlasnik Stana\nBez Agencija i Agencijske provizije\n\nOdlican jednosoban stan, gradnja 1989, renoviran\nodlicno stanje, mogucnost pregradjivanja jos spavace sobe\nSvetao\nSuncana strana celog dana\nCentralno grejanje\nIspred zgrade parking\nBlizina skole, pijace, prodavnice\nblizina autobskog stajalista, linije 27e, 27a, 79, 20, 25p",
+  "photos": 10,
+  "added": "2026-10-30",
+  "updated": "2026-10-30"
+ },
+ {
+  "id": "kp-196224045",
+  "slug": "kp-196224045-prodaja-stan-novo-skojevsko-naselje",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 4,5-комнатная квартира, 107 м², Ново Скоевско населе, Раковица",
+  "kind": "4,5-комнатная квартира",
+  "price": 294000,
+  "area": 107,
+  "rooms": 4.5,
+  "city": "Белград",
+  "district": "Раковица",
+  "districtSlug": "rakovica",
+  "location": "Ново Скоевско населе",
+  "street": "Луке Войводича",
+  "geo": {
+   "lat": 44.75139,
+   "lng": 20.43805
+  },
+  "facts": [
+   [
+    "Площадь",
+    "107 м²"
+   ],
+   [
+    "Комнат",
+    "4,5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "лифт",
+   "доступ для колясок"
+  ],
+  "text": "Продаётся 4,5-комнатная квартира площадью 107 м² в районе Ново Скоевско населе (Раковица, Белград). Отопление центральное. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, лифт, доступ для колясок. Цена 294 000 €.",
+  "originalLang": "sr",
+  "original": "Vlasnik prodaje luksuzan stan sa galerijom, terasom i pogledom na Košutnjak I Avalu – bez agencijske provizije.\n\n U jednom od najlepših i najtraženijih delova grada, u Skojevskom naselju, u neposrednoj blizini Košutnjaka, nalazi se ovaj izuzetno atraktivan stan koji osvaja već na prvi pogled. Smešten u prvom redu do Košutnjaka, pruža predivan pogled na Avalu i okolnu šumu, uz osećaj mira, zelenila i privatnosti koji je danas prava retkost u gradu.\n\nStan ima 107 m² i funkcionalnu 4,5 strukturu (ulazni hodnik, velika dnevna soba sa trpezarijom, hodnik ka spavaćem delu, 3 sobe, kuhinja, kupatilo, gostinjski toalet i galerija sa terasom), a njegov poseban karakter dodatno naglašava prelepa galerija koja prostoru daje posebnu atmosferu i osećaj prostranosti. Tu je i prijatna terasa sa pogledom koji dodatno ističe ono najlepše što ova lokacija nudi. Dvostrana orijentacija obezbeđuje obilje prirodne svetlosti i prijatnu cirkulaciju vazduha tokom celog dana.\n\nEnterijer je umetnički i sa posebnom pažnjom uređen, pa stan odiše toplinom, karakterom i elegancijom. Kompletno je uknjižen, što omogućava sigurnu i jednostavnu kupovinu, a grejanje je centralno.\n\nStan bez ulaganja, kvalitetno sredjen.\n\nOdlična lokacija, puno zelenila, veliki parking, blizu svih neophodnih sadrzaja, nadomak Košutnjaka.\n\nLokacija je idealna za porodičan život – mirna, okružena zelenilom, a istovremeno odlično povezana sa svim delovima grada. U neposrednoj blizini nalaze se Maxi, pijaca, Košutnjak i brojni sadržaji neophodni za svakodnevni život.\n\nOvo je nekretnina za one koji žele više od kvadrature – dom sa pogledom, zelenilom, mirom i posebnom atmosferom, na jednoj od najlepših lokacija u Beogradu.\n\nPravi porodični stan za preporuku.",
+  "photos": 10,
+  "added": "2026-10-30",
+  "updated": "2026-10-30"
+ },
+ {
+  "id": "kp-196507657",
+  "slug": "kp-196507657-prodaja-stan-beograd-na-vodi",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: двухкомнатная квартира, 60.08 м², Београд на води, Савски-Венац",
+  "kind": "двухкомнатная квартира",
+  "price": 285000,
+  "area": 60.08,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "savski-venac",
+  "location": "Београд на води",
+  "street": "",
+  "geo": {
+   "lat": 44.80251,
+   "lng": 20.44999
+  },
+  "facts": [
+   [
+    "Площадь",
+    "60.08 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "2-й из 8"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "лифт",
+   "гараж"
+  ],
+  "text": "Продаётся двухкомнатная квартира площадью 60.08 м² в районе Београд на води (Савски-Венац, Белград). 2-й этаж из 8, с мебелью, отопление центральное, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, кондиционер, видеонаблюдение, лифт, гараж. Цена 285 000 €.",
+  "originalLang": "sr",
+  "original": "Izuzetno komforan, namešten 2.0 stan u Beogradu na vodi\n\n \n\nVIŠE KVADRATA ZA ISTU STRUKTURU!\n\n \n\nOvaj kompletno namešten dvosoban stan u Beogradu na vodi nudi 60 m² stambenog prostora – čak 5–6 m² više u odnosu na mnoge stanove iste strukture.\n\n \n\nStan je potpuno namešten i opremljen svim potrebnim uređajima. Zahvaljujući većoj kvadraturi za dvosobnu strukturu, odlikuje ga izuzetna komfornost i funkcionalnost prostora.\n\n \n\nNalazi se u mirnoj, osmospratnoj zgradi, useljenoj pre dve godine.\n\nPozicioniran uz Park District, na samo minut hoda od parka i nekoliko minuta od Galerije i Sava promenade.\n\nU neposrednoj blizini nalaze se marketi, kafići, restorani, vrtić, apoteka, pekara i stajališta gradskog prevoza.\n\n \n\nUz stan se prodaje i garažno mesto po ceni od 25.000 €.\n\n \n\nZa više informacija i zakazivanje razgledanja:\n\nCity Space Real Estate\n\nBroj u Registru posrednika:  1981 \nProverite podatke o posredniku",
+  "photos": 9,
+  "added": "2026-10-30",
+  "updated": "2026-10-30"
+ },
+ {
   "id": "kp-195418475",
   "slug": "kp-195418475-prodaja-stan-ledine",
   "deal": "sale",
@@ -1556,7 +2058,138 @@
   "text": "Продаётся 2,5-комнатная квартира площадью 47 м² в районе Ледине (Новый Белград, Белград). 5-й этаж из 5, без мебели, отопление центральное, кондиционер, строится, дом современной постройки. Есть: интернет, домофон, терраса, кондиционер, лифт, парковка. Цена 55 000 €.",
   "originalLang": "sr",
   "original": "Ledine, Novi Beograd. Stambena zgrada u izgradnji. Zavrsetak radova mart 2027 god. Zgrada je sa liftom i ima 36 stanova. Postoji mogucnost strukture stana sa dve spavace sobe i dnevnim boravkom ili jedna spavaca soba i veci dnevni boravak plus terasa.\n\nZgrada i stanovi su u fazi preduknjizenja po novom zakonu \" Svoj na Svome\" . Overava se ugovor kod notara. Nije moguca kupovina za kreditne kupce.\n\nCena je za sivu fazu stana(instalacije vode struje i stolarija). Kljuc u ruke cena 75000\nCena je fixna i za keš!\n\nSAMO KES KUPCI ! ! !",
-  "photos": 2,
+  "photos": 4,
+  "added": "2026-10-30",
+  "updated": "2026-10-30"
+ },
+ {
+  "id": "kp-196107328",
+  "slug": "kp-196107328-prodaja-stan-zvezdarska-suma",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 3,5-комнатная квартира, 100 м², Звездарска шума, Звездара",
+  "kind": "3,5-комнатная квартира",
+  "price": 475000,
+  "area": 100,
+  "rooms": 3.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Звездарска шума",
+  "street": "Драгише Лапчевича 27",
+  "geo": {
+   "lat": 44.80624,
+   "lng": 20.49928
+  },
+  "facts": [
+   [
+    "Площадь",
+    "100 м²"
+   ],
+   [
+    "Комнат",
+    "3,5"
+   ],
+   [
+    "Этаж",
+    "3-й из 3"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "пентхаус",
+   "видеонаблюдение",
+   "лифт",
+   "гараж"
+  ],
+  "text": "Продаётся 3,5-комнатная квартира площадью 100 м² в районе Звездарска шума (Звездара, Белград). 3-й этаж из 3, с мебелью, отопление центральное, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, кондиционер, пентхаус, видеонаблюдение, лифт, гараж. Цена 475 000 €.",
+  "originalLang": "sr",
+  "original": "Lux trosoban, svetao, namešten, visoki plafoni, samo dva stana na spratu, terasa sa pogledom na zelenilo, spa centar i teretana u okviru kompleksa, prodavnica i caffe. Stan je dvostransko orjentisan sa nad standardnom visinom plafona od 3,30 m i se sastoji od dve spavaće sobe sa izlazom na terasu duž celog stana, dva kupatila, prostranom kuhinjom, dnevnim boravkom i trpezarijom, sav nameštaj i bela tehnika su vrhunskog kvaliteta.\n Cena garaže je 20 000 EUR i nije ukljucena u cenu stana.   Stan prodaje vlasnik, agencije samo ako već imate kupca, Viber i whats up, +41797891973  Anđelka",
+  "photos": 10,
+  "added": "2026-10-30",
+  "updated": "2026-10-30"
+ },
+ {
+  "id": "kp-196769784",
+  "slug": "kp-196769784-prodaja-stan-rogaca",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: однокомнатная квартира, 35 м², Рогача, Сопот",
+  "kind": "однокомнатная квартира",
+  "price": 105000,
+  "area": 35,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Сопот",
+  "districtSlug": "sopot",
+  "location": "Рогача",
+  "street": "",
+  "geo": {
+   "lat": 44.45727,
+   "lng": 20.55669
+  },
+  "facts": [
+   [
+    "Площадь",
+    "35 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "приземный из 4"
+   ],
+   [
+    "Отопление",
+    "кондиционер, электрическое, норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "подвал",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "лифт",
+   "парковка",
+   "гараж"
+  ],
+  "text": "Продаётся однокомнатная квартира площадью 35 м² в районе Рогача (Сопот, Белград). Приземный этаж из 4, с мебелью, отопление кондиционер, электрическое, норвежские радиаторы, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, терраса, подвал, кабельное ТВ, кондиционер, видеонаблюдение, лифт, парковка, гараж. Цена 105 000 €.",
+  "originalLang": "sr",
+  "original": "Potpuno nov stan u kompleksu Kosmaj Residence na Kosmaju. Direktno od vlasnika. Stan je u potpunosti namešten i odmah useljiv. Sastoji se od dnevnog boravka, kupatila i jedne spavaće sobe. Jedan je od retkih stanova u kompleksu koji imaju dvoriste od 72m2 sa malom ostavom od 6m2. Stan je opremljen svim pametnim prekidacima i kontrolom pristupa. Bitno je napomenuti da se kompleks nalazi na samom Kosmaju i da je u neposrednoj blizini svih pesackih staza i znamenitosti. Kompleks ce sadrzati i hotel zatvorenog tipa sa spa centrom, a vlasnici ovih stanova ce imati ekskluzivni pristup istom. Izražena cena je samo za stan dok je natrkiveno parking mesto još 12.000e.",
+  "photos": 10,
   "added": "2026-10-30",
   "updated": "2026-10-30"
  },
@@ -1620,7 +2253,7 @@
   "text": "Сдаётся двухкомнатная квартира площадью 50 м² в районе Браче Еркович (Вождовац, Белград). 1-й этаж из 1, с мебелью, отопление газовое, в исходном состоянии, старый фонд. Есть: можно въехать сразу, терраса, кондиционер, парковка, депозит. Аренда 450 € в месяц.",
   "originalLang": "sr",
   "original": "Stan u kuci 50m2 na prvom spratu ima grejanje, klima, parking.\nCena je sa svim troskovima: grejanje, struja, voda.\nStrance ne primam.\nDepozit obavezan u visini jedne zakupnine.\nZa vise informacja pozvati.",
-  "photos": 15,
+  "photos": 10,
   "added": "2026-10-30",
   "updated": "2026-10-31"
  },
