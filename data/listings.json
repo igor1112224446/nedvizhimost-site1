@@ -1,5 +1,68 @@
 [
  {
+  "id": "ho-5425647928422",
+  "slug": "ho-5425647928422-izdavanje-stan-mirijevo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 29 м², Мириево, Звездара",
+  "kind": "1,5-комнатная квартира",
+  "price": 350,
+  "area": 29,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Мириево",
+  "street": "Драгослава Джорджевича Гоше",
+  "geo": {
+   "lat": 44.7961,
+   "lng": 20.53051
+  },
+  "facts": [
+   [
+    "Площадь",
+    "29 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "4-й из 4"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно с животными",
+   "можно въехать сразу",
+   "домофон",
+   "интернет",
+   "кондиционер",
+   "лоджия",
+   "терраса"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 29 м² в районе Мириево (Звездара, Белград). 4-й этаж из 4, с мебелью, отопление автономное, дом современной постройки. Есть: депозит, можно с животными, можно въехать сразу, домофон, интернет, кондиционер, лоджия, терраса. Аренда 350 € в месяц.",
+  "originalLang": "sr",
+  "original": "U ceni je i infostan. Namešten i opremljen tehnikom, dvostran, dobro osvetljen. Zastakljena lođa i terasa. \nGrejanje etažno na struju ili inverter klima. Tokom zime ( okt-mart ) popust od 1000 dinara na račun za struju i povoljniji prag za crvenu zonu. Svi prozori i vrata imaju roletne ili venecijanere.\nU blizini velika Aroma koja radi 24h, 2 Maxija, gimnazija i osnovna škola, linije 25P, 46, 63 i 74.\nObavezan depozit. Обязательный депозит.",
+  "photos": 15,
+  "added": "2026-11-04",
+  "updated": "2026-11-04"
+ },
+ {
   "id": "kp-196688482",
   "slug": "kp-196688482-izdavanje-stan-balkanska",
   "deal": "rent",
@@ -63,7 +126,7 @@
   "text": "Сдаётся 1,5-комнатная квартира площадью 65 м² в районе Балканска (Савски-Венац, Белград). 3-й этаж, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, домофон, терраса, французский балкон, кабельное ТВ, кондиционер, лифт, парковка. Аренда 1 000 € в месяц.",
   "originalLang": "sr",
   "original": "Renoviran stan u centra grada odmah useljiv sa novim namestajem. Wifi i televizija dostupni kao i klima , centralno grejanje . Za vise informacija pozovite ili napisite poruku.",
-  "photos": 0,
+  "photos": 6,
   "added": "2026-11-04",
   "updated": "2026-11-04"
  },
@@ -128,7 +191,7 @@
   "text": "Сдаётся студия площадью 28 м² в районе Мали Мокри Луг (Звездара, Белград). 1-й этаж из 4, с мебелью, отопление кондиционер, автономное, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, терраса, французский балкон, кабельное ТВ, кондиционер, лифт, парковка, депозит. Аренда 400 € в месяц.",
   "originalLang": "sr",
   "original": "Izdaje se prelep, potpuno nov stan površine 28 m² sa terasom, na prvom spratu. Stan je potpuno nov – nova kuhinja, nov nameštaj i kompletno sređen prostor, tako da će budući zakupac biti prvi stanar koji ulazi u stan.\n\nStan je veoma svetao, lepo organizovan i funkcionalan, sa prijatnim i modernim ambijentom koji pruža osećaj topline i udobnosti. Svaki deo stana je pažljivo uređen kako bi prostor bio praktičan i prijatan za svakodnevni život.\n\nStan se nalazi na uglu Bulevara kralja Aleksandra i Partizanske ulice\n\nPosebna prednost stana je terasa kao i slobodan parking ispred zgrade, što je velika pogodnost.\n\nStan se nalazi na prvom spratu, što ga čini veoma praktičnim i lako dostupnim. Zbog svoje kvadrature i rasporeda idealan je za jednu osobu ili par.\n\nTraži se ozbiljan stanar na duži vremenski period, uz potpisivanje ugovora o zakupu.\n\nStan je spreman za useljenje odmah, bez dodatnih ulaganja.",
-  "photos": 0,
+  "photos": 10,
   "added": "2026-11-04",
   "updated": "2026-11-04"
  },
@@ -192,7 +255,7 @@
   "text": "Сдаётся трёхкомнатная квартира площадью 77 м² в районе Блок 11 (Новый Белград, Белград). 2-й этаж из 5, без мебели, отопление центральное, после ремонта, старый фонд. Есть: можно въехать сразу, домофон, кондиционер, лоджия, депозит. Аренда 700 € в месяц.",
   "originalLang": "sr",
   "original": "Zgrada se nalazi u bloku 11c, a blizu je Dunav, obdaništa, škola Kralj Aleksandar I Karađorđević, dom zdravlja Novi Beorad, IX Gimnazija, TC stari Merkator, pijaca, sportski sadržaji za decu i odrasle. . . . . . Mnogo zelenih površina i parkovskog mobilijara.",
-  "photos": 0,
+  "photos": 10,
   "added": "2026-11-04",
   "updated": "2026-11-04"
  },
@@ -252,7 +315,7 @@
   "text": "Сдаётся студия площадью 40 м² в районе © ОпенСтреетМап цонтрибуторс (Савски-Венац, Белград). Приземный этаж из 1, с мебелью, отопление электрическое, старый фонд. Есть: можно въехать сразу, терраса, кондиционер, парковка, депозит. Аренда 550 € в месяц.",
   "originalLang": "sr",
   "original": "Stan u prelepom delu topcidera, idealan za nekoga ko radi od kuce, terasa 50m2 parking,5km od centra grada, brzo i lako se stize. Vrlo obezbedjeno pored zandarmerije. Bus 3 ide do galerije. Sve je kompletno novo, tehnika i sve ostalo. Sveze renoviran. Za dodatna pitanja budite slobodni da me kontaktirate.",
-  "photos": 0,
+  "photos": 13,
   "added": "2026-11-04",
   "updated": "2026-11-04"
  },
@@ -320,7 +383,7 @@
   "text": "Сдаётся 2,5-комнатная квартира площадью 60 м² в районе Батайница (Земун, Белград). Частично меблирована, отопление тёплый пол, люкс, дом современной постройки. Есть: интернет, кабельное ТВ, кондиционер, парковка, терраса, видеонаблюдение, депозит, можно въехать сразу, для некурящих. Аренда 400 € в месяц.",
   "originalLang": "sr",
   "original": "Izdajem lux stan u batajnici ,blizina autobuske stanice,skole,vrtica,prodavnice idealno za porodice sa decom.na zgradi je uradjen solarni sistem.",
-  "photos": 0,
+  "photos": 11,
   "added": "2026-11-04",
   "updated": "2026-11-04"
  },
@@ -384,7 +447,7 @@
   "text": "Сдаётся 1,5-комнатная квартира площадью 55 м² в районе Учительско населе (Звездара, Белград). 3-й этаж из 3, с мебелью, отопление центральное, люкс, дом современной постройки. Есть: депозит, можно въехать сразу, домофон, кондиционер, терраса. Аренда 600 € в месяц.",
   "originalLang": "sr",
   "original": "U cenu stanarine uraćunan je infostan, kompletno je namešten i odmah useljiv.",
-  "photos": 0,
+  "photos": 8,
   "added": "2026-11-04",
   "updated": "2026-11-04"
  },
@@ -456,7 +519,7 @@
   "text": "Сдаётся студия площадью 34 м² в районе Вуков Споменик (Звездара, Белград). 4-й этаж из 4, с мебелью, отопление автономное, люкс, дом современной постройки. Есть: депозит, можно въехать сразу, мансарда, домофон, интернет, кабельное ТВ, кондиционер, лифт, терраса. Аренда 500 € в месяц.",
   "originalLang": "sr",
   "original": "Izdajem modernu, udobnu, tihu, ka dvorištu pozicioniranu garsonjeru kod Vukovog spomenika, blizu tehničkih fakulteta, Beovoza, tramvajskih, trolejbuskih i autobuskih stanica. Stan se sastoji od dnevne sobe u okviru koje su trpezarija i potpuno opremljena kuhinja. Kupatilo ima tuš kabinu i veš mašinu. U dnevnoj sobi su i prostrani plakar i cipelarnik. Poseduje prostranu terasu i blind ulazna vrata.",
-  "photos": 0,
+  "photos": 14,
   "added": "2026-11-04",
   "updated": "2026-11-04"
  },
@@ -532,7 +595,7 @@
   "text": "Сдаётся двухкомнатная квартира площадью 60 м² в районе Баново брдо (Чукарица, Белград). 6-й этаж из 7, с мебелью, отопление центральное, люкс, дом современной постройки. Есть: депозит, можно с животными, не последний этаж, можно въехать сразу, для некурящих, французский балкон, домофон, интернет, кабельное ТВ, кондиционер, лифт, лоджия, видеонаблюдение. Аренда 900 € в месяц.",
   "originalLang": "sr",
   "original": "Izuzetno opremljen i dizajniran stan u sklopu lux kompleksa Banovo Brdo Residence, sa ulaznim foajeom sa portirom i najvišim standardima opreme i materijala.",
-  "photos": 0,
+  "photos": 15,
   "added": "2026-11-04",
   "updated": "2026-11-04"
  },
@@ -606,7 +669,7 @@
   "text": "Сдаётся 1,5-комнатная квартира площадью 42 м² в районе Блок 72 (Новый Белград, Белград). 3-й этаж из 5, с мебелью, отопление тёплый пол, люкс, дом современной постройки. Есть: депозит, можно въехать сразу, гараж, домофон, интернет, кабельное ТВ, кондиционер, лифт, парковка, терраса, видеонаблюдение. Аренда 650 € в месяц.",
   "originalLang": "sr",
   "original": "Izdaje se 1.5 stan u novogradnji – kompletno namešten i neuseljavan, sa parking mestom koje je u sklopu kompleksa zgrade.\nMoguće je iznajmiti i garažno mesto u sklopu zgrade - 100 € \nNapomena: Kućni ljubimci nisu dozvoljeni.\n\nZVATI POSLE 14.00 SATI",
-  "photos": 0,
+  "photos": 10,
   "added": "2026-11-04",
   "updated": "2026-11-04"
  },
@@ -682,7 +745,7 @@
   "text": "Сдаётся двухкомнатная квартира площадью 51 м² в районе Лекино брдо (Вождовац, Белград). 2-й этаж из 5, с мебелью, отопление центральное, люкс, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, домофон, интернет, кабельное ТВ, кондиционер, лифт, лоджия, терраса, горячая вода, видеонаблюдение. Аренда 750 € в месяц.",
   "originalLang": "sr",
   "original": "51 m2, Lekino brdo, zgrada Merin Hill, dvosoban, terasa, nov, kompletno namešten + 2 klima uređaja, kablovska + internet, parking mesto u garaži u sklopu zgrade, ograđeno dvorište, security 24/7",
-  "photos": 0,
+  "photos": 15,
   "added": "2026-11-04",
   "updated": "2026-11-04"
  },
@@ -750,77 +813,7 @@
   "text": "Сдаётся четырёхкомнатная квартира площадью 120 м² в районе Раковица село (Вождовац, Белград). 1-й этаж из 2, с мебелью, отопление аккумуляционные печи, в исходном состоянии, дом современной постройки. Есть: лифт, с садом, терраса, двухуровневая, можно въехать сразу. Аренда 600 € в месяц.",
   "originalLang": "sr",
   "original": "Namešten duplex četvorosoban stan, tri spavace sobe, dnevni biravak, trpezarija, kuhinja, dva kupatila, dve terase, nove svari, lepo sredjen. Na slikama nisu prikazane sve stvari pošto stižu nove ovih dana. Depozit obavezan. Mirno mesto.",
-  "photos": 0,
-  "added": "2026-11-04",
-  "updated": "2026-11-04"
- },
- {
-  "id": "ho-5425647915454",
-  "slug": "ho-5425647915454-izdavanje-stan-lekino-brdo",
-  "deal": "rent",
-  "type": "apartment",
-  "cat": "flat",
-  "title": "Аренда: двухкомнатная квартира, 43 м², Лекино брдо, Вождовац",
-  "kind": "двухкомнатная квартира",
-  "price": 850,
-  "area": 43,
-  "rooms": 2,
-  "city": "Белград",
-  "district": "Вождовац",
-  "districtSlug": "opstina-vozdovac",
-  "location": "Лекино брдо",
-  "street": "Браче Ковач",
-  "geo": {
-   "lat": 44.78649,
-   "lng": 20.48296
-  },
-  "facts": [
-   [
-    "Площадь",
-    "43 м²"
-   ],
-   [
-    "Комнат",
-    "2"
-   ],
-   [
-    "Этаж",
-    "высокий приземный из 4"
-   ],
-   [
-    "Отопление",
-    "тёплый пол"
-   ],
-   [
-    "Мебель",
-    "с мебелью"
-   ],
-   [
-    "Состояние",
-    "люкс"
-   ],
-   [
-    "Дом",
-    "дом современной постройки"
-   ]
-  ],
-  "features": [
-   "депозит",
-   "не последний этаж",
-   "можно въехать сразу",
-   "для некурящих",
-   "домофон",
-   "интернет",
-   "кабельное ТВ",
-   "кондиционер",
-   "лифт",
-   "терраса",
-   "видеонаблюдение"
-  ],
-  "text": "Сдаётся двухкомнатная квартира площадью 43 м² в районе Лекино брдо (Вождовац, Белград). Высокий приземный этаж из 4, с мебелью, отопление тёплый пол, люкс, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, домофон, интернет, кабельное ТВ, кондиционер, лифт, терраса, видеонаблюдение. Аренда 850 € в месяц.",
-  "originalLang": "sr",
-  "original": "Novogradnja na Lekinom brdu 43m2. Stan do sad nije useljavan. Kompletno namešten. Dnevna soba sa trpezarijom i kuhinjom, spavaća soba i kupatilo. Terasa 35m2. Nameštaj i tehnika kompletno novi. Bez kućnih ljubimaca. Blizina vrtića, škole, autobuskih stanica 26,25,31, prodavnica, pošte, banke.",
-  "photos": 0,
+  "photos": 15,
   "added": "2026-11-04",
   "updated": "2026-11-04"
  },
