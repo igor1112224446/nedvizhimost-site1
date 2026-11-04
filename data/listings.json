@@ -1,5 +1,137 @@
 [
  {
+  "id": "ho-5425647648068",
+  "slug": "ho-5425647648068-izdavanje-stan-batajnica",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 60 м², Батайница, Земун",
+  "kind": "2,5-комнатная квартира",
+  "price": 400,
+  "area": 60,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Батайница",
+  "street": "Официрска колония 6. део",
+  "geo": {
+   "lat": 44.91579,
+   "lng": 20.26645
+  },
+  "facts": [
+   [
+    "Площадь",
+    "60 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Отопление",
+    "тёплый пол"
+   ],
+   [
+    "Мебель",
+    "частично меблирована"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 50 € в месяц"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "терраса",
+   "видеонаблюдение",
+   "депозит",
+   "можно въехать сразу",
+   "для некурящих"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 60 м² в районе Батайница (Земун, Белград). Частично меблирована, отопление тёплый пол, люкс, дом современной постройки. Есть: интернет, кабельное ТВ, кондиционер, парковка, терраса, видеонаблюдение, депозит, можно въехать сразу, для некурящих. Аренда 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem lux stan u batajnici ,blizina autobuske stanice,skole,vrtica,prodavnice idealno za porodice sa decom.na zgradi je uradjen solarni sistem.",
+  "photos": 0,
+  "added": "2026-11-04",
+  "updated": "2026-11-04"
+ },
+ {
+  "id": "ho-5425636022038",
+  "slug": "ho-5425636022038-izdavanje-stan-uciteljsko-naselje",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 55 м², Учительско населе, Звездара",
+  "kind": "1,5-комнатная квартира",
+  "price": 600,
+  "area": 55,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Учительско населе",
+  "street": "Оливерина",
+  "geo": {
+   "lat": 44.78759,
+   "lng": 20.51309
+  },
+  "facts": [
+   [
+    "Площадь",
+    "55 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "3-й из 3"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "домофон",
+   "кондиционер",
+   "терраса"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 55 м² в районе Учительско населе (Звездара, Белград). 3-й этаж из 3, с мебелью, отопление центральное, люкс, дом современной постройки. Есть: депозит, можно въехать сразу, домофон, кондиционер, терраса. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "U cenu stanarine uraćunan je infostan, kompletno je namešten i odmah useljiv.",
+  "photos": 0,
+  "added": "2026-11-04",
+  "updated": "2026-11-04"
+ },
+ {
   "id": "ho-5425647929143",
   "slug": "ho-5425647929143-izdavanje-stan-vukov-spomenik",
   "deal": "rent",
@@ -691,139 +823,6 @@
   "text": "Сдаётся двухкомнатная квартира площадью 40 м² в районе Беле воде (Чукарица, Белград). 3-й этаж из 3, с мебелью, отопление аккумуляционные печи, после ремонта, дом современной постройки. Есть: депозит, можно въехать сразу, мансарда, интернет, кабельное ТВ, кондиционер, терраса. Аренда 450 € в месяц.",
   "originalLang": "sr",
   "original": "Izdaje se renoviran namesten dvosoban stan na Belim vodama, u blizini okretnice autobusa 51, u ulici Palisadska 2. deo. U blizini su jos stajalista autobusa 55,58,88 i 512. Stan ima 40m2 plus terasu od 13m2. Grejanje na TA peć. Mesecni troskovi 3500din (infostan i kablovska) + struja po potrosnji. Parkiranje u ulici. Stanarina 450e i depozit 300e.",
-  "photos": 0,
-  "added": "2026-11-04",
-  "updated": "2026-11-04"
- },
- {
-  "id": "ho-5425647927633",
-  "slug": "ho-5425647927633-izdavanje-stan-centar",
-  "deal": "rent",
-  "type": "apartment",
-  "cat": "flat",
-  "title": "Аренда: двухкомнатная квартира, 45 м², Центр, Земун",
-  "kind": "двухкомнатная квартира",
-  "price": 800,
-  "area": 45,
-  "rooms": 2,
-  "city": "Белград",
-  "district": "Земун",
-  "districtSlug": "opstina-zemun",
-  "location": "Центр",
-  "street": "Александра Дубчека",
-  "geo": {
-   "lat": 44.83761,
-   "lng": 20.41162
-  },
-  "facts": [
-   [
-    "Площадь",
-    "45 м²"
-   ],
-   [
-    "Комнат",
-    "2"
-   ],
-   [
-    "Этаж",
-    "1-й из 7"
-   ],
-   [
-    "Отопление",
-    "центральное"
-   ],
-   [
-    "Мебель",
-    "с мебелью"
-   ],
-   [
-    "Состояние",
-    "люкс"
-   ],
-   [
-    "Дом",
-    "дом современной постройки"
-   ],
-   [
-    "Коммунальные",
-    "около 100 € в месяц"
-   ]
-  ],
-  "features": [
-   "можно въехать сразу",
-   "гараж",
-   "домофон",
-   "интернет",
-   "кабельное ТВ",
-   "кондиционер",
-   "лифт",
-   "парковка",
-   "терраса",
-   "видеонаблюдение"
-  ],
-  "text": "Сдаётся двухкомнатная квартира площадью 45 м² в районе Центр (Земун, Белград). 1-й этаж из 7, с мебелью, отопление центральное, люкс, дом современной постройки. Есть: можно въехать сразу, гараж, домофон, интернет, кабельное ТВ, кондиционер, лифт, парковка, терраса, видеонаблюдение. Аренда 800 € в месяц.",
-  "originalLang": "sr",
-  "original": "Ako tražite stan u koji samo unesete kofer i odmah se osećate kao kod kuće, pronašli ste ga. U potpuno novoj zgradi, završenoj 2026. godine, na sjajnoj lokaciji, izdaje se elegantan stan od 45 m² koji nikada nije korišćen. Prostrana dnevna soba sa otvorenom kuhinjom je pravo mesto za opuštanje i druženje, a odvojena spavaća soba vam daje mir i privatnost. Stan je opremljen do najsitnijeg detalja: vrhunska Bosch tehnika, luksuzan nameštaj, posuđe i posteljina, tako da je sve spremno za život. Na prvom spratu je terasa sa pogledom na dvorište, idealna za jutarnju kafu ili odmor posle napornog dana. Uz stan možete iznajmiti i parking mesto u podzemnoj garaži, koja će biti spremna za 2–3 meseca.",
-  "photos": 0,
-  "added": "2026-11-04",
-  "updated": "2026-11-04"
- },
- {
-  "id": "ho-5425647928118",
-  "slug": "ho-5425647928118-izdavanje-stan-banovo-brdo",
-  "deal": "rent",
-  "type": "apartment",
-  "cat": "flat",
-  "title": "Аренда: трёхкомнатная квартира, 60 м², Баново брдо, Чукарица",
-  "kind": "трёхкомнатная квартира",
-  "price": 1000,
-  "area": 60,
-  "rooms": 3,
-  "city": "Белград",
-  "district": "Чукарица",
-  "districtSlug": "opstina-cukarica",
-  "location": "Баново брдо",
-  "street": "Пере Тодоровича",
-  "geo": {
-   "lat": 44.77915,
-   "lng": 20.42072
-  },
-  "facts": [
-   [
-    "Площадь",
-    "60 м²"
-   ],
-   [
-    "Комнат",
-    "3"
-   ],
-   [
-    "Этаж",
-    "3-й из 4"
-   ],
-   [
-    "Отопление",
-    "центральное"
-   ],
-   [
-    "Мебель",
-    "с мебелью"
-   ],
-   [
-    "Состояние",
-    "люкс"
-   ]
-  ],
-  "features": [
-   "депозит",
-   "не последний этаж",
-   "можно въехать сразу",
-   "кондиционер",
-   "видеонаблюдение"
-  ],
-  "text": "Сдаётся трёхкомнатная квартира площадью 60 м² в районе Баново брдо (Чукарица, Белград). 3-й этаж из 4, с мебелью, отопление центральное, люкс. Есть: депозит, не последний этаж, можно въехать сразу, кондиционер, видеонаблюдение. Аренда 1 000 € в месяц.",
-  "originalLang": "sr",
-  "original": "LUX STAN ZA IZDAVANJE | BANOVO BRDO\n\nEkskluzivna lokacija. Prefinjen enterijer. Beskompromisan komfor.\n\nIzdaje se luksuzan, kompletno renoviran i moderno opremljen stan sa tri sobe, smešten na jednoj od najatraktivnijih lokacija Banovog brda, u prelepom ambijentu velikog parka.\n\nStan odiše elegancijom, sofisticiranim dizajnom i pažljivo biranim detaljima, pružajući savršen spoj savremenog luksuza, privatnosti i mira, nadomak svih gradskih sadržaja.\n\nRetka prilika za život u prestižnom okruženju, okruženom zelenilom.\n\nNapomena: Televizori i krevet u jednoj od soba biće naknadno postavljeni i nisu prikazani na fotografijama.",
   "photos": 0,
   "added": "2026-11-04",
   "updated": "2026-11-04"
