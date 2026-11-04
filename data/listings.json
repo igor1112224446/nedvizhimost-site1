@@ -1,5 +1,202 @@
 [
  {
+  "id": "kp-196688482",
+  "slug": "kp-196688482-izdavanje-stan-balkanska",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 65 м², Балканска, Савски-Венац",
+  "kind": "1,5-комнатная квартира",
+  "price": 1000,
+  "area": 65,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "savski-venac",
+  "location": "Балканска",
+  "street": "Гаврила Принципа 21",
+  "geo": {
+   "lat": 44.81285,
+   "lng": 20.45528
+  },
+  "facts": [
+   [
+    "Площадь",
+    "65 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "3-й"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "французский балкон",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 65 м² в районе Балканска (Савски-Венац, Белград). 3-й этаж, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, домофон, терраса, французский балкон, кабельное ТВ, кондиционер, лифт, парковка. Аренда 1 000 € в месяц.",
+  "originalLang": "sr",
+  "original": "Renoviran stan u centra grada odmah useljiv sa novim namestajem. Wifi i televizija dostupni kao i klima , centralno grejanje . Za vise informacija pozovite ili napisite poruku.",
+  "photos": 0,
+  "added": "2026-11-04",
+  "updated": "2026-11-04"
+ },
+ {
+  "id": "kp-196884657",
+  "slug": "kp-196884657-izdavanje-stan-mali-mokri-lug",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 28 м², Мали Мокри Луг, Звездара",
+  "kind": "студия",
+  "price": 400,
+  "area": 28,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Мали Мокри Луг",
+  "street": "Партизанска 1G",
+  "geo": {
+   "lat": 44.77418,
+   "lng": 20.53727
+  },
+  "facts": [
+   [
+    "Площадь",
+    "28 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "1-й из 4"
+   ],
+   [
+    "Отопление",
+    "кондиционер, автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "французский балкон",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся студия площадью 28 м² в районе Мали Мокри Луг (Звездара, Белград). 1-й этаж из 4, с мебелью, отопление кондиционер, автономное, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, терраса, французский балкон, кабельное ТВ, кондиционер, лифт, парковка, депозит. Аренда 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se prelep, potpuno nov stan površine 28 m² sa terasom, na prvom spratu. Stan je potpuno nov – nova kuhinja, nov nameštaj i kompletno sređen prostor, tako da će budući zakupac biti prvi stanar koji ulazi u stan.\n\nStan je veoma svetao, lepo organizovan i funkcionalan, sa prijatnim i modernim ambijentom koji pruža osećaj topline i udobnosti. Svaki deo stana je pažljivo uređen kako bi prostor bio praktičan i prijatan za svakodnevni život.\n\nStan se nalazi na uglu Bulevara kralja Aleksandra i Partizanske ulice\n\nPosebna prednost stana je terasa kao i slobodan parking ispred zgrade, što je velika pogodnost.\n\nStan se nalazi na prvom spratu, što ga čini veoma praktičnim i lako dostupnim. Zbog svoje kvadrature i rasporeda idealan je za jednu osobu ili par.\n\nTraži se ozbiljan stanar na duži vremenski period, uz potpisivanje ugovora o zakupu.\n\nStan je spreman za useljenje odmah, bez dodatnih ulaganja.",
+  "photos": 0,
+  "added": "2026-11-04",
+  "updated": "2026-11-04"
+ },
+ {
+  "id": "kp-196842632",
+  "slug": "kp-196842632-izdavanje-stan-blok-11",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 77 м², Блок 11, Новый Белград",
+  "kind": "трёхкомнатная квартира",
+  "price": 700,
+  "area": 77,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "novi-beograd",
+  "location": "Блок 11",
+  "street": "Грамшиева 4",
+  "geo": {
+   "lat": 44.83033,
+   "lng": 20.41484
+  },
+  "facts": [
+   [
+    "Площадь",
+    "77 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "2-й из 5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "домофон",
+   "кондиционер",
+   "лоджия",
+   "депозит"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 77 м² в районе Блок 11 (Новый Белград, Белград). 2-й этаж из 5, без мебели, отопление центральное, после ремонта, старый фонд. Есть: можно въехать сразу, домофон, кондиционер, лоджия, депозит. Аренда 700 € в месяц.",
+  "originalLang": "sr",
+  "original": "Zgrada se nalazi u bloku 11c, a blizu je Dunav, obdaništa, škola Kralj Aleksandar I Karađorđević, dom zdravlja Novi Beorad, IX Gimnazija, TC stari Merkator, pijaca, sportski sadržaji za decu i odrasle. . . . . . Mnogo zelenih površina i parkovskog mobilijara.",
+  "photos": 0,
+  "added": "2026-11-04",
+  "updated": "2026-11-04"
+ },
+ {
   "id": "kp-196909932",
   "slug": "kp-196909932-izdavanje-stan-openstreetmap-contributors",
   "deal": "rent",
@@ -623,200 +820,6 @@
   "text": "Сдаётся двухкомнатная квартира площадью 43 м² в районе Лекино брдо (Вождовац, Белград). Высокий приземный этаж из 4, с мебелью, отопление тёплый пол, люкс, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, домофон, интернет, кабельное ТВ, кондиционер, лифт, терраса, видеонаблюдение. Аренда 850 € в месяц.",
   "originalLang": "sr",
   "original": "Novogradnja na Lekinom brdu 43m2. Stan do sad nije useljavan. Kompletno namešten. Dnevna soba sa trpezarijom i kuhinjom, spavaća soba i kupatilo. Terasa 35m2. Nameštaj i tehnika kompletno novi. Bez kućnih ljubimaca. Blizina vrtića, škole, autobuskih stanica 26,25,31, prodavnica, pošte, banke.",
-  "photos": 0,
-  "added": "2026-11-04",
-  "updated": "2026-11-04"
- },
- {
-  "id": "ho-5425647906162",
-  "slug": "ho-5425647906162-izdavanje-stan-saobracajni-fakultet",
-  "deal": "rent",
-  "type": "apartment",
-  "cat": "flat",
-  "title": "Аренда: двухкомнатная квартира, 68 м², Саобрачайни факултет, Вождовац",
-  "kind": "двухкомнатная квартира",
-  "price": 700,
-  "area": 68,
-  "rooms": 2,
-  "city": "Белград",
-  "district": "Вождовац",
-  "districtSlug": "opstina-vozdovac",
-  "location": "Саобрачайни факултет",
-  "street": "Милана Распоповича",
-  "geo": {
-   "lat": 44.76965,
-   "lng": 20.48102
-  },
-  "facts": [
-   [
-    "Площадь",
-    "68 м²"
-   ],
-   [
-    "Комнат",
-    "2"
-   ],
-   [
-    "Этаж",
-    "высокий приземный"
-   ],
-   [
-    "Отопление",
-    "центральное"
-   ],
-   [
-    "Мебель",
-    "с мебелью"
-   ],
-   [
-    "Состояние",
-    "после ремонта"
-   ]
-  ],
-  "features": [
-   "депозит",
-   "можно въехать сразу",
-   "домофон",
-   "кондиционер",
-   "лоджия",
-   "терраса",
-   "горячая вода"
-  ],
-  "text": "Сдаётся двухкомнатная квартира площадью 68 м² в районе Саобрачайни факултет (Вождовац, Белград). Высокий приземный этаж, с мебелью, отопление центральное, после ремонта. Есть: депозит, можно въехать сразу, домофон, кондиционер, лоджия, терраса, горячая вода. Аренда 700 € в месяц.",
-  "originalLang": "sr",
-  "original": "Izdaje se prostran, funkcionalan i kompletno namešten stan površine 65 m² na Voždovcu sa zastakljenom terasom I lodjom, u mirnoj ulici Milana Raspopovića, u neposrednoj blizini Saobraćajnog fakulteta i Ulice vojvode Stepe.\nStan se nalazi na visokom prizemlju stambene zgrade i odmah je useljiv. \nIzuzetno je u mirnom delu.\nSastoji se od veoma prostranog dnevnog boravka sa trpezarijom, odvojene i kuhinje sa lodjom, velike spavaće sobe, kupatila i zastakljene terase okrenute ka zelenilu. Spavaća soba poseduje veliki bračni krevet i prostran ormar, a kupatilo je kompletno opremljeno.\nPosebnu prednost predstavlja zastakljena terasa sa pogledom na zelenilo, koja pruža prijatan prostor za odmor i izuzetan mir I izolovanost. Stan ima centralno grejanje kao I toplovod.\nStan se nalazi u mirnom i zelenom delu Voždovca, a istovremeno je odlično povezan sa ostalim delovima Beograda. U blizini se nalaze Saobraćajni fakultet, Visoka škola elektrotehnike i računarstva, Studentski dom „4. april“, Fakultet organizacionih nauka, Fakultet političkih nauka, Ulica vojvode Stepe I mnoge autobuske I tranvajske linije. U okolini zgrade postoji dosta mesta za parkiranje.\nNa nekoliko minuta hoda nalazi se I Banjicka suma I rekreativni centar.\nStan je pogodan za par, manju porodicu, zaposlene osobe ili studente koji žele prostran i udoban smeštaj u blizini fakulteta I svih vrsta prodavnica.\n\nKvadratura: 68 m²\nSprat:  visoko prizemlje\nNameštenost: kompletno namešten\nUseljivost: odmah\nMesečna zakupnina: 700 EUR\nDepozit: 700 EUR, u visini jedne mesečne zakupnine\n\nStan se izdaje na duži vremenski period ozbiljnim i odgovornim zakupcima.",
-  "photos": 0,
-  "added": "2026-11-04",
-  "updated": "2026-11-04"
- },
- {
-  "id": "ho-5425647927653",
-  "slug": "ho-5425647927653-izdavanje-stan-bulevar-kralja-aleksandra",
-  "deal": "rent",
-  "type": "apartment",
-  "cat": "flat",
-  "title": "Аренда: однокомнатная квартира, 38 м², Булевар краля Александра, Врачар",
-  "kind": "однокомнатная квартира",
-  "price": 500,
-  "area": 38,
-  "rooms": 1,
-  "city": "Белград",
-  "district": "Врачар",
-  "districtSlug": "opstina-vracar",
-  "location": "Булевар краля Александра",
-  "street": "Войводе Шупликца",
-  "geo": {
-   "lat": 44.80117,
-   "lng": 20.48326
-  },
-  "facts": [
-   [
-    "Площадь",
-    "38 м²"
-   ],
-   [
-    "Комнат",
-    "1"
-   ],
-   [
-    "Этаж",
-    "полуподвал из 5"
-   ],
-   [
-    "Отопление",
-    "центральное"
-   ],
-   [
-    "Мебель",
-    "с мебелью"
-   ],
-   [
-    "Состояние",
-    "после ремонта"
-   ]
-  ],
-  "features": [
-   "депозит",
-   "можно въехать сразу",
-   "для некурящих",
-   "домофон",
-   "кондиционер",
-   "терраса"
-  ],
-  "text": "Сдаётся однокомнатная квартира площадью 38 м² в районе Булевар краля Александра (Врачар, Белград). Полуподвал этаж из 5, с мебелью, отопление центральное, после ремонта. Есть: депозит, можно въехать сразу, для некурящих, домофон, кондиционер, терраса. Аренда 500 € в месяц.",
-  "originalLang": "sr",
-  "original": "Vračar – renoviran i moderno opremljen jednosoban stan 38m2\nIzdaje se kompletno renoviran, moderno namešten jednosoban stan na atraktivnoj lokaciji na Vračaru, blizu Bulevara i fakulteta. Stan se nalazi u suterenu, pažljivo je uređen i poseduje centralno grejanje, interfon, klima-uređaj, veš mašinu, mašinu za pranje sudova, TV i spoljnu terasu.\nIdealan je za 1–2 osobe ili kao poslovni prostor. Vlasnik",
-  "photos": 0,
-  "added": "2026-11-04",
-  "updated": "2026-11-04"
- },
- {
-  "id": "ho-5425643816374",
-  "slug": "ho-5425643816374-izdavanje-stan-novi-grad",
-  "deal": "rent",
-  "type": "apartment",
-  "cat": "flat",
-  "title": "Аренда: 2,5-комнатная квартира, 60 м², Нови град, Земун",
-  "kind": "2,5-комнатная квартира",
-  "price": 600,
-  "area": 60,
-  "rooms": 2.5,
-  "city": "Белград",
-  "district": "Земун",
-  "districtSlug": "opstina-zemun",
-  "location": "Нови град",
-  "street": "Джока Ковачевича",
-  "geo": {
-   "lat": 44.83953,
-   "lng": 20.3698
-  },
-  "facts": [
-   [
-    "Площадь",
-    "60 м²"
-   ],
-   [
-    "Комнат",
-    "2,5"
-   ],
-   [
-    "Этаж",
-    "2-й из 2"
-   ],
-   [
-    "Отопление",
-    "автономное"
-   ],
-   [
-    "Мебель",
-    "с мебелью"
-   ],
-   [
-    "Состояние",
-    "люкс"
-   ],
-   [
-    "Дом",
-    "старый фонд"
-   ]
-  ],
-  "features": [
-   "депозит",
-   "можно въехать сразу",
-   "для некурящих",
-   "домофон",
-   "интернет",
-   "кабельное ТВ",
-   "кондиционер",
-   "парковка",
-   "с садом",
-   "терраса",
-   "горячая вода",
-   "видеонаблюдение"
-  ],
-  "text": "Сдаётся 2,5-комнатная квартира площадью 60 м² в районе Нови град (Земун, Белград). 2-й этаж из 2, с мебелью, отопление автономное, люкс, старый фонд. Есть: депозит, можно въехать сразу, для некурящих, домофон, интернет, кабельное ТВ, кондиционер, парковка, с садом, терраса, горячая вода, видеонаблюдение. Аренда 600 € в месяц.",
-  "originalLang": "sr",
-  "original": "Kontakt vlasnika/Contact the owner: \n Call / SMS / Viber /\nIzdaje se stan u Zemunu, naselje Novi grad, ulica Đoka Kovačevića, 60m2 + terasa,  sopstveni parking, renoviran, svetao, lux oprema i uređaji. \n\nStan se nalazi u porodičnom i mirnom delu Zemuna. Odlična povezanost sa gradom (blizu uključenja na Auto put, \nŽelezničke stanice Zemun i autobuskih stanica 15, 78, 45, 709, 612 )\nU blizini se nalazi i Osnovna škola, vrtići, Dom zdravlja, radnje i Mega marketi  (TEMPO, Cash and Carry) , Tržni centar Zmaj. (Crafter, Sve za kuću itd.)\nStan ima niske mesečne režije.(Nije na centralnom grejanju). \nEkonomično i kvalitetno grejanje/hladnjenje inverter klimama Fujitsu\nUređaji: mašina za veš, mašina za sušenje veša, mašina za sudove, rerna, šporet, TV, klime...\nProstorije: predsoblje, hodnik, spabaća soba, dnevna soba, trpezarija, kuhinja, špajz, terasa.\nKreveti: 160*200 bračni i ugaona garnitura na izvlačenje 160*200\n\n*Depozit obavezan.\n\n-----------------------------------------------ENGLISH-----------------------------------------------\n\nApartment for Rent in Zemun, Novi Grad\nApartment for rent in Zemun, Novi Grad neighborhood, Đoka Kovačevića Street. The apartment is 60 m² + terrace, fully renovated, bright, and equipped with high-quality luxury furniture and appliances. It also includes a private parking space. \nThe apartment is located in a quiet, family-friendly part of Zemun with excellent connections to the city. It is close to the highway entrance, Zemun Railway Station, and bus lines 15, 78, 45, 709, and 612.\n\nNearby amenities include an elementary school, kindergartens, a health center, shops, and major supermarkets (TEMPO, Metro Cash & Carry), as well as Zmaj Shopping Center (Crafter, Home & Living stores, and more).\n\nThe apartment has low monthly utility costs (it is not connected to district heating). Heating and cooling are provided by Fujitsu inverter air conditioning units, offering an efficient and cost-effective solution.\n\nAppliances included:\nWashing machine Clothes dryer, Dishwasher, Oven, Stove, TV, Air conditioning units, And more\n\nLayout:\nEntrance hall, Hallway, Bedroom ,Living room ,Dining area, Kitchen, Pantry, Terrace\n\nBeds:\nQueen-size bed (160 × 200 cm)\nPull-out corner sofa (160 × 200 cm)\n\n*Security deposit required.",
   "photos": 0,
   "added": "2026-11-04",
   "updated": "2026-11-04"
