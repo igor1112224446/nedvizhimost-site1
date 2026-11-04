@@ -1,5 +1,65 @@
 [
  {
+  "id": "kp-196909932",
+  "slug": "kp-196909932-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 40 м², © ОпенСтреетМап цонтрибуторс, Савски-Венац",
+  "kind": "студия",
+  "price": 550,
+  "area": 40,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "savski-venac",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "",
+  "geo": {
+   "lat": 44.77641,
+   "lng": 20.43562
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "приземный из 1"
+   ],
+   [
+    "Отопление",
+    "электрическое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "кондиционер",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся студия площадью 40 м² в районе © ОпенСтреетМап цонтрибуторс (Савски-Венац, Белград). Приземный этаж из 1, с мебелью, отопление электрическое, старый фонд. Есть: можно въехать сразу, терраса, кондиционер, парковка, депозит. Аренда 550 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stan u prelepom delu topcidera, idealan za nekoga ko radi od kuce, terasa 50m2 parking,5km od centra grada, brzo i lako se stize. Vrlo obezbedjeno pored zandarmerije. Bus 3 ide do galerije. Sve je kompletno novo, tehnika i sve ostalo. Sveze renoviran. Za dodatna pitanja budite slobodni da me kontaktirate.",
+  "photos": 0,
+  "added": "2026-11-04",
+  "updated": "2026-11-04"
+ },
+ {
   "id": "ho-5425647648068",
   "slug": "ho-5425647648068-izdavanje-stan-batajnica",
   "deal": "rent",
@@ -757,72 +817,6 @@
   "text": "Сдаётся 2,5-комнатная квартира площадью 60 м² в районе Нови град (Земун, Белград). 2-й этаж из 2, с мебелью, отопление автономное, люкс, старый фонд. Есть: депозит, можно въехать сразу, для некурящих, домофон, интернет, кабельное ТВ, кондиционер, парковка, с садом, терраса, горячая вода, видеонаблюдение. Аренда 600 € в месяц.",
   "originalLang": "sr",
   "original": "Kontakt vlasnika/Contact the owner: \n Call / SMS / Viber /\nIzdaje se stan u Zemunu, naselje Novi grad, ulica Đoka Kovačevića, 60m2 + terasa,  sopstveni parking, renoviran, svetao, lux oprema i uređaji. \n\nStan se nalazi u porodičnom i mirnom delu Zemuna. Odlična povezanost sa gradom (blizu uključenja na Auto put, \nŽelezničke stanice Zemun i autobuskih stanica 15, 78, 45, 709, 612 )\nU blizini se nalazi i Osnovna škola, vrtići, Dom zdravlja, radnje i Mega marketi  (TEMPO, Cash and Carry) , Tržni centar Zmaj. (Crafter, Sve za kuću itd.)\nStan ima niske mesečne režije.(Nije na centralnom grejanju). \nEkonomično i kvalitetno grejanje/hladnjenje inverter klimama Fujitsu\nUređaji: mašina za veš, mašina za sušenje veša, mašina za sudove, rerna, šporet, TV, klime...\nProstorije: predsoblje, hodnik, spabaća soba, dnevna soba, trpezarija, kuhinja, špajz, terasa.\nKreveti: 160*200 bračni i ugaona garnitura na izvlačenje 160*200\n\n*Depozit obavezan.\n\n-----------------------------------------------ENGLISH-----------------------------------------------\n\nApartment for Rent in Zemun, Novi Grad\nApartment for rent in Zemun, Novi Grad neighborhood, Đoka Kovačevića Street. The apartment is 60 m² + terrace, fully renovated, bright, and equipped with high-quality luxury furniture and appliances. It also includes a private parking space. \nThe apartment is located in a quiet, family-friendly part of Zemun with excellent connections to the city. It is close to the highway entrance, Zemun Railway Station, and bus lines 15, 78, 45, 709, and 612.\n\nNearby amenities include an elementary school, kindergartens, a health center, shops, and major supermarkets (TEMPO, Metro Cash & Carry), as well as Zmaj Shopping Center (Crafter, Home & Living stores, and more).\n\nThe apartment has low monthly utility costs (it is not connected to district heating). Heating and cooling are provided by Fujitsu inverter air conditioning units, offering an efficient and cost-effective solution.\n\nAppliances included:\nWashing machine Clothes dryer, Dishwasher, Oven, Stove, TV, Air conditioning units, And more\n\nLayout:\nEntrance hall, Hallway, Bedroom ,Living room ,Dining area, Kitchen, Pantry, Terrace\n\nBeds:\nQueen-size bed (160 × 200 cm)\nPull-out corner sofa (160 × 200 cm)\n\n*Security deposit required.",
-  "photos": 0,
-  "added": "2026-11-04",
-  "updated": "2026-11-04"
- },
- {
-  "id": "ho-5425647927827",
-  "slug": "ho-5425647927827-izdavanje-stan-bele-vode",
-  "deal": "rent",
-  "type": "apartment",
-  "cat": "flat",
-  "title": "Аренда: двухкомнатная квартира, 40 м², Беле воде, Чукарица",
-  "kind": "двухкомнатная квартира",
-  "price": 450,
-  "area": 40,
-  "rooms": 2,
-  "city": "Белград",
-  "district": "Чукарица",
-  "districtSlug": "opstina-cukarica",
-  "location": "Беле воде",
-  "street": "Палисадска 2. део",
-  "geo": {
-   "lat": 44.7481,
-   "lng": 20.40115
-  },
-  "facts": [
-   [
-    "Площадь",
-    "40 м²"
-   ],
-   [
-    "Комнат",
-    "2"
-   ],
-   [
-    "Этаж",
-    "3-й из 3"
-   ],
-   [
-    "Отопление",
-    "аккумуляционные печи"
-   ],
-   [
-    "Мебель",
-    "с мебелью"
-   ],
-   [
-    "Состояние",
-    "после ремонта"
-   ],
-   [
-    "Дом",
-    "дом современной постройки"
-   ]
-  ],
-  "features": [
-   "депозит",
-   "можно въехать сразу",
-   "мансарда",
-   "интернет",
-   "кабельное ТВ",
-   "кондиционер",
-   "терраса"
-  ],
-  "text": "Сдаётся двухкомнатная квартира площадью 40 м² в районе Беле воде (Чукарица, Белград). 3-й этаж из 3, с мебелью, отопление аккумуляционные печи, после ремонта, дом современной постройки. Есть: депозит, можно въехать сразу, мансарда, интернет, кабельное ТВ, кондиционер, терраса. Аренда 450 € в месяц.",
-  "originalLang": "sr",
-  "original": "Izdaje se renoviran namesten dvosoban stan na Belim vodama, u blizini okretnice autobusa 51, u ulici Palisadska 2. deo. U blizini su jos stajalista autobusa 55,58,88 i 512. Stan ima 40m2 plus terasu od 13m2. Grejanje na TA peć. Mesecni troskovi 3500din (infostan i kablovska) + struja po potrosnji. Parkiranje u ulici. Stanarina 450e i depozit 300e.",
   "photos": 0,
   "added": "2026-11-04",
   "updated": "2026-11-04"
