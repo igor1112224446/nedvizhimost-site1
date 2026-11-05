@@ -1,5 +1,644 @@
 [
  {
+  "id": "ho-5425647740751",
+  "slug": "ho-5425647740751-izdavanje-stan-save-kovacevica",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 47 м², Саве Ковачевича, Земун",
+  "kind": "однокомнатная квартира",
+  "price": 500,
+  "area": 47,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Саве Ковачевича",
+  "street": "Мича Радаковича",
+  "geo": {
+   "lat": 44.84307,
+   "lng": 20.38952
+  },
+  "facts": [
+   [
+    "Площадь",
+    "47 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "4-й из 4"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 80 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "для некурящих",
+   "домофон",
+   "кондиционер",
+   "лифт",
+   "подвал",
+   "терраса"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 47 м² в районе Саве Ковачевича (Земун, Белград). 4-й этаж из 4, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: депозит, можно въехать сразу, для некурящих, домофон, кондиционер, лифт, подвал, терраса. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Renoviran stan u naselju Save Kovačević Zemun, sve je potpuno novo. Stan se izdaje na mesečnom nivou i na duže!!Najaviti se pozivom za gledanje stana. Mesečni izdaci za Infostan su 9000 dinara, struja se plaća po utrošku.\nU zgradi ima lift.",
+  "photos": 15,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "ho-5425647922361",
+  "slug": "ho-5425647922361-izdavanje-stan-batajnica",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 50 м², Батайница, Земун",
+  "kind": "двухкомнатная квартира",
+  "price": 500,
+  "area": 50,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Батайница",
+  "street": "Краля Радослава",
+  "geo": {
+   "lat": 44.89952,
+   "lng": 20.28026
+  },
+  "facts": [
+   [
+    "Площадь",
+    "50 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "2-й из 2"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "парковка",
+   "терраса",
+   "горячая вода",
+   "депозит",
+   "можно въехать сразу"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 50 м² в районе Батайница (Земун, Белград). 2-й этаж из 2, с мебелью, дом современной постройки. Есть: интернет, парковка, терраса, горячая вода, депозит, можно въехать сразу. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem dvosoban stan, Batajnica, 50m2, dvosoban. Stan je odmah useljiv, stan je za dvoje maksimalno troje stanara. \nU blizini je škola, marketi, veliki Maxi, autobuske linije 200m od stana. Za više informacija pozvati.",
+  "photos": 8,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "ho-5425647886910",
+  "slug": "ho-5425647886910-izdavanje-stan-batajnica",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 50 м², Батайница, Земун",
+  "kind": "двухкомнатная квартира",
+  "price": 500,
+  "area": 50,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Батайница",
+  "street": "Бродска 12",
+  "geo": {
+   "lat": 44.90167,
+   "lng": 20.2924
+  },
+  "facts": [
+   [
+    "Площадь",
+    "50 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "приземный из 3"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 100 € в месяц"
+   ]
+  ],
+  "features": [
+   "домофон",
+   "кондиционер",
+   "парковка",
+   "терраса",
+   "видеонаблюдение",
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 50 м² в районе Батайница (Земун, Белград). Приземный этаж из 3, с мебелью, отопление автономное, люкс, дом современной постройки. Есть: домофон, кондиционер, парковка, терраса, видеонаблюдение, депозит, не последний этаж, можно въехать сразу, для некурящих. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem lux stan u Batajnici, samcu ili samici, eventualno bračni par. Stan se izdaje isključivo nepušačima, odgovornim, pedantnim i ozbiljnim stanarima. Kućni ljubimci nisu dozvoljeni. Stan ima dve spavaće sobe, dnevnu sobu sa kuhinjom i trpezarijom. Ima terasu. Kirija je 500 eura + depozit od 500 eura. Prednost imaju devojke. U blizini je prodavnica, stanica za autobusku liniju br 700. Strancima stan ne izdajem.",
+  "photos": 7,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "ho-5425644005866",
+  "slug": "ho-5425644005866-izdavanje-stan-vidikovac",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 32 м², Видиковац, Раковица",
+  "kind": "однокомнатная квартира",
+  "price": 450,
+  "area": 32,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Раковица",
+  "districtSlug": "opstina-rakovica",
+  "location": "Видиковац",
+  "street": "Кнеза Вишеслава",
+  "geo": {
+   "lat": 44.74419,
+   "lng": 20.42715
+  },
+  "facts": [
+   [
+    "Площадь",
+    "32 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "2-й из 7"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 80 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "для некурящих",
+   "домофон",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 32 м² в районе Видиковац (Раковица, Белград). 2-й этаж из 7, с мебелью, отопление газовое, в исходном состоянии, дом современной постройки. Есть: депозит, не последний этаж, для некурящих, домофон, кондиционер, лифт, парковка, терраса, горячая вода, видеонаблюдение. Аренда 450 € в месяц.",
+  "originalLang": "sr",
+  "original": "Nov jednosoban stan u novoj zgradi na Vidikovcu kod McDonaldsa. Odlična povezanost sa ostalim delovima grada. Stan ima priključke za kablovsku televiziju i internet. Obezbeđeno parking mesto. Nisu dozvoljeni kućni ljubimci.\nStan je useljiv od 1. novembra 2026.",
+  "photos": 15,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "fz-6aeb0dcf2b01239f620cd578",
+  "slug": "fz-6aeb0dcf2b01239f620cd578-izdavanje-stan-vracar",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 60 м², Врачар",
+  "kind": "двухкомнатная квартира",
+  "price": 800,
+  "area": 60,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "vracar",
+  "location": "",
+  "street": "Хаджи-Проданова",
+  "geo": {
+   "lat": 44.80299,
+   "lng": 20.47546
+  },
+  "facts": [
+   [
+    "Площадь",
+    "60 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся двухкомнатная квартира площадью 60 м² в районе Врачар. С мебелью, отопление центральное. Аренда 800 € в месяц.",
+  "originalLang": "sr",
+  "original": "Sada možeš da proveriš koliko bi ti vremena trebalo od nekretnine koju trenutno gledaš do tebi bitnih lokacija do kojih svakodnevno putuješ – posao, vrtić, fakultet, škola, teretana.",
+  "photos": 15,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "fz-6ae331ae421e807a400b51fb",
+  "slug": "fz-6ae331ae421e807a400b51fb-izdavanje-stan-medakovic",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 70 м², Медакович, Вождовац",
+  "kind": "2,5-комнатная квартира",
+  "price": 650,
+  "area": 70,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Медакович",
+  "street": "Медаковичева 70",
+  "geo": {
+   "lat": 44.7766,
+   "lng": 20.49468
+  },
+  "facts": [
+   [
+    "Площадь",
+    "70 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 70 м² в районе Медакович (Вождовац, Белград). С мебелью, отопление аккумуляционные печи. Аренда 650 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se potpuno renoviran dvoiposoban stan u prizemlju u Medakovićevoj 70. Stan ima dnevnu sobu, kupatilo, kuhinju, dve spavaće sobe, ostavu i prostranu terasu. Stan poseduje SVOJE PARKING MESTO ispred stana.",
+  "photos": 11,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "fz-6ae9d24c7412a841bc0f29a5",
+  "slug": "fz-6ae9d24c7412a841bc0f29a5-izdavanje-stan-batajnica",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 65 м², Батайница, Земун",
+  "kind": "трёхкомнатная квартира",
+  "price": 500,
+  "area": 65,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "Батайница",
+  "street": "Майора Зорана Радосавлевича 118",
+  "geo": {
+   "lat": 44.90066,
+   "lng": 20.28389
+  },
+  "facts": [
+   [
+    "Площадь",
+    "65 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся трёхкомнатная квартира площадью 65 м² в районе Батайница (Земун, Белград). Без мебели, отопление центральное. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "U ulici Majora Zorana Radosavljevića, u Batajnici, Zemun, izdaje se trosoban nenamešten stan od 65 kvadratnih metara. Stan se nalazi na prvom spratu zgrade od četiri sprata, izgrađene 2018. godine. Ima terasu, lođu i kupatilo. U stanu je dostupan internet i klima uređaj. Grejanje je centralno. Stan ima dvorišno parking mesto. Zgrada ima interfon i video nadzor. Stan je orijentisan ka jugu, sa pogledom na ulicu i dvorište.",
+  "photos": 9,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "fz-6ad9caa010ecf8667b0bd825",
+  "slug": "fz-6ad9caa010ecf8667b0bd825-izdavanje-stan-lekino-brdo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 73 м², Лекино Брдо, Вождовац",
+  "kind": "трёхкомнатная квартира",
+  "price": 1280,
+  "area": 73,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Лекино Брдо",
+  "street": "Войислава Нановича 4V",
+  "geo": {
+   "lat": 44.78812,
+   "lng": 20.47853
+  },
+  "facts": [
+   [
+    "Площадь",
+    "73 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ]
+  ],
+  "features": [
+   "кондиционер"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 73 м² в районе Лекино Брдо (Вождовац, Белград). Отопление центральное. Есть: кондиционер. Аренда 1 280 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stan je potpuno namešten i spreman za useljenje. Dnevna soba (27m2) je prostrana i svetla, sadrži biblioteku za knjige, sofu (200x90cm), fotelju i prelep stočić. Kuhinja (5m2) je u produžetku dnevne sobe, rađena po meri sa kvalitetnim elementima. Glavna spavaća soba(14m2) sadrži krevet 200x160cm, radni sto sa stolicom, veliki plakar, takođe rađen po meri. U glavno kupatilo (5m2) sa tušem se ulazi iz spavaće prostorije, poseduje podno grejanje. Postoji odvojeni toalet (3m2) sa lavaboom odmah pored ulaznih vrata. Druga spavaća soba (9m2) je manja, predviđena da bude dečija soba ali se može koristiti i kao radna soba. Stan takodje poseduje i vešernicu/ostavu (3m2) sa dosta polica, gde je smešten bojler i mašina za veš. Balkon (4m2) je veliki, sa drvenom sofom i stočićem za kafu, takođe i drvenim stolom i stolicama. Postoji i dodatni element za odlaganje na terasi, takodje od drveta. Stan je jugozapadno orijentisan, i u neposrednoj blizini zgrade se ne nalaze drugi stambeni objekti tako da imate određenu privatnost.",
+  "photos": 15,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "fz-6ae43d923561ef76b60d2db6",
+  "slug": "fz-6ae43d923561ef76b60d2db6-izdavanje-stan-batajnica",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 50 м², Батайница, Земун",
+  "kind": "двухкомнатная квартира",
+  "price": 500,
+  "area": 50,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "Батайница",
+  "street": "Далматинске Загоре",
+  "geo": {
+   "lat": 44.90473,
+   "lng": 20.28307
+  },
+  "facts": [
+   [
+    "Площадь",
+    "50 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Отопление",
+    "тёплый пол"
+   ],
+   [
+    "Мебель",
+    "частично меблирована"
+   ]
+  ],
+  "features": [
+   "кондиционер"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 50 м² в районе Батайница (Земун, Белград). Частично меблирована, отопление тёплый пол. Есть: кондиционер. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se potpuno nov stan,55kvm.Stan se nalazi na drugom spratu,sastoji se od dve spavace sobe,dnevna soba sa trpezarijom i kuhinjom i kupatilom sa tus kabinom.Iz dnevne sobe se izlazi na terasu.",
+  "photos": 15,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "fz-6ae75622b625438eab083d02",
+  "slug": "fz-6ae75622b625438eab083d02-izdavanje-stan-konjarnik",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 59 м², Конярник, Звездара",
+  "kind": "2,5-комнатная квартира",
+  "price": 800,
+  "area": 59,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Конярник",
+  "street": "Владимира Гортана 30",
+  "geo": {
+   "lat": 44.78538,
+   "lng": 20.51656
+  },
+  "facts": [
+   [
+    "Площадь",
+    "59 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "кондиционер"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 59 м² в районе Конярник (Звездара, Белград). С мебелью, отопление центральное. Есть: кондиционер. Аренда 800 € в месяц.",
+  "originalLang": "sr",
+  "original": "❤️ Stan do sada nije izdavan, već smo mi živeli u njemu i pažljivo je održavan i čuvan. Voleli bismo da ga iznajmimo odgovornim ljudima koji će se u njemu osećati kao kod kuće i voditi računa o njemu.",
+  "photos": 15,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "fz-642eb4d3896400c6510bcccb",
+  "slug": "fz-642eb4d3896400c6510bcccb-izdavanje-stan-blok-22",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 75 м², Блок 22, Новый Белград",
+  "kind": "трёхкомнатная квартира",
+  "price": 1100,
+  "area": 75,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "novi-beograd",
+  "location": "Блок 22",
+  "street": "Булевар Арсения Чарноевича 32",
+  "geo": {
+   "lat": 44.80994,
+   "lng": 20.42787
+  },
+  "facts": [
+   [
+    "Площадь",
+    "75 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся трёхкомнатная квартира площадью 75 м² в районе Блок 22 (Новый Белград, Белград). С мебелью, отопление центральное. Аренда 1 100 € в месяц.",
+  "originalLang": "sr",
+  "original": "An apartment renovated to a high standard, featuring a spacious living room, a kitchen with a dining area, two large bedrooms with two double beds, a storage room (pantry), a bathroom, a separate toilet, and a loggia. Quality wooden windows and doors, a tankless water heater, and new household appliances. Infrastructure is in place for internet and TV services from all providers.",
+  "photos": 15,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "fz-6ac8c29fed01a8128b0ca535",
+  "slug": "fz-6ac8c29fed01a8128b0ca535-izdavanje-stan-lion",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 60 м², Лион, Звездара",
+  "kind": "двухкомнатная квартира",
+  "price": 650,
+  "area": 60,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Лион",
+  "street": "Милана Ракича",
+  "geo": {
+   "lat": 44.79725,
+   "lng": 20.50116
+  },
+  "facts": [
+   [
+    "Площадь",
+    "60 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся двухкомнатная квартира площадью 60 м² в районе Лион (Звездара, Белград). Отопление центральное. Аренда 650 € в месяц.",
+  "originalLang": "sr",
+  "original": "Sada možeš da proveriš koliko bi ti vremena trebalo od nekretnine koju trenutno gledaš do tebi bitnih lokacija do kojih svakodnevno putuješ – posao, vrtić, fakultet, škola, teretana.",
+  "photos": 4,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
   "id": "fz-6a08b2904798669e7b0aca36",
   "slug": "fz-6a08b2904798669e7b0aca36-izdavanje-stan-novi-grad",
   "deal": "rent",
