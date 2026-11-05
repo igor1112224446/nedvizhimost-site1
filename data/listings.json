@@ -1,5 +1,54 @@
 [
  {
+  "id": "ho-5425647932680",
+  "slug": "ho-5425647932680-izdavanje-stan-palilulska-pijaca",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 35 м², Палилулска пияца, Палилула",
+  "kind": "1,5-комнатная квартира",
+  "price": 500,
+  "area": 35,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Палилулска пияца",
+  "street": "Джушина",
+  "geo": {
+   "lat": 44.81368,
+   "lng": 20.47559
+  },
+  "facts": [
+   [
+    "Площадь",
+    "35 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "высокий приземный"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "парковка"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 35 м² в районе Палилулска пияца (Палилула, Белград). Высокий приземный этаж, с мебелью. Есть: депозит, парковка. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Kompletno renoviran sa instalacijama i stolarijom unutrašnjom i spoljašnjom. Nov nameštaj, prvo korišćenje. Grejanje na inverter klimu. Parking za više automobila, u dvorištu. Neposredna blizina palilulske pijace, rudarskog fakulteta, centra grada. Depozit u visini zakupa.",
+  "photos": 9,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
   "id": "ho-5425647444319",
   "slug": "ho-5425647444319-prodaja-kuca-senjak",
   "deal": "sale",
