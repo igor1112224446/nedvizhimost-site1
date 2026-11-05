@@ -1,5 +1,422 @@
 [
  {
+  "id": "ho-5425647444319",
+  "slug": "ho-5425647444319-prodaja-kuca-senjak",
+  "deal": "sale",
+  "type": "house",
+  "cat": "land",
+  "title": "Продажа: дом, 543.6 м², Сеняк, Савски-Венац",
+  "kind": "дом",
+  "price": 3300000,
+  "area": 543.6,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "opstina-savski-venac",
+  "location": "Сеняк",
+  "street": "Васе Пелагича",
+  "geo": {
+   "lat": 44.7913,
+   "lng": 20.441
+  },
+  "facts": [
+   [
+    "Площадь",
+    "543.6 м²"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ]
+  ],
+  "features": [
+   "есть право собственности",
+   "гараж",
+   "кондиционер",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся дом площадью 543.6 м² в районе Сеняк (Савски-Венац, Белград). Отопление газовое, люкс. Есть: есть право собственности, гараж, кондиционер, терраса, видеонаблюдение. Цена 3 300 000 €.",
+  "originalLang": "sr",
+  "original": "Na jednoj od najprestižnijih beogradskih adresa, u mirnoj ulici Vase Pelagića na Senjaku, nalazi se reprezentativna vila ukupne bruto površine 543,60 m², smeštena na uređenom i ograđenom placu od 5,4 ara.\n\nProjektovana kao funkcionalan i reprezentativan objekat na tri etaže, pruža izuzetne mogućnosti za luksuzno porodično stanovanje, sedište kompanije, ambasadu, privatnu kliniku, ordinaciju ili drugu ekskluzivnu poslovnu namenu.\n\nObjekat se trenutno koristi kao poslovni prostor, ali je zahvaljujući odličnoj organizaciji i rasporedu prostorija veoma lako prilagodljiv luksuznoj stambenoj nameni.\n\nUkupno, vila raspolaže sa više od 18 funkcionalnih prostorija i četiri kupatila/toaleta, što omogućava maksimalnu fleksibilnost pri organizaciji prostora. Veći deo objekta je klimatizovan, ima visoke plafone i obilje prirodne svetlosti, dve prostrane terase, pomoćne i tehničke prostorije, garažu, pet obezbeđenih parking mesta, video nadzor...\n\nVila se nalazi u neposrednoj blizini međunarodnih škola, ambasada, rezidencijalnih kompleksa, restorana, prodavnica i svih sadržaja koji ovu lokaciju čine jednom od najpoželjnijih za život i poslovanje u Beogradu.\n\nObjekat je uredno uknjižen i predstavlja retku priliku za kupovinu reprezentativne nekretnine na jednoj od najtraženijih lokacija u prestonici.\n\nSpoj prestižne lokacije, impresivne kvadrature, funkcionalnog rasporeda i mogućnosti različitih namena čini ovu vilu izuzetnom investicijom i nekretninom koja će zadovoljiti i najviše standarde.\n\nPosrednička naknada je u skladu sa Opštim uslovima poslovanja BENEFIT NEKRETNINE DOO, koje možete videti na našem sajtu \n\nAgencija Benefit nekretnine - agent Slavko",
+  "photos": 15,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "ho-5425644603095",
+  "slug": "ho-5425644603095-prodaja-kuca-neimar",
+  "deal": "sale",
+  "type": "house",
+  "cat": "land",
+  "title": "Продажа: дом, 450 м², Неимар, Врачар",
+  "kind": "дом",
+  "price": 3000000,
+  "area": 450,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "opstina-vracar",
+  "location": "Неимар",
+  "street": "Интернационалних бригада",
+  "geo": {
+   "lat": 44.7946,
+   "lng": 20.4685
+  },
+  "facts": [
+   [
+    "Площадь",
+    "450 м²"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "есть право собственности"
+  ],
+  "text": "Продаётся дом площадью 450 м² в районе Неимар (Врачар, Белград). Есть: можно въехать сразу, есть право собственности. Цена 3 000 000 €.",
+  "originalLang": "sr",
+  "original": "Prelepa vila u mirnom, autentičnom delu Vračara, smeštena u  ne previše prometnoj ulici, okružena zelenilom, na placu od preko 5 ari.\nGradjena je zaista kvalitetno i odiše prefinjenim ukusom.\nSam podgled na spoljasnjost vile ostavlja utisak jedinstvenosti. Tri nivoa, 6 spavaćih soba i više dnevnih boravaka ili višenameksih prostorija, par terasa i mesta za parkiranje više automobila.\nUkupna površina kuće je 450 m2, od cega je 187m2 uknjiženo.\nU toku je renoviranje bazena koji se nalazi na poslednjem nivou kuće, kao i sređivanje dela dvorišta gde je predviđeno parkiranje automobila. \nKuca je opasana zelenilom, borovima i ogradom koja garantuje potpunu privatnost. Jako lepo i održavano dvorište.\nNa raspolaganju smo za sve dodatne informacije, kao i zakazivanje razgledanja nekretnine.\nAgencijska provizija u skladu sa Opštim uslovima poslovanja.",
+  "photos": 15,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "ho-5425647268230",
+  "slug": "ho-5425647268230-prodaja-kuca-senjak",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 440 м², Сеняк -, Савски-Венац",
+  "kind": "дом",
+  "price": 2950000,
+  "area": 440,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "opstina-savski-venac",
+  "location": "Сеняк -",
+  "street": "",
+  "geo": {
+   "lat": 44.7927,
+   "lng": 20.4385
+  },
+  "facts": [
+   [
+    "Площадь",
+    "440 м²"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "есть право собственности",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "подвал",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся дом площадью 440 м² в районе Сеняк - (Савски-Венац, Белград). Отопление газовое, люкс, дом современной постройки. Есть: есть право собственности, домофон, интернет, кабельное ТВ, кондиционер, подвал, терраса, видеонаблюдение. Цена 2 950 000 €.",
+  "originalLang": "sr",
+  "original": "Savski venac , Senjak , blizina Sehera , rezidencijalna zona , perfektna lokacija , 500m2 merena kvadratura ( uknjizena kvadratura 440m2 ) , lepo uredjen plac povrsine 4,06 ara , cg / gas+ toplotna pumpa , podno grejanje fan-coil , izuzetna , luksuzna vila , novogradnja 2017. godine , vrhunska Alumil stolarija , rucno radjena unutrasnja stolarija velikih dimenzija , Italijanska granitna keramika , sanitarije Geberit , Hans-Grohe , Hrastov parket ekstra klase , visina plafona 3.2m , dvostrano orijentisana istok-zapad , izrazito svetla , lepo okruzenje ... zaseban objekat - zatvoreni bazen sa terasom ( postoji topla veza sa kucom ), tursko kupatilo , sauna , parking ... mirna ulica , okruzena zelenilom , vrhunska ponuda !\n\nStruktura -\n\nVpr - ulazni antre , dnevna soba sa kaminom , kuhinjom , trpezarijom i izlazom na terasu 40m2, spavaca/radna soba , toalet .\n\n1. sprat - 2 master spavace sobe , 2 terase po 5m2.\n\n2. sprat - hol , spavaca soba , kupatilo , 2 terase (10m2 i 30m2)\n\nSu - tursko kupatilo , sauna , toalet , cajna kuhinja , gym / hoby prostor , laundry , vinski podrum , tehnicka prostorija .\nAgencijska provizija 2%",
+  "photos": 15,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "ho-5425647744321",
+  "slug": "ho-5425647744321-prodaja-kuca-cubura",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 910 м², Чубура -, Врачар",
+  "kind": "дом",
+  "price": 2600000,
+  "area": 910,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "opstina-vracar",
+  "location": "Чубура -",
+  "street": "",
+  "geo": {
+   "lat": 44.797,
+   "lng": 20.476
+  },
+  "facts": [
+   [
+    "Площадь",
+    "910 м²"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "есть право собственности",
+   "гараж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "подвал",
+   "терраса",
+   "видеонаблюдение",
+   "мансарда"
+  ],
+  "text": "Продаётся дом площадью 910 м² в районе Чубура - (Врачар, Белград). Отопление автономное, люкс, дом современной постройки. Есть: можно въехать сразу, есть право собственности, гараж, домофон, интернет, кабельное ТВ, кондиционер, подвал, терраса, видеонаблюдение, мансарда. Цена 2 600 000 €.",
+  "originalLang": "sr",
+  "original": "Izuzetna vila na Čuburi– retka prilika\n\nReprezentativna vila na jednoj od najatraktivnijih lokacija na Vračaru, pogodna za rezidencijalno stanovanje, privatnu kliniku, strano predstavništvo ili poslovnu namenu.\n\nVila ima 4 etaže – Su+P+1+Pk, ukupne građevinske površine 910 m², odnosno 768 m² korisne površine, uz unutrašnju visinu prostorija od 3,00 m.\n\nStruktura:\n\nSuteren/prizemlje: 3 garaže sa 5 garažnih mesta (106 m²) i 2 poslovna prostora ukupne korisne površine 168 m²\n\nVisoko prizemlje: četvorosoban stan, 128 m²\n\nPrvi sprat: petosoban stan, 158 m²\n\nPotkrovlje: petosoban stan, 161 m²\n\nEtažno grejanje na struju, uz mogućnost priključenja na daljinsko grejanje ili ugradnje toplotnih pumpi.\n\nObjekat odlikuju kvalitetna gradnja, odlična izolacija i reprezentativno unutrašnje stepenište sa tremom.\n\nUredna dokumentacija, tehnički prijem i upotrebna dozvola. Očekuje se rešenje o uknjiženju.\n\nIzuzetno retka nekretnina na Neimaru – za svaku preporuku.\nPronalaženje adekvatne nekretnine za vas, pomoć u pregovorima, provera dokumentacije,izrada ugovora/predugovora o kupoprodaji, bezbedno vođenje celokupnog kupoprodajnog procesa i papirologije\nAgencijska provizija 2%",
+  "photos": 15,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "ho-5425646868803",
+  "slug": "ho-5425646868803-prodaja-kuca-senjak",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 450 м², Сеняк, Савски-Венац",
+  "kind": "дом",
+  "price": 3400000,
+  "area": 450,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "opstina-savski-venac",
+  "location": "Сеняк",
+  "street": "Пушкинова",
+  "geo": {
+   "lat": 44.7865,
+   "lng": 20.4348
+  },
+  "facts": [
+   [
+    "Площадь",
+    "450 м²"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "есть право собственности",
+   "гараж",
+   "подвал",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся дом площадью 450 м² в районе Сеняк (Савски-Венац, Белград). Отопление газовое, люкс, дом современной постройки. Есть: можно въехать сразу, есть право собственности, гараж, подвал, терраса, видеонаблюдение. Цена 3 400 000 €.",
+  "originalLang": "sr",
+  "original": "Ekskluzivna rezidencija na Senjaku-Vila u Puškinovoj-novije gradnje!\n\nNa prodaju luksuzna rezidencijalna vila smeštena u jednoj od najprestižnijih i najmirnijih ulica na Senjaku, u Puškinovoj ulici, poznatoj po elitnom okruženju, vilama i rezidencijalnom karakteru.\n\nNekretnina se nalazi u tihoj, zelenilom okruženoj zoni, koja pruža visok nivo privatnosti, sigurnosti i komfora. Lokacija je izuzetno pogodna za porodično stanovanje, ali i za rezidencijalnu ili reprezentativnu poslovnu namenu (ambasade, predstavništva kompanija, luksuzne ordinacije i kancelarije).\n\nVila je izgrađena na placu površine 4.82 ara i prostire se na tri etaže, sa funkcionalnim rasporedom prostorija i velikim potencijalom za različite namene.\n\nOsnovne karakteristike:\n\nPovršina placa: 4.82 ara\n\n3 etaže\n\n2 garaže\n\nPomoćni objekat u dvorištu\n\nUređeno i privatno dvorište\n\nMirna rezidencijalna zona\n\nPrednosti lokacije:\n\nPrestižna lokacija na Senjaku\n\nBlizina međunarodnih i privatnih škola\n\nU neposrednoj blizini parkova, ambasada i diplomatskih rezidencija\n\nOdlična povezanost sa centrom grada\n\nMirno i elitno okruženje\n\nOva nekretnina predstavlja retku priliku na tržištu za kupovinu reprezentativne vile u jednoj od najtraženijih rezidencijalnih zona.\n\nCena: 3.400.000 €\n\nZa dodatne informacije i zakazivanje razgledanja, kontaktirajte nas.\nPronalaženje adekvatne nekretnine za vas, pomoć u pregovorima, provera dokumentacije,izrada ugovora/predugovora o kupoprodaji, bezbedno vođenje celokupnog kupoprodajnog procesa i papirologije\nAgencijska provizija 2%",
+  "photos": 15,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "ho-5425645294271",
+  "slug": "ho-5425645294271-prodaja-kuca-hram-svetog-save",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 450 м², Храм светог Саве, Врачар",
+  "kind": "дом",
+  "price": 3000000,
+  "area": 450,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "opstina-vracar",
+  "location": "Храм светог Саве",
+  "street": "Интернационалних бригада",
+  "geo": {
+   "lat": 44.7948,
+   "lng": 20.4706
+  },
+  "facts": [
+   [
+    "Площадь",
+    "450 м²"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "есть право собственности",
+   "гараж",
+   "домофон",
+   "интернет",
+   "кондиционер",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся дом площадью 450 м² в районе Храм светог Саве (Врачар, Белград). Отопление автономное, в исходном состоянии, старый фонд. Есть: есть право собственности, гараж, домофон, интернет, кондиционер, терраса, видеонаблюдение. Цена 3 000 000 €.",
+  "originalLang": "sr",
+  "original": "U ponudi imamo predivnu kuću u najlepšem, rezidencijalnom delu Vračara, nadomak Hrama Svetog Save, u ulici Interncionalnih brigada.\n\nKuća se prostire na velikom, uređenom i ozelenjenom placu od 5.38 ari.\n\nProstire se na 3 nivoa, sa komformin terasama, odiše tradicionalnim, prefinjenim stilom.\n\nPrva etaža je prostrana, sa velikim otvorenim prozorima sa pogledom na vrt.\n\nNa slikama je prikazan samo poslednji sprat, nije dočaran celokupan enterijer i prostor.\n\nU suterenu se nalazi bazen, prostor predviđen za rekreaciju i pomoćne prostorije.\n\nPlac i kuća su uknjiženi, kuća na 174 m2 (osnova) od merene ukupne površine 450 m2.\n\nKuća se nalazi u izvornom, održavanom stanju.\n\nVredna investicija!\nPronalaženje adekvatne nekretnine za vas, pomoć u pregovorima, provera dokumentacije,izrada ugovora/predugovora o kupoprodaji, bezbedno vođenje celokupnog kupoprodajnog procesa i papirologije\nAgencijska provizija 2%",
+  "photos": 14,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "ho-5425646027106",
+  "slug": "ho-5425646027106-prodaja-kuca-krunski-venac",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 815 м², Крунски венац, Врачар",
+  "kind": "дом",
+  "price": 3600000,
+  "area": 815,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "opstina-vracar",
+  "location": "Крунски венац",
+  "street": "Кнегине Зорке",
+  "geo": {
+   "lat": 44.802,
+   "lng": 20.471
+  },
+  "facts": [
+   [
+    "Площадь",
+    "815 м²"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "есть право собственности",
+   "гараж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "подвал",
+   "терраса"
+  ],
+  "text": "Продаётся дом площадью 815 м² в районе Крунски венац (Врачар, Белград). Отопление центральное, люкс, старый фонд. Есть: есть право собственности, гараж, домофон, интернет, кабельное ТВ, кондиционер, подвал, терраса. Цена 3 600 000 €.",
+  "originalLang": "sr",
+  "original": "Gradnja ove gradske kuće je započeta još 1914 godine, a završena je 1921 godine. Temeljno renovirana 2005 godine. Objekat je delo poznate arhitektice Jelisavete Načić. Kuća se nalazi u centralnom delu Vračara. Sastoji se od 4 etaže. Radi jednostavnije komunikacije sve nivoe u kući povezuje hidraulični lift. Vlasnici su kuću uredili, osavremenili i godinama je koriste kao stambeni prostor, a po potrebi je deljiv na više stambenih jedinica. Zbog izvanredne lokacije, prostor je lako prilagoditi i poslovnim potrebama. \n\nPrilikom adaptacije kuće, vlasnici su imali u vidu zakonom dozvoljenu mogućnost dogradnje objekta za još dva sprata(400 m2)pa postojeće instalacije i lift su predviđeni i ispunjavaju uslove za to proširenje.\n\nGrejanje je centralno-gradsko, ali postoji i kombinovani sistem grejanja putem fan-coilera, podnog grejanja i etažnog grejanja na struju ili mazut. Centralni bojler tople vode ima kapacitet od 500l. Postoje pripremljene instalacije za solarne panale kako bi se energetska efikasnost objekta podigla na viši nivo.\n\nIako u suterenu kuce, ništa manje važno je to što objekat poseduje zasebnu garažu za 5-6 automobila.\n\nKući pripada uredjeno dvorište orijantacione površine 200 m2.\n\nAgencijska provizija 2%",
+  "photos": 15,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "ho-5425647922876",
+  "slug": "ho-5425647922876-izdavanje-stan-jakovo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 65 м², Яково, Сурчин",
+  "kind": "трёхкомнатная квартира",
+  "price": 600,
+  "area": 65,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Сурчин",
+  "districtSlug": "opstina-surcin",
+  "location": "Яково",
+  "street": "Народног хероя Каменог",
+  "geo": {
+   "lat": 44.76103,
+   "lng": 20.25002
+  },
+  "facts": [
+   [
+    "Площадь",
+    "65 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "1-й из 1"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "интернет",
+   "кондиционер",
+   "парковка",
+   "терраса"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 65 м² в районе Яково (Сурчин, Белград). 1-й этаж из 1, с мебелью, отопление газовое. Есть: депозит, можно въехать сразу, интернет, кондиционер, парковка, терраса. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "Trosoban stan u kući na spratu do četiri osobe Grejanje i sanitarna voda na gas\nGas i struja se plaćaju po utrošku\nU blizini Expa",
+  "photos": 5,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
   "id": "ho-5425647740751",
   "slug": "ho-5425647740751-izdavanje-stan-save-kovacevica",
   "deal": "rent",
@@ -2927,6 +3344,78 @@
   "originalLang": "sr",
   "original": "Stan se nalazi u mirnom delu grada, gde je zagarantovan mir. Postoji mogućnost parkiranja ispred zgrade. Stan poseduje spavaću sobu opremljenu krevetom. Kupatilo je prostrano i ima kadu za kupanje. Dnevni boravak je open space s kuhinjom i trpezarijom. U dnevnoj sobi, pored troseda, nalazi se i trpezarijski sto sa stolicama. Depozit u visine jedne kiriju.\nStan je useljiv od 1.12.\nNije agencija nema dodatnih troškova!",
   "photos": 9,
+  "added": "2026-11-04",
+  "updated": "2026-11-04"
+ },
+ {
+  "id": "ho-5425635813070",
+  "slug": "ho-5425635813070-izdavanje-stan-borca",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 60 м², Борча, Палилула",
+  "kind": "двухкомнатная квартира",
+  "price": 500,
+  "area": 60,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Борча",
+  "street": "Езевицка 1",
+  "geo": {
+   "lat": 44.8874,
+   "lng": 20.46375
+  },
+  "facts": [
+   [
+    "Площадь",
+    "60 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "приземный из 3"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "для некурящих",
+   "гараж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "с садом",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 60 м² в районе Борча (Палилула, Белград). Приземный этаж из 3, с мебелью, отопление центральное, люкс, дом современной постройки. Есть: депозит, не последний этаж, для некурящих, гараж, домофон, интернет, кабельное ТВ, кондиционер, парковка, с садом, терраса, горячая вода, видеонаблюдение. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Dostupan odmah ; Stan je lux namesten komplet ; poseduje spavacu sobu; dnevnu sobu; ormar sobu; kuhinju sa trpezarijom; kupatilo ; 60m2 + terasa 20m2 i svoj deo dvorista ; stan je upravo okrecen i zakupac po isteku ugovora je duzan da ga okreci i vrati cisto i uredno kako je dobio stan .. \n\nInverter klima, Bosh komplet bela tehnika u stanu (sudo i ves masina ; mikrotalasna; rerna; ploca za kuvanje; frizider sa ledomatom i automatom za vodu; aspirator) mogucnost garaznog mesta ( 100e  mesecni zakup)\n\n + racuni mesecno po  potrosnji (struja;voda;smece;info stan;sempticka jama) ; ugovor minimum na 6 ili 12 meseci ; lokacija 300m od trznog centra Shopi i 100m od Zrenjaninskog puta ; video nadzor; Alarm; podno i cg grejanje na pelet daljinski u zimskom periodu \n(kupuje se pelet dodatni trosak)\nsvaka soba sa tv; djakuzi kada+ tus kabina; elektro roletne; medijapan kuhinja; interfon; internet; Kablovska \n\nmaximalno do 3 osobe mogu ziveti u stanu i bez kucnih iljubimaca \nDupli Depozit obavezan iznos 1000 eura",
+  "photos": 14,
   "added": "2026-11-04",
   "updated": "2026-11-04"
  },
