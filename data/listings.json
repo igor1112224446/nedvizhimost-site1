@@ -1,5 +1,286 @@
 [
  {
+  "id": "fz-6ac89ed57c2d1e8c4f056dab",
+  "slug": "fz-6ac89ed57c2d1e8c4f056dab-prodaja-kuca-senjak",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 408 м², Сеняк, Савски-Венац",
+  "kind": "дом",
+  "price": 2700000,
+  "area": 408,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "savski-venac",
+  "location": "Сеняк",
+  "street": "Чолак-Антина",
+  "geo": {
+   "lat": 44.79425,
+   "lng": 20.44348
+  },
+  "facts": [
+   [
+    "Площадь",
+    "408 м²"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся дом площадью 408 м² в районе Сеняк (Савски-Венац, Белград). Цена 2 700 000 €.",
+  "originalLang": "sr",
+  "original": "Sada možeš da proveriš koliko bi ti vremena trebalo od nekretnine koju trenutno gledaš do tebi bitnih lokacija do kojih svakodnevno putuješ – posao, vrtić, fakultet, škola, teretana.",
+  "photos": 15,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "fz-6937f739cf6c1083ec04265c",
+  "slug": "fz-6937f739cf6c1083ec04265c-prodaja-kuca-krunska",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 815 м², Крунска, Врачар",
+  "kind": "дом",
+  "price": 3600000,
+  "area": 815,
+  "rooms": 12,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "vracar",
+  "location": "Крунска",
+  "street": "Кнегине Зорке",
+  "geo": {
+   "lat": 44.8029,
+   "lng": 20.47193
+  },
+  "facts": [
+   [
+    "Площадь",
+    "815 м²"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся дом площадью 815 м² в районе Крунска (Врачар, Белград). Цена 3 600 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju je jedinstvena gradska kuća građena 1921. godine, arhitektonsko remek delo čuvene prve žene arhitekte u Srbiji Jelisavete Načić. Ovaj reprezentativni objekat spaja duh starog Beograda, eleganciju međuratne arhitekture i komfor savremenog života u jednoj od najtraženijih gradskih lokacija u samom srcu Vračara.",
+  "photos": 15,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "fz-6a970b4373cf2397ee0403bf",
+  "slug": "fz-6a970b4373cf2397ee0403bf-prodaja-kuca-dedinje",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 525 м², Дедине, Савски-Венац",
+  "kind": "дом",
+  "price": 3400000,
+  "area": 525,
+  "rooms": null,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "savski-venac",
+  "location": "Дедине",
+  "street": "Дедине",
+  "geo": {
+   "lat": 44.77644,
+   "lng": 20.46739
+  },
+  "facts": [
+   [
+    "Площадь",
+    "525 м²"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся дом площадью 525 м² в районе Дедине (Савски-Венац, Белград). Цена 3 400 000 €.",
+  "originalLang": "sr",
+  "original": "Ova ekskluzivna vila se nalazi na jednoj od najprestižnijih lokacija na Dedinju u Diplomatskoj koloniji, na 6 ari placa i sastoji se od četiri nivoa.\nUkupna grejna površina vile je 381 m² i ima dodatnih 144 m² krovne terase sa koje se pruza prelep panoramski pogled na grad.\nSuteren obuhvata prostoriju predviđenu za kućni bioskop, ostavu i hodnik. U prizemlju se nalazi prostrana dnevna soba, trpezarija, kuhinja, toalet, spavaća soba i ostava.\nPrvi sprat čine tri spavaće sobe, od kojih je jedna master soba sa sopstvenim kupatilom i garderoberom, kao i još jedno kupatilo. Na drugom spratu se nalazi velika krovna terasa sa đakuzi kadom i prostor predviđen za roštilj, otvoreni bioskop i uživanje.\nKuća raspolaže sa dva garažna mesta i liftom, koji je naknadno instaliran i koji je implementiran na sve četiri etaže.\nEksterijer je obogaćen zelenilom, velikim terasama i automatskim navodnjavanjem. Bazen je dimenzija 13 x 2,5 m, greje se do 32 stepena i ima automatsku zaštitu od prljanja, i ujedno čuva toplotu. Dodatno su instalirane pokretne tende sa rasvetom.\nZa izgradnju i opremanju čitave kuće iskorišćeni su najkvalitetniji i najsavremeniji građevinski materijali.",
+  "photos": 3,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "fz-6aba454ba17c9e64460f8a78",
+  "slug": "fz-6aba454ba17c9e64460f8a78-prodaja-kuca-kalenic-pijaca",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 500 м², Каленич пияца, Врачар",
+  "kind": "дом",
+  "price": 2600000,
+  "area": 500,
+  "rooms": null,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "vracar",
+  "location": "Каленич пияца",
+  "street": "Каленич пияца",
+  "geo": {
+   "lat": 44.80008,
+   "lng": 20.47583
+  },
+  "facts": [
+   [
+    "Площадь",
+    "500 м²"
+   ]
+  ],
+  "features": [
+   "терраса",
+   "гараж"
+  ],
+  "text": "Продаётся дом площадью 500 м² в районе Каленич пияца (Врачар, Белград). Есть: терраса, гараж. Цена 2 600 000 €.",
+  "originalLang": "sr",
+  "original": "Visina plafona iznosi 3 metra, dok jugo-zapadna orijentacija dodatno doprinosi osvetljenosti prostora. Kuća poseduje i terasu. Objekat je opremljen liftom koji povezuje sve etaže, kao i sistemom podnog grejanja putem toplotnih pumpi. U okviru objekta nalazi se garažni prostor površine 110m2 sa tri parking mesta, kao i dodatnim kupatilom.",
+  "photos": 15,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "fz-697ced774c9fc31d5d04c792",
+  "slug": "fz-697ced774c9fc31d5d04c792-prodaja-kuca-surcin-mesto",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 1500 м², Сурчин (mesto), Сурчин",
+  "kind": "дом",
+  "price": 3200000,
+  "area": 1500,
+  "rooms": 15,
+  "city": "Белград",
+  "district": "Сурчин",
+  "districtSlug": "surcin",
+  "location": "Сурчин (mesto)",
+  "street": "Стевана Синджелича",
+  "geo": {
+   "lat": 44.79421,
+   "lng": 20.27731
+  },
+  "facts": [
+   [
+    "Площадь",
+    "1500 м²"
+   ],
+   [
+    "Отопление",
+    "кондиционер"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся дом площадью 1500 м² в районе Сурчин (mesto) (Сурчин, Белград). Отопление кондиционер. Цена 3 200 000 €.",
+  "originalLang": "sr",
+  "original": "Sada možeš da proveriš koliko bi ti vremena trebalo od nekretnine koju trenutno gledaš do tebi bitnih lokacija do kojih svakodnevno putuješ – posao, vrtić, fakultet, škola, teretana.",
+  "photos": 15,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "fz-637654e7c60b5f71fd09a74e",
+  "slug": "fz-637654e7c60b5f71fd09a74e-prodaja-kuca-dedinje",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 600 м², Дедине, Савски-Венац",
+  "kind": "дом",
+  "price": 3500000,
+  "area": 600,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "savski-venac",
+  "location": "Дедине",
+  "street": "Генерала Саве Груйича",
+  "geo": {
+   "lat": 44.77745,
+   "lng": 20.46426
+  },
+  "facts": [
+   [
+    "Площадь",
+    "600 м²"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся дом площадью 600 м² в районе Дедине (Савски-Венац, Белград). Цена 3 500 000 €.",
+  "originalLang": "sr",
+  "original": "Na PRODAJU vam nudimo plac od 14,3ara sa idealnom porodičnom kućom, izgrađenom 2004.godine po najvišim standardima. Ceo posed je oplemenjen sa puno zelenila, egzotičnim biljnim vrstama, sa mozaik bazenom i zidanom ogradom. Kuća ima tri etaže koje su povezane mermernim stepeništem. U suterenu je deo namenjen za rekreativne aktivnosti, (teretana, sauna, bilijar sala), kao i ekonomski deo (ostave, vešeraj, kotlarnica), toalet i garaža za tri vozila sa rolo ulaznim vratima.",
+  "photos": 8,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "fz-683de82d59231f910a04ec25",
+  "slug": "fz-683de82d59231f910a04ec25-prodaja-kuca-dedinje",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 600 м², Дедине, Савски-Венац",
+  "kind": "дом",
+  "price": 3699000,
+  "area": 600,
+  "rooms": 8,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "savski-venac",
+  "location": "Дедине",
+  "street": "Генерала Саве Груйича",
+  "geo": {
+   "lat": 44.7772,
+   "lng": 20.46374
+  },
+  "facts": [
+   [
+    "Площадь",
+    "600 м²"
+   ]
+  ],
+  "features": [
+   "интернет"
+  ],
+  "text": "Продаётся дом площадью 600 м² в районе Дедине (Савски-Венац, Белград). Есть: интернет. Цена 3 699 000 €.",
+  "originalLang": "sr",
+  "original": "Prestiž, luksuz i status isijavaju iz pozicije na kojoj je smeštena - Ultra lux zona Dedinja u srcu diplomatske kolonije, između ambasada i rezidencija, ali i odličnih privatnih vrtića i internacionalnih škola.",
+  "photos": 7,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "fz-6ab565b7a129eb90a9018587",
+  "slug": "fz-6ab565b7a129eb90a9018587-prodaja-kuca-centar",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 780 м², Центр, Вождовац",
+  "kind": "дом",
+  "price": 3200000,
+  "area": 780,
+  "rooms": 10,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Центр",
+  "street": "центр",
+  "geo": {
+   "lat": 44.77951,
+   "lng": 20.46924
+  },
+  "facts": [
+   [
+    "Площадь",
+    "780 м²"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся дом площадью 780 м² в районе Центр (Вождовац, Белград). Цена 3 200 000 €.",
+  "originalLang": "sr",
+  "original": "Sada možeš da proveriš koliko bi ti vremena trebalo od nekretnine koju trenutno gledaš do tebi bitnih lokacija do kojih svakodnevno putuješ – posao, vrtić, fakultet, škola, teretana.",
+  "photos": 15,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
   "id": "ho-5425644624528",
   "slug": "ho-5425644624528-izdavanje-stan-lekino-brdo",
   "deal": "rent",
