@@ -1,5 +1,650 @@
 [
  {
+  "id": "ho-5425644624528",
+  "slug": "ho-5425644624528-izdavanje-stan-lekino-brdo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: четырёхкомнатная квартира, 94 м², Лекино брдо, Вождовац",
+  "kind": "четырёхкомнатная квартира",
+  "price": 1250,
+  "area": 94,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "Лекино брдо",
+  "street": "Пашманска",
+  "geo": {
+   "lat": 44.79,
+   "lng": 20.48967
+  },
+  "facts": [
+   [
+    "Площадь",
+    "94 м²"
+   ],
+   [
+    "Комнат",
+    "4"
+   ],
+   [
+    "Этаж",
+    "5-й из 6"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 90 € в месяц"
+   ]
+  ],
+  "features": [
+   "гараж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение",
+   "депозит",
+   "двухуровневая",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих"
+  ],
+  "text": "Сдаётся четырёхкомнатная квартира площадью 94 м² в районе Лекино брдо (Вождовац, Белград). 5-й этаж из 6, с мебелью, люкс, дом современной постройки. Есть: гараж, домофон, интернет, кабельное ТВ, кондиционер, лифт, терраса, горячая вода, видеонаблюдение, депозит, двухуровневая, не последний этаж, можно въехать сразу, для некурящих. Аренда 1 250 € в месяц.",
+  "originalLang": "sr",
+  "original": "We are renting a luxuriously furnished duplex - 94 sqm in a newly built in Pašmanska Street, near Šumice Park, Lekino Brdo. The apartment is very comfortable and bright, featuring:\n• 3 spacious bedrooms\n• large living room and dining area\n• fully equiped kitchen\n• 2 bathrooms \n• 2 terraces  with view \nContact: Viber\nIn addition to standard electrical appliances, it also has air purifiers for the entire space (Zepter and Xiaomi), a water filter - including in the showers, a dishwasher, and 2 combined washing and drying machines. \nSupermarket \"Tempo\" is a 3-minute walk away, Šumice Park is a 5-minute walk, and Beo Shopping Center is a 15-minute walk. The area is well connected to all parts of the city.\nInfostan is 6000 dinars and heating is by 2 inverter airconditions - the most affordable option. \nThis apartment is ideal for families with children.\nNo pets allowed.\nPrice: €1,250 per month, annual rental\n*Garage parking space available for an additional €100 fee.\nContact: Viber\n________________________________________________________________ \nMOLIMO AGENCIJE DA NAS NE ZOVU.\nIzdajemo luksuzno namešten dupleks stan  - 94 kvadratnih metara u novogradnji u Pašmanskoj ulici, blizu parka Šumice, Lekino Brdo. Stan je vrlo udoban i svetao, a poseduje:\n• 3 prostrane spavaće sobe\n• veliki dnevni boravak i trpezariju\n• potpuno opremljenu kuhinju\n• 2 kupatila\n• 2 terase \n\nPored standardnih električnih uređaja, stan ima prečišćivače vazduha za ceo prostor (Zepter i Xiaomi), filter za vodu - uključujući i tuševe, mašinu za pranje sudova i 2 kombinovane mašine za pranje i sušenje veša.\n\nSupermarket \"Tempo\" je udaljen 3 minuta hoda, park Šumice 5 minuta hoda, a Beo Shopping Center 15 minuta hoda. Oblast je dobro povezana sa svim delovima grada.\nInfostan je 6000 dinara, a grejanje je na 2 inverter klime - što je ubedljivo najpovoljnija opcija. \nStan je idealan za porodice sa decom.\nKućni ljubimci nisu dozvoljeni.\n \nCena: €1,250 mesečno, godišnji najam.\n*Dostupno garažno mesto u zgradi po ceni od 100e mesečno",
+  "photos": 15,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "ho-5425647930806",
+  "slug": "ho-5425647930806-izdavanje-stan-blok-61",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 50 м², Блок 61, Новый Белград",
+  "kind": "1,5-комнатная квартира",
+  "price": 500,
+  "area": 50,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Блок 61",
+  "street": "Душана Вукасовича",
+  "geo": {
+   "lat": 44.8047,
+   "lng": 20.36954
+  },
+  "facts": [
+   [
+    "Площадь",
+    "50 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "2-й из 4"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 150 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "терраса"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 50 м² в районе Блок 61 (Новый Белград, Белград). 2-й этаж из 4, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: депозит, можно въехать сразу, домофон, интернет, кабельное ТВ, кондиционер, терраса. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Vlasnik izdaje namesten, jednoiposoban stan na drugom spratu cetverospratnice iz 2006. godine. Stan se sastoji od dnevno- trpezarijskog dela, odvojene kuhinje, male spavace sobe, terase i kupatila. Potpuno je namesten i useljiv odmah. Depozit u visini zakupa stana.",
+  "photos": 10,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "ho-5425647933068",
+  "slug": "ho-5425647933068-izdavanje-stan-mirijevo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 30 м², Мириево, Звездара",
+  "kind": "однокомнатная квартира",
+  "price": 400,
+  "area": 30,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Мириево",
+  "street": "Ристе Вукановича",
+  "geo": {
+   "lat": 44.7917,
+   "lng": 20.52354
+  },
+  "facts": [
+   [
+    "Площадь",
+    "30 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "1-й из 2"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 13 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "подвал",
+   "терраса"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 30 м² в районе Мириево (Звездара, Белград). 1-й этаж из 2, с мебелью, отопление аккумуляционные печи, после ремонта, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, интернет, кабельное ТВ, кондиционер, подвал, терраса. Аренда 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "Jednosoban, Zvezdara(početak Mirijeva),400 metara od Bulevara(Kluz). 30kvm, potpuno novoopremljen. Nov nameštaj,nova kuhinja i novo kupatilo. U mirnoj i tihoj manjoj ulici. Prvi sprat od dva. 400 evra mesečno plus depozit. Niske mesečne režije-samo 1500 dinara.\n\nStanica gradskog prevoza na minut hoda. Autobusi 27.27e,46, 79.63,E6. Blizina prodavnica i pijace.",
+  "photos": 9,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "ho-5425644402416",
+  "slug": "ho-5425644402416-izdavanje-stan-krnjaca",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 50 м², Крняча, Палилула",
+  "kind": "двухкомнатная квартира",
+  "price": 380,
+  "area": 50,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Крняча",
+  "street": "Грге Андрияновича улица 2. Брой 44",
+  "geo": {
+   "lat": 44.84162,
+   "lng": 20.49799
+  },
+  "facts": [
+   [
+    "Площадь",
+    "50 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "приземный из 2"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 25 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "подходит студентам",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 50 м² в районе Крняча (Палилула, Белград). Приземный этаж из 2, с мебелью, отопление центральное, в исходном состоянии, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, подходит студентам, домофон, интернет, кабельное ТВ, кондиционер, парковка, терраса, горячая вода, видеонаблюдение. Аренда 380 € в месяц.",
+  "originalLang": "sr",
+  "original": "Blizu stana se nalazi stanica Beo voza, koji ide na 15 minuta, a sa kojim se do Vukovog spomenika stigne za 7 minuta. \n\nDo najbližeg stajališta autobusa na Zrenjaninskom putu- \"Branka Momirova\" ide bus 43, 96, 95, 101, 102, \nA sa strane Pančevačkog puta ide 108. \nDo stana se može doći i sa te strane, jer se nalazi iza Poljoprivredne škole, pored koje se lako dolazi do njega putićem.\nDepozit.",
+  "photos": 10,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "ho-5425646176361",
+  "slug": "ho-5425646176361-izdavanje-stan-borca",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 52 м², Борча, Палилула",
+  "kind": "двухкомнатная квартира",
+  "price": 500,
+  "area": 52,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Борча",
+  "street": "Милана Айваза",
+  "geo": {
+   "lat": 44.87938,
+   "lng": 20.46043
+  },
+  "facts": [
+   [
+    "Площадь",
+    "52 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "1-й из 4"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "подходит студентам",
+   "интернет",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 52 м² в районе Борча (Палилула, Белград). 1-й этаж из 4, с мебелью, отопление аккумуляционные печи, люкс, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, подходит студентам, интернет, терраса, видеонаблюдение. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se moderan, kompletno namešten stan od 52 m²\n\nIzdaje se potpuno opremljen i moderan stan površine 52 m², idealan za parove ili pojedince. Stan se nalazi u mirnom delu naselja, u uređenoj zgradi sa odličnom izolacijom i lako dostupnim parkingom.\n\nSastoji se od: dnevnog boravka sa trpezarijom, kuhinje rađene po meri, spavaće sobe sa plakarom, kupatila sa kadom i veš mašinom, hodnika sa ugradnim ormarima i prostrane natkrivene terase sa garniturom za sedenje.\n\nStan je potpuno opremljen: TV, klima, centralno grejanje, frižider, šporet, rerna, mašina za veš i besplatan internet.\nUređen u savremenom stilu, sa spuštenim plafonom i LED rasvetom. \nDepozit obavezan u visini 2 kirije.\n Stan je odmah useljiv.\n\n Kontakt: ()",
+  "photos": 15,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "ho-5425647932684",
+  "slug": "ho-5425647932684-izdavanje-stan-batajnica",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 55 м², Батайница, Земун",
+  "kind": "2,5-комнатная квартира",
+  "price": 500,
+  "area": 55,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Батайница",
+  "street": "Краля Радослава",
+  "geo": {
+   "lat": 44.89552,
+   "lng": 20.28808
+  },
+  "facts": [
+   [
+    "Площадь",
+    "55 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "2-й из 3"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 10 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "домофон",
+   "кондиционер",
+   "парковка",
+   "терраса"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 55 м² в районе Батайница (Земун, Белград). 2-й этаж из 3, с мебелью, отопление автономное, люкс, дом современной постройки. Есть: депозит, можно въехать сразу, домофон, кондиционер, парковка, терраса. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem NOV namesten dvoiposoban stan sa parking mestom na odlicnoj lokaciji u Batajnici. Etazno grejanje, minimalni fiksni troskovi.",
+  "photos": 7,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "ho-5425645929425",
+  "slug": "ho-5425645929425-izdavanje-stan-krnjaca",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 47 м², Крняча, Палилула",
+  "kind": "1,5-комнатная квартира",
+  "price": 380,
+  "area": 47,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Крняча",
+  "street": "Грге Андрияновича ИИ 43a",
+  "geo": {
+   "lat": 44.84179,
+   "lng": 20.49841
+  },
+  "facts": [
+   [
+    "Площадь",
+    "47 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "приземный из 2"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 25 € в месяц"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "подходит студентам",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "с садом",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 47 м² в районе Крняча (Палилула, Белград). Приземный этаж из 2, с мебелью, отопление центральное, после ремонта, дом современной постройки. Есть: не последний этаж, можно въехать сразу, для некурящих, подходит студентам, интернет, кабельное ТВ, кондиционер, парковка, с садом, горячая вода, видеонаблюдение. Аренда 380 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stan poseduje hodnik, kupatilo, odvojenu trpezariju, odvojenu dnevnu sobu sa ugaonom garniturom iz koje se ide u spavaću sobu. Stan se nalazi u blizini Beo voz stanice, dobro je povezan i autobusima, linije do Bogoslovije, Trga, Novog Beograda. U ulici su dve prodavnice i generalno sve sto je potrebno za život nalazi se na maksimalno dve stanice od stana. \nDepozit.",
+  "photos": 15,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "ho-5425642952383",
+  "slug": "ho-5425642952383-izdavanje-stan-mirijevo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 38 м², Мириево, Звездара",
+  "kind": "1,5-комнатная квартира",
+  "price": 450,
+  "area": 38,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Мириево",
+  "street": "Радета Марковича",
+  "geo": {
+   "lat": 44.80134,
+   "lng": 20.52248
+  },
+  "facts": [
+   [
+    "Площадь",
+    "38 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "2-й из 3"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 30 € в месяц"
+   ]
+  ],
+  "features": [
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "терраса",
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 38 м² в районе Мириево (Звездара, Белград). 2-й этаж из 3, с мебелью, отопление автономное, люкс, дом современной постройки. Есть: домофон, интернет, кабельное ТВ, кондиционер, терраса, депозит, не последний этаж, можно въехать сразу. Аренда 450 € в месяц.",
+  "originalLang": "sr",
+  "original": "• Jedinstven u ponudi! Stan se nalazi na granici između Karaburme i Mirijeva, oko 6 min hoda od okretnice autobusa 16, 23 i 25, 4 minuta hoda do autobusa 27 i 27E i 4 min od autobusa 74 i 25P na Mirijevskom bulevaru\n\n• Svi detalji su pažljivo izabrani da bi se omogućilo maksimalno vizuelno uživanje i prilagođeno rasporedu prostorija u stanu\n\n• MTS Kablovska televizija i brzi internet, paket sa opcijom „Gledaj unazad TV“\n\n• Zgrada sagrađena kvalitetno, sa širokim hodnicima i dobrom izolacijom. Grejanje moguće klima uređajem ili električnim kotlom sa radijatorima u svakoj prostoriji, struja se plaća po potrošnji.\n\n• Francuski ležaj u spavaćoj sobi i kauč u dnevnoj sobi.\n• Interfon sa tagom i šifrom za otvaranje vrata\n\n• Kuhinja potpuno opremljena, šporet sa indukcionim ringlama i aspiratorom\n\n• Veš mašina sa wifi opcijom daljinskog upravljanja\n\n• Mogućnost prijave boravka za strance\n\n• Depozit u visini mesečne kirije\n\n• Vlasnik, ne plaća se provizija, useljiv odmah.\n• Minimalni zakup 6 meseci, plaćanje mesečno. Stan se može pogledati od 16h radnim danima, vikendom po dogovoru.\n\n• Nisam zainteresovan za saradnju sa agencijama. Molim bez poziva.\n• Uniquely designed! The apartment is located on the border between Karaburma and Mirijevo, about a 6-minute walk from the buses 16, 23 and 25, 4 minutes from buses 27 and 27E and 4 minutes from buses 74 and 25P on Mirijevski Boulevard.\n\n• All details are carefully selected to ensure the best experience of the tenant\n\n• MTS Cable TV and high-speed Internet 2.500 din\n\n• The building was built to a high standard, with wide corridors and good insulation. Heating with air conditioning or electric boiler with radiators in every room, electricity bill to be paid per consumption\n\n• Intercom with tag and code \n\n• Fully equipped kitchen, stove with induction hobs and extractor hood\n\n• Registration for foreigners - White paper!\n\n• Owner of the flat - no additional fees!\n\n• Deposit in the amount of one monthly rent obligatory, tenant may move into apartment without delay.\n\n• Minimum stay 6 months, rent payment once a month. Apartment visit can be arranged from 4PM during workweek, and at request during weekend.",
+  "photos": 15,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
+  "id": "ho-5425647279819",
+  "slug": "ho-5425647279819-izdavanje-stan-altina",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 45 м², Алтина, Земун",
+  "kind": "двухкомнатная квартира",
+  "price": 450,
+  "area": 45,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Алтина",
+  "street": "Угриновачки пут",
+  "geo": {
+   "lat": 44.85619,
+   "lng": 20.3584
+  },
+  "facts": [
+   [
+    "Площадь",
+    "45 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "высокий приземный из 3"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 40 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "для некурящих",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 45 м² в районе Алтина (Земун, Белград). Высокий приземный этаж из 3, с мебелью, отопление автономное, люкс, дом современной постройки. Есть: депозит, можно въехать сразу, для некурящих, домофон, интернет, кабельное ТВ, кондиционер, парковка, терраса, горячая вода, видеонаблюдение. Аренда 450 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem nov kompletno namešten stan. Stan je svetao i prostran sa funkcionalnim rasporedom. Grejanje je etažno-na struju. Stan poseduje i klimu.\nIzdaje se na duži vremenski period. Depozit je u visini kirije. Stan ima pripadajuće parking mesto. Životinje nisu dozvoljene.\nStan je u blizini autobuskih stanica 707, 81 i 81l, kao i železničke stanice,vrtića,škole, marketa, kafića.",
+  "photos": 10,
+  "added": "2026-11-05",
+  "updated": "2026-11-05"
+ },
+ {
   "id": "ho-5425647932680",
   "slug": "ho-5425647932680-izdavanje-stan-palilulska-pijaca",
   "deal": "rent",
@@ -23889,78 +24534,6 @@
   "originalLang": "sr",
   "original": "Izdaje se luksuzno namešten stan na Dorćolu, u ulici Pjarona de Mondezira. Fenomenalna lokacija, odmah preko puta Zoološkog vrta, na svega par minuta hoda od Kalemegdana i Knez Mihailove ulice. Stan se nalazi na prvom spratu uredne i održavane zgrade sa liftom. Potpuno je namešten, funkcionalnog rasporeda i sastoji se od hodnika, dnevne sobe sa trpezarijom i kuhinjom, spavaće sobe i kupatila. Mesečni troškovi za ovu lokaciju su veoma niski, što stan čini još atraktivnijim. Idealno za one koji žele urbani život uz sve pogodnosti na dohvat ruke.\nAgencijska provizija se plaća u iznosu 50% od ugovorene mesečne zakupnine + PDV.",
   "photos": 7,
-  "added": "2026-10-26",
-  "updated": "2026-10-26"
- },
- {
-  "id": "ho-5425644624528",
-  "slug": "ho-5425644624528-izdavanje-stan-lekino-brdo",
-  "deal": "rent",
-  "type": "apartment",
-  "cat": "flat",
-  "title": "Аренда: четырёхкомнатная квартира, 94 м², Лекино брдо, Вождовац",
-  "kind": "четырёхкомнатная квартира",
-  "price": 1250,
-  "area": 94,
-  "rooms": 4,
-  "city": "Белград",
-  "district": "Вождовац",
-  "districtSlug": "opstina-vozdovac",
-  "location": "Лекино брдо",
-  "street": "Пашманска",
-  "geo": {
-   "lat": 44.79,
-   "lng": 20.48967
-  },
-  "facts": [
-   [
-    "Площадь",
-    "94 м²"
-   ],
-   [
-    "Комнат",
-    "4"
-   ],
-   [
-    "Этаж",
-    "5-й из 6"
-   ],
-   [
-    "Мебель",
-    "с мебелью"
-   ],
-   [
-    "Состояние",
-    "люкс"
-   ],
-   [
-    "Дом",
-    "дом современной постройки"
-   ],
-   [
-    "Коммунальные",
-    "около 90 € в месяц"
-   ]
-  ],
-  "features": [
-   "гараж",
-   "домофон",
-   "интернет",
-   "кабельное ТВ",
-   "кондиционер",
-   "лифт",
-   "терраса",
-   "горячая вода",
-   "видеонаблюдение",
-   "депозит",
-   "двухуровневая",
-   "не последний этаж",
-   "для некурящих"
-  ],
-  "text": "Сдаётся четырёхкомнатная квартира площадью 94 м² в районе Лекино брдо (Вождовац, Белград). 5-й этаж из 6, с мебелью, люкс, дом современной постройки. Есть: гараж, домофон, интернет, кабельное ТВ, кондиционер, лифт, терраса, горячая вода, видеонаблюдение, депозит, двухуровневая, не последний этаж, для некурящих. Аренда 1 250 € в месяц.",
-  "originalLang": "sr",
-  "original": "We are renting a luxuriously furnished duplex - 94 sqm in a newly built in Pašmanska Street, near Šumice Park, Lekino Brdo. The apartment is very comfortable and bright, featuring:\n• 3 spacious bedrooms\n• large living room and dining area\n• fully equiped kitchen\n• 2 bathrooms \n• 2 terraces  with view \nContact: Viber\nIn addition to standard electrical appliances, it also has air purifiers for the entire space (Zepter and Xiaomi), a water filter - including in the showers, a dishwasher, and 2 combined washing and drying machines. \nSupermarket \"Tempo\" is a 3-minute walk away, Šumice Park is a 5-minute walk, and Beo Shopping Center is a 15-minute walk. The area is well connected to all parts of the city.\nInfostan is 6000 dinars and heating is by 2 inverter airconditions - the most affordable option. \nThis apartment is ideal for families with children.\nNo pets allowed.\nPrice: €1,250 per month, annual rental\n*Garage parking space available for an additional €100 fee.\nContact: Viber\n________________________________________________________________ \nMOLIMO AGENCIJE DA NAS NE ZOVU.\nIzdajemo luksuzno namešten dupleks stan  - 94 kvadratnih metara u novogradnji u Pašmanskoj ulici, blizu parka Šumice, Lekino Brdo. Stan je vrlo udoban i svetao, a poseduje:\n• 3 prostrane spavaće sobe\n• veliki dnevni boravak i trpezariju\n• potpuno opremljenu kuhinju\n• 2 kupatila\n• 2 terase \n\nPored standardnih električnih uređaja, stan ima prečišćivače vazduha za ceo prostor (Zepter i Xiaomi), filter za vodu - uključujući i tuševe, mašinu za pranje sudova i 2 kombinovane mašine za pranje i sušenje veša.\n\nSupermarket \"Tempo\" je udaljen 3 minuta hoda, park Šumice 5 minuta hoda, a Beo Shopping Center 15 minuta hoda. Oblast je dobro povezana sa svim delovima grada.\nInfostan je 6000 dinara, a grejanje je na 2 inverter klime - što je ubedljivo najpovoljnija opcija. \nStan je idealan za porodice sa decom.\nKućni ljubimci nisu dozvoljeni.\n \nCena: €1,250 mesečno, godišnji najam.\n*Dostupno garažno mesto u zgradi po ceni od 100e mesečno",
-  "photos": 15,
   "added": "2026-10-26",
   "updated": "2026-10-26"
  },
