@@ -1,5 +1,291 @@
 [
  {
+  "id": "ho-5425647936470",
+  "slug": "ho-5425647936470-izdavanje-stan-bulevar-kralja-aleksandra",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 74 м², Булевар краля Александра, Звездара",
+  "kind": "двухкомнатная квартира",
+  "price": 1000,
+  "area": 74,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Булевар краля Александра",
+  "street": "Слободанке Данке Савич",
+  "geo": {
+   "lat": 44.79387,
+   "lng": 20.50154
+  },
+  "facts": [
+   [
+    "Площадь",
+    "74 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "2-й из 3"
+   ],
+   [
+    "Отопление",
+    "тёплый пол"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 150 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "гараж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "лоджия",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 74 м² в районе Булевар краля Александра (Звездара, Белград). 2-й этаж из 3, с мебелью, отопление тёплый пол, люкс, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, гараж, домофон, интернет, кабельное ТВ, кондиционер, лифт, лоджия, терраса, горячая вода, видеонаблюдение. Аренда 1 000 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se prelep luksuzan dvosoban stan sa velikom osuncanom terasom na Lionu potpuno opremljen novom nemackom opremom i italijanskim namestajem u mirnom i rezidencijalnom delu grada pored Bulevara kralja Aleksandra.\n\nStan ima veliku dnevnu sobu sa velikom osuncanom terasom citavom duzinom, trpezariju, potpuno opremljenu kuhinju sa velikim friziderom i zamrzivacem, veliku spavacu sobu, kupatilo i zaseban toalet.\nPodno grejanje, centralna klimatizacija i priprema tople vode, video nadzor, interfon, internet i kablovska TV. Odmah spremno za useljenje.",
+  "photos": 13,
+  "added": "2026-11-06",
+  "updated": "2026-11-06"
+ },
+ {
+  "id": "ho-5425644443518",
+  "slug": "ho-5425644443518-izdavanje-stan-blok-62",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 58 м², Блок 62, Новый Белград",
+  "kind": "двухкомнатная квартира",
+  "price": 680,
+  "area": 58,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Блок 62",
+  "street": "Душана Вукасовича",
+  "geo": {
+   "lat": 44.80558,
+   "lng": 20.37301
+  },
+  "facts": [
+   [
+    "Площадь",
+    "58 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "2-й из 4"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 150 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "лоджия",
+   "парковка",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 58 м² в районе Блок 62 (Новый Белград, Белград). 2-й этаж из 4, с мебелью, отопление центральное, люкс, дом современной постройки. Есть: депозит, можно въехать сразу, домофон, интернет, кабельное ТВ, кондиционер, лифт, лоджия, парковка, видеонаблюдение. Аренда 680 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem lux, renoviran dvosoban, potpuno namesten stan na drugom spratu u novijim cetvorospratnicama u bloku 62.  Vlasnik",
+  "photos": 15,
+  "added": "2026-11-06",
+  "updated": "2026-11-06"
+ },
+ {
+  "id": "ho-5425647873072",
+  "slug": "ho-5425647873072-izdavanje-stan-filmski-grad",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 50 м², Филмски град, Чукарица",
+  "kind": "двухкомнатная квартира",
+  "price": 500,
+  "area": 50,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "opstina-cukarica",
+  "location": "Филмски град",
+  "street": "Ратка Митровича",
+  "geo": {
+   "lat": 44.75025,
+   "lng": 20.428
+  },
+  "facts": [
+   [
+    "Площадь",
+    "50 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "2-й из 6"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно с животными",
+   "не последний этаж",
+   "кондиционер",
+   "лифт",
+   "лоджия",
+   "терраса"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 50 м² в районе Филмски град (Чукарица, Белград). 2-й этаж из 6, с мебелью, отопление центральное, в исходном состоянии, старый фонд. Есть: депозит, можно с животными, не последний этаж, кондиционер, лифт, лоджия, терраса. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Svetao namešten stan na idealnom drugom spratu na odličnoj lokaciji. Blizina prodavnica, autobuskih stanica, parkova, šetališta, škola i vrtića. U stanu su dozvoljeni kućni ljubimci i moguća je prijava prebivališta. Slobodan za useljenje od 15.11.2026.",
+  "photos": 11,
+  "added": "2026-11-06",
+  "updated": "2026-11-06"
+ },
+ {
+  "id": "ho-5425635765164",
+  "slug": "ho-5425635765164-izdavanje-stan-lion",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 56 м², Лион, Звездара",
+  "kind": "двухкомнатная квартира",
+  "price": 700,
+  "area": 56,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Лион",
+  "street": "Войислава Илица",
+  "geo": {
+   "lat": 44.79174,
+   "lng": 20.49769
+  },
+  "facts": [
+   [
+    "Площадь",
+    "56 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "2-й из 6"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 56 м² в районе Лион (Звездара, Белград). 2-й этаж из 6, с мебелью, отопление центральное, люкс, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, домофон, интернет, кабельное ТВ, кондиционер, лифт, парковка, терраса, видеонаблюдение. Аренда 700 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem stan u novogradnji, lepo opremljen, svetao i komforan. \n\nStan se sastoji od hodnika, kuhinje, trpezarije, dnevne sobe, degazmana, spavaće sobe i kupatila. Poseduje veliku terasu. \n\nU blizini stana se nalazi Cvetkova pijaca, Beo shopping centar, pošta, apoteka, više supermarketa, autobuska i trolejbusa stajališta. \nDobra veza sa svim delovima grada. Stan se izdaje na duži vremenski period.\n U dvorištu zgrade postoji igralište za decu. \nGrejanje je centralno, sa kalorimetrima, po potrošnji. \nOdmah useljiv.",
+  "photos": 10,
+  "added": "2026-11-06",
+  "updated": "2026-11-06"
+ },
+ {
   "id": "fz-6ac89ed57c2d1e8c4f056dab",
   "slug": "fz-6ac89ed57c2d1e8c4f056dab-prodaja-kuca-senjak",
   "deal": "sale",
@@ -44652,72 +44938,5 @@
   "photos": 12,
   "added": "2026-10-24",
   "updated": "2026-10-24"
- },
- {
-  "id": "ho-5425647873072",
-  "slug": "ho-5425647873072-izdavanje-stan-filmski-grad",
-  "deal": "rent",
-  "type": "apartment",
-  "cat": "flat",
-  "title": "Аренда: двухкомнатная квартира, 50 м², Филмски град, Чукарица",
-  "kind": "двухкомнатная квартира",
-  "price": 550,
-  "area": 50,
-  "rooms": 2,
-  "city": "Белград",
-  "district": "Чукарица",
-  "districtSlug": "opstina-cukarica",
-  "location": "Филмски град",
-  "street": "Ратка Митровича",
-  "geo": {
-   "lat": 44.75025,
-   "lng": 20.428
-  },
-  "facts": [
-   [
-    "Площадь",
-    "50 м²"
-   ],
-   [
-    "Комнат",
-    "2"
-   ],
-   [
-    "Этаж",
-    "2-й из 6"
-   ],
-   [
-    "Отопление",
-    "центральное"
-   ],
-   [
-    "Мебель",
-    "с мебелью"
-   ],
-   [
-    "Состояние",
-    "в исходном состоянии"
-   ],
-   [
-    "Дом",
-    "старый фонд"
-   ]
-  ],
-  "features": [
-   "кондиционер",
-   "лифт",
-   "лоджия",
-   "терраса",
-   "депозит",
-   "можно с животными",
-   "не последний этаж",
-   "подходит студентам"
-  ],
-  "text": "Сдаётся двухкомнатная квартира площадью 50 м² в районе Филмски град (Чукарица, Белград). 2-й этаж из 6, с мебелью, отопление центральное, в исходном состоянии, старый фонд. Есть: кондиционер, лифт, лоджия, терраса, депозит, можно с животными, не последний этаж, подходит студентам. Аренда 550 € в месяц.",
-  "originalLang": "sr",
-  "original": "Svetao namešten stan na idealnom drugom spratu na odličnoj lokaciji. Blizina prodavnica, autobuskih stanica, parkova, šetališta, škola i vrtića. U stanu su dozvoljeni kućni ljubimci i moguća je prijava prebivališta. Slobodan za useljenje od 15.11.2026.",
-  "photos": 11,
-  "added": "2026-10-24",
-  "updated": "2026-10-26"
  }
 ]
