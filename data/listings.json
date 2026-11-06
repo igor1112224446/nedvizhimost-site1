@@ -1,5 +1,75 @@
 [
  {
+  "id": "ho-5425647935789",
+  "slug": "ho-5425647935789-izdavanje-stan-senjak",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 60 м², Сеняк, Савски-Венац",
+  "kind": "2,5-комнатная квартира",
+  "price": 700,
+  "area": 60,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "opstina-savski-venac",
+  "location": "Сеняк",
+  "street": "Ситничка",
+  "geo": {
+   "lat": 44.79615,
+   "lng": 20.44704
+  },
+  "facts": [
+   [
+    "Площадь",
+    "60 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "приземный из 1"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 50 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "подходит студентам",
+   "интернет",
+   "кондиционер",
+   "подвал",
+   "терраса"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 60 м² в районе Сеняк (Савски-Венац, Белград). Приземный этаж из 1, с мебелью, отопление аккумуляционные печи, после ремонта, старый фонд. Есть: депозит, можно въехать сразу, подходит студентам, интернет, кондиционер, подвал, терраса. Аренда 700 € в месяц.",
+  "originalLang": "sr",
+  "original": "IZDAJE SE STAN NA SENJAKU – 60 m²\n\nIzdaje se kompletno renoviran, dvoiposoban stan površine 60 m², na atraktivnoj lokaciji na Senjaku.\n\nStan se nalazi u neposrednoj blizini Senjačke pijace, međunarodnih škola, Hyde Parka, Beogradskog sajma, Prokopa i Beograda na vodi.\n\nOdlična povezanost sa svim delovima grada, blizina centra, dobar gradski prevoz i svi neophodni sadržaji u okruženju.\n\nIdealna lokacija za udoban i kvalitetan život.\n\nZa više informacija i dogovor oko gledanja stana, pozvati putem telefona.",
+  "photos": 15,
+  "added": "2026-11-06",
+  "updated": "2026-11-06"
+ },
+ {
   "id": "ho-5425647936470",
   "slug": "ho-5425647936470-izdavanje-stan-bulevar-kralja-aleksandra",
   "deal": "rent",
