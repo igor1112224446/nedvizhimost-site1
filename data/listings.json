@@ -1,5 +1,537 @@
 [
  {
+  "id": "ho-5425647908032",
+  "slug": "ho-5425647908032-izdavanje-stan-bulevar-kralja-aleksandra",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "house",
+  "title": "Аренда: трёхкомнатная квартира, 82 м², Булевар краля Александра, Звездара",
+  "kind": "трёхкомнатная квартира",
+  "price": 1350,
+  "area": 82,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Булевар краля Александра",
+  "street": "Хекторовичева",
+  "geo": {
+   "lat": 44.79564,
+   "lng": 20.5024
+  },
+  "facts": [
+   [
+    "Площадь",
+    "82 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "1-й из 2"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 50 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно с животными",
+   "парковка",
+   "пентхаус"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 82 м² в районе Булевар краля Александра (Звездара, Белград). 1-й этаж из 2, с мебелью, отопление центральное, люкс, дом современной постройки. Есть: депозит, можно с животными, парковка, пентхаус. Аренда 1 350 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se luksuzno namesten stan u rezidencijalnom delu Zvezdare u kuci- vila sa 4 zasebne stambene jedinice , samim tim garantuje veci mir i tisinu nego u zgradi. U mirnom i tihom kraju uz Bulevar kralja Aleksandra, a nadomak marketa, rekreativnog centra Olimp, skola, TC, centra i svih gradskih desavanja, tramvajske stanice 5, 6, 7, 14. \nSlobodan za useljenje od 20-og novembra. Molim samo ozbiljne.",
+  "photos": 12,
+  "added": "2026-11-06",
+  "updated": "2026-11-06"
+ },
+ {
+  "id": "ho-5425647916808",
+  "slug": "ho-5425647916808-izdavanje-stan-centar",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 45 м², Центр, Старый город",
+  "kind": "двухкомнатная квартира",
+  "price": 1300,
+  "area": 45,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "opstina-stari-grad",
+  "location": "Центр",
+  "street": "Цара Лазара",
+  "geo": {
+   "lat": 44.81788,
+   "lng": 20.45477
+  },
+  "facts": [
+   [
+    "Площадь",
+    "45 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "3-й из 6"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 70 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "домофон",
+   "кондиционер",
+   "лифт",
+   "подвал",
+   "горячая вода"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 45 м² в районе Центр (Старый город, Белград). 3-й этаж из 6, с мебелью, отопление центральное, люкс, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, домофон, кондиционер, лифт, подвал, горячая вода. Аренда 1 300 € в месяц.",
+  "originalLang": "sr",
+  "original": "CARA LAZARA – Elegantan stan u srcu Beograda | 45 m²\n\nU jednoj od najlepših ulica starog Beograda, u prestižnoj pešačkoj zoni, izdaje se svetao, elegantno uređen i potpuno namešten stan od 45 m².\n\nNa samo minut od Knez Mihailove i pet minuta od Kalemegdana, stan pruža savršen spoj šarma starog Beograda i savremenog komfora.\n\nSastoji se od dnevnog boravka sa trpezarijom, odvojene spavaće sobe, potpuno opremljene kuhinje i kupatila. Odlikuju ga hrastov parket, kristalni lusteri, pažljivo biran nameštaj i prefinjeni detalji.\n\nNalazi se na 3. spratu zgrade sa liftom i centralnim grejanjem.\n\nIdealan za jednu osobu ili par koji cene kvalitet, eleganciju i život u samom srcu grada.\nPotpuno opremljen i spreman za useljenje.\nMesečna renta: 1.300 €\nDepozit: 1.000 €\nCARA LAZARA – Elegant Apartment in the Heart of Belgrade | 45 m²\n\nLocated on one of Belgrade's most charming streets, in the prestigious pedestrian zone of the historic city center, this bright, beautifully furnished 45 m² apartment offers timeless elegance and modern comfort.\n\nJust a 1-minute walk from Knez Mihailova Street and 5 minutes from Kalemegdan Park.\n\nThe apartment features a stylish living and dining area, a separate bedroom, a fully equipped kitchen and a bathroom. Oak parquet flooring, crystal chandeliers and carefully selected furnishings create a warm and sophisticated atmosphere.\n\nSituated on the 3rd floor of a building with an elevator and central heating.\n\nPerfect for a professional or couple seeking comfort, character and an exceptional central location.\nFully furnished and move-in ready.\nMonthly rent: €1,300\nSecurity deposit: €1,000",
+  "photos": 9,
+  "added": "2026-11-06",
+  "updated": "2026-11-06"
+ },
+ {
+  "id": "ho-5425647915729",
+  "slug": "ho-5425647915729-izdavanje-stan-gospodara-vucica",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: четырёхкомнатная квартира, 77 м², Господара Вучича, Врачар",
+  "kind": "четырёхкомнатная квартира",
+  "price": 1200,
+  "area": 77,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "opstina-vracar",
+  "location": "Господара Вучича",
+  "street": "Господара Вучича",
+  "geo": {
+   "lat": 44.79122,
+   "lng": 20.47552
+  },
+  "facts": [
+   [
+    "Площадь",
+    "77 м²"
+   ],
+   [
+    "Комнат",
+    "4"
+   ],
+   [
+    "Этаж",
+    "3-й из 5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 150 € в месяц"
+   ]
+  ],
+  "features": [
+   "гараж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "лоджия",
+   "терраса",
+   "видеонаблюдение",
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу"
+  ],
+  "text": "Сдаётся четырёхкомнатная квартира площадью 77 м² в районе Господара Вучича (Врачар, Белград). 3-й этаж из 5, с мебелью, отопление центральное, люкс, старый фонд. Есть: гараж, домофон, интернет, кабельное ТВ, кондиционер, лифт, лоджия, терраса, видеонаблюдение, депозит, не последний этаж, можно въехать сразу. Аренда 1 200 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se moderan i izuzetno funkcionalan troiposoban/četvorosoban stan površine 77 m². Stan izdaje direktno vlasnik, tako da nema agencijske provizije za zakupca.\nStan je svetao (istok-jug-zapad), ušuškan, topao. Zbog svoje odlične strukture, lokacije i činjenice da se izdaje namešten, prostor je izuzetno pogodan kako za stambeni život tako i za kombinaciju stambeno-poslovnu svrhu.\nOpis stana: hodnik, dnevni boravak sa tprezarijom i kuhinjom, 3 spavace sobe, kupatilo, terasa, blindirana vrata, lift, Interfon, pvc stolarija sa zaluzinama, nove inverter klime, video nadzor. Kuhinja u potpunosti opremljena (elctrolux, beko, Lg)\nGaražno mesto na -1 nivou, dostupno po dogovoru.\nStan se izdaje domaćim i stranim državljanima. Za strane državljane obezbeđujem urednu prijavu boravišta na adresi stana (tzv. beli karton).\nStan je namenjen za mirno i uredno stanovanje, prvenstveno pojedincima, parovima ili porodicama koje traže kvalitetan životni prostor i odgovoran odnos prema imovini.\nIzdavanje stana vrši se isključivo po izboru vlasnika, nakon ličnog upoznavanja sa zainteresovanim zakupcima i dogovora o uslovima zakupa.\nStan nije namenjen za kolektivni smeštaj zaposlenih, radnički smeštaj, podzakup niti za korišćenje od strane većeg broja lica koja nisu navedena u ugovoru o zakupu.\n• Cena: 1.200 € mesečno\n• Depozit: Obavezan u visini dve mesečne kirije\n• Kontakt\nA modern and extremely functional three-room/four-room apartment of 77 m² is for rent. The apartment is rented directly by the owner, so there is no agency commission for the tenant.\nThe apartment is bright (east-south-west), tucked away, warm. Due to its excellent structure, location and the fact that it is being sold furnished, the space is extremely suitable for residential life as well as for a combination of residential and business purposes.\nDescription of the apartment: hallway, living room with pantry and kitchen, 3 bedrooms, bathroom, terrace, armored door, elevator, intercom, PVC carpentry with blinds, new inverter air conditioner, video surveillance. Fully equipped kitchen (elctrolux, Beko, Lg)\nGarage space on -1 level, available by agreement.\nThe apartment is rented out to domestic and foreign citizens. For foreign citizens, I provide a proper registration of residence at the address of the apartment (so-called white card).\nThe apartment is intended for quiet and orderly living, primarily for individuals, couples or families looking for quality living space and a responsible attitude towards property.\nThe apartment is rented out exclusively at the choice of the owner, after personal acquaintance with the interested tenants and agreement on the terms of the lease.\nThe apartment is not intended for collective accommodation of employees, worker accommodation, sublease or for use by a large number of persons who are not specified in the lease agreement.\n• Price: €1,200 per month • Deposit: Mandatory in the amount of two months' rent\nContact",
+  "photos": 15,
+  "added": "2026-11-06",
+  "updated": "2026-11-06"
+ },
+ {
+  "id": "ho-5425647891072",
+  "slug": "ho-5425647891072-izdavanje-stan-resavska",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 86 м², Ресавска, Врачар",
+  "kind": "трёхкомнатная квартира",
+  "price": 1200,
+  "area": 86,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "opstina-vracar",
+  "location": "Ресавска",
+  "street": "Ресавска",
+  "geo": {
+   "lat": 44.80863,
+   "lng": 20.46699
+  },
+  "facts": [
+   [
+    "Площадь",
+    "86 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "2-й из 3"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 180 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "салонная планировка",
+   "для некурящих",
+   "подходит студентам",
+   "домофон",
+   "кондиционер",
+   "подвал",
+   "терраса"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 86 м² в районе Ресавска (Врачар, Белград). 2-й этаж из 3, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу, салонная планировка, для некурящих, подходит студентам, домофон, кондиционер, подвал, терраса. Аренда 1 200 € в месяц.",
+  "originalLang": "sr",
+  "original": "Lep, veliki salonac za izdavanje u Resavskoj 11, na Vračaru, na svega 50 metara od Tašmajdanskog parka i Crkve Svetog Marka.\n\nStan se nalazi na drugom spratu i ima ono što je sve teže pronaći u centru Beograda – pravi osećaj prostora. Dvostrano je orijentisan, prostran i svetao, sa klasičnim rasporedom koji mu daje posebnu širinu i karakter.\n\nSastoji se od velike dnevne sobe, trpezarije, dve potpuno odvojene spavaće sobe, kuhinje, kupatila i velikog hodnika sa dosta prostora za odlaganje i velikim ormarima. Stan ima i terasu, kao i centralno grejanje.\n\nLokacija je jedna od njegovih najvećih prednosti. Tašmajdanski park i Crkva Svetog Marka praktično su ispred zgrade, dok su Narodna skupština, Pionirski park, centar grada i sve ono što život u centru Beograda čini praktičnim i zanimljivim na dohvat ruke. U neposrednoj blizini su prodavnice, restorani, kafići, javni prevoz i svi potrebni sadržaji.\n\nStan je namenjen nekome ko traži prostor, mir i dobru gradsku lokaciju, bez odricanja od komfora koji pruža veliki stan.\n\nMesečna kirija: 1.200 €\n\nDepozit: jedna mesečna kirija\n\nUgovor o zakupu se obavezno potpisuje kod notara.\n\nKućni ljubimci nisu dozvoljeni.",
+  "photos": 15,
+  "added": "2026-11-06",
+  "updated": "2026-11-06"
+ },
+ {
+  "id": "ho-5425647932701",
+  "slug": "ho-5425647932701-izdavanje-stan-blok-65",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 55 м², Блок 65, Новый Белград",
+  "kind": "двухкомнатная квартира",
+  "price": 1400,
+  "area": 55,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Блок 65",
+  "street": "Омладинских бригада",
+  "geo": {
+   "lat": 44.80742,
+   "lng": 20.39788
+  },
+  "facts": [
+   [
+    "Площадь",
+    "55 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "4-й из 9"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 120 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "гараж",
+   "домофон",
+   "интернет",
+   "кондиционер",
+   "лифт",
+   "терраса",
+   "видеонаблюдение",
+   "пентхаус"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 55 м² в районе Блок 65 (Новый Белград, Белград). 4-й этаж из 9, с мебелью, отопление центральное, люкс, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, гараж, домофон, интернет, кондиционер, лифт, терраса, видеонаблюдение, пентхаус. Аренда 1 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stan se nalazi u luksuznom stambenom kompleksu SOUL 64 na Novom Beogradu. Potpuno je nov i do sada niko nije živeo u njemu, tako da će budući zakupci biti prvi stanari. Opremljen je kvalitetnim uređajima i luksuznim nameštajem renomiranih proizvođača. Kuhinja je kompletno opremljena, kao i ostatak stana, koji sadrži sve potrebne elemente za udoban svakodnevni život.  U spavaćem delu nalazi se udoban king-size krevet, dok je kupatilo opremljeno tuš-kabinom. U zasebnoj ostavi nalaze se mašina za pranje i mašina za sušenje veša. Stan je orijentisan ka dvorištu sa zelenilom, što pruža mir i privatnost. Naselje ima obezbeđenje 24/7, uređene zelene površine i pešačke zone. U okviru kompleksa je u pripremi otvaranje sportskog centra sa bazenom, teretanom i SPA sadržajima, uz posebne pogodnosti za stanare. Stan je odmah useljiv.\nDepozit iznosi dve mesečne zakupnine, imajući u vidu vrednost i opremljenost stana. Depozit se u celosti vraća zakupcu po isteku zakupa, nakon primopredaje stana, pod uslovom da je stan vraćen u urednom stanju i da su sve ugovorene obaveze izmirene.\nGaražno mesto se doplaćuje 100 evra mesečno.\nNije agencija, nema dodatnih troškova!",
+  "photos": 13,
+  "added": "2026-11-06",
+  "updated": "2026-11-06"
+ },
+ {
+  "id": "ho-5425647882890",
+  "slug": "ho-5425647882890-izdavanje-stan-beograd-na-vodi",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: четырёхкомнатная квартира, 115 м², Београд на води, Савски-Венац",
+  "kind": "четырёхкомнатная квартира",
+  "price": 2500,
+  "area": 115,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "opstina-savski-venac",
+  "location": "Београд на води",
+  "street": "Луке Человича Требиньца",
+  "geo": {
+   "lat": 44.80505,
+   "lng": 20.45225
+  },
+  "facts": [
+   [
+    "Площадь",
+    "115 м²"
+   ],
+   [
+    "Комнат",
+    "4"
+   ],
+   [
+    "Этаж",
+    "7-й из 9"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 140 € в месяц"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся четырёхкомнатная квартира площадью 115 м² в районе Београд на води (Савски-Венац, Белград). 7-й этаж из 9, с мебелью, отопление центральное, люкс, дом современной постройки. Аренда 2 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se ekskluzivan, potpuno nov četvorosoban stan u Beogradu na vodi, sa prelepim pogledom na park. Prostran, svetao i pažljivo osmišljen, stan pruža idealan spoj udobnosti, privatnosti i savremenog gradskog života. Niko do sada nije živeo u stanu, a useljenje prvih zakupaca planirano je početkom novembra.\nCentralni deo stana čini prostran dnevni boravak sa izlazom na terasu, povezan sa kuhinjom i trpezarijskim delom. Velike staklene površine unose obilje prirodne svetlosti, dok pogled na zelenilo stvara prijatan ambijent za odmor i svakodnevni život. Stan poseduje tri spavaće sobe, dva kupatila – jedno sa kadom, a drugo sa tuš-kabinom – ostavu i zasebnu vešernicu, što ga čini pogodnim za porodicu ili zakupce kojima su potrebni dodatni prostor i funkcionalnost. Stan je u završnoj fazi opremanja, a budući zakupci imaće mogućnost da se dogovore oko pojedinih detalja i prilagode ih svojim potrebama\nGaražno mesto se doplaćuje 100 € mesečno.\nNije agencija nema dodatnih troškova",
+  "photos": 15,
+  "added": "2026-11-06",
+  "updated": "2026-11-06"
+ },
+ {
+  "id": "ho-5425647901327",
+  "slug": "ho-5425647901327-izdavanje-stan-kalenic-pijaca",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: четырёхкомнатная квартира, 80 м², Каленич пияца, Врачар",
+  "kind": "четырёхкомнатная квартира",
+  "price": 1400,
+  "area": 80,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "opstina-vracar",
+  "location": "Каленич пияца",
+  "street": "Негошева",
+  "geo": {
+   "lat": 44.80068,
+   "lng": 20.47331
+  },
+  "facts": [
+   [
+    "Площадь",
+    "80 м²"
+   ],
+   [
+    "Комнат",
+    "4"
+   ],
+   [
+    "Этаж",
+    "2-й из 6"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 170 € в месяц"
+   ]
+  ],
+  "features": [
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "горячая вода",
+   "депозит",
+   "можно с животными",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих"
+  ],
+  "text": "Сдаётся четырёхкомнатная квартира площадью 80 м² в районе Каленич пияца (Врачар, Белград). 2-й этаж из 6, с мебелью, отопление центральное, люкс, старый фонд. Есть: домофон, интернет, кабельное ТВ, кондиционер, лифт, парковка, горячая вода, депозит, можно с животными, не последний этаж, можно въехать сразу, для некурящих. Аренда 1 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "Svetao stan u srcu Vračara nudi miks retro i modernog dekora u okviru 80m2. Prostor se sastoji od prostrane dnevne sobe, kuhinje/trpezarije, dve spavaće sobe i dva kupatila. Svi prozori, koji gledaju i na Njegoševu ulicu i na dvorište, takođe gledaju i na zelenilo sa obe strane. Spavaće sobe, koje gledaju na dvorište, odvojene su od buke i gledaju na bujno dvorište. Imate osećaj da je ceo stan ušuškan u zelenilo!\nStan se nalazi na drugom spratu male i mirne zgrade sa liftom, u mirnom delu Vračara. Blizu je Kalenić pijace, par minuta peške od Hrama Svetog Save, i 15-ak minuta ležerne šetnje do centra. Imaćete pristup jednoj od najboljih pijaca u gradu, raznolikim pekarama, kafićima i restoranima sa senovitim baštama, kao i mnogim muzejima i kulturnim događajima.\nRačuni nisu uključeni u cenu. Parking mesto je dostupno po dogovoru. Dozvoljeni su kućni ljubimci i obavezan je depozit u visini jedne kirije.\n---\nSpacious, luminous, tranquil, charming, cozy and a mix of retro and modern – this apartment consists of 80 square meters. This space is composed of an open living area, a kitchen/dining room, two bedrooms and two bathrooms. All of the windows, which face both towards the street and the backyard, look onto the green canopy of the surrounding trees. The bedroomslook out onto the miniature park behind the building and are therefore very quiet. On either side, it feels like the apartment is tucked into the greenery!\nThe apartment is located on the second floor of a small and peaceful building (with an elevator), which is situated in Vračar – one of the best neighborhoods of Belgrade. It is next to Kalenić pijaca, and just a few minutes of walk away from the Church of St. Sava as well as about 15 minutes of leisurely walk to the historical center. The neighborhood itself enjoys the best open air market, a variety of cafés that work well until midnight, a multitude of bakeries and restaurants with shady gardens, as well as supermarkets which work 24/7. Vračar is also home to and close to many museums and cultural centers.\nThe amenities are not included in the price. A parking space is available but is charged separately. Pet friendly, deposit in amount of the monthly rent is mandatory.",
+  "photos": 15,
+  "added": "2026-11-06",
+  "updated": "2026-11-06"
+ },
+ {
+  "id": "fz-6a86f024c55fcad7ba05a897",
+  "slug": "fz-6a86f024c55fcad7ba05a897-prodaja-kuca-dedinje",
+  "deal": "sale",
+  "type": "house",
+  "cat": "house",
+  "title": "Продажа: дом, 487 м², Дедине, Савски-Венац",
+  "kind": "дом",
+  "price": 2800000,
+  "area": 487,
+  "rooms": 6,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "savski-venac",
+  "location": "Дедине",
+  "street": "Дедине",
+  "geo": {
+   "lat": 44.7633,
+   "lng": 20.45533
+  },
+  "facts": [
+   [
+    "Площадь",
+    "487 м²"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся дом площадью 487 м² в районе Дедине (Савски-Венац, Белград). Цена 2 800 000 €.",
+  "originalLang": "sr",
+  "original": "U ponudi je luksuzna vila smeštena na jednoj od najprestižnijih lokacija u Beogradu, u ekskluzivnom delu Dedinje, na opštini Savski Venac. Nekretnina se nalazi u mirnom i diskretnom okruženju koje pruža visok nivo privatnosti, sigurnosti i komfora, što je čini idealnim izborom za rezidencijalnu upotrebu ili predstavništvo kompanije.",
+  "photos": 15,
+  "added": "2026-11-06",
+  "updated": "2026-11-06"
+ },
+ {
   "id": "ho-5425647856763",
   "slug": "ho-5425647856763-izdavanje-stan-altina",
   "deal": "rent",
