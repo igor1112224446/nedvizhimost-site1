@@ -1,5 +1,80 @@
 [
  {
+  "id": "ho-5425647917065",
+  "slug": "ho-5425647917065-izdavanje-stan-blok-30-b92",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 41 м², Блок 30 (B92), Новый Белград",
+  "kind": "1,5-комнатная квартира",
+  "price": 600,
+  "area": 41,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Блок 30 (B92)",
+  "street": "Булевар уметности",
+  "geo": {
+   "lat": 44.82144,
+   "lng": 20.41759
+  },
+  "facts": [
+   [
+    "Площадь",
+    "41 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "5-й из 17"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 150 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно с животными",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "подходит студентам",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "лоджия"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 41 м² в районе Блок 30 (B92) (Новый Белград, Белград). 5-й этаж из 17, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: депозит, можно с животными, не последний этаж, можно въехать сразу, для некурящих, подходит студентам, домофон, интернет, кабельное ТВ, кондиционер, лифт, лоджия. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "Odmah useljiv, kompletno renoviran i namešten 1.5 stan u bloku 30 na Novom Beogradu. U neposrednoj blizini se nalaze svi neophodni sadržaji (vrtić, škola, prodavnice, tržni centar, autobuska stajališta 16,65,71,72,77,78,83, taxi stanica, banke). Plaćanje se vrši unapred kvartalno uz depozit u visini jedne mesečne zakupnine. Režijski troškovi se plaćaju mesečno nezavisno od zakupnine. \n\nZa sve dodatne informacije pozovite na u periodu od 11h do 13h i od 18h do 19h.",
+  "photos": 15,
+  "added": "2026-11-06",
+  "updated": "2026-11-06"
+ },
+ {
   "id": "ho-5425647875198",
   "slug": "ho-5425647875198-izdavanje-stan-blok-21",
   "deal": "rent",
@@ -5278,7 +5353,7 @@
   "original": "Kontakt vlasnika/Contact the owner: \n Call / SMS / Viber /\nIzdaje se stan u Zemunu, naselje Novi grad, ulica Đoka Kovačevića, 60m2 + terasa,  sopstveni parking, renoviran, svetao, lux oprema i uređaji. \n\nStan se nalazi u porodičnom i mirnom delu Zemuna. Odlična povezanost sa gradom (blizu uključenja na Auto put, \nŽelezničke stanice Zemun i autobuskih stanica 15, 78, 45, 709, 612 )\nU blizini se nalazi i Osnovna škola, vrtići, Dom zdravlja, radnje i Mega marketi  (TEMPO, Cash and Carry) , Tržni centar Zmaj. (Crafter, Sve za kuću itd.)\nStan ima niske mesečne režije.(Nije na centralnom grejanju). \nEkonomično i kvalitetno grejanje/hladnjenje inverter klimama Fujitsu\nUređaji: mašina za veš, mašina za sušenje veša, mašina za sudove, rerna, šporet, TV, klime...\nProstorije: predsoblje, hodnik, spabaća soba, dnevna soba, trpezarija, kuhinja, špajz, terasa.\nKreveti: 160*200 bračni i ugaona garnitura na izvlačenje 160*200\n\n*Depozit obavezan.\n\n-----------------------------------------------ENGLISH-----------------------------------------------\n\nApartment for Rent in Zemun, Novi Grad\nApartment for rent in Zemun, Novi Grad neighborhood, Đoka Kovačevića Street. The apartment is 60 m² + terrace, fully renovated, bright, and equipped with high-quality luxury furniture and appliances. It also includes a private parking space. \nThe apartment is located in a quiet, family-friendly part of Zemun with excellent connections to the city. It is close to the highway entrance, Zemun Railway Station, and bus lines 15, 78, 45, 709, and 612.\n\nNearby amenities include an elementary school, kindergartens, a health center, shops, and major supermarkets (TEMPO, Metro Cash & Carry), as well as Zmaj Shopping Center (Crafter, Home & Living stores, and more).\n\nThe apartment has low monthly utility costs (it is not connected to district heating). Heating and cooling are provided by Fujitsu inverter air conditioning units, offering an efficient and cost-effective solution.\n\nAppliances included:\nWashing machine Clothes dryer, Dishwasher, Oven, Stove, TV, Air conditioning units, And more\n\nLayout:\nEntrance hall, Hallway, Bedroom ,Living room ,Dining area, Kitchen, Pantry, Terrace\n\nBeds:\nQueen-size bed (160 × 200 cm)\nPull-out corner sofa (160 × 200 cm)\n\n*Security deposit required.",
   "photos": 15,
   "added": "2026-11-04",
-  "updated": "2026-11-04"
+  "updated": "2026-11-06"
  },
  {
   "id": "ho-5425647927827",
