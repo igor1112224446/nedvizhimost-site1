@@ -1,5 +1,71 @@
 [
  {
+  "id": "ho-5425647875198",
+  "slug": "ho-5425647875198-izdavanje-stan-blok-21",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 60 м², Блок 21, Новый Белград",
+  "kind": "однокомнатная квартира",
+  "price": 1300,
+  "area": 60,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Блок 21",
+  "street": "Милентия Поповича",
+  "geo": {
+   "lat": 44.80964,
+   "lng": 20.42938
+  },
+  "facts": [
+   [
+    "Площадь",
+    "60 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "5-й из 5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "домофон",
+   "интернет",
+   "кондиционер",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение",
+   "депозит"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 60 м² в районе Блок 21 (Новый Белград, Белград). 5-й этаж из 5, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: домофон, интернет, кондиционер, терраса, горячая вода, видеонаблюдение, депозит. Аренда 1 300 € в месяц.",
+  "originalLang": "sr",
+  "original": "Predstavljamo Vam potpuno renoviran i opremljen Dvosoban stan od 60 m², sa prostranom terasom od 30 m². Stan se nalazi u ulici Milentija Popovića br. 14, u Bloku 21 na Novom Beogradu, u neposrednoj blizini Sava Centra. Posebna vrednost ovog stana je terasa sa đakuzijem i saunom. To je privatni kutak za opuštanje, idealan posle radnog dana.\nO stanu:\nStan je kompletno renoviran 2026. godine i opremljen novim nameštajem i uređajima. Sastoji se od spavaće sobe, velike dnevne sobe sa trpezarijom, kuhinje, kupatila i terase. Nalazi se na 5. spratu stambene zgrade. Grejanje je centralno a uporedo I klima uređaj se može koristiti.\nUslovi zakupa:\n•\tDužina ugovora: minimum 12 meseci\n•\tMesečna zakupnina: 1.300 €\n•\tDepozit: 1.300 €\n•\tKućni ljubimci: nisu dozvoljeni\n•\tParking: ulični parking u zoni\n•\tDostupnost: od 1. novembra 2026.\nOkruženje:\nStan se nalazi u Bloku 21, jednom od najbolje povezanih delova Novog Beograda. U neposrednoj blizini su Sava Centar, OŠ „Jovan Dučić“, prodavnice, kafići i restorani, a do Ušća i obale reke se lako stiže. Ulicom Milentija Popovića saobraćaju tramvajske linije 7, 9, 11 i 13 i autobuske linije 68 i 95, pa se do centra grada stiže za nekoliko minuta.\nZa dodatne informacije i zakazivanje pregleda: Nemanja Todorović, upravitelj,",
+  "photos": 15,
+  "added": "2026-11-06",
+  "updated": "2026-11-06"
+ },
+ {
   "id": "ho-5425647908032",
   "slug": "ho-5425647908032-izdavanje-stan-bulevar-kralja-aleksandra",
   "deal": "rent",
