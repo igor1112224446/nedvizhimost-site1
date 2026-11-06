@@ -1,5 +1,409 @@
 [
  {
+  "id": "ho-5425647856763",
+  "slug": "ho-5425647856763-izdavanje-stan-altina",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 100 м², Алтина, Земун",
+  "kind": "трёхкомнатная квартира",
+  "price": 780,
+  "area": 100,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Алтина",
+  "street": "Угриновацки пут 10 М",
+  "geo": {
+   "lat": 44.8524,
+   "lng": 20.36964
+  },
+  "facts": [
+   [
+    "Площадь",
+    "100 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "2-й из 2"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 100 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно с животными",
+   "можно въехать сразу",
+   "мансарда",
+   "кондиционер",
+   "лоджия",
+   "парковка",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 100 м² в районе Алтина (Земун, Белград). 2-й этаж из 2, с мебелью, отопление автономное, в исходном состоянии, дом современной постройки. Есть: депозит, можно с животными, можно въехать сразу, мансарда, кондиционер, лоджия, парковка, терраса, горячая вода, видеонаблюдение. Аренда 780 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stan je opremljen stambenim i kancelarijskim nameštajem, tavanski prostor koji se moze korisiti za odlaganje, bela tehnika u stanu je nova. Tri lodje. Na raspolaganju su dva parking mesta.\n\nStan se nalazi u prvom redu do „starog“ Novosadskog auto-puta. Lokacija je odlično povezana sa svim većim saobraćajnicama, uključujući Novosadski i Zagrebački auto-put, obilaznicu oko Beograda, kao i Zrenjaninski put ( Pupinov most ).\n\nNalazi se u blizini „stare lakat krivine“, odnosno preko puta naselja Dunavski Vir.\n\nPrilikom zakupa potrebno je položiti depozit u visini dve mesečne zakupnine.",
+  "photos": 12,
+  "added": "2026-11-06",
+  "updated": "2026-11-06"
+ },
+ {
+  "id": "ho-5425647932157",
+  "slug": "ho-5425647932157-izdavanje-stan-zvezdarska-suma",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 49 м², Звездарска шума, Звездара",
+  "kind": "1,5-комнатная квартира",
+  "price": 500,
+  "area": 49,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Звездарска шума",
+  "street": "Драгослава Срейовича",
+  "geo": {
+   "lat": 44.80799,
+   "lng": 20.51407
+  },
+  "facts": [
+   [
+    "Площадь",
+    "49 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "1-й из 1"
+   ],
+   [
+    "Отопление",
+    "мраморные радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 30 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "домофон",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "с садом",
+   "терраса",
+   "горячая вода"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 49 м² в районе Звездарска шума (Звездара, Белград). 1-й этаж из 1, с мебелью, отопление мраморные радиаторы, в исходном состоянии, дом современной постройки. Есть: депозит, можно въехать сразу, домофон, кабельное ТВ, кондиционер, парковка, с садом, терраса, горячая вода. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem stan na Zvezdari,Dragoslava Srejovica,autobus 27 staje ispred,odlična povezanost sa centrom do Trga 15min,privatna zgrada sa 4 stana,stan je na prvom spratu,odvojena soba,terasa,mogućnost korišćena dvorista celo leto,namesten,interfon,kablovska,svoje parking mesto,kapija na daljinski,mir,privatnost,male rezije oko 30e,uradjena unutrasnja i spoljasnja izolacija,racuni mali za struju,nije pet frendli,mesečno plaćanje 500e plus depozit,na duže..",
+  "photos": 15,
+  "added": "2026-11-06",
+  "updated": "2026-11-06"
+ },
+ {
+  "id": "ho-5425647930830",
+  "slug": "ho-5425647930830-izdavanje-stan-borca",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 35 м², Борча, Палилула",
+  "kind": "1,5-комнатная квартира",
+  "price": 380,
+  "area": 35,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Борча",
+  "street": "Саве Мркаля 28",
+  "geo": {
+   "lat": 44.88202,
+   "lng": 20.45506
+  },
+  "facts": [
+   [
+    "Площадь",
+    "35 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "приземный из 2"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 35 м² в районе Борча (Палилула, Белград). Приземный этаж из 2, с мебелью, дом современной постройки. Есть: можно въехать сразу, интернет, кабельное ТВ, кондиционер, видеонаблюдение. Аренда 380 € в месяц.",
+  "originalLang": "sr",
+  "original": "Kompletno namesten i ekonomican stan sa dodatnom sobom na vrlo lepoj lokaciji u Borci, u zgradi od Skroz Dobre Pekare odmah ka pijaci. Nov namestaj: LCD TV, klima klasa A za grejanje i hladjenje sa malom potrosnjom struje, ves masina, ugaona garnitura, bracni krevet itd.\nStan je vrlo topao i veoma lako se greje sa klimom koja trosi malo struje.\nOpticki Internet i KATV (odlican paket Supernove). Ukupni troskovi za KATV, Internet i Infostan su 2500din. Struja je koliko se potrosi. U cenu stana je ukljuceno kompletno odrzavanje elektricnih uredjaja ili majstora ukoliko se ukaze potreba.\nStan se nalazi na samoj stanici 96 i 85 i oko 100m od stanice 95. Useljiv odmah",
+  "photos": 15,
+  "added": "2026-11-06",
+  "updated": "2026-11-06"
+ },
+ {
+  "id": "ho-5425647637945",
+  "slug": "ho-5425647637945-izdavanje-stan-atelje-212",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 25 м², Ателе 212, Старый город",
+  "kind": "однокомнатная квартира",
+  "price": 400,
+  "area": 25,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "opstina-stari-grad",
+  "location": "Ателе 212",
+  "street": "Милутина Бойича",
+  "geo": {
+   "lat": 44.81453,
+   "lng": 20.46904
+  },
+  "facts": [
+   [
+    "Площадь",
+    "25 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "3-й из 4"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "подходит студентам",
+   "домофон",
+   "интернет",
+   "лифт",
+   "терраса"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 25 м² в районе Ателе 212 (Старый город, Белград). 3-й этаж из 4, с мебелью, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, подходит студентам, домофон, интернет, лифт, терраса. Аренда 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem namešten stan u strogom centru grada, samo studentu ili studenkinjiDepozit obavezan u vrednosti jedne kirije",
+  "photos": 8,
+  "added": "2026-11-06",
+  "updated": "2026-11-06"
+ },
+ {
+  "id": "ho-5425647938621",
+  "slug": "ho-5425647938621-izdavanje-stan-beograd-na-vodi",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 115 м², Београд на води, Савски-Венац",
+  "kind": "трёхкомнатная квартира",
+  "price": 3000,
+  "area": 115,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "opstina-savski-venac",
+  "location": "Београд на води",
+  "street": "Херцеговачка",
+  "geo": {
+   "lat": 44.80722,
+   "lng": 20.45025
+  },
+  "facts": [
+   [
+    "Площадь",
+    "115 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "15-й из 25"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "гараж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 115 м² в районе Београд на води (Савски-Венац, Белград). 15-й этаж из 25, с мебелью, отопление центральное, люкс, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, гараж, домофон, интернет, кабельное ТВ, кондиционер, лифт, парковка, терраса, видеонаблюдение. Аренда 3 000 € в месяц.",
+  "originalLang": "sr",
+  "original": "Luksuzan, izuzetan potpno nov stan sa dve terase na odličnoj lokaci u prestižnom naselju Beograd na vodi. Zgrada, prvi red do reke i šetališta.\n\nNekretnina ima izuzetno prostran dnevni boravak, ukupne je kvaderature 115 m², i nalazi se na 15. spratu što pruže neverovatan pogled na promenadu i grad. Nalazi se jednoj od najatraktivnijih lokacija Beograda na vodi, u prvom redu do reke.\n\nVelike staklene površine, obilje dnevne svetlosti i dve terase daju prostoru poseban osećaj otvorenosti. Dnevni boravak povezan je sa kuhinjom i trpezarijskim delom, dok dve spavaće sobe i dva kupatila pružaju komfor i privatnost.\n\nStanarima su na raspolaganju bazen, teretana i spa sadržaji u okviru zgrade, za opuštanje i rekreaciju na svega nekoliko koraka od stana. Šetalište uz reku, restorani, kafići i Galerija nalaze se u neposrednoj blizini.\n\nMesečni zakup: 3.000 €\nGaražno mesto: dodatnih 100 € mesečno\nDepozit: jedna mesečna zakupnina\nAgencijska provizija",
+  "photos": 10,
+  "added": "2026-11-06",
+  "updated": "2026-11-06"
+ },
+ {
+  "id": "ho-5425647937632",
+  "slug": "ho-5425647937632-izdavanje-stan-bulevar-kralja-aleksandra",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 35 м², Булевар краля Александра, Звездара",
+  "kind": "однокомнатная квартира",
+  "price": 450,
+  "area": 35,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Булевар краля Александра",
+  "street": "Руджера Бошковича",
+  "geo": {
+   "lat": 44.78973,
+   "lng": 20.51366
+  },
+  "facts": [
+   [
+    "Площадь",
+    "35 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "5-й из 5"
+   ],
+   [
+    "Отопление",
+    "норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 100 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "двухуровневая",
+   "мансарда",
+   "для некурящих",
+   "подходит студентам",
+   "домофон",
+   "кондиционер",
+   "лифт",
+   "терраса"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 35 м² в районе Булевар краля Александра (Звездара, Белград). 5-й этаж из 5, с мебелью, отопление норвежские радиаторы, после ремонта, старый фонд. Есть: депозит, двухуровневая, мансарда, для некурящих, подходит студентам, домофон, кондиционер, лифт, терраса. Аренда 450 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stan je slobodan od 1.12.2026.",
+  "photos": 15,
+  "added": "2026-11-06",
+  "updated": "2026-11-06"
+ },
+ {
   "id": "ho-5425647935789",
   "slug": "ho-5425647935789-izdavanje-stan-senjak",
   "deal": "rent",
@@ -707,7 +1111,7 @@
   "original": "We are renting a luxuriously furnished duplex - 94 sqm in a newly built in Pašmanska Street, near Šumice Park, Lekino Brdo. The apartment is very comfortable and bright, featuring:\n• 3 spacious bedrooms\n• large living room and dining area\n• fully equiped kitchen\n• 2 bathrooms \n• 2 terraces  with view \nContact: Viber\nIn addition to standard electrical appliances, it also has air purifiers for the entire space (Zepter and Xiaomi), a water filter - including in the showers, a dishwasher, and 2 combined washing and drying machines. \nSupermarket \"Tempo\" is a 3-minute walk away, Šumice Park is a 5-minute walk, and Beo Shopping Center is a 15-minute walk. The area is well connected to all parts of the city.\nInfostan is 6000 dinars and heating is by 2 inverter airconditions - the most affordable option. \nThis apartment is ideal for families with children.\nNo pets allowed.\nPrice: €1,250 per month, annual rental\n*Garage parking space available for an additional €100 fee.\nContact: Viber\n________________________________________________________________ \nMOLIMO AGENCIJE DA NAS NE ZOVU.\nIzdajemo luksuzno namešten dupleks stan  - 94 kvadratnih metara u novogradnji u Pašmanskoj ulici, blizu parka Šumice, Lekino Brdo. Stan je vrlo udoban i svetao, a poseduje:\n• 3 prostrane spavaće sobe\n• veliki dnevni boravak i trpezariju\n• potpuno opremljenu kuhinju\n• 2 kupatila\n• 2 terase \n\nPored standardnih električnih uređaja, stan ima prečišćivače vazduha za ceo prostor (Zepter i Xiaomi), filter za vodu - uključujući i tuševe, mašinu za pranje sudova i 2 kombinovane mašine za pranje i sušenje veša.\n\nSupermarket \"Tempo\" je udaljen 3 minuta hoda, park Šumice 5 minuta hoda, a Beo Shopping Center 15 minuta hoda. Oblast je dobro povezana sa svim delovima grada.\nInfostan je 6000 dinara, a grejanje je na 2 inverter klime - što je ubedljivo najpovoljnija opcija. \nStan je idealan za porodice sa decom.\nKućni ljubimci nisu dozvoljeni.\n \nCena: €1,250 mesečno, godišnji najam.\n*Dostupno garažno mesto u zgradi po ceni od 100e mesečno",
   "photos": 15,
   "added": "2026-11-05",
-  "updated": "2026-11-05"
+  "updated": "2026-11-06"
  },
  {
   "id": "ho-5425647930806",
@@ -777,7 +1181,7 @@
   "original": "Vlasnik izdaje namesten, jednoiposoban stan na drugom spratu cetverospratnice iz 2006. godine. Stan se sastoji od dnevno- trpezarijskog dela, odvojene kuhinje, male spavace sobe, terase i kupatila. Potpuno je namesten i useljiv odmah. Depozit u visini zakupa stana.",
   "photos": 10,
   "added": "2026-11-05",
-  "updated": "2026-11-05"
+  "updated": "2026-11-06"
  },
  {
   "id": "ho-5425647933068",
@@ -848,7 +1252,7 @@
   "original": "Jednosoban, Zvezdara(početak Mirijeva),400 metara od Bulevara(Kluz). 30kvm, potpuno novoopremljen. Nov nameštaj,nova kuhinja i novo kupatilo. U mirnoj i tihoj manjoj ulici. Prvi sprat od dva. 400 evra mesečno plus depozit. Niske mesečne režije-samo 1500 dinara.\n\nStanica gradskog prevoza na minut hoda. Autobusi 27.27e,46, 79.63,E6. Blizina prodavnica i pijace.",
   "photos": 9,
   "added": "2026-11-05",
-  "updated": "2026-11-05"
+  "updated": "2026-11-06"
  },
  {
   "id": "ho-5425644402416",
@@ -1688,7 +2092,7 @@
   "original": "Gradnja ove gradske kuće je započeta još 1914 godine, a završena je 1921 godine. Temeljno renovirana 2005 godine. Objekat je delo poznate arhitektice Jelisavete Načić. Kuća se nalazi u centralnom delu Vračara. Sastoji se od 4 etaže. Radi jednostavnije komunikacije sve nivoe u kući povezuje hidraulični lift. Vlasnici su kuću uredili, osavremenili i godinama je koriste kao stambeni prostor, a po potrebi je deljiv na više stambenih jedinica. Zbog izvanredne lokacije, prostor je lako prilagoditi i poslovnim potrebama. \n\nPrilikom adaptacije kuće, vlasnici su imali u vidu zakonom dozvoljenu mogućnost dogradnje objekta za još dva sprata(400 m2)pa postojeće instalacije i lift su predviđeni i ispunjavaju uslove za to proširenje.\n\nGrejanje je centralno-gradsko, ali postoji i kombinovani sistem grejanja putem fan-coilera, podnog grejanja i etažnog grejanja na struju ili mazut. Centralni bojler tople vode ima kapacitet od 500l. Postoje pripremljene instalacije za solarne panale kako bi se energetska efikasnost objekta podigla na viši nivo.\n\nIako u suterenu kuce, ništa manje važno je to što objekat poseduje zasebnu garažu za 5-6 automobila.\n\nKući pripada uredjeno dvorište orijantacione površine 200 m2.\n\nAgencijska provizija 2%",
   "photos": 15,
   "added": "2026-11-05",
-  "updated": "2026-11-05"
+  "updated": "2026-11-06"
  },
  {
   "id": "ho-5425647922876",
@@ -3794,7 +4198,7 @@
   "original": "Izuzetno opremljen i dizajniran stan u sklopu lux kompleksa Banovo Brdo Residence, sa ulaznim foajeom sa portirom i najvišim standardima opreme i materijala.",
   "photos": 15,
   "added": "2026-11-04",
-  "updated": "2026-11-04"
+  "updated": "2026-11-06"
  },
  {
   "id": "ho-5425647913577",
@@ -24343,79 +24747,6 @@
   "originalLang": "sr",
   "original": "U prestižnom kompleksu Beograd na vodi izdaje se luksuzan dupleks, koji se ističe savremenim dizajnom, elegantnim enterijerom i spektakularnim panoramskim pogledom na reku i grad.\nStan je pažljivo osmišljen kako bi pružio maksimalnu udobnost i funkcionalnost. Prostran i svetao dnevni boravak, zahvaljujući velikim staklenim površinama, obiluje prirodnom svetlošću i pruža jedinstven doživljaj prostora.\nRaspolaže sa tri komforne spavaće sobe, dva moderno opremljena kupatila, dodatnim toaletom i prostranom terasom sa koje se pruža impresivan pogled. Enterijer odlikuju kvalitetni materijali, pažljivo odabrani detalji i sofisticiran stil.\nIzuzetna lokacija omogućava neposrednu blizinu savskog šetališta, renomiranih restorana, kafića, ekskluzivnih prodavnica, škola i vrtića, uz odličnu povezanost sa ostalim delovima grada.\nParking mesto dostupno je uz doplatu od 200 EUR.\nStan je dostupan od 1. novembra 2026. godine.\nIdealna nekretnina za one koji traže luksuzan životni prostor, privatnost i vrhunski komfor na jednoj od najatraktivnijih lokacija u Beogradu.\nZa dodatne informacije i zakazivanje razgledanja kontaktirajte AXIA EXCLUSIVE PROPERTIES.",
   "photos": 13,
-  "added": "2026-10-26",
-  "updated": "2026-10-26"
- },
- {
-  "id": "ho-5425647856763",
-  "slug": "ho-5425647856763-izdavanje-stan-altina",
-  "deal": "rent",
-  "type": "apartment",
-  "cat": "flat",
-  "title": "Аренда: трёхкомнатная квартира, 100 м², Алтина, Земун",
-  "kind": "трёхкомнатная квартира",
-  "price": 899,
-  "area": 100,
-  "rooms": 3,
-  "city": "Белград",
-  "district": "Земун",
-  "districtSlug": "opstina-zemun",
-  "location": "Алтина",
-  "street": "Угриновацки пут 10 М",
-  "geo": {
-   "lat": 44.8524,
-   "lng": 20.36964
-  },
-  "facts": [
-   [
-    "Площадь",
-    "100 м²"
-   ],
-   [
-    "Комнат",
-    "3"
-   ],
-   [
-    "Этаж",
-    "2-й из 2"
-   ],
-   [
-    "Отопление",
-    "автономное"
-   ],
-   [
-    "Мебель",
-    "с мебелью"
-   ],
-   [
-    "Состояние",
-    "в исходном состоянии"
-   ],
-   [
-    "Дом",
-    "дом современной постройки"
-   ],
-   [
-    "Коммунальные",
-    "около 100 € в месяц"
-   ]
-  ],
-  "features": [
-   "депозит",
-   "можно с животными",
-   "можно въехать сразу",
-   "мансарда",
-   "кондиционер",
-   "лоджия",
-   "парковка",
-   "терраса",
-   "горячая вода",
-   "видеонаблюдение"
-  ],
-  "text": "Сдаётся трёхкомнатная квартира площадью 100 м² в районе Алтина (Земун, Белград). 2-й этаж из 2, с мебелью, отопление автономное, в исходном состоянии, дом современной постройки. Есть: депозит, можно с животными, можно въехать сразу, мансарда, кондиционер, лоджия, парковка, терраса, горячая вода, видеонаблюдение. Аренда 899 € в месяц.",
-  "originalLang": "sr",
-  "original": "Stan je opremljen stambenim i kancelarijskim nameštajem, tavanski prostor koji se moze korisiti za odlaganje, bela tehnika u stanu je nova. Tri lodje. Na raspolaganju su dva parking mesta.\n\nStan se nalazi u prvom redu do „starog“ Novosadskog auto-puta. Lokacija je odlično povezana sa svim većim saobraćajnicama, uključujući Novosadski i Zagrebački auto-put, obilaznicu oko Beograda, kao i Zrenjaninski put ( Pupinov most ).\n\nNalazi se u blizini „stare lakat krivine“, odnosno preko puta naselja Dunavski Vir.\n\nPrilikom zakupa potrebno je položiti depozit u visini tri mesečne zakupnine.",
-  "photos": 12,
   "added": "2026-10-26",
   "updated": "2026-10-26"
  },
