@@ -1,5 +1,79 @@
 [
  {
+  "id": "ho-5425645898116",
+  "slug": "ho-5425645898116-izdavanje-stan-vukov-spomenik",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 82 м², Вуков Споменик, Звездара",
+  "kind": "трёхкомнатная квартира",
+  "price": 850,
+  "area": 82,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Вуков Споменик",
+  "street": "Джуке Динич",
+  "geo": {
+   "lat": 44.80262,
+   "lng": 20.4862
+  },
+  "facts": [
+   [
+    "Площадь",
+    "82 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "2-й из 7"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 150 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "подходит студентам",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "терраса"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 82 м² в районе Вуков Споменик (Звездара, Белград). 2-й этаж из 7, с мебелью, отопление центральное, в исходном состоянии, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, подходит студентам, домофон, интернет, кабельное ТВ, кондиционер, лифт, терраса. Аренда 850 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se prostran, potpuno namešten trosoban stan od 82 m², na atraktivnoj lokaciji između Vukovog spomenika i Đeram pijace. Stan se nalazi na 2. spratu uredne stambene zgrade sa liftom.\n\nSastoji se od velike dnevne sobe, trpezarije, odvojene kuhinje, dve spavaće sobe, prostranog hodnika, predsoblja, kupatila i dodatnog toaleta. Stan ima dve terase i obilje prirodnog svetla, što ga čini vrlo prijatnim za boravak.\n\nRaspored prostorija\n\n* Dnevna soba\n\n* Trpezarija\n\n* Kuhinja (fizički odvojena)\n\n* Dve spavaće sobe\n\n* Veliki hodnik\n\n* Predsoblje\n\n* Kupatilo + dodatni toalet\n\n* Dve terase\n\nStan je kompletno opremljen nameštajem i belom tehnikom, odmah useljiv. Grejanje je centralno , a zgrada je uredna i održavana.\n\n**Lokacija** je izuzetno pogodna – u neposrednoj blizini nalaze se sve važne gradske tačke: više linija javnog prevoza, prodavnice, pijace, škole, fakulteti, restorani, kafići i dr. Odlična povezanost sa svim delovima grada čini ovaj stan idealnim za zaposlene, parove ili porodice.\n\n**Uslovi zakupa:**\n\n* Zakup na **minimum godinu dana**\n\n* **Obavezan depozit**\n\n* **Kućni ljubimci nisu dozvoljeni**\n\n* Stan je namenjen isključivo **ozbiljnim zakupcima**\n\nZa više informacija i zakazivanje gledanja, slobodno se javite.",
+  "photos": 15,
+  "added": "2026-11-07",
+  "updated": "2026-11-07"
+ },
+ {
   "id": "fz-668060fba174107dd90f6274",
   "slug": "fz-668060fba174107dd90f6274-izdavanje-stan-beograd-na-vodi",
   "deal": "rent",
