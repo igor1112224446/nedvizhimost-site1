@@ -1,5 +1,113 @@
 [
  {
+  "id": "fz-678a66e5e6e2e2959b00fb85",
+  "slug": "fz-678a66e5e6e2e2959b00fb85-izdavanje-stan-vracar",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 50 м², Врачар",
+  "kind": "двухкомнатная квартира",
+  "price": 1000,
+  "area": 50,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "vracar",
+  "location": "",
+  "street": "Врачар",
+  "geo": {
+   "lat": 44.79703,
+   "lng": 20.46942
+  },
+  "facts": [
+   [
+    "Площадь",
+    "50 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся двухкомнатная квартира площадью 50 м² в районе Врачар. С мебелью, отопление центральное. Аренда 1 000 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem dvosoban stan sa pogledom na Hram Svetog Save. Stan je lociran na trecem spratu stambene zgrade u Skerlicevoj ulici. Kompletno je opremljen, renoviran, moderan, svetao, dvostrano orijentisan. Dnevna soba ima direktan pogled na Hram a spavaca soba i kuhinja ka Rankeovoj ulici. Za spavanje su na raspolaganju bracni krevet u spavacoj sobi i ugaona garnitura na razvlacenje u dnevnoj. Obavezan deposit.",
+  "photos": 12,
+  "added": "2026-11-07",
+  "updated": "2026-11-07"
+ },
+ {
+  "id": "ho-5425645170806",
+  "slug": "ho-5425645170806-izdavanje-stan-blok-38",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 40 м², Блок 38, Новый Белград",
+  "kind": "однокомнатная квартира",
+  "price": 500,
+  "area": 40,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Блок 38",
+  "street": "Булевар Милутина Миланковича",
+  "geo": {
+   "lat": 44.81594,
+   "lng": 20.4045
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "11-й из 16"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "кондиционер",
+   "лифт",
+   "терраса",
+   "горячая вода"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 40 м² в районе Блок 38 (Новый Белград, Белград). 11-й этаж из 16, с мебелью, отопление центральное, после ремонта. Есть: депозит, не последний этаж, можно въехать сразу, кондиционер, лифт, терраса, горячая вода. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem renoviran, kompletno namešten jednosoban stan od 40 m² u Bloku 38 na Novom Beogradu, u Bulevaru Milutina Milankovića. Stan se nalazi na 11. spratu zgrade od 16 spratova, koja ima četiri putnička i jedan teretni lift. Sastoji se od dnevnog boravka sa trpezarijom, odvojene kuhinje, kupatila i zastakljene terase. Opremljen je veš mašinom, televizorom, internetom i kablovskom, a ima klima uređaj i centralno grejanje. Stan je u mirnom kraju, odlično povezan linijama gradskog prevoza sa svim delovima grada, a u neposrednoj blizini su prodavnice, škola, vrtić, drogerija i apoteka. Cena je 500 € mesečno, uz depozit u visini jedne mesečne kirije. Stan je odmah useljiv.",
+  "photos": 11,
+  "added": "2026-11-07",
+  "updated": "2026-11-07"
+ },
+ {
   "id": "fz-6ae254550cd1d47d2708081b",
   "slug": "fz-6ae254550cd1d47d2708081b-izdavanje-stan-cara-dusana",
   "deal": "rent",
