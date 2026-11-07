@@ -1,5 +1,82 @@
 [
  {
+  "id": "ho-5425647917747",
+  "slug": "ho-5425647917747-izdavanje-stan-bulevar-kralja-aleksandra",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 60 м², Булевар краля Александра, Звездара",
+  "kind": "2,5-комнатная квартира",
+  "price": 1000,
+  "area": 60,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Булевар краля Александра",
+  "street": "Слободанке Данке Савич",
+  "geo": {
+   "lat": 44.79381,
+   "lng": 20.5014
+  },
+  "facts": [
+   [
+    "Площадь",
+    "60 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "2-й из 3"
+   ],
+   [
+    "Отопление",
+    "тёплый пол"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 150 € в месяц"
+   ]
+  ],
+  "features": [
+   "гараж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "подвал",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение",
+   "депозит",
+   "можно въехать сразу",
+   "для некурящих"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 60 м² в районе Булевар краля Александра (Звездара, Белград). 2-й этаж из 3, с мебелью, отопление тёплый пол, люкс, дом современной постройки. Есть: гараж, домофон, интернет, кабельное ТВ, кондиционер, лифт, парковка, подвал, терраса, горячая вода, видеонаблюдение, депозит, можно въехать сразу, для некурящих. Аренда 1 000 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem nov luksuzan stan na Lionu, potpuno opremljen vrhunskom nemackom opremom i italijanskim namestajem u zgradi sa liftom u mirnom rezidencijalnim delom grada pored Bulevara kralja Aleksandra.\n\nStan je dvoiposoban sa dnevnom sobom i terasom, trpezarijom, kuhinjom, decjom sobom sa dva kreveta, spavacom sobom sa francuskim lezajem, kupatilom i odvojenim toaletom.\nPodno grejanje, centralna klimatizacija i priprema tople vode, video nadzor, interfon, internet i mogucnost koriscenja parking mesta u garazi u objektu uz naknadu.",
+  "photos": 11,
+  "added": "2026-11-07",
+  "updated": "2026-11-07"
+ },
+ {
   "id": "ho-5425645898116",
   "slug": "ho-5425645898116-izdavanje-stan-vukov-spomenik",
   "deal": "rent",
