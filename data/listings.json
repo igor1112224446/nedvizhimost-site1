@@ -1,5 +1,182 @@
 [
  {
+  "id": "fz-668060fba174107dd90f6274",
+  "slug": "fz-668060fba174107dd90f6274-izdavanje-stan-beograd-na-vodi",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 32 м², Београд на води, Савски-Венац",
+  "kind": "студия",
+  "price": 550,
+  "area": 32,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "savski-venac",
+  "location": "Београд на води",
+  "street": "Савска 31",
+  "geo": {
+   "lat": 44.80268,
+   "lng": 20.45209
+  },
+  "facts": [
+   [
+    "Площадь",
+    "32 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся студия площадью 32 м² в районе Београд на води (Савски-Венац, Белград). С мебелью, отопление центральное. Аренда 550 € в месяц.",
+  "originalLang": "sr",
+  "original": "Garsonjera ima jednu sobu, renovirano kupatilo, kuhinju i malu terasu. Kupatilo opremljeno sa veš mašinom i tuš kabinom. Kuhinja poseduje šporet sa ravnom pločom i rernom, novu mašinu za sudove i mali frižider. U sobi se nalazi nov televizor, krevet i fotelja na razvlačenje.",
+  "photos": 14,
+  "added": "2026-11-07",
+  "updated": "2026-11-07"
+ },
+ {
+  "id": "ho-5425635728651",
+  "slug": "ho-5425635728651-izdavanje-stan-autoput-za-novi-sad",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 26.5 м², Аутопут за Нови Сад, Земун",
+  "kind": "однокомнатная квартира",
+  "price": 300,
+  "area": 26.5,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Аутопут за Нови Сад",
+  "street": "Задругарска 1",
+  "geo": {
+   "lat": 44.84376,
+   "lng": 20.38142
+  },
+  "facts": [
+   [
+    "Площадь",
+    "26.5 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "6-й из 10"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 80 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "для некурящих",
+   "домофон",
+   "интернет",
+   "лифт",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 26.5 м² в районе Аутопут за Нови Сад (Земун, Белград). 6-й этаж из 10, с мебелью, отопление центральное, в исходном состоянии, дом современной постройки. Есть: депозит, можно въехать сразу, для некурящих, домофон, интернет, лифт, горячая вода, видеонаблюдение. Аренда 300 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem Garsonjeru Zadrugarska Zemun lep miran kraj prevoz 15,78,18",
+  "photos": 11,
+  "added": "2026-11-07",
+  "updated": "2026-11-07"
+ },
+ {
+  "id": "kp-197053460",
+  "slug": "kp-197053460-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 55 м², © ОпенСтреетМап цонтрибуторс, Раковица",
+  "kind": "трёхкомнатная квартира",
+  "price": 750,
+  "area": 55,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Раковица",
+  "districtSlug": "rakovica",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "",
+  "geo": {
+   "lat": 44.75218,
+   "lng": 20.45535
+  },
+  "facts": [
+   [
+    "Площадь",
+    "55 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "домофон",
+   "терраса",
+   "кондиционер",
+   "лифт",
+   "доступ для колясок",
+   "парковка",
+   "можно с животными",
+   "депозит"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 55 м² в районе © ОпенСтреетМап цонтрибуторс (Раковица, Белград). С мебелью, отопление центральное, дом современной постройки. Есть: можно въехать сразу, домофон, терраса, кондиционер, лифт, доступ для колясок, парковка, можно с животными, депозит. Аренда 750 € в месяц.",
+  "originalLang": "sr",
+  "original": "Trosoban stan, 55 m² + terasa 30 m², pogled na Košutnjak\n\nIzdaje se trosoban stan na Kanarevom brdu, na samoj granici sa Miljakovcem.\n\nZgrada se nalazi na uzvišenju, odakle se pruža zaista lep pogled na Košutnjak. Poseban utisak ostavlja velika terasa od 30 m², idealna za jutarnju kafu, druženje i uživanje u letnjim večerima.\n\nStan ima 55 m² unutrašnjeg prostora, dve spavaće sobe i dnevni boravak. Formalno se vodi kao prizemlje, ali je zbog položaja i arhitekture zgrade izdignut na visinu prvog sprata, tako da nema klasičan osećaj prizemnog stana.\n\nZgrada je iz 2019. godine i predstavlja poslednji projekat Energoprojekta u Srbiji.\n\nStan je renoviran, lepo uređen i potpuno opremljen. Na raspolaganju su klima-uređaj, mašina za sudove, mašina za veš i veliki frižider. Jedna od spavaćih soba trenutno je prazna, pa budući zakupci mogu da je urede prema svojim potrebama. Po želji, u sobu se mogu vratiti singl krevet i ormar.\n\nDvorište zgrade je ograđeno i pripada stanarima, što ga čini posebno pogodnim za porodice sa decom.\n\nParking se nalazi ispred zgrade. Parkiranje je besplatno, a slobodnih mesta ima uvek.\n\nKućni ljubimci su dobrodošli. Dozvoljene su mace i kuce do srednje veličine, pod uslovom da su navikle na život u stanu. Pušenje u stanu nije dozvoljeno.\n\nTroškovi:\n\n• Kirija: 750 € mesečno\n• Infostan sa grejanjem: leti oko 3.500–4.000 dinara, a zimi do 12.000 dinara. Grejanje se obračunava preko kalorimetra, tako da plaćate prema stvarnoj potrošnji.\n• Struja: prema potrošnji\n• Održavanje zgrade: 1.475 dinara mesečno\n\nUslovi zakupa:\n\n• Depozit u visini jedne mesečne kirije\n• Minimalni period zakupa: godinu dana\n• Ugovor se potpisuje direktno sa vlasnicom, koja dolazi u Srbiju početkom januara\n• Prijava boravka na adresi je moguća\n\nStan je useljiv od 1. januara 2027. godine.\n\nZa više informacija i dogovor oko razgledanja, pošaljite mi poruku ovde, pa ćemo se čuti.\n\n⸻\n\nТрёхкомнатная квартира, 55 м² + терраса 30 м², вид на Кошутняк\n\nСдаётся трёхкомнатная квартира на Канаревом брде, прямо на границе с Миляковцем.\n\nДом расположен на возвышенности, поэтому из квартиры открывается действительно красивый вид на Кошутняк. Особая гордость квартиры — просторная терраса площадью 30 м², где приятно начинать утро с чашки кофе, проводить время с близкими и наслаждаться летними вечерами.\n\nПлощадь квартиры — 55 м² без учёта террасы. В планировке две спальни и гостиная.\n\nФормально квартира находится на первом этаже (prizemlje), но благодаря расположению и архитектуре здания фактически она приподнята на уровень второго этажа, поэтому ощущения обычного первого этажа нет.\n\nДом построен в 2019 году и является последним проектом Energoprojekt в Сербии.\n\nКвартира с хорошим ремонтом, полностью меблирована и оборудована всем необходимым: кондиционер, посудомоечная и стиральная машины, большой холодильник.\n\nОдна из спален сейчас свободна от мебели, поэтому её можно обустроить по своему вкусу и потребностям. При необходимости туда можно вернуть односпальную кровать и шкаф.\n",
+  "photos": 15,
+  "added": "2026-11-07",
+  "updated": "2026-11-07"
+ },
+ {
   "id": "ho-5425647917065",
   "slug": "ho-5425647917065-izdavanje-stan-blok-30-b92",
   "deal": "rent",
@@ -3373,7 +3550,7 @@
   "original": "❤️ Stan do sada nije izdavan, već smo mi živeli u njemu i pažljivo je održavan i čuvan. Voleli bismo da ga iznajmimo odgovornim ljudima koji će se u njemu osećati kao kod kuće i voditi računa o njemu.",
   "photos": 15,
   "added": "2026-11-05",
-  "updated": "2026-11-05"
+  "updated": "2026-11-07"
  },
  {
   "id": "fz-642eb4d3896400c6510bcccb",
