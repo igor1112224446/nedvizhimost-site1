@@ -1,5 +1,99 @@
 [
  {
+  "id": "fz-6ae254550cd1d47d2708081b",
+  "slug": "fz-6ae254550cd1d47d2708081b-izdavanje-stan-cara-dusana",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 60 м², Цара Душана, Земун",
+  "kind": "2,5-комнатная квартира",
+  "price": 800,
+  "area": 60,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "Цара Душана",
+  "street": "Цара Душана 116",
+  "geo": {
+   "lat": 44.85179,
+   "lng": 20.39591
+  },
+  "facts": [
+   [
+    "Площадь",
+    "60 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Отопление",
+    "тёплый пол"
+   ],
+   [
+    "Мебель",
+    "частично меблирована"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 60 м² в районе Цара Душана (Земун, Белград). Частично меблирована, отопление тёплый пол. Аренда 800 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stan je polunamesten, ima svu belu tehniku, i opremljenu kuhinju i kupatlo. Masina za ves i sudove, klima, termometar, roletne na elektronsko spustanje, interfon. U blzini vise autobusa, supermarkleta, kao i Pepca.",
+  "photos": 10,
+  "added": "2026-11-07",
+  "updated": "2026-11-07"
+ },
+ {
+  "id": "fz-6aea48f35429e9287200d449",
+  "slug": "fz-6aea48f35429e9287200d449-izdavanje-stan-vracar",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 35 м², Врачар",
+  "kind": "однокомнатная квартира",
+  "price": 700,
+  "area": 35,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "vracar",
+  "location": "",
+  "street": "Кумановска 2B",
+  "geo": {
+   "lat": 44.80551,
+   "lng": 20.47381
+  },
+  "facts": [
+   [
+    "Площадь",
+    "35 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Отопление",
+    "тёплый пол"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "кондиционер"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 35 м² в районе Врачар. С мебелью, отопление тёплый пол. Есть: кондиционер. Аренда 700 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se novoopremljen, kompetno namešten jednosoban stan površine 35 m2, lociran na jednoj od najtraženijih lokacija u Beogradu (u blizini Hotela Metropol). Stan se nalazi u održavanoj stambenoj zgradi sa liftom u centru Vračara. Dizajniran je tako da maksimalno iskoristi svaki kvadratni metar prostora, pruža visok nivo funkcionalnosti I obilje prirodne svetlosti tokom celog dana.",
+  "photos": 15,
+  "added": "2026-11-07",
+  "updated": "2026-11-07"
+ },
+ {
   "id": "ho-5425647917747",
   "slug": "ho-5425647917747-izdavanje-stan-bulevar-kralja-aleksandra",
   "deal": "rent",
