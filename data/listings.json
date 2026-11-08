@@ -1,5 +1,51 @@
 [
  {
+  "id": "fz-6af089d7664055fea601e4f5",
+  "slug": "fz-6af089d7664055fea601e4f5-izdavanje-stan-plavi-horizonti",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 60 м², Плави Хоризонти, Земун",
+  "kind": "1,5-комнатная квартира",
+  "price": 550,
+  "area": 60,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "Плави Хоризонти",
+  "street": "Исидора Стояновича",
+  "geo": {
+   "lat": 44.84938,
+   "lng": 20.33992
+  },
+  "facts": [
+   [
+    "Площадь",
+    "60 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Отопление",
+    "электрическое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 60 м² в районе Плави Хоризонти (Земун, Белград). С мебелью, отопление электрическое. Аренда 550 € в месяц.",
+  "originalLang": "sr",
+  "original": "Sada možeš da proveriš koliko bi ti vremena trebalo od nekretnine koju trenutno gledaš do tebi bitnih lokacija do kojih svakodnevno putuješ – posao, vrtić, fakultet, škola, teretana.",
+  "photos": 7,
+  "added": "2026-11-08",
+  "updated": "2026-11-08"
+ },
+ {
   "id": "ho-5425646013137",
   "slug": "ho-5425646013137-izdavanje-stan-brace-jerkovic",
   "deal": "rent",
