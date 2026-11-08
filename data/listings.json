@@ -1,5 +1,80 @@
 [
  {
+  "id": "ho-5425647908046",
+  "slug": "ho-5425647908046-izdavanje-stan-kej",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 77 м², Кей, Земун",
+  "kind": "2,5-комнатная квартира",
+  "price": 750,
+  "area": 77,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Кей",
+  "street": "Караджорджева",
+  "geo": {
+   "lat": 44.84014,
+   "lng": 20.41661
+  },
+  "facts": [
+   [
+    "Площадь",
+    "77 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "19-й из 21"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 150 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "лоджия",
+   "парковка",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 77 м² в районе Кей (Земун, Белград). 19-й этаж из 21, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, домофон, интернет, кабельное ТВ, кондиционер, лифт, лоджия, парковка, видеонаблюдение. Аренда 750 € в месяц.",
+  "originalLang": "sr",
+  "original": "Dvoiposoban namešten stan u centru Zemuna na keju. Odlična povezanost sa svim delovima grada. Ogroman parking oko zgrade. Blizina osnovnih i srednjih škola, fakulteta, pijace, pošte, prodavnica. Centralno grejanje, 2 lifta. Odvojeno kupatilo i wc. Nisu dozvoljeni kućni ljubimci. Nije dozvoljeno pušenje u stanu.",
+  "photos": 12,
+  "added": "2026-11-08",
+  "updated": "2026-11-08"
+ },
+ {
   "id": "fz-678a66e5e6e2e2959b00fb85",
   "slug": "fz-678a66e5e6e2e2959b00fb85-izdavanje-stan-vracar",
   "deal": "rent",
