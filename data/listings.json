@@ -1,5 +1,380 @@
 [
  {
+  "id": "ho-5425647945420",
+  "slug": "ho-5425647945420-izdavanje-stan-crveni-krst",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 65 м², Црвени крст, Врачар",
+  "kind": "трёхкомнатная квартира",
+  "price": 600,
+  "area": 65,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "opstina-vracar",
+  "location": "Црвени крст",
+  "street": "Поп Стоянова",
+  "geo": {
+   "lat": 44.79762,
+   "lng": 20.49033
+  },
+  "facts": [
+   [
+    "Площадь",
+    "65 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "1-й из 2"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся трёхкомнатная квартира площадью 65 м² в районе Црвени крст (Врачар, Белград). 1-й этаж из 2, с мебелью, отопление аккумуляционные печи, старый фонд. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "Crveni krst, izdajem kompletno namešten 3.0 stan. U stanarinu od 600 e uračunati su svi troškovi (infostan, voda, KATV) osim računa za struju. Odlična povezanost sa svim delovima grada salinijama 5, 6, 7, 14, 19, 21, 22, 29, 83. Blizina Bulevara kralja Aleksandra i Beogradskog dramskog pozorišta.",
+  "photos": 9,
+  "added": "2026-11-08",
+  "updated": "2026-11-08"
+ },
+ {
+  "id": "kp-197087570",
+  "slug": "kp-197087570-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 68 м², © ОпенСтреетМап цонтрибуторс, Вождовац",
+  "kind": "трёхкомнатная квартира",
+  "price": 600,
+  "area": 68,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Паунова 51",
+  "geo": {
+   "lat": 44.75466,
+   "lng": 20.47817
+  },
+  "facts": [
+   [
+    "Площадь",
+    "68 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "4-й из 4"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "лифт",
+   "депозит"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 68 м² в районе © ОпенСтреетМап цонтрибуторс (Вождовац, Белград). 4-й этаж из 4, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, домофон, кабельное ТВ, кондиционер, видеонаблюдение, лифт, депозит. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem stan na Banjici u ulici Paunovoj 51. Stan se nalazi na lepoj lokaciji u blizini TC, osnovne skole, vrtica, pijace super marketa, VMA i sportskog Centra Banjica. Odlicna povezanost sa ostalim delovima grada, stanica gradskog prevoza je ispred zgrade. Stan se izdaje iskljucivo porodicama na duzi period.",
+  "photos": 7,
+  "added": "2026-11-08",
+  "updated": "2026-11-08"
+ },
+ {
+  "id": "kp-197079619",
+  "slug": "kp-197079619-izdavanje-stan-lekino-brdo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 43 м², Лекино брдо, Вождовац",
+  "kind": "двухкомнатная квартира",
+  "price": 900,
+  "area": 43,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Лекино брдо",
+  "street": "Браче Ковач",
+  "geo": {
+   "lat": 44.78692,
+   "lng": 20.48198
+  },
+  "facts": [
+   [
+    "Площадь",
+    "43 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "2-й из 3"
+   ],
+   [
+    "Отопление",
+    "кондиционер, тёплый пол"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "лифт",
+   "гараж",
+   "можно с животными",
+   "депозит"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 43 м² в районе Лекино брдо (Вождовац, Белград). 2-й этаж из 3, с мебелью, отопление кондиционер, тёплый пол, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, кондиционер, видеонаблюдение, лифт, гараж, можно с животными, депозит. Аренда 900 € в месяц.",
+  "originalLang": "sr",
+  "original": "IZDAJE SE NOV, LUKSUZNO OPREMLJEN STAN – LEKINO BRDO | 43 m² | GARAŽNO MESTO\n\nCena: 900€ mesečno (garažno mesto uključeno u cenu)\n\nIzdaje se potpuno nov, neuseljavan i moderno opremljen stan površine 43 m², u ulici Braće Kovač, na Lekinom Brdu, Beograd.\n\nStan se nalazi na drugom spratu moderne stambene zgrade sa liftom (ukupno 3 sprata).\n\nOdlikuju ga pažljivo odabran nameštaj, moderan enterijer, topli tonovi i funkcionalan raspored prostora.\n\nSTRUKTURA STANA:\n\nSpavaća soba\nDnevni boravak sa trpezarijom i moderno opremljenom kuhinjom\nKupatilo\nHodnik sa velikim ugradnim plakarom\nTerasa\n\nOPREMLJENOST I POGODNOSTI:\n\nPotpuno namešten stan\nUgradni frižider, rerna, grejna ploča i mašina za sudove\nMašina za pranje veša\nKlima uređaj\nPodno grejanje\nElektrični podizači roletni\nLift\nGaražno mesto u zgradi, uključeno u cenu zakupa\n\nLOKACIJA:\nLekino Brdo – odlična povezanost sa centrom Beograda, blizina autoputa i glavnih saobraćajnica.\n\nStan je idealan za parove, poslovne ljude, strane državljane i sve koji traže moderan, udoban i kvalitetan životni prostor.\n\nMali kućni ljubimci (pas ili mačka) dozvoljeni su uz dogovor.\n\nIzdaje se na duži vremenski period.\n\nCENA: 900 € mesečno, sa uključenim garažnim mestom.\n\nZa više informacija i dogovor oko gledanja stana, kontakt putem poruke, Viber",
+  "photos": 11,
+  "added": "2026-11-08",
+  "updated": "2026-11-08"
+ },
+ {
+  "id": "kp-197057598",
+  "slug": "kp-197057598-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: четырёхкомнатная квартира, 90 м², © ОпенСтреетМап цонтрибуторс, Палилула",
+  "kind": "четырёхкомнатная квартира",
+  "price": 600,
+  "area": 90,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "",
+  "geo": {
+   "lat": 44.88087,
+   "lng": 20.45488
+  },
+  "facts": [
+   [
+    "Площадь",
+    "90 м²"
+   ],
+   [
+    "Комнат",
+    "4"
+   ],
+   [
+    "Этаж",
+    "1-й из 2"
+   ],
+   [
+    "Отопление",
+    "кондиционер"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "кабельное ТВ",
+   "двухуровневая",
+   "кондиционер",
+   "парковка",
+   "можно с животными",
+   "депозит"
+  ],
+  "text": "Сдаётся четырёхкомнатная квартира площадью 90 м² в районе © ОпенСтреетМап цонтрибуторс (Палилула, Белград). 1-й этаж из 2, с мебелью, отопление кондиционер, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, терраса, кабельное ТВ, двухуровневая, кондиционер, парковка, можно с животными, депозит. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "IZDAJE SE NAMESTEN DUPLEX– SAVE MALEŠEVIĆA 43\n\nNa odličnoj lokaciji, u ulici Save Maleševića 43, nalazi se prostran i funkcionalan porodični stan, idealan za udoban život porodice.\n\nStan se odlikuje odličnim rasporedom prostorija i sadrži:\n\n- Tri spavaće sobe\n- Prostranu dnevnu sobu\n- Trpezariju\n- Kuhinju\n- Dva kupatila\n- Dve terase\n- Sopstveno parking mesto\n\ninterblnet, televizija i telefon na ime podstanara\n\nLokacija je jedna od velikih prednosti ovog stana!\n\nU neposrednoj blizini nalaze se škola, vrtić, pijaca, dom zdravlja, kao i prodavnice i drugi sadržaji neophodni za svakodnevni život.\n\nOdlična povezanost sa svim delovima grada zahvaljujući blizini autobuskih linija 95, 96 i 85, što omogućava jednostavan i brz pristup različitim delovima Beograda.\n\nStan predstavlja odličan izbor za porodicu koja traži komfor, funkcionalnost i sve važne sadržaje na dohvat ruke.\n\nVaš novi porodični dom čeka na vas! ?",
+  "photos": 15,
+  "added": "2026-11-08",
+  "updated": "2026-11-08"
+ },
+ {
+  "id": "kp-197043691",
+  "slug": "kp-197043691-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 40 м², © ОпенСтреетМап цонтрибуторс, Звездара",
+  "kind": "двухкомнатная квартира",
+  "price": 350,
+  "area": 40,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Прешевска",
+  "geo": {
+   "lat": 44.7997,
+   "lng": 20.4961
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "1-й из 1"
+   ],
+   [
+    "Отопление",
+    "электрическое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "кабельное ТВ",
+   "депозит"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 40 м² в районе © ОпенСтреетМап цонтрибуторс (Звездара, Белград). 1-й этаж из 1, с мебелью, отопление электрическое, после ремонта, старый фонд. Есть: можно въехать сразу, терраса, кабельное ТВ, депозит. Аренда 350 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem stan u mirnom kraju, u blizini je dosta škola i fakulteta. Linije GSP: 5,6,7,14,28,40,77,79. Pogodan za studente, učenike, mlađe parove. Stan je u okviru privatne kuće sa odvojenim ulazom i terasom. Vlasnici ne žive na toj lokaciji. Zvati izmedju 12:00- 22:00",
+  "photos": 10,
+  "added": "2026-11-08",
+  "updated": "2026-11-08"
+ },
+ {
+  "id": "kp-196668263",
+  "slug": "kp-196668263-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 102 м², © ОпенСтреетМап цонтрибуторс, Раковица",
+  "kind": "трёхкомнатная квартира",
+  "price": 400,
+  "area": 102,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Раковица",
+  "districtSlug": "rakovica",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Миляковачке Стазе 44Đ",
+  "geo": {
+   "lat": 44.73238,
+   "lng": 20.46863
+  },
+  "facts": [
+   [
+    "Площадь",
+    "102 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Отопление",
+    "кондиционер, электрическое, аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "частично меблирована"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "кабельное ТВ",
+   "двухуровневая",
+   "кондиционер",
+   "лоджия",
+   "парковка"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 102 м² в районе © ОпенСтреетМап цонтрибуторс (Раковица, Белград). Частично меблирована, отопление кондиционер, электрическое, аккумуляционные печи, дом современной постройки. Есть: интернет, кабельное ТВ, двухуровневая, кондиционер, лоджия, парковка. Аренда 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stan duplex, dva kupatila , dve klime. . može i kao poslovni prostor. BEZ KUĆNIH LJUBIMACA.",
+  "photos": 4,
+  "added": "2026-11-08",
+  "updated": "2026-11-08"
+ },
+ {
   "id": "ho-5425647908046",
   "slug": "ho-5425647908046-izdavanje-stan-kej",
   "deal": "rent",
@@ -1348,7 +1723,7 @@
   "original": "Stan je opremljen stambenim i kancelarijskim nameštajem, tavanski prostor koji se moze korisiti za odlaganje, bela tehnika u stanu je nova. Tri lodje. Na raspolaganju su dva parking mesta.\n\nStan se nalazi u prvom redu do „starog“ Novosadskog auto-puta. Lokacija je odlično povezana sa svim većim saobraćajnicama, uključujući Novosadski i Zagrebački auto-put, obilaznicu oko Beograda, kao i Zrenjaninski put ( Pupinov most ).\n\nNalazi se u blizini „stare lakat krivine“, odnosno preko puta naselja Dunavski Vir.\n\nPrilikom zakupa potrebno je položiti depozit u visini dve mesečne zakupnine.",
   "photos": 12,
   "added": "2026-11-06",
-  "updated": "2026-11-06"
+  "updated": "2026-11-08"
  },
  {
   "id": "ho-5425647932157",
@@ -2530,7 +2905,7 @@
   "original": "Jednosoban, Zvezdara(početak Mirijeva),400 metara od Bulevara(Kluz). 30kvm, potpuno novoopremljen. Nov nameštaj,nova kuhinja i novo kupatilo. U mirnoj i tihoj manjoj ulici. Prvi sprat od dva. 400 evra mesečno plus depozit. Niske mesečne režije-samo 1500 dinara.\n\nStanica gradskog prevoza na minut hoda. Autobusi 27.27e,46, 79.63,E6. Blizina prodavnica i pijace.",
   "photos": 9,
   "added": "2026-11-05",
-  "updated": "2026-11-06"
+  "updated": "2026-11-08"
  },
  {
   "id": "ho-5425644402416",
