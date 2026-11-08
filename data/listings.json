@@ -1,5 +1,397 @@
 [
  {
+  "id": "ho-5425646013137",
+  "slug": "ho-5425646013137-izdavanje-stan-brace-jerkovic",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 52 м², Браче Еркович, Вождовац",
+  "kind": "двухкомнатная квартира",
+  "price": 400,
+  "area": 52,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "Браче Еркович",
+  "street": "Владимира Митровица 34",
+  "geo": {
+   "lat": 44.76576,
+   "lng": 20.50394
+  },
+  "facts": [
+   [
+    "Площадь",
+    "52 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "2-й из 3"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "кондиционер",
+   "терраса"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 52 м² в районе Браче Еркович (Вождовац, Белград). 2-й этаж из 3, с мебелью, отопление газовое, после ремонта, старый фонд. Есть: депозит, можно въехать сразу, кондиционер, терраса. Аренда 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "IZDAJE SE DVOSOBAN STAN – BRAĆE JERKOVIĆ-MEDAKOVIĆ\nIzdaje se lep, funkcionalan,prostran i kompletno namešten stan iznad okretnice autobusa 26.\n Površina: 53 m²\n Sprat: 2/2\n Struktura: dnevna soba sa kuhinjom + odvojena spavaća soba i veća terasa.\n Kupatilo uredno i funkcionalno\n Klima uređaj\nStan je svetao, uredan i odmah useljiv.\nIdealan za par, porodicu sa decom, studente.\n\n Cena: 400 € mesečno\n Depozit obavezan\nZa više informacija i dogovor oko gledanja stana —",
+  "photos": 6,
+  "added": "2026-11-08",
+  "updated": "2026-11-08"
+ },
+ {
+  "id": "ho-5425644935998",
+  "slug": "ho-5425644935998-izdavanje-stan-nemanjina",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 20 м², Неманина, Савски-Венац",
+  "kind": "студия",
+  "price": 450,
+  "area": 20,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "opstina-savski-venac",
+  "location": "Неманина",
+  "street": "Милована Миловановича",
+  "geo": {
+   "lat": 44.80917,
+   "lng": 20.45762
+  },
+  "facts": [
+   [
+    "Площадь",
+    "20 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "5-й из 6"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "салонная планировка",
+   "для некурящих",
+   "домофон",
+   "кондиционер",
+   "лифт"
+  ],
+  "text": "Сдаётся студия площадью 20 м² в районе Неманина (Савски-Венац, Белград). 5-й этаж из 6, с мебелью, отопление аккумуляционные печи, после ремонта, старый фонд. Есть: депозит, не последний этаж, салонная планировка, для некурящих, домофон, кондиционер, лифт. Аренда 450 € в месяц.",
+  "originalLang": "sr",
+  "original": "Nameštena garsonjera u mirnoj čistoj zgradi sa liftom, 5min od Beograda na vodi, Beograđanke i Ekonomskog fakulteta.",
+  "photos": 5,
+  "added": "2026-11-08",
+  "updated": "2026-11-08"
+ },
+ {
+  "id": "ho-5425647376781",
+  "slug": "ho-5425647376781-izdavanje-stan-dedinje",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 111 м², Дедине, Савски-Венац",
+  "kind": "трёхкомнатная квартира",
+  "price": 2500,
+  "area": 111,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "opstina-savski-venac",
+  "location": "Дедине",
+  "street": "Незнаног юнака",
+  "geo": {
+   "lat": 44.7773,
+   "lng": 20.45951
+  },
+  "facts": [
+   [
+    "Площадь",
+    "111 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "3-й из 4"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно с животными",
+   "не последний этаж",
+   "можно въехать сразу",
+   "гараж",
+   "интернет",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 111 м² в районе Дедине (Савски-Венац, Белград). 3-й этаж из 4, с мебелью, отопление центральное, люкс, дом современной постройки. Есть: депозит, можно с животными, не последний этаж, можно въехать сразу, гараж, интернет, кондиционер, лифт, парковка, терраса, видеонаблюдение. Аренда 2 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "U ponudi imamo ekskluzivan trosoban stan površine 111 m², smešten u rezidencijalnom kompleksu visokog kvaliteta, namenjen zakupcima koji žele više od klasičnog stanovanja.\nStan se nalazi u savremeno projektovanoj zgradi koja svojim stanarima nudi dodatni nivo komfora kroz sadržaje poput bazena i potpuno opremljene teretane, dostupne isključivo rezidentima kompleksa.\nNekretnina je potpuno nova, moderno i pažljivo opremljena kvalitetnim nameštajem i tehnikom, bez prethodnog useljenja. Prostran i funkcionalan raspored, obilje prirodne svetlosti i visok nivo završne obrade čine ovaj stan izuzetno prijatnim za svakodnevni život.\nU cenu zakupa uključeno je i garažno mesto.\n.\n.\n\nWe are offering an exclusive three-bedroom apartment of 111 m², located in a high-quality residential complex designed for tenants who are looking for more than standard city living.\nThe apartment is situated in a modern building that provides its residents with an elevated level of comfort, including access to a swimming pool and a fully equipped gym, available exclusively to the residents of the complex.\nThe property is brand new, never previously occupied, and has been carefully furnished with modern, high-quality furniture and appliances. A spacious and functional layout, plenty of natural light, and premium finishing materials create an exceptional living experience.\nWhat makes this apartment stand out is its sense of privacy, comfort, contemporary amenities, and understated luxury visible in every detail.\nA garage parking space is included in the rental price.",
+  "photos": 15,
+  "added": "2026-11-08",
+  "updated": "2026-11-08"
+ },
+ {
+  "id": "ho-5425645171952",
+  "slug": "ho-5425645171952-izdavanje-stan-cvijiceva",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 53 м², Цвийичева, Палилула",
+  "kind": "двухкомнатная квартира",
+  "price": 750,
+  "area": 53,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Цвийичева",
+  "street": "Милана Танкосича",
+  "geo": {
+   "lat": 44.81054,
+   "lng": 20.48311
+  },
+  "facts": [
+   [
+    "Площадь",
+    "53 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "1-й из 4"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "домофон",
+   "лоджия"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 53 м² в районе Цвийичева (Палилула, Белград). 1-й этаж из 4, с мебелью, отопление центральное, после ремонта, дом современной постройки. Есть: можно въехать сразу, домофон, лоджия. Аренда 750 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stan u mirnoj ulici Milana Tankosica u blizini Zira centra i Cvijiceve. Kompletno opremljen i useljiv.",
+  "photos": 12,
+  "added": "2026-11-08",
+  "updated": "2026-11-08"
+ },
+ {
+  "id": "ho-5425647945462",
+  "slug": "ho-5425647945462-izdavanje-stan-vojvode-vlahovica",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 52 м², Войводе Влаховича, Вождовац",
+  "kind": "двухкомнатная квартира",
+  "price": 650,
+  "area": 52,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "Войводе Влаховича",
+  "street": "Ирске 10. дивизие 6 .A, Вождовац, населе Велько",
+  "geo": {
+   "lat": 44.76336,
+   "lng": 20.50431
+  },
+  "facts": [
+   [
+    "Площадь",
+    "52 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "1-й из 2"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "терраса",
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 52 м² в районе Войводе Влаховича (Вождовац, Белград). 1-й этаж из 2, с мебелью, отопление газовое, после ремонта, дом современной постройки. Есть: интернет, кабельное ТВ, кондиционер, терраса, депозит, не последний этаж, можно въехать сразу. Аренда 650 € в месяц.",
+  "originalLang": "sr",
+  "original": "Svetao, sunčan , kompletno namešten, upravo okrečen, od komunalija se plaćaju gas i struja, stan ima sopstveni merač potrošnje gasa, depozit u visini 1 mesečne kirije. Stan je u privatnoj kući sa 4 stana i ima zaseban ulaz spolja.. Kuća je na 3 minuta iznad okretnice bus.a 26., Ostale linije su, 50, 18, 80, 26 i 26 l..kontakt telefon... Zvati od 11h do 20h.",
+  "photos": 12,
+  "added": "2026-11-08",
+  "updated": "2026-11-08"
+ },
+ {
+  "id": "ho-5425647945375",
+  "slug": "ho-5425647945375-izdavanje-stan-mali-mokri-lug",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 48 м², Мали Мокри Луг, Звездара",
+  "kind": "1,5-комнатная квартира",
+  "price": 400,
+  "area": 48,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Мали Мокри Луг",
+  "street": "Пиранделова 50",
+  "geo": {
+   "lat": 44.78033,
+   "lng": 20.53524
+  },
+  "facts": [
+   [
+    "Площадь",
+    "48 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "2-й из 4"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "кондиционер",
+   "парковка",
+   "терраса"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 48 м² в районе Мали Мокри Луг (Звездара, Белград). 2-й этаж из 4, с мебелью, отопление автономное, в исходном состоянии, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, кондиционер, парковка, терраса. Аренда 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stan čini moderna opremljena kuhinja, trpezarija, otvoreni dnevni boravak, hodnik, spavaća soba, kupatilo i balkon. Grejanje je etažno. Stan ima klima uređaj.\n\nGodina gradnje: 2011\n\nStan se nalazi u mirnom, nezagađenom kraju (Đurđevo brdo). Dostupan besplatan parking ispred zgrade. U blizini stajališta “Pirandelova”: 302, 303, 304, 305, 306, 307, 309, 311, 313, 301N, 307N.\n\nZa više informacija, molim pozovite ili pišite \n\n+38269506680 (Viber/WhatsApp)",
+  "photos": 12,
+  "added": "2026-11-08",
+  "updated": "2026-11-08"
+ },
+ {
   "id": "ho-5425647945420",
   "slug": "ho-5425647945420-izdavanje-stan-crveni-krst",
   "deal": "rent",
