@@ -1,5 +1,101 @@
 [
  {
+  "id": "fz-6af2078286d511418706f2d7",
+  "slug": "fz-6af2078286d511418706f2d7-izdavanje-stan-dorcol",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 46 м², Дорчол, Старый город",
+  "kind": "двухкомнатная квартира",
+  "price": 700,
+  "area": 46,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "stari-grad",
+  "location": "Дорчол",
+  "street": "Цариградска 17",
+  "geo": {
+   "lat": 44.81842,
+   "lng": 20.47314
+  },
+  "facts": [
+   [
+    "Площадь",
+    "46 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Отопление",
+    "кондиционер"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "кондиционер"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 46 м² в районе Дорчол (Старый город, Белград). С мебелью, отопление кондиционер. Есть: кондиционер. Аренда 700 € в месяц.",
+  "originalLang": "sr",
+  "original": "Dvosoban stan u zgradi za izdavanje, Namešteno, Dorćol, 46 m2, na 1. spratu, ima lift. Stanje - Novo, Klima, ima terasu, ima kupatilo, ima toalet.",
+  "photos": 10,
+  "added": "2026-11-09",
+  "updated": "2026-11-09"
+ },
+ {
+  "id": "fz-6af0e250ed2839e3ee0ce1da",
+  "slug": "fz-6af0e250ed2839e3ee0ce1da-izdavanje-stan-blok-22",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 37 м², Блок 22, Новый Белград",
+  "kind": "однокомнатная квартира",
+  "price": 580,
+  "area": 37,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "novi-beograd",
+  "location": "Блок 22",
+  "street": "Антифашистичке Борбе",
+  "geo": {
+   "lat": 44.80962,
+   "lng": 20.42092
+  },
+  "facts": [
+   [
+    "Площадь",
+    "37 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "кондиционер"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 37 м² в районе Блок 22 (Новый Белград, Белград). С мебелью, отопление центральное. Есть: кондиционер. Аренда 580 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stan na trazenoj i atraktivnoj lokaciji, po strukruri jednosoban, zgrada novije gradnje. Vrhunska povezanost, sve je na pešačkoj udaljenosti,.\nMinimalni zakup: 12 meseci\nStruja: Po potrošnji\nKablovska, Internet. 3500 RSD.",
+  "photos": 12,
+  "added": "2026-11-09",
+  "updated": "2026-11-09"
+ },
+ {
   "id": "ho-5425647950061",
   "slug": "ho-5425647950061-izdavanje-stan-zeleno-brdo",
   "deal": "rent",
