@@ -1,5 +1,63 @@
 [
  {
+  "id": "ho-5425646034266",
+  "slug": "ho-5425646034266-prodaja-stan-krnjaca",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 2,5-комнатная квартира, 68.32 м², Крняча, Палилула",
+  "kind": "2,5-комнатная квартира",
+  "price": 157136,
+  "area": 68.32,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Крняча",
+  "street": "Саве Ковачевича",
+  "geo": {
+   "lat": 44.84835,
+   "lng": 20.49129
+  },
+  "facts": [
+   [
+    "Площадь",
+    "68.32 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "2-й из 2"
+   ],
+   [
+    "Отопление",
+    "тёплый пол"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ]
+  ],
+  "features": [
+   "пентхаус",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "парковка",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся 2,5-комнатная квартира площадью 68.32 м² в районе Крняча (Палилула, Белград). 2-й этаж из 2, отопление тёплый пол, люкс. Есть: пентхаус, домофон, интернет, кабельное ТВ, парковка, терраса, видеонаблюдение. Цена 157 136 €.",
+  "originalLang": "sr",
+  "original": "Sa zadovoljstvom Vas obaveštavamo da je prva faza izgradnje tri objekata od ukupno jedanaest završena. \n\nDruga faza od četiri objekta u prodaji.\n\nPrva zgrada, sa šest stanova (PRODATA)\n\nDruga zgrada, sa četiri stana (PRODATA)\n\nTreća zgrada, sa četiri stana (PRODATA)\n\nČetvrta zgrada, sa četiri stana (PRODATA)\n\nPeta zgrada, sa četiri stana (tri stana prodata)\n\nŠesta zgrada, (PRODATA)\n\nSedma zgrada, (tri stana prodata)\n\nMonoi residence pružiće Vam :\n\nTransparentnost u izgradnji : tokom izvođenja svih radova, naše gradilište biće ograđeno transparentnom ogradom, pa će kupac moći u svakom trenutku videti kako se radi, šta se ugrađuje i kojom dinamikom teče izgradnja.\n\nKupovina za gotovinu i kredit : obzirom da svi naši objekti poseduju građevinsku dozvolu, možete kupiti stan za gotovinu, kao i na kredit kod svih komercijalnih banaka.\n\nVisok kvalitet materijala i firme koja izvodi radove: sa ponosom smo ugovorili posao sa MC Company koji posluju više od 30 godina u oblasti izvođenja radova, a koji će izvoditi radove po sistemu ključ u ruke. Tako će naši kupci dobiti izuzetan kvalitet, obzirom da firma poseduje kompletnu mehanizaciju, stalno zaposlene iz svih oblasti u građevinarstvu, znanje, stručan i izuzetno profesionalan kadar, i ništa manje važnu garanciju na izvedene radove koju ćete imati samo sa jednom firmom, što doprinosi kvalitetu u komunikaciji, kao i olakšanom rešavanju Vašeg zahteva.\n\nSamo 46 stanova u prodaji na 50 ari placa: ovo znači da ce kupci imati osecaj kao da su u svom dvorištu.\n\nPrivatna interna saobraćajnica sa 155m dugim šetalistem : ceo kompleks imaće privatnu saobraćajnicu sa dve trake, kao i šetaliste gore pomenute dužine.\n\nDrvored sa već formiranim stablima i urbani mobilijeri : nakon završetka obaveza u toku dana, uživajte u drvoredu sedeći na klupama i miru koje pruža Vaše privatno naselje...\n\nRampe na ulasku u kompleks : Svaki kupac stana i prking mesta dobiće daljinski za otvaranje, zatvaranje rampe za neometan pristup kompleksu i svom obeleženom mestu.\n\nMogućnost kupovine parking mesta za svaki stan : zasigurno je od velike važnosti za vozače automomobila.\n\nOsvetljenje putem bandera i osvetljenja na samoj zgradi : duž cele saobraćajnice ugrađene su bandere, a ambijentalno osvetljenje koje će biti na svakoj zgradi, doprineće vizuelnom efektu kompleksa, ali i mogućnosti da se uživa u divnim trenucima tokom večeri.\n\nPodno grejanje : prepustite se uživanju u divnim hladnim danima. Posle grudvanja u naselju, uživanju sa bližnjima, ili samoj šetnji, čekace Vas Vas topli dom sa podešenim termostatom u svakoj prostoriji i ugrejati Vas u momentu po ulasku.\nSigurnost kupovine : Svi naši objekti poseduju kompletnu dokumentaciju od lokacijskih uslova, građevinskih dozvola, prijave radova.\n\nZbog svega navedenog, nadamo se da će biti dovolino da se opredelite za sigurnu kupovinu nekretnine u Vašem privatnom naselju Monoi residence.\n\n3D video kompleksa možete videti na instagram profilu : monoiresidence\n\nMOLIMO AGENCIJE DA NAS NE KON",
+  "photos": 15,
+  "added": "2026-11-09",
+  "updated": "2026-11-09"
+ },
+ {
   "id": "ho-5425647952276",
   "slug": "ho-5425647952276-izdavanje-stan-blok-8a",
   "deal": "rent",
