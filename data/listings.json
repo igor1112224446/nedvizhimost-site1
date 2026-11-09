@@ -1,5 +1,65 @@
 [
  {
+  "id": "ho-5425647948041",
+  "slug": "ho-5425647948041-prodaja-stan-ledine",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 2,5-комнатная квартира, 56 м², Ледине, Сурчин",
+  "kind": "2,5-комнатная квартира",
+  "price": 180000,
+  "area": 56,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Сурчин",
+  "districtSlug": "opstina-surcin",
+  "location": "Ледине",
+  "street": "Войводжанска",
+  "geo": {
+   "lat": 44.79536,
+   "lng": 20.29807
+  },
+  "facts": [
+   [
+    "Площадь",
+    "56 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "2-й из 2"
+   ],
+   [
+    "Отопление",
+    "норвежские радиаторы"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "есть право собственности",
+   "кондиционер",
+   "парковка",
+   "терраса"
+  ],
+  "text": "Продаётся 2,5-комнатная квартира площадью 56 м² в районе Ледине (Сурчин, Белград). 2-й этаж из 2, отопление норвежские радиаторы, люкс, дом современной постройки. Есть: можно въехать сразу, есть право собственности, кондиционер, парковка, терраса. Цена 180 000 €.",
+  "originalLang": "sr",
+  "original": "unjenje propisanih uslova\nLokacija i sadržaji u blizini:\nU neposrednoj blizini nalaze se supermarketi, mesare, pekare, restorani, picerije i svi sadržaji neophodni za svakodnevni život. U blizini su takođe škola i privatni vrtić, što ovu nekretninu čini posebno pogodnom za porodice sa decom.\nStan predstavlja odličnu priliku kako za rešavanje stambenog pitanja, tako i za investiciju.\nZa više informacija i zakazivanje gledanja stana, pozovite!",
+  "photos": 11,
+  "added": "2026-11-09",
+  "updated": "2026-11-09"
+ },
+ {
   "id": "ho-5425647945996",
   "slug": "ho-5425647945996-izdavanje-stan-brace-jerkovic",
   "deal": "rent",
