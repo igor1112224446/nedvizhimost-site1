@@ -1,5 +1,285 @@
 [
  {
+  "id": "ho-5425647945996",
+  "slug": "ho-5425647945996-izdavanje-stan-brace-jerkovic",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 63 м², Браче Еркович, Вождовац",
+  "kind": "двухкомнатная квартира",
+  "price": 500,
+  "area": 63,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "Браче Еркович",
+  "street": "Браче Еркович",
+  "geo": {
+   "lat": 44.76357,
+   "lng": 20.49782
+  },
+  "facts": [
+   [
+    "Площадь",
+    "63 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "7-й из 11"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "домофон",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "терраса",
+   "горячая вода"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 63 м² в районе Браче Еркович (Вождовац, Белград). 7-й этаж из 11, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, домофон, кондиционер, лифт, парковка, терраса, горячая вода. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Braće Jerković, 57m² + 6m² terasa, KLIMA, 7. sprat, 2 lifta, PROTOČNA TOPLA VODA, namešten\nIzdajem potpuno namešten, funkcionalan i svetao dvoiposoban stan površine 57m² sa prostranom terasom od 6m², u ulici Braće Jerković (kod Vera)\nStan se nalazi na 7. spratu uredne i održavane zgrade koja poseduje 2 funkcionalna lifta (putnički i teretni).\nGlavne prednosti stana:\n• Protočna topla voda (toplovod): \n• Klimatizovan: Stan poseduje klima uređaj za letnje mesece.\n• Izuzetna osvetljenost i otvoren pogled: Stan je orijentisan ka glavnoj ulici, što pruža prelep, širok pogled sa velike terase i pregršt prirodnog svetla tokom celog dana.\n• Odlična struktura i stanje: Stan je u vrlo korektnom, čistom i urednom stanju, opremljen svim neophodnim nameštajem i belom tehnikom za udoban život.\nLokacija i povezanost:\nZgrada se nalazi na odličnoj poziciji u naselju. U neposrednoj blizini su stajališta linija 26, 18 i 50, što omogućava brzu i direktnu vezu sa centrom grada, Novim Beogradom i ostalim delovima Voždovca (FON, Saobraćajni i Farmaceutski fakultet). Preko puta i oko zgrade nalaze se marketi (Maxi, Super Vero), pekare, apoteke, parkovi i sve što je potrebno za svakodnevni život.\nDodatni uslovi zakupa:\n• Kućni ljubimci: Nisu dozvoljeni.\n• Pušenje: Stan se izdaje isključivo nepušačima (pušenje je dozvoljeno isključivo na terasi).\nPored zgrade je dostupan javni parking bez naplate\nGrejanje: Centralno grejanje (CG), plaća se ravnomerno tokom cele godine preko Infostana (oko 14.000,00 RSD).\n• Cena mesečnog zakupa: 500 €\n• Depozit: Obavezan u visini jedne mesečne kirije.\n• Useljivost: Odmah / po dogovoru.",
+  "photos": 15,
+  "added": "2026-11-09",
+  "updated": "2026-11-09"
+ },
+ {
+  "id": "ho-5425647950039",
+  "slug": "ho-5425647950039-izdavanje-stan-fon-bilecka",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 36 м², ФОН - Билечка, Вождовац",
+  "kind": "однокомнатная квартира",
+  "price": 500,
+  "area": 36,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "ФОН - Билечка",
+  "street": "Войводе Степе",
+  "geo": {
+   "lat": 44.77018,
+   "lng": 20.47876
+  },
+  "facts": [
+   [
+    "Площадь",
+    "36 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "2-й из 10"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 100 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "домофон",
+   "кондиционер",
+   "терраса"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 36 м² в районе ФОН - Билечка (Вождовац, Белград). 2-й этаж из 10, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: депозит, можно въехать сразу, домофон, кондиционер, терраса. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Opis stana\n\nStan je svetao, uredan, funkcionalan i pažljivo organizovan kako bi pružio maksimalan komfor za svakodnevni život.\n\nKuhinja sa trpezarijom i dnevno-spavaći deo čine dve funkcionalne celine koje su međusobno povezane **otvorenim prolazom bez vrata**, širine približno 1,80 m. Ovakav raspored omogućava slobodnu komunikaciju između prostorija, doprinosi osećaju prostranosti i otvorenosti, a istovremeno zadržava jasnu podelu prostora prema nameni.\n\nKuhinja sa trpezarijom potpuno je opremljena za svakodnevnu upotrebu, dok dnevno-spavaći deo pruža prijatan i udoban ambijent za odmor, spavanje i boravak tokom dana. Stan poseduje i terasu, koja predstavlja dodatni prostor za opuštanje i doprinosi ukupnom komforu stanovanja.\n\n**Stan je u potpunosti namešten i opremljen, bez potrebe za dodatnim ulaganjima.** Na raspolaganju je sve što je neophodno za svakodnevni život, uključujući posteljinu, prekrivače, peškire, kompletno kućno posuđe i ostalu potrebnu opremu.\n\nProstor je uredan, praktičan i spreman za trenutno useljenje.\n\nStan je idealan za jednu osobu ili par koji traže prijatan, funkcionalan i potpuno opremljen životni prostor na dobroj gradskoj lokaciji.",
+  "photos": 15,
+  "added": "2026-11-09",
+  "updated": "2026-11-09"
+ },
+ {
+  "id": "ho-5425647344948",
+  "slug": "ho-5425647344948-izdavanje-stan-bulevar-kralja-aleksandra",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 36 м², Булевар краля Александра, Врачар",
+  "kind": "однокомнатная квартира",
+  "price": 450,
+  "area": 36,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "opstina-vracar",
+  "location": "Булевар краля Александра",
+  "street": "Нишка",
+  "geo": {
+   "lat": 44.80279,
+   "lng": 20.47945
+  },
+  "facts": [
+   [
+    "Площадь",
+    "36 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "приземный из 1"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 20 € в месяц"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "для некурящих",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 36 м² в районе Булевар краля Александра (Врачар, Белград). Приземный этаж из 1, с мебелью, отопление аккумуляционные печи, после ремонта, дом современной постройки. Есть: можно въехать сразу, для некурящих, домофон, интернет, кабельное ТВ, кондиционер, видеонаблюдение. Аренда 450 € в месяц.",
+  "originalLang": "sr",
+  "original": "stan je na super lokaciji sa kompletnim posudjem tanjirima i casama",
+  "photos": 11,
+  "added": "2026-11-09",
+  "updated": "2026-11-09"
+ },
+ {
+  "id": "ho-5425645443736",
+  "slug": "ho-5425645443736-izdavanje-stan-altina",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 28 м², Алтина, Земун",
+  "kind": "1,5-комнатная квартира",
+  "price": 350,
+  "area": 28,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Алтина",
+  "street": "Войни Пут 1 384",
+  "geo": {
+   "lat": 44.84474,
+   "lng": 20.37007
+  },
+  "facts": [
+   [
+    "Площадь",
+    "28 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "приземный из 1"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 20 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "подходит студентам",
+   "интернет",
+   "кондиционер",
+   "парковка",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 28 м² в районе Алтина (Земун, Белград). Приземный этаж из 1, с мебелью, отопление аккумуляционные печи, в исходном состоянии, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, подходит студентам, интернет, кондиционер, парковка, горячая вода, видеонаблюдение. Аренда 350 € в месяц.",
+  "originalLang": "sr",
+  "original": "Potpuno nova garsonjera u mirnom delu Zemuna.Garsonjera poseduje odlicnu toplotnu izolaciju,inverter klimu kao i potpuno nov namestaj i tehniku.Stanar ce imati svoj strujomer po kojem ce placati struju.Ispred garsonjere je pokriveno parking mesto.Na 3 minuta od lokacije nalazi se okretnica 15,45,78,709,kao i stanice 81,81L,707itd...Visina kirije je 350 evra,i po ulasku depozit od 300 evra kojim se po izlasku stanara placa krecenje i hemijsko ciscenje kako bi nov stanar usao u cist i sredjen stan kao sto ste i vi usli.Sve oseteceno se dodatno placa.Izdavanje na minimum godinu dana.Samo ozbiljni,pozdrav.",
+  "photos": 7,
+  "added": "2026-11-09",
+  "updated": "2026-11-09"
+ },
+ {
   "id": "ho-5425645297325",
   "slug": "ho-5425645297325-izdavanje-stan-prvomajska",
   "deal": "rent",
@@ -195,6 +475,10 @@
    ]
   ],
   "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
    "домофон",
    "интернет",
    "кабельное ТВ",
@@ -202,15 +486,11 @@
    "лифт",
    "парковка",
    "подвал",
-   "терраса",
-   "депозит",
-   "не последний этаж",
-   "можно въехать сразу",
-   "для некурящих"
+   "терраса"
   ],
-  "text": "Сдаётся трёхкомнатная квартира площадью 65 м² в районе Сараевска (Савски-Венац, Белград). 4-й этаж из 6, с мебелью, отопление центральное, в исходном состоянии, старый фонд. Есть: домофон, интернет, кабельное ТВ, кондиционер, лифт, парковка, подвал, терраса, депозит, не последний этаж, можно въехать сразу, для некурящих. Аренда 750 € в месяц.",
+  "text": "Сдаётся трёхкомнатная квартира площадью 65 м² в районе Сараевска (Савски-Венац, Белград). 4-й этаж из 6, с мебелью, отопление центральное, в исходном состоянии, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, домофон, интернет, кабельное ТВ, кондиционер, лифт, парковка, подвал, терраса. Аренда 750 € в месяц.",
   "originalLang": "sr",
-  "original": "Izdaje se svetao i funkcionalan stan površine 65 m², smesten na 4. spratu zgrade u jednoj od traženijih gradskih lokacija – u Sarajevskoj ulici. Stan je odličnog rasporeda i pruža komfor za udoban život. Struktura stana je: prostrana dnevna soba, velika spavaća soba, manja soba (pogodna za radni prostor, dečiju sobu ili garderober), odvojena trpezarija, kuhinja, hodnik i kupatilo. \nStan se nalazi na izuzetnoj lokaciji, u neposrednoj blizini svih bitnih gradskih sadržaja, autobuskih i tramvajskih linija, prodavnica, kafića i restorana. Idealan je za parove, manje porodice ili zaposlene ljudi kojima je važna blizina centra grada. U blizini zgrade je veliki parking gde je moguce mesecna pretplata za parking mesto.\nZa više informacija, dogovor oko razgledanja prostora pozivate vlasnika stana.",
+  "original": "Izdaje se svetao i funkcionalan stan površine 65 m², smesten na 4. spratu zgrade u jednoj od traženijih gradskih lokacija – u Sarajevskoj ulici. Stan je odličnog rasporeda i pruža komfor za udoban život. Struktura stana je: prostrana dnevna soba, velika spavaća soba, manja soba (pogodna za radni prostor, dečiju sobu ili garderober), odvojena trpezarija, kuhinja, hodnik i kupatilo. \nStan se nalazi na izuzetnoj lokaciji, u neposrednoj blizini svih bitnih gradskih sadržaja, autobuskih i tramvajskih linija, prodavnica, kafića i restorana. Idealan je za parove, manje porodice ili zaposlene ljudi kojima je važna blizina centra grada. U blizini zgrade je veliki parking gde je moguce mesecna pretplata za parking mesto.\nZa više informacija, dogovor oko razgledanja prostora pozivate vlasnika stana.",
   "photos": 9,
   "added": "2026-11-09",
   "updated": "2026-11-09"
