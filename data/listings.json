@@ -1,5 +1,71 @@
 [
  {
+  "id": "ho-5425647950061",
+  "slug": "ho-5425647950061-izdavanje-stan-zeleno-brdo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 65 м², Зелено брдо, Звездара",
+  "kind": "двухкомнатная квартира",
+  "price": 480,
+  "area": 65,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Зелено брдо",
+  "street": "Забрджанска",
+  "geo": {
+   "lat": 44.78275,
+   "lng": 20.52429
+  },
+  "facts": [
+   [
+    "Площадь",
+    "65 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 30 € в месяц"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "можно въехать сразу",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "терраса"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 65 м² в районе Зелено брдо (Звездара, Белград). С мебелью, отопление автономное, в исходном состоянии, старый фонд. Есть: не последний этаж, можно въехать сразу, интернет, кабельное ТВ, кондиционер, парковка, терраса. Аренда 480 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem stan koji se sastoji od dve sobe i kuhinje sa trpezarijom.Stan se nalazi na 1. spratu u izuzetno mirnom kraju. \nKucni ljubimci nisu dozvoljeni",
+  "photos": 12,
+  "added": "2026-11-09",
+  "updated": "2026-11-09"
+ },
+ {
   "id": "ho-5425647948041",
   "slug": "ho-5425647948041-prodaja-stan-ledine",
   "deal": "sale",
@@ -3899,7 +3965,7 @@
   "original": "Jednosoban, Zvezdara(početak Mirijeva),400 metara od Bulevara(Kluz). 30kvm, potpuno novoopremljen. Nov nameštaj,nova kuhinja i novo kupatilo. U mirnoj i tihoj manjoj ulici. Prvi sprat od dva. 400 evra mesečno plus depozit. Niske mesečne režije-samo 1500 dinara.\n\nStanica gradskog prevoza na minut hoda. Autobusi 27.27e,46, 79.63,E6. Blizina prodavnica i pijace.",
   "photos": 9,
   "added": "2026-11-05",
-  "updated": "2026-11-08"
+  "updated": "2026-11-09"
  },
  {
   "id": "ho-5425644402416",
@@ -5967,7 +6033,7 @@
   "original": "SRPSKI\nIzuzetno lep i luksuzno opremljen stan, smešten u prizemlju kuće\n\nStruktura i opremljenost: \nStan sadrži 2 odvojene spavaće sobe, veliki dnevni boravak sa kuhinjom i trpezarijom, kao i kupatilo sa kadom. U potpunosti je opremljen svim potrebnim uređajima – poseduje novu inverter klimu, 3 TA peći, veš mašinu, mašinu za sudove.\n\nLokacija i okruženje: \nNalazi se u veoma mirnoj ulici, na svega 100m od glavnih i frekventnih ulica (Cara Dušana i Ugrinovačka), sa odličnim saobraćajnim vezama ka centru Zemuna i Beograda. Na samo 50m od stana nalaze se Osnovna škola „Sonja Marinković” i vrtić/jaslice. U neposrednoj blizini su i Maxi, Aman, mesara i pekara.\nUslovi zakupnine:\nU cenu iznajmljivanja uračunati su troškovi KATV, interneta i komunalija.\n\nStruja se plaća po potrošnji (stan ima svoje kontrolno brojilo).\n\nDepozit u visini jedne mesečne kirije i potpisivanje ugovora su obavezni.\n\nStranci su dobrodošli. Stan je moguće iznajmiti na duži ili kraći period, uz dogovor.\n\nUseljiv od 1. decembra.\n\nENGLISH\nAn exceptionally beautiful and luxuriously furnished apartment, located on the ground floor of a house\n\nLayout and Amenities:\nThe apartment features 2 separate bedrooms, a spacious living room with a kitchen and dining area, and a bathroom with a bathtub. It is fully equipped with all necessary appliances, including a new inverter air conditioner, 3 storage heaters (TA peći), a washing machine, and a dishwasher.\n\nLocation and Surroundings:\nSituated on a very peaceful street, just 100 meters away from two major thoroughfares (Cara Dušana and Ugrinovačka streets), offering excellent public transport connections to the center of Zemun and Belgrade. Elementary School \"Sonja Marinković\" and a nursery/kindergarten are just 50 meters away. Supermarkets (Maxi, Aman), a butcher shop, and a bakery are also in the immediate vicinity.\n\nRental Terms:\n\nThe rental price includes cable TV, high-speed internet, and building maintenance/utilities (komunalije).\n\nElectricity is paid based on consumption (the apartment has its own sub-meter).\n\nA security deposit equal to one month's rent and a signed contract are mandatory.\n\nForeign citizens are welcome. Available for both short-term and long-term rental, subject to agreement.\n\nAvailable for move-in starting December 1st.\n\nРУССКИЙ\nИсключительно красивая и луксозно обустроенная квартира, расположенная на первом этаже дома (в приземье)\nПланировка и оснащение:\nВ квартире 2 отдельные спальни, большая гостиная с кухней и столовой зоной, а также ванная комната с ванной. Жилье полностью укомплектовано всей необходимой техникой: новый инверторный кондиционер, 3 теплоаккумулятора (ТА), стиральная, посудомоечная машина.\n\nРасположение и инфраструктура:\nДом расположен на очень тихой улице, всего в 100 метрах от двух ож",
   "photos": 11,
   "added": "2026-11-04",
-  "updated": "2026-11-04"
+  "updated": "2026-11-09"
  },
  {
   "id": "ho-5425635588375",
