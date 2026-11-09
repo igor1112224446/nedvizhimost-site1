@@ -1,5 +1,148 @@
 [
  {
+  "id": "ho-5425646072349",
+  "slug": "ho-5425646072349-izdavanje-stan-cara-dusana",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 49 м², Цара Душана, Земун",
+  "kind": "двухкомнатная квартира",
+  "price": 550,
+  "area": 49,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Цара Душана",
+  "street": "Цара Душана",
+  "geo": {
+   "lat": 44.85197,
+   "lng": 20.39531
+  },
+  "facts": [
+   [
+    "Площадь",
+    "49 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "2-й из 5"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 120 € в месяц"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "можно въехать сразу",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "лифт",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 49 м² в районе Цара Душана (Земун, Белград). 2-й этаж из 5, с мебелью, люкс, дом современной постройки. Есть: не последний этаж, можно въехать сразу, домофон, интернет, кабельное ТВ, лифт, терраса, горячая вода, видеонаблюдение. Аренда 550 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se kompletno namešten stan od 1.10.2025. Stan se nalazi uz ulici Cara Dušana. Autobusko stajalište, Maxi, Pepco na oko 50 metara...Izdavanje na duže vreme. \nGrejanje i hlađenje neograničeno preko toplotnih pumpi (fancoil radijatori, plus podno grejanje). Smart home sistem, kablovska, internet...\nRežije oko 120e (Grejanje i hlađenje fiksno cele godine, struja, kablovska, infostan)\nDepozit u visini jedne kirije.\nZa više informacija pozvati.",
+  "photos": 10,
+  "added": "2026-11-09",
+  "updated": "2026-11-09"
+ },
+ {
+  "id": "ho-5425647949798",
+  "slug": "ho-5425647949798-izdavanje-stan-sarajevska",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 65 м², Сараевска, Савски-Венац",
+  "kind": "трёхкомнатная квартира",
+  "price": 750,
+  "area": 65,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "opstina-savski-venac",
+  "location": "Сараевска",
+  "street": "Сараевска",
+  "geo": {
+   "lat": 44.8004,
+   "lng": 20.45144
+  },
+  "facts": [
+   [
+    "Площадь",
+    "65 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "4-й из 6"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 150 € в месяц"
+   ]
+  ],
+  "features": [
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "подвал",
+   "терраса",
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 65 м² в районе Сараевска (Савски-Венац, Белград). 4-й этаж из 6, с мебелью, отопление центральное, в исходном состоянии, старый фонд. Есть: домофон, интернет, кабельное ТВ, кондиционер, лифт, парковка, подвал, терраса, депозит, не последний этаж, можно въехать сразу, для некурящих. Аренда 750 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se svetao i funkcionalan stan površine 65 m², smesten na 4. spratu zgrade u jednoj od traženijih gradskih lokacija – u Sarajevskoj ulici. Stan je odličnog rasporeda i pruža komfor za udoban život. Struktura stana je: prostrana dnevna soba, velika spavaća soba, manja soba (pogodna za radni prostor, dečiju sobu ili garderober), odvojena trpezarija, kuhinja, hodnik i kupatilo. \nStan se nalazi na izuzetnoj lokaciji, u neposrednoj blizini svih bitnih gradskih sadržaja, autobuskih i tramvajskih linija, prodavnica, kafića i restorana. Idealan je za parove, manje porodice ili zaposlene ljudi kojima je važna blizina centra grada. U blizini zgrade je veliki parking gde je moguce mesecna pretplata za parking mesto.\nZa više informacija, dogovor oko razgledanja prostora pozivate vlasnika stana.",
+  "photos": 9,
+  "added": "2026-11-09",
+  "updated": "2026-11-09"
+ },
+ {
   "id": "fz-6af089d7664055fea601e4f5",
   "slug": "fz-6af089d7664055fea601e4f5-izdavanje-stan-plavi-horizonti",
   "deal": "rent",
