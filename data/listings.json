@@ -1,5 +1,123 @@
 [
  {
+  "id": "ho-5425647915748",
+  "slug": "ho-5425647915748-izdavanje-stan-konjarnik",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 69 м², Конярник, Звездара",
+  "kind": "2,5-комнатная квартира",
+  "price": 800,
+  "area": 69,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Конярник",
+  "street": "Владимира Гортана 30",
+  "geo": {
+   "lat": 44.78541,
+   "lng": 20.51658
+  },
+  "facts": [
+   [
+    "Площадь",
+    "69 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "3-й из 5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "гараж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 69 м² в районе Конярник (Звездара, Белград). 3-й этаж из 5, с мебелью, отопление центральное, в исходном состоянии, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, гараж, домофон, интернет, кабельное ТВ, кондиционер, лифт, терраса, горячая вода, видеонаблюдение. Аренда 800 € в месяц.",
+  "originalLang": "sr",
+  "original": "IZDAJE SE DVOIPOSOBAN STAN NA KONJARNIKU - 59 m² + GARAŽNO MESTO\n Beograd, Konjarnik\n Cena: 800 € mesečno\n\nIzdajemo svetao, funkcionalan i potpuno opremljen dvoiposoban stan od 59 m² na Konjarniku, sa garažnim mestom i odličnom povezanošću sa ostatkom grada. Odličan za tročlane porodice ili parove.\n\nStan je odmah useljiv i sastoji se od:\n Dnevna soba - prostrane i svetle, sa udobnom garniturom i TV-om.\n Kuhinja i trpezarija - potpuno opremljene, sa svim potrebnim uređajima, uključujući mašinu za sudove.\n Spavaća sobe - sa bračnim krevetom i velikim ugradnim plakarom.\n Dodatna sobe - idealne za rad od kuće, dečiju ili gostinsku sobu.\n Kupatila - sa tuš-kabinom i veš-mašinom.\n Terasa - za jutarnju kafu ili predah.\n Garažno mesto sa auto-liftom - velika pogodnost za svakodnevni život u Beogradu.\n\n Dodatne pogodnosti:\nDobra izolacija i grejanje koje odlično funkcioniše.\nMesečni troškovi zavise od potrošnje u zimskom periodu, jer Infostan se obračunava prema potrošnji. Infostan u negrejnoj sezoni oko 3500rsd, 6000-7000rsd u grejnoj, a kad je ceo mesec leden do 10000rsd.\nParket u sobama.\nKlima-uređaji.\nZgrada sa odličnim komšijama.\n\n Lokacija i okruženje:\nSve što vam je potrebno nalazi se na nekoliko minuta hoda:\n Aviv park sa prodavnicama, DM-om i apotekom - 2 minuta.\n Kafeterija - 2 minuta.\n Tramvaji 5, 6, 7 i 14 - 2 minuta.\n Okretnica autobusa 31 i 17 - 10 minuta.\n\n Stan do sada nije izdavan, već smo mi živeli u njemu i pažljivo je održavan i čuvan. Voleli bismo da ga iznajmimo odgovornim ljudima koji će se u njemu osećati kao kod kuće i voditi računa o njemu.\n Za više informacija i dogovor oko razgledanja, pišite u privatnoj poruci.\nSlobodno podelite oglas ako poznajete nekoga ko traži stan u Beogradu!",
+  "photos": 15,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
+  "id": "fz-6af097fcc46d78f7dc012356",
+  "slug": "fz-6af097fcc46d78f7dc012356-izdavanje-stan-centar",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 41 м², Центр, Земун",
+  "kind": "1,5-комнатная квартира",
+  "price": 650,
+  "area": 41,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "Центр",
+  "street": "Кордунашка",
+  "geo": {
+   "lat": 44.8425,
+   "lng": 20.3967
+  },
+  "facts": [
+   [
+    "Площадь",
+    "41 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 41 м² в районе Центр (Земун, Белград). С мебелью, отопление центральное. Аренда 650 € в месяц.",
+  "originalLang": "sr",
+  "original": "Sada možeš da proveriš koliko bi ti vremena trebalo od nekretnine koju trenutno gledaš do tebi bitnih lokacija do kojih svakodnevno putuješ – posao, vrtić, fakultet, škola, teretana.",
+  "photos": 10,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
   "id": "ho-5425646799686",
   "slug": "ho-5425646799686-prodaja-stan-karaburma",
   "deal": "sale",
