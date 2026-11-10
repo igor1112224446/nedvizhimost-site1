@@ -1,5 +1,74 @@
 [
  {
+  "id": "ho-5425642950681",
+  "slug": "ho-5425642950681-izdavanje-stan-ledine",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 55 м², Ледине, Новый Белград",
+  "kind": "трёхкомнатная квартира",
+  "price": 500,
+  "area": 55,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Ледине",
+  "street": "Войводжанска",
+  "geo": {
+   "lat": 44.80005,
+   "lng": 20.33256
+  },
+  "facts": [
+   [
+    "Площадь",
+    "55 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "3-й из 5"
+   ],
+   [
+    "Отопление",
+    "норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 35 € в месяц"
+   ]
+  ],
+  "features": [
+   "кондиционер",
+   "лифт",
+   "лоджия",
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 55 м² в районе Ледине (Новый Белград, Белград). 3-й этаж из 5, без мебели, отопление норвежские радиаторы, после ремонта, дом современной постройки. Есть: кондиционер, лифт, лоджия, депозит, не последний этаж, можно въехать сразу. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Vojvodjanska 530 - Izdajem nov trosoban stan na trecem spratu ( ima lift) 55m2. Prostorije : dnevna soba sa trpezarijom i kuhinjom, dve spavace sobe , kupatilo, hodnik, lodja. Stan je veoma suncan i svetao.\n\nMesecni zakup 500 eur u dinarskoj protivvrednosti po srednjem kursu NBS na dan placanja. Depozit u visini od 800 eur ( osamstotina eura) obavezan. Sran nije na,ešten - ima kuhinjske i kupatilske elemente i klima uredjaj. Grejanje na norveske radijatore. Stan se izdaje na duze vreme. Kucni ljubimci nisu dozvoljeni. Iskljucivo domaca porodica.\n\nVlasnik.",
+  "photos": 6,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
   "id": "ho-5425646908973",
   "slug": "ho-5425646908973-prodaja-stan-visnjicka-banja",
   "deal": "sale",
