@@ -1,5 +1,73 @@
 [
  {
+  "id": "ho-5425647286064",
+  "slug": "ho-5425647286064-izdavanje-stan-dedinje",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 360 м², Дедине, Савски-Венац",
+  "kind": "трёхкомнатная квартира",
+  "price": 2500,
+  "area": 360,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "opstina-savski-venac",
+  "location": "Дедине",
+  "street": "Велисава Вуловича",
+  "geo": {
+   "lat": 44.76526,
+   "lng": 20.45687
+  },
+  "facts": [
+   [
+    "Площадь",
+    "360 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "2-й"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "домофон",
+   "интернет",
+   "кондиционер",
+   "лоджия",
+   "парковка",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение",
+   "депозит",
+   "можно с животными",
+   "можно въехать сразу",
+   "пентхаус",
+   "для некурящих"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 360 м² в районе Дедине (Савски-Венац, Белград). 2-й этаж, с мебелью, люкс, дом современной постройки. Есть: домофон, интернет, кондиционер, лоджия, парковка, терраса, горячая вода, видеонаблюдение, депозит, можно с животными, можно въехать сразу, пентхаус, для некурящих. Аренда 2 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "EKSKLUZIVAN PENTHAUS NA DEDINJU – 360 m² SA PANORAMSKIM POGLEDOM NA CEO GRAD\n\nNa jednoj od najprestižnijih lokacija u Beogradu, u ulici Velisava Vulovića na Dedinju, prodaje se luksuzan, potpuno nov penthaus ukupne površine 360 m², od čega 200 m² stambenog prostora sa ostavama i 160 m² prostranih terasa sa spektakularnim panoramskim pogledom na grad i zelenilo.\n\nStan se nalazi na drugom spratu novogradnje i nikada nije bio useljavan. Projektovan je sa posebnim akcentom na komfor, prostranost i prirodno osvetljenje.\n\nStruktura:\n\n- Impresivna dnevna soba\n\n- Kuhinja sa trpezarijom\n\n- Dve prostrane spavaće sobe\n\n- Velika garderoba\n\n- Velika ostava\n\n- Kupatilo sa kadom i tuš kabinom\n\n- Posebna vešernica sa dodatnim prostorom za odlaganje\n\n- 160 m² terasa sa otvorenim pogledom\n\nOprema:\n\n- Kompletno opremljen stan\n\n- Bosch sudomašina i kompletna kuhinjska tehnika\n\n- Mikrotalasna pećnica\n\n- Haier mašina za pranje i sušenje veša\n\n- Grejanje i hlađenje putem toplotnih pumpi\n\n- Niski mesečni troškovi održavanja i režija\n\nRetka prilika za rentu ili kupovinu reprezentativne nekretnine na Dedinju, koja objedinjuje privatnost, luksuz, vrhunski komfor i jedan od najlepših pogleda u Beogradu.",
+  "photos": 15,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
   "id": "ho-5425647865095",
   "slug": "ho-5425647865095-prodaja-stan-27-marta",
   "deal": "sale",
@@ -32250,74 +32318,6 @@
   "text": "Сдаётся двухкомнатная квартира площадью 34 м² в районе Центр (Градска локация, Врнячка Баня). 1-й этаж, с мебелью, люкс, дом современной постройки. Есть: можно въехать сразу, парковка. Аренда 300 € в месяц.",
   "originalLang": "sr",
   "original": "Izdaje se nov stan u mirnom delu grada. Jednosoban na prvom spratu sa dnevnom i spavacom potpuno nov i ne koriscen. Jos niko nije ziveo tu.\n\nNa lokaciji blizu pijace, 300m od centra. Ulica Jastrebacka preko puta opstine pre postanskog doma. \n\nStan je funkcionalno organizovan, sa odvojenom sobom i terasom. Potpuno je namešten novim nameštajem i uređajima, spreman za useljenje bez dodatnih ulaganja.\n\nPoseduje parking mesto i parno grejanje.\n\nIdealan je za jednu osobu ili par koji traže mir, komforan, moderan i kvalitetan životni prostor.\n\n Za vise informacija",
-  "photos": 15,
-  "added": "2026-10-26",
-  "updated": "2026-10-26"
- },
- {
-  "id": "ho-5425647286064",
-  "slug": "ho-5425647286064-izdavanje-stan-dedinje",
-  "deal": "rent",
-  "type": "apartment",
-  "cat": "flat",
-  "title": "Аренда: трёхкомнатная квартира, 360 м², Дедине, Савски-Венац",
-  "kind": "трёхкомнатная квартира",
-  "price": 2500,
-  "area": 360,
-  "rooms": 3,
-  "city": "Белград",
-  "district": "Савски-Венац",
-  "districtSlug": "opstina-savski-venac",
-  "location": "Дедине",
-  "street": "Велисава Вуловича",
-  "geo": {
-   "lat": 44.76526,
-   "lng": 20.45687
-  },
-  "facts": [
-   [
-    "Площадь",
-    "360 м²"
-   ],
-   [
-    "Комнат",
-    "3"
-   ],
-   [
-    "Этаж",
-    "2-й"
-   ],
-   [
-    "Мебель",
-    "с мебелью"
-   ],
-   [
-    "Состояние",
-    "люкс"
-   ],
-   [
-    "Дом",
-    "дом современной постройки"
-   ]
-  ],
-  "features": [
-   "домофон",
-   "интернет",
-   "кондиционер",
-   "лоджия",
-   "парковка",
-   "терраса",
-   "горячая вода",
-   "видеонаблюдение",
-   "депозит",
-   "можно с животными",
-   "можно въехать сразу",
-   "пентхаус",
-   "для некурящих"
-  ],
-  "text": "Сдаётся трёхкомнатная квартира площадью 360 м² в районе Дедине (Савски-Венац, Белград). 2-й этаж, с мебелью, люкс, дом современной постройки. Есть: домофон, интернет, кондиционер, лоджия, парковка, терраса, горячая вода, видеонаблюдение, депозит, можно с животными, можно въехать сразу, пентхаус, для некурящих. Аренда 2 500 € в месяц.",
-  "originalLang": "sr",
-  "original": "EKSKLUZIVAN PENTHAUS NA DEDINJU – 360 m² SA PANORAMSKIM POGLEDOM NA CEO GRAD\n\nNa jednoj od najprestižnijih lokacija u Beogradu, u ulici Velisava Vulovića na Dedinju, prodaje se luksuzan, potpuno nov penthaus ukupne površine 360 m², od čega 200 m² stambenog prostora sa ostavama i 160 m² prostranih terasa sa spektakularnim panoramskim pogledom na grad i zelenilo.\n\nStan se nalazi na drugom spratu novogradnje i nikada nije bio useljavan. Projektovan je sa posebnim akcentom na komfor, prostranost i prirodno osvetljenje.\n\nStruktura:\n\n- Impresivna dnevna soba\n\n- Kuhinja sa trpezarijom\n\n- Dve prostrane spavaće sobe\n\n- Velika garderoba\n\n- Velika ostava\n\n- Kupatilo sa kadom i tuš kabinom\n\n- Posebna vešernica sa dodatnim prostorom za odlaganje\n\n- 160 m² terasa sa otvorenim pogledom\n\nOprema:\n\n- Kompletno opremljen stan\n\n- Bosch sudomašina i kompletna kuhinjska tehnika\n\n- Mikrotalasna pećnica\n\n- Haier mašina za pranje i sušenje veša\n\n- Grejanje i hlađenje putem toplotnih pumpi\n\n- Niski mesečni troškovi održavanja i režija\n\nRetka prilika za rentu ili kupovinu reprezentativne nekretnine na Dedinju, koja objedinjuje privatnost, luksuz, vrhunski komfor i jedan od najlepših pogleda u Beogradu.",
   "photos": 15,
   "added": "2026-10-26",
   "updated": "2026-10-26"
