@@ -1,5 +1,70 @@
 [
  {
+  "id": "ho-5425646908973",
+  "slug": "ho-5425646908973-prodaja-stan-visnjicka-banja",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: трёхкомнатная квартира, 73 м², Вишничка Баня, Палилула",
+  "kind": "трёхкомнатная квартира",
+  "price": 189000,
+  "area": 73,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Вишничка Баня",
+  "street": "Андре Джорджевича",
+  "geo": {
+   "lat": 44.81483,
+   "lng": 20.5435
+  },
+  "facts": [
+   [
+    "Площадь",
+    "73 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "2-й из 2"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "есть право собственности",
+   "французский балкон",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся трёхкомнатная квартира площадью 73 м² в районе Вишничка Баня (Палилула, Белград). 2-й этаж из 2, отопление автономное, люкс, дом современной постройки. Есть: можно въехать сразу, есть право собственности, французский балкон, домофон, интернет, кабельное ТВ, кондиционер, парковка, терраса, видеонаблюдение. Цена 189 000 €.",
+  "originalLang": "sr",
+  "original": "Direktna prodaja – novogradnja – Useljiv \n\nProdaje se potpuno nov, neuseljavan stan u modernoj zgradi vrhunskog kvaliteta. Idealna prilika za porodični život ili sigurnu investiciju!\n\nU ponudi jos stanova: 42 kvadrata, 78 kvadrata, 74 kvadrata \n\n Lokacija: Andre Đorđevića\n\n Kvadratura: 73 m² (Dvosoban)\n\n Sprat: 2. sprat\n\n Grejanje: Pametno upravljanje (WiFi) – Inverter klima, Norveški radijatori i podno grejanje u kupatilu.\n\n Izdvajamo:\n\n Vrhunski materijali: Tarket parket, uvozna keramika, 6-komorna PVC stolarija.\n\n Sigurnost: Video nadzor, interfon, sigurnosna vrata.\n\n Mogućnost kupovine parking mesta cena 8.000€",
+  "photos": 9,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
   "id": "fz-6af0536cd4aac1f7a806e806",
   "slug": "fz-6af0536cd4aac1f7a806e806-prodaja-stan-bezanijska-kosa-2",
   "deal": "sale",
