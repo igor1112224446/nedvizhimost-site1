@@ -1,5 +1,74 @@
 [
  {
+  "id": "ho-5425643587138",
+  "slug": "ho-5425643587138-izdavanje-stan-karaburma",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 43 м², Карабурма, Палилула",
+  "kind": "двухкомнатная квартира",
+  "price": 380,
+  "area": 43,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Карабурма",
+  "street": "Др Джорджа Йоановича",
+  "geo": {
+   "lat": 44.80612,
+   "lng": 20.52481
+  },
+  "facts": [
+   [
+    "Площадь",
+    "43 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "2-й из 5"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 60 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "домофон",
+   "кондиционер",
+   "терраса"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 43 м² в районе Карабурма (Палилула, Белград). 2-й этаж из 5, с мебелью, отопление аккумуляционные печи, после ремонта, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу, домофон, кондиционер, терраса. Аренда 380 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se prijatan i funkcionalan 2.0 soban stan direktno od vlasnika (bez agencijske provizije).\n\nStan se nalazi na 2. spratu održavane zgrade koja se zaključava (interfon). Idealan je za parove ili zaposlene samce koji traže miran kraj sa odličnom vezom sa centrom grada.\n\nKljučne karakteristike:\n\nPovršina: 43m² sa zaštićenom terasom.\n\nNiske režije: TA grejanje i klima uređaj omogućavaju kontrolu troškova.\n\nOpremljenost: Kompletno namešten (dvosed i trosed na razvlačenje), veš mašina, funkcionalna kuhinja.\n\nParking: Slobodna zona ispred i oko zgrade.\n\nLokacija (Karaburma, Dr Đorđa Joanovića):\n\nOdlična povezanost linijama: 16, 23, 25, 25P, 27, 74 (do centra za 20-25 min).\n\nU neposrednoj blizini: marketi, vrtići, škole, dom zdravlja i pijaca.\n\nStan je odmah useljiv. Tražimo savesne zakupce na duži period.",
+  "photos": 15,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
   "id": "ho-5425647915748",
   "slug": "ho-5425647915748-izdavanje-stan-konjarnik",
   "deal": "rent",
