@@ -1,5 +1,211 @@
 [
  {
+  "id": "fz-6af0536cd4aac1f7a806e806",
+  "slug": "fz-6af0536cd4aac1f7a806e806-prodaja-stan-bezanijska-kosa-2",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: трёхкомнатная квартира, 94 м², Бежанийска коса 2, Новый Белград",
+  "kind": "трёхкомнатная квартира",
+  "price": 320000,
+  "area": 94,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "novi-beograd",
+  "location": "Бежанийска коса 2",
+  "street": "Неделька Гвозденовича",
+  "geo": {
+   "lat": 44.81465,
+   "lng": 20.37382
+  },
+  "facts": [
+   [
+    "Площадь",
+    "94 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "1-й из 1"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся трёхкомнатная квартира площадью 94 м² в районе Бежанийска коса 2 (Новый Белград, Белград). 1-й этаж из 1. Цена 320 000 €.",
+  "originalLang": "sr",
+  "original": "Prodaje se trosoban stan površine 94 m² na Bežanijskoj kosi, u zgradama Energoprojekta sa fasadom od bele fasadne cigle. Nalazi se u neposrednoj blizini pijace, prodavnica i drugih komercijalnih sadržaja. Stan je u porodičnom vlasništvu od izgradnje.",
+  "photos": 15,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
+  "id": "fz-6af02f76037938a3380fbf15",
+  "slug": "fz-6af02f76037938a3380fbf15-prodaja-stan-bezanijska-kosa-1",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: двухкомнатная квартира, 61 м², Бежанийска коса 1, Новый Белград",
+  "kind": "двухкомнатная квартира",
+  "price": 244000,
+  "area": 61,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "novi-beograd",
+  "location": "Бежанийска коса 1",
+  "street": "Партизанске Авияцие",
+  "geo": {
+   "lat": 44.81731,
+   "lng": 20.38461
+  },
+  "facts": [
+   [
+    "Площадь",
+    "61 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "1-й из 6"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся двухкомнатная квартира площадью 61 м² в районе Бежанийска коса 1 (Новый Белград, Белград). 1-й этаж из 6. Цена 244 000 €.",
+  "originalLang": "sr",
+  "original": "Sada možeš da proveriš koliko bi ti vremena trebalo od nekretnine koju trenutno gledaš do tebi bitnih lokacija do kojih svakodnevno putuješ – posao, vrtić, fakultet, škola, teretana.",
+  "photos": 4,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
+  "id": "fz-6aec6f6bbee7378f06023e13",
+  "slug": "fz-6aec6f6bbee7378f06023e13-prodaja-stan-blok-45",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 2,5-комнатная квартира, 55 м², Блок 45, Новый Белград",
+  "kind": "2,5-комнатная квартира",
+  "price": 209000,
+  "area": 55,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "novi-beograd",
+  "location": "Блок 45",
+  "street": "Блок 45",
+  "geo": {
+   "lat": 44.79928,
+   "lng": 20.381
+  },
+  "facts": [
+   [
+    "Площадь",
+    "55 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "8-й из 9"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся 2,5-комнатная квартира площадью 55 м² в районе Блок 45 (Новый Белград, Белград). 8-й этаж из 9. Цена 209 000 €.",
+  "originalLang": "sr",
+  "original": "Na jednoj od najlepših lokacija Novog Beograda, u Bloku 45, na adresi Jurija Gagarina 189, prodaje se veoma funkcionalan, kompletno LUX renoviran dvoiposoban stan od 55 m², na 8. spratu zgrade od 9 spratova sa dva lifta.",
+  "photos": 15,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
+  "id": "fz-6a553ae2a57bd153900c7bf7",
+  "slug": "fz-6a553ae2a57bd153900c7bf7-prodaja-stan-beograd-na-vodi",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: четырёхкомнатная квартира, 176 м², Београд на води, Савски-Венац",
+  "kind": "четырёхкомнатная квартира",
+  "price": 1410000,
+  "area": 176,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "savski-venac",
+  "location": "Београд на води",
+  "street": "Београд на води",
+  "geo": {
+   "lat": 44.81364,
+   "lng": 20.45227
+  },
+  "facts": [
+   [
+    "Площадь",
+    "176 м²"
+   ],
+   [
+    "Комнат",
+    "4"
+   ],
+   [
+    "Этаж",
+    "18-й из 23"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся четырёхкомнатная квартира площадью 176 м² в районе Београд на води (Савски-Венац, Белград). 18-й этаж из 23. Цена 1 410 000 €.",
+  "originalLang": "sr",
+  "original": "Stan zauzima izuzetnu poziciju sa nesmetanim panoramskim pogledom iz sve četiri glavne prostorije. Prozori od poda do plafona pružaju impresivne vizure na reku Savu, Novi Beograd, Zemun ušće Save i Dunava, Kalemegdan, i panoramu beogradske obale. Ovo su među najlepšim i najzaštićenijim pogledima koje danas možete pronaći u okviru kompleksa Beograd na vodi.",
+  "photos": 15,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
+  "id": "fz-6ae3157865eaa16531099d93",
+  "slug": "fz-6ae3157865eaa16531099d93-prodaja-stan-blok-70",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: трёхкомнатная квартира, 74 м², Блок 70, Новый Белград",
+  "kind": "трёхкомнатная квартира",
+  "price": 262500,
+  "area": 74,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "novi-beograd",
+  "location": "Блок 70",
+  "street": "Юрия Гагарина",
+  "geo": {
+   "lat": 44.8043,
+   "lng": 20.39511
+  },
+  "facts": [
+   [
+    "Площадь",
+    "74 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся трёхкомнатная квартира площадью 74 м² в районе Блок 70 (Новый Белград, Белград). Цена 262 500 €.",
+  "originalLang": "sr",
+  "original": "Dva ulaza (Maksimalna funkcionalnost): Pored standardnog ulaza iz zgrade, stan poseduje i direktan pristup preko zatvorene terase. Ovo je savršeno rešenje za porodice sa decom, unos kabastih stvari ili za klijente ukoliko stan koristite kao poslovni prostor. Idealan izbor za starija lica, osobe sa smanjenom pokretljivošću ili roditelje sa bebama i kolicima .",
+  "photos": 11,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
   "id": "fz-6a25d6814a26b4415a054a36",
   "slug": "fz-6a25d6814a26b4415a054a36-izdavanje-stan-lekino-brdo",
   "deal": "rent",
