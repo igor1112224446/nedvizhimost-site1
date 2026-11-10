@@ -718,6 +718,205 @@
   "updated": "2026-11-10"
  },
  {
+  "id": "ho-5425644097906",
+  "slug": "ho-5425644097906-izdavanje-stan-konjarnik",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 41 м², Конярник, Звездара",
+  "kind": "1,5-комнатная квартира",
+  "price": 385,
+  "area": 41,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Конярник",
+  "street": "Рудо",
+  "geo": {
+   "lat": 44.78366,
+   "lng": 20.51338
+  },
+  "facts": [
+   [
+    "Площадь",
+    "41 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "27-й из 28"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 165 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 41 м² в районе Конярник (Звездара, Белград). 27-й этаж из 28, отопление центральное, после ремонта, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, домофон, интернет, кабельное ТВ, кондиционер, лифт, парковка, терраса, горячая вода, видеонаблюдение. Аренда 385 € в месяц.",
+  "originalLang": "sr",
+  "original": "Konjarnik, Aviv centar,Rudo. Atraktivan, namesten jednosoban stan,kupatilo, kuhinja sa trpezarijom i dnevnom sobom. sa velicanstvenim pogledom na Beograd i okolinu.Odlicno grejanje. Lift od parkinga do stana, lift poseduje agregat. Odlican gradski prevoz .tramvaj, autobus , e linija trolejebus 19, 29, autobus 31, 17, E1, tramvajske linije 5,7...",
+  "photos": 15,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
+  "id": "ho-5425645155506",
+  "slug": "ho-5425645155506-izdavanje-stan-zvezdarska-suma",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 25 м², Звездарска шума, Звездара",
+  "kind": "однокомнатная квартира",
+  "price": 400,
+  "area": 25,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Звездарска шума",
+  "street": "Косте Новаковича",
+  "geo": {
+   "lat": 44.79971,
+   "lng": 20.50798
+  },
+  "facts": [
+   [
+    "Площадь",
+    "25 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "полуподвал из 3"
+   ],
+   [
+    "Отопление",
+    "норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "можно въехать сразу",
+   "подходит студентам",
+   "домофон",
+   "кабельное ТВ",
+   "кондиционер",
+   "горячая вода"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 25 м² в районе Звездарска шума (Звездара, Белград). Полуподвал этаж из 3, с мебелью, отопление норвежские радиаторы, после ремонта, дом современной постройки. Есть: не последний этаж, можно въехать сразу, подходит студентам, домофон, кабельное ТВ, кондиционер, горячая вода. Аренда 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se potpuno namešten stan u Beogradu, preko puta Zvezdarske šume. Nepokretnost se nalazi u okviru stambene zgrade. Stan poseduju sve tehničke uredjaje koji su neophodni. Namenjen je za jednu osobu. U navedenu cenu su uključeni svi troškovi ( struja i info stan i kablovska televizija). Grejanje je na norveški radijator i inverter klimu. Stan se izdaje na duži vremenski period (minimum godinu dana).",
+  "photos": 15,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
+  "id": "ho-5425647961358",
+  "slug": "ho-5425647961358-izdavanje-stan-mirijevo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 40 м², Мириево, Звездара",
+  "kind": "1,5-комнатная квартира",
+  "price": 450,
+  "area": 40,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Мириево",
+  "street": "Александра Белича",
+  "geo": {
+   "lat": 44.78834,
+   "lng": 20.5448
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "3-й"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "кондиционер",
+   "лифт",
+   "терраса"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 40 м² в районе Мириево (Звездара, Белград). 3-й этаж, с мебелью, после ремонта, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу, кондиционер, лифт, терраса. Аренда 450 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stan se nalazi u mirnom delu Mirijeva u ulici Aleksandra Belića, u blizini škole, pijace, vrtića, dobro povezan sa gradom. Stan je nedavno kompletno renoviran i izdaje se kompletno namešten. Nalazi se na trećem spratu, u zgradi sa liftom.",
+  "photos": 11,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
   "id": "ho-5425646794966",
   "slug": "ho-5425646794966-prodaja-stan-gornji-grad",
   "deal": "sale",
