@@ -1,5 +1,67 @@
 [
  {
+  "id": "ho-5425647961044",
+  "slug": "ho-5425647961044-prodaja-stan-tasmajdan",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 3,5-комнатная квартира, 74 м², Ташмайдан, Палилула",
+  "kind": "3,5-комнатная квартира",
+  "price": 212000,
+  "area": 74,
+  "rooms": 3.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Ташмайдан",
+  "street": "Милана Танкосича",
+  "geo": {
+   "lat": 44.81054,
+   "lng": 20.48311
+  },
+  "facts": [
+   [
+    "Площадь",
+    "74 м²"
+   ],
+   [
+    "Комнат",
+    "3,5"
+   ],
+   [
+    "Этаж",
+    "3-й из 3"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "домофон",
+   "интернет",
+   "кондиционер",
+   "парковка",
+   "терраса",
+   "двухуровневая",
+   "есть право собственности"
+  ],
+  "text": "Продаётся 3,5-комнатная квартира площадью 74 м² в районе Ташмайдан (Палилула, Белград). 3-й этаж из 3, отопление центральное, после ремонта, старый фонд. Есть: домофон, интернет, кондиционер, парковка, терраса, двухуровневая, есть право собственности. Цена 212 000 €.",
+  "originalLang": "sr",
+  "original": "Prodajem svetao 3,5 sobni stan, trostrano orjentisan. Uknjižen na 40m2, a za ostalih 37m2 postoji sva potrebna dokumentacija koja je predata na ozakonjenje i po starom i po novom zakonu. Vlasnik 1/1, bez tereta. Stan je nadgradnja iz 2001. godine i nalazi se na 3. spratu stambene zgrade od 9 stanova, bez lifta. Zgrada ima svoje dvorište i auto izlaz na ulicu te se ta kapija koristi kao zajedničko parking mesto. \nStruktura stana: Na donjem nivou (57m2) je dnevna soba sa trprezarijom, kuhinja, terasa 12m2, kupatilo, jedna spavaća soba i još jedna manja soba (4,5m2). Na gornjem nivou se nalazi predsoblje i soba od 17m2. Takođe na gornjem nivou nije ušlo u korisnu površinu još oko 15m2 prostora koji je niži od 1,5m, ali je iskorišćen i taj prostor (deo je pod američkim plakarima, a deo je otvoren prostor). Takođe, na galeriji postoji tavanski prostor koji se koristi kao ostava. \nStan poseduje 3 klima uređaja, centralno grejanje, optički internet. Skoro sva stolarija je zamenjena pre 3 godine (aluminijuski vrata i prozori), parket je uredan, instalacije sve dobre.\nStan je trostrano orjentisan: istok, jug, zapad, vrlo svetao. Ne postoji ni jedan problem u vezi sa stanom.\nKraj je blizu centra grada, ali miran. U krugu od 100m su vrtići, potpuno renovirana osnovna škola, Vero, Maxi. Kraj je izuzetno povezan linijama gradskog prevoza. \nMolim Agencije da me ne kontaktiraju. Oglas je vlasnički i ne plaća se provizija.",
+  "photos": 15,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
   "id": "ho-5425647958269",
   "slug": "ho-5425647958269-prodaja-stan-dedinje",
   "deal": "sale",
