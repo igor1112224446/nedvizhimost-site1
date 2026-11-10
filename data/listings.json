@@ -1,5 +1,138 @@
 [
  {
+  "id": "ho-5425647958461",
+  "slug": "ho-5425647958461-izdavanje-stan-djeram-pijaca",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 52 м², Джерам пияца, Звездара",
+  "kind": "2,5-комнатная квартира",
+  "price": 600,
+  "area": 52,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Джерам пияца",
+  "street": "Марка Орешковича",
+  "geo": {
+   "lat": 44.80478,
+   "lng": 20.48873
+  },
+  "facts": [
+   [
+    "Площадь",
+    "52 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "2-й из 2"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "мансарда",
+   "подходит студентам",
+   "кондиционер"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 52 м² в районе Джерам пияца (Звездара, Белград). 2-й этаж из 2, с мебелью, отопление автономное, после ремонта. Есть: депозит, мансарда, подходит студентам, кондиционер. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajemo svetao, lepo uredjen i potpuno namesten stan povrsine 52m2 na drugom spratu u naselju Zvezdara. Sastoji se od hodnika, predsoblja, kupatila, dnevne sobe sa kuhinjom i trpezarijom i 2 spavace sobe. Stan je renoviran i kompletno opremljen novim namestajem i belom tehnikom koja je jos uvek u garanciji. Etazno grejanje + 2 klima uredjaja, od kojih je jedan inverter. Stan smo sredili za sebe, tako da ima sve potrebno za normalan zivot. U spavacoj je nov Dormeo dusek. Lokacija je veoma pogodna, nalazi se u blizini vise marketa, javnog prevoza, fakulteta, skola i svih neophodnih sadrzaja. Depozit obavezan u visini jedne mesecne kirije. Stan je dostupan od 1. Decembra 2026. (Postoji mogucnost i ranijeg useljenja po dogovoru). Za sve dodatne informacije poziv.",
+  "photos": 15,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
+  "id": "ho-5425646046603",
+  "slug": "ho-5425646046603-izdavanje-stan-visnjicka-banja",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 50 м², Вишничка Баня, Палилула",
+  "kind": "двухкомнатная квартира",
+  "price": 400,
+  "area": 50,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Вишничка Баня",
+  "street": "Дечия",
+  "geo": {
+   "lat": 44.82125,
+   "lng": 20.54168
+  },
+  "facts": [
+   [
+    "Площадь",
+    "50 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "1-й из 3"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 100 € в месяц"
+   ]
+  ],
+  "features": [
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "терраса",
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "подходит студентам"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 50 м² в районе Вишничка Баня (Палилула, Белград). 1-й этаж из 3, с мебелью, отопление автономное, люкс, дом современной постройки. Есть: домофон, интернет, кабельное ТВ, кондиционер, парковка, терраса, депозит, не последний этаж, можно въехать сразу, для некурящих, подходит студентам. Аренда 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "Kompletno opremljen stan u mirnom kraju u novijoj zgradi. Etažno grejanje, klima uređaj, kablovka TV i internet. Niski mesečni režijski troškovi, blizina prevoza, dobra povezanost sa centrom grada i TC BIG. Samo 6 km od Trga ili Vukovog spomenika. U okolini su prodavnice, vrtić, osnovna škola, sportski tereni. U ulici je besplatan parking, blizina Dunava - pogled sa terase, marina na Dunavcu i veza ka plaži Bela Stena, kao i sa Adom Huja..\nPogodan smeštaj za parove kao i za porodicu.",
+  "photos": 12,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
   "id": "ho-5425646293970",
   "slug": "ho-5425646293970-izdavanje-stan-kalvarija",
   "deal": "rent",
