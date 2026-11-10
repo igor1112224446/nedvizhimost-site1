@@ -1,5 +1,482 @@
 [
  {
+  "id": "ho-5425646803181",
+  "slug": "ho-5425646803181-izdavanje-stan-brace-jerkovic",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 50 м², Браче Еркович, Вождовац",
+  "kind": "двухкомнатная квартира",
+  "price": 600,
+  "area": 50,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "Браче Еркович",
+  "street": "Пива Караматиевица 22/31",
+  "geo": {
+   "lat": 44.76692,
+   "lng": 20.49217
+  },
+  "facts": [
+   [
+    "Площадь",
+    "50 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "2-й из 4"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 30 € в месяц"
+   ]
+  ],
+  "features": [
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "видеонаблюдение",
+   "депозит",
+   "не последний этаж",
+   "салонная планировка",
+   "для некурящих",
+   "подходит студентам"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 50 м² в районе Браче Еркович (Вождовац, Белград). 2-й этаж из 4, с мебелью, отопление аккумуляционные печи, люкс, старый фонд. Есть: домофон, интернет, кабельное ТВ, кондиционер, парковка, видеонаблюдение, депозит, не последний этаж, салонная планировка, для некурящих, подходит студентам. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajemo renoviran i lux namesten stan u mirnom i lepom delu naselja,okruzen zelenilom i mnogobrojnim parkicima za decu.Stan se nalazi na 300m od dve skole,vrtica,doma zdravlja,pijace,maxi marketa... Prostran parking ispred zgrade. Stanovi izuzetno zahvalni zbog malih troskova infostana i ostalih dazbina!                   Dostupan od .",
+  "photos": 13,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
+  "id": "ho-5425647958479",
+  "slug": "ho-5425647958479-izdavanje-stan-blok-65",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 35 м², Блок 65, Новый Белград",
+  "kind": "студия",
+  "price": 1100,
+  "area": 35,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Блок 65",
+  "street": "Милутина Миланкович",
+  "geo": {
+   "lat": 44.8154,
+   "lng": 20.40469
+  },
+  "facts": [
+   [
+    "Площадь",
+    "35 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "2-й из 9"
+   ],
+   [
+    "Отопление",
+    "тёплый пол"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "гараж"
+  ],
+  "text": "Сдаётся студия площадью 35 м² в районе Блок 65 (Новый Белград, Белград). 2-й этаж из 9, без мебели, отопление тёплый пол, люкс, дом современной постройки. Есть: депозит, можно въехать сразу, гараж. Аренда 1 100 € в месяц.",
+  "originalLang": "sr",
+  "original": "Garsonjera 35 m2 Belmondo, garažno mesto sa punjačem za električno vozilo, prazan, nenamešten.",
+  "photos": 8,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
+  "id": "ho-5425647958472",
+  "slug": "ho-5425647958472-prodaja-stan-mirijevo",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: двухкомнатная квартира, 43 м², Мириево, Звездара",
+  "kind": "двухкомнатная квартира",
+  "price": 130000,
+  "area": 43,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Мириево",
+  "street": "Руди Чаявец 35V",
+  "geo": {
+   "lat": 44.79263,
+   "lng": 20.54337
+  },
+  "facts": [
+   [
+    "Площадь",
+    "43 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "2-й из 4"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "можно въехать сразу",
+   "кондиционер",
+   "лифт",
+   "терраса"
+  ],
+  "text": "Продаётся двухкомнатная квартира площадью 43 м² в районе Мириево (Звездара, Белград). 2-й этаж из 4, отопление автономное, люкс, дом современной постройки. Есть: не последний этаж, можно въехать сразу, кондиционер, лифт, терраса. Цена 130 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju ful opremljen stan od 43m2. Zgrada je useljena 2022 godine, stvari u stanu su nove i sve je radjeno po meri ( plakari,kuhinja,dnevna,spavaća soba ) .Stan se nalazi na drugom spratu zgrade od 4 sprata. Zgrada poseduje garažu i parking mesta koja su na prodaju direktno od investitora.\nPreko puta zgrade nalazi se OŠ Pavle Savić i vrtić Zvončica . Kroz ulicu prolazi minibus 62, a u ulici ispod 27, 27e, 74, 25P.\nGrejanje je na struju, stan poseduje terasu, klimu, ful opremljeno kupatilo, lift..\nKuhinja je odvojena od dnevne sobe i na kuhinji ima prozor, iz dnevne sobe se izlazi na tersu, tako da su sve prostorije odvojene i u njih se ulazi iz istog hodnika.\nStan odličan za porodični život ili izdvanje . ( u stanu se nalaze trenutno stanari koji bi nastavili tu da žive ako će se stan i dalje iznajmljivati )\nZa ostale informacije pozovite . Milan\nCENA 130.000 €.",
+  "photos": 15,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
+  "id": "fz-6af2e164825edab2d3033779",
+  "slug": "fz-6af2e164825edab2d3033779-prodaja-stan-kanarevo-brdo",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: трёхкомнатная квартира, 65 м², Канарево Брдо, Раковица",
+  "kind": "трёхкомнатная квартира",
+  "price": 159900,
+  "area": 65,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Раковица",
+  "districtSlug": "rakovica",
+  "location": "Канарево Брдо",
+  "street": "Канарево Брдо",
+  "geo": {
+   "lat": 44.75162,
+   "lng": 20.45087
+  },
+  "facts": [
+   [
+    "Площадь",
+    "65 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "3-й из 3"
+   ],
+   [
+    "Отопление",
+    "электрическое, автономное"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся трёхкомнатная квартира площадью 65 м² в районе Канарево Брдо (Раковица, Белград). 3-й этаж из 3, без мебели, отопление электрическое, автономное. Цена 159 900 €.",
+  "originalLang": "sr",
+  "original": "Trosoban stan u zgradi za prodaju, uknjižen, Kanarevo Brdo, 65 m2, na 3. spratu. Stanje - Uobičajeno, Struja, ima terasu, ima kupatilo.",
+  "photos": 11,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
+  "id": "fz-693542865189490d440072f3",
+  "slug": "fz-693542865189490d440072f3-prodaja-stan-centar",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: трёхкомнатная квартира, 93 м², Центр, Земун",
+  "kind": "трёхкомнатная квартира",
+  "price": 260400,
+  "area": 93,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "Центр",
+  "street": "Горньоградска",
+  "geo": {
+   "lat": 44.8445,
+   "lng": 20.39486
+  },
+  "facts": [
+   [
+    "Площадь",
+    "93 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "3-й из 3"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся трёхкомнатная квартира площадью 93 м² в районе Центр (Земун, Белград). 3-й этаж из 3, отопление центральное. Цена 260 400 €.",
+  "originalLang": "sr",
+  "original": "Trosoban stan u zgradi za prodaju, uknjižen, Centar, 93 m2, na 3. spratu. Stanje - Renovirano, Centralno, ima terasu, ima lođu, ima kupatilo, ima toalet.",
+  "photos": 7,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
+  "id": "fz-6ae9971be3dddd7a5e07d397",
+  "slug": "fz-6ae9971be3dddd7a5e07d397-prodaja-stan-botanicka-basta",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: четырёхкомнатная квартира, 81 м², Ботаничка Башта, Палилула",
+  "kind": "четырёхкомнатная квартира",
+  "price": 320000,
+  "area": 81,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "Ботаничка Башта",
+  "street": "Поречка 9",
+  "geo": {
+   "lat": 44.81792,
+   "lng": 20.47814
+  },
+  "facts": [
+   [
+    "Площадь",
+    "81 м²"
+   ],
+   [
+    "Комнат",
+    "4"
+   ],
+   [
+    "Этаж",
+    "2-й из 5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "частично меблирована"
+   ]
+  ],
+  "features": [
+   "лифт"
+  ],
+  "text": "Продаётся четырёхкомнатная квартира площадью 81 м² в районе Ботаничка Башта (Палилула, Белград). 2-й этаж из 5, частично меблирована, отопление центральное. Есть: лифт. Цена 320 000 €.",
+  "originalLang": "sr",
+  "original": "Četvorosoban stan u zgradi za prodaju, uknjižen, Botanička Bašta, 81 m2, na 2. spratu, ima lift. Stanje - Uobičajeno, Centralno, ima terasu, ima kupatilo, ima toalet. Ima garažno mesto u sklopu zgrade.",
+  "photos": 15,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
+  "id": "ho-5425647943066",
+  "slug": "ho-5425647943066-prodaja-stan-gundulicev-venac",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: однокомнатная квартира, 22 м², Гундуличев венац, Старый город",
+  "kind": "однокомнатная квартира",
+  "price": 110000,
+  "area": 22,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "opstina-stari-grad",
+  "location": "Гундуличев венац",
+  "street": "Сантицева",
+  "geo": {
+   "lat": 44.8191,
+   "lng": 20.47122
+  },
+  "facts": [
+   [
+    "Площадь",
+    "22 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "2-й из 4"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "можно въехать сразу",
+   "салонная планировка",
+   "есть право собственности",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер"
+  ],
+  "text": "Продаётся однокомнатная квартира площадью 22 м² в районе Гундуличев венац (Старый город, Белград). 2-й этаж из 4, отопление автономное, после ремонта, старый фонд. Есть: не последний этаж, можно въехать сразу, салонная планировка, есть право собственности, домофон, интернет, кабельное ТВ, кондиционер. Цена 110 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju je šarmantan, uknjižen stan od 22 m², smešten na drugom spratu zgrade u Šantićevoj ulici, u samom centru grada, nadomak Skadarlije. Stan se sastoji od kuhinje, kupatila i velike dnevne sobe. Mali, sladak i pun šarma — odličan izbor za život u srcu Beograda ili kao investicija za izdavanje.",
+  "photos": 8,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
+  "id": "ho-5425647960134",
+  "slug": "ho-5425647960134-izdavanje-stan-crveni-krst",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 40 м², Црвени крст, Врачар",
+  "kind": "двухкомнатная квартира",
+  "price": 700,
+  "area": 40,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "opstina-vracar",
+  "location": "Црвени крст",
+  "street": "Брегалничка",
+  "geo": {
+   "lat": 44.79688,
+   "lng": 20.49126
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "приземный"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 70 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "горячая вода"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 40 м² в районе Црвени крст (Врачар, Белград). Приземный этаж, с мебелью, отопление автономное, люкс, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, интернет, кабельное ТВ, кондиционер, горячая вода. Аренда 700 € в месяц.",
+  "originalLang": "sr",
+  "original": "Издаје се прелепо намештен и функционалан стан површине 40 м², на атрактивној локацији на Врачару, у Брегалничкој улици, недалеко од Црвеног крста.Стан се састоји од дневне собе, спаваће собе, кухиње и купатила. Одлично је опремљен, укусно намештен и пружа све услове за удобан и пријатан живот. Грејање је етажно на струју.Посебна предност стана је одлична саобраћајна повезаност са центром града и осталим деловима Београда, захваљујући трамвајским линијама 5, 7 и 14, као и добро организованом аутобуском превозу.У непосредној близини налази се прелеп парк, идеалан за шетњу, одмор и рекреацију. Локација је изузетно погодна и за породице са децом, с обзиром на близину школа, вртића и свих садржаја неопходних за свакодневни живот.Стан представља одличан избор за све који желе миран и удобан живот на једној од лепших локација на Врачару, уз одличну повезаност са свим деловима града.\nСдаётся в аренду прекрасная, полностью меблированная квартира площадью 40 м² в одном из самых привлекательных районов Белграда — Врачар, на улице Брегалничка, недалеко от Црвени Крст. Квартира состоит из гостиной, отдельной спальни, кухни и ванной комнаты. Она отлично оборудована, уютно и со вкусом обставлена, идеально подходит для комфортного проживания. Отопление индивидуальное, электрическое. Одним из главных преимуществ квартиры является отличное транспортное сообщение с центром города и другими районами Белграда. Поблизости проходят трамвайные маршруты № 5, 7 и 14, а также имеется удобное автобусное сообщение. В непосредственной близости расположен красивый парк, идеально подходящий для прогулок, отдыха и занятий спортом. Рядом находятся школы, детские сады, магазины и вся необходимая инфраструктура для повседневной жизни. Квартира прекрасно подойдёт как одному человеку или паре, так и небольшой семье с детьми. Это отличный выбор для тех, кто ценит комфорт, уют, спокойную атмосферу и удобное расположение в одном из самых красивых районов Белграда.",
+  "photos": 5,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
   "id": "ho-5425642950681",
   "slug": "ho-5425642950681-izdavanje-stan-ledine",
   "deal": "rent",
@@ -1247,17 +1724,22 @@
   ],
   "features": [
    "депозит",
+   "можно с животными",
+   "не последний этаж",
    "можно въехать сразу",
    "домофон",
+   "интернет",
    "кондиционер",
+   "лифт",
+   "подвал",
    "терраса"
   ],
-  "text": "Сдаётся однокомнатная квартира площадью 36 м² в районе ФОН - Билечка (Вождовац, Белград). 2-й этаж из 10, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: депозит, можно въехать сразу, домофон, кондиционер, терраса. Аренда 500 € в месяц.",
+  "text": "Сдаётся однокомнатная квартира площадью 36 м² в районе ФОН - Билечка (Вождовац, Белград). 2-й этаж из 10, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: депозит, можно с животными, не последний этаж, можно въехать сразу, домофон, интернет, кондиционер, лифт, подвал, терраса. Аренда 500 € в месяц.",
   "originalLang": "sr",
   "original": "Opis stana\n\nStan je svetao, uredan, funkcionalan i pažljivo organizovan kako bi pružio maksimalan komfor za svakodnevni život.\n\nKuhinja sa trpezarijom i dnevno-spavaći deo čine dve funkcionalne celine koje su međusobno povezane **otvorenim prolazom bez vrata**, širine približno 1,80 m. Ovakav raspored omogućava slobodnu komunikaciju između prostorija, doprinosi osećaju prostranosti i otvorenosti, a istovremeno zadržava jasnu podelu prostora prema nameni.\n\nKuhinja sa trpezarijom potpuno je opremljena za svakodnevnu upotrebu, dok dnevno-spavaći deo pruža prijatan i udoban ambijent za odmor, spavanje i boravak tokom dana. Stan poseduje i terasu, koja predstavlja dodatni prostor za opuštanje i doprinosi ukupnom komforu stanovanja.\n\n**Stan je u potpunosti namešten i opremljen, bez potrebe za dodatnim ulaganjima.** Na raspolaganju je sve što je neophodno za svakodnevni život, uključujući posteljinu, prekrivače, peškire, kompletno kućno posuđe i ostalu potrebnu opremu.\n\nProstor je uredan, praktičan i spreman za trenutno useljenje.\n\nStan je idealan za jednu osobu ili par koji traže prijatan, funkcionalan i potpuno opremljen životni prostor na dobroj gradskoj lokaciji.",
   "photos": 15,
   "added": "2026-11-09",
-  "updated": "2026-11-09"
+  "updated": "2026-11-10"
  },
  {
   "id": "ho-5425647344948",
@@ -2054,7 +2536,7 @@
   "original": "Stan čini moderna opremljena kuhinja, trpezarija, otvoreni dnevni boravak, hodnik, spavaća soba, kupatilo i balkon. Grejanje je etažno. Stan ima klima uređaj.\n\nGodina gradnje: 2011\n\nStan se nalazi u mirnom, nezagađenom kraju (Đurđevo brdo). Dostupan besplatan parking ispred zgrade. U blizini stajališta “Pirandelova”: 302, 303, 304, 305, 306, 307, 309, 311, 313, 301N, 307N.\n\nZa više informacija, molim pozovite ili pišite \n\n+38269506680 (Viber/WhatsApp)",
   "photos": 11,
   "added": "2026-11-08",
-  "updated": "2026-11-09"
+  "updated": "2026-11-10"
  },
  {
   "id": "ho-5425647945420",
