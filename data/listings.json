@@ -1,5 +1,78 @@
 [
  {
+  "id": "ho-5425647958489",
+  "slug": "ho-5425647958489-izdavanje-stan-retenzija",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 80 м², Ретензия, Земун",
+  "kind": "трёхкомнатная квартира",
+  "price": 850,
+  "area": 80,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Ретензия",
+  "street": "Джона Кенедия",
+  "geo": {
+   "lat": 44.83376,
+   "lng": 20.41679
+  },
+  "facts": [
+   [
+    "Площадь",
+    "80 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "7-й из 10"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 180 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно с животными",
+   "не последний этаж",
+   "для некурящих",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "лоджия"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 80 м² в районе Ретензия (Земун, Белград). 7-й этаж из 10, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: депозит, можно с животными, не последний этаж, для некурящих, домофон, интернет, кабельное ТВ, кондиционер, лифт, лоджия. Аренда 850 € в месяц.",
+  "originalLang": "sr",
+  "original": "A bright two-bedroom apartment of 80 sqm (including 10 sqm of two loggias), facing central Zemun and offering views of the Danube, with the following layout:\n\n- 1 spacious bedroom\n- 1 smaller bedroom\n- 1 spacious living room with a loggia-balcony\n- 1 open-plan kitchen and dining area with a loggia-balcony\n- 1 bathroom\n- 1 laundry room\n\nCentral heating, fully furnished and equipped. Fibre-optic internet and TV connection will be installed.\n\nIdeal for a couple or a family with one child. Pets are welcome!\n\nLocated just a few minutes' walk from the Zemun Quay, the nearest Maxi supermarket, public transport stops, several kindergartens, King Aleksandar I Primary School, the New Belgrade Health Centre, and a variety of other amenities.\nPayment terms: 3 months' rent in advance + 1 month's rent as a security deposit.\nAvailable from .\n---------------------------\n\nTrosoban, svetao i lep stan od 80kvm (od čega 10kvm u dve lođe), orijentacija ka centru Zemuna i s pogledom na Dunav, sa narednom strukturom:\n- 1 veća spavaća soba\n- 1 manja spavaća soba\n- 1 trpezarijsko-kuhinjski prostor sa lođom\n- 1 kupatilo\n- 1 vešernica\n- 1 prostrana dnevna soba sa lođom\nCentralno grejanje, potpuno opremljen, uvodi se optički internet i TV;\nPogodan za par ili porodicu s 1 detetom, pet friendly;\nNa nekoliko minuta hoda od Zemunskog keja, najbližeg Maxija, stanice gradskog prevoza, nekoliko vrtića, osnovne škole Kralj Aleksandar I, doma zdravlja NBG i niza drugih sadržaja.\n\nPlaćanje 3 meseca unapred + 1 kirija depozit\nRaspoloživ od .",
+  "photos": 15,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
   "id": "ho-5425647286064",
   "slug": "ho-5425647286064-izdavanje-stan-dedinje",
   "deal": "rent",
