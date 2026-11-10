@@ -1,5 +1,248 @@
 [
  {
+  "id": "ho-5425646799686",
+  "slug": "ho-5425646799686-prodaja-stan-karaburma",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: двухкомнатная квартира, 59.18 м², Карабурма, Палилула",
+  "kind": "двухкомнатная квартира",
+  "price": 177000,
+  "area": 59.18,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Карабурма",
+  "street": "Хозе Мартиа",
+  "geo": {
+   "lat": 44.80924,
+   "lng": 20.52067
+  },
+  "facts": [
+   [
+    "Площадь",
+    "59.18 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "1-й из 2"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "есть право собственности",
+   "гараж",
+   "домофон",
+   "кондиционер",
+   "подвал",
+   "терраса",
+   "горячая вода"
+  ],
+  "text": "Продаётся двухкомнатная квартира площадью 59.18 м² в районе Карабурма (Палилула, Белград). 1-й этаж из 2, люкс, дом современной постройки. Есть: есть право собственности, гараж, домофон, кондиционер, подвал, терраса, горячая вода. Цена 177 000 €.",
+  "originalLang": "sr",
+  "original": "U mirnoj ulici na Karaburmi, u blizini svega sto je potrebno za zivot u zavrsnoj fazi izgradnje.\n\nStan od 59,18m² mereno preko 60m2 izvrsna gradnja, sa prostranom terasom u zelenilu na koju se izlazi direktno iz dnevne sobe. Poslednji objekat u ulici pored parka. \n\nKvalitet i privatnost bez osecaja da zivite u mravinjaku.\n\nZgrada je građena bez kompromisa:\n\n• Aluminijumska stolarija sa troslojnim staklom od poda do plafona\n• Električne roletne\n• Hrastov parket prve klase\n• Španska keramika premium kvaliteta\n• Grejanje i hlađenje rešeno pomoću toplotnih pumpi (inverter klima – vazduh/vazduh) sa parapetnim unutrašnjim jedinicama.\n• Podno grejanje u kupatilu\n• Sigurnosna ulazna vrata\n• Klinker ciglice na fasadi sa 10cm stiroporom termoizolacijom\n\nDodatne pogodnosti:\n• Ostava od 4m² gratis\n• Garažno mesto 20.000 € nema pdv-a. Nema agencijske provizije.\n\nPlanirano useljenje zgrade Novembar 30 2026 te.\n\nCena stana: 177000 € nema pdv-a.\n\nMoguća prodaja na kredit.",
+  "photos": 10,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
+  "id": "ho-5425647964074",
+  "slug": "ho-5425647964074-prodaja-stan-mirijevo",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 1,5-комнатная квартира, 37 м², Мириево, Звездара",
+  "kind": "1,5-комнатная квартира",
+  "price": 104000,
+  "area": 37,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Мириево",
+  "street": "Шейкина",
+  "geo": {
+   "lat": 44.80094,
+   "lng": 20.52784
+  },
+  "facts": [
+   [
+    "Площадь",
+    "37 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "приземный из 4"
+   ],
+   [
+    "Отопление",
+    "тёплый пол"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "энергопаспорт",
+   "не последний этаж",
+   "можно въехать сразу",
+   "есть право собственности",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "с садом",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся 1,5-комнатная квартира площадью 37 м² в районе Мириево (Звездара, Белград). Приземный этаж из 4, отопление тёплый пол, люкс, дом современной постройки. Есть: энергопаспорт, не последний этаж, можно въехать сразу, есть право собственности, домофон, интернет, кабельное ТВ, кондиционер, парковка, с садом, терраса, горячая вода, видеонаблюдение. Цена 104 000 €.",
+  "originalLang": "sr",
+  "original": "Direktna prodaja stana od VLASNIKA ,stan je 1/1 uknjižen.Mirijevo, ulica Šejkina.Novogradnja je u pitanju.Prodaja je za keš kupce kao i cena.Za više informacija pozvati !",
+  "photos": 7,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
+  "id": "ho-5425645176372",
+  "slug": "ho-5425645176372-izdavanje-stan-borca",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 20 м², Борча, Палилула",
+  "kind": "студия",
+  "price": 320,
+  "area": 20,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Борча",
+  "street": "Братства и Единства 85",
+  "geo": {
+   "lat": 44.88159,
+   "lng": 20.45389
+  },
+  "facts": [
+   [
+    "Площадь",
+    "20 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "высокий приземный из 4"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "французский балкон",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер"
+  ],
+  "text": "Сдаётся студия площадью 20 м² в районе Борча (Палилула, Белград). Высокий приземный этаж из 4, с мебелью, дом современной постройки. Есть: можно въехать сразу, французский балкон, домофон, интернет, кабельное ТВ, кондиционер. Аренда 320 € в месяц.",
+  "originalLang": "sr",
+  "original": "Nov kompletno namesten vrlo lep stan, u glavnoj ulici Bratstva i Jedinstva u samom centru Borce, u zgradi iznad kladionice Balkan Bet. Nov namestaj: LCD TV, klima klasa A za grejanje i hladjenje sa malom potrosnjom struje, ves masina, itd.\n\nStan je vrlo topao i lako se greje sa klimom koja trosi malo struje.\n\nOpticki internet i KATV (odlican paket Supernove). Ukupni troskovi za KATV, Internet i Infostan su 2500din. Struja je koliko se potrosi. U cenu stana je ukljuceno kompletno odrzavanje elektricnih uredjaja ili majstora ukoliko se ukaze potreba.\n\nStan se nalazi na samoj stanici 96 i 85 i oko 100m od stanice 95. Useljiv od 02.10",
+  "photos": 9,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
+  "id": "ho-5425647963774",
+  "slug": "ho-5425647963774-prodaja-stan-marija-bursac",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: двухкомнатная квартира, 35 м², Мария Бурсач, Земун",
+  "kind": "двухкомнатная квартира",
+  "price": 140000,
+  "area": 35,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Мария Бурсач",
+  "street": "Марие Бурсач",
+  "geo": {
+   "lat": 44.83805,
+   "lng": 20.39238
+  },
+  "facts": [
+   [
+    "Площадь",
+    "35 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "2-й из 4"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "можно въехать сразу",
+   "есть право собственности",
+   "кондиционер",
+   "терраса"
+  ],
+  "text": "Продаётся двухкомнатная квартира площадью 35 м² в районе Мария Бурсач (Земун, Белград). 2-й этаж из 4, отопление центральное, после ремонта, дом современной постройки. Есть: не последний этаж, можно въехать сразу, есть право собственности, кондиционер, терраса. Цена 140 000 €.",
+  "originalLang": "sr",
+  "original": "Prodaje se dvosoban stan od 35 kvadrata na vrhunskoj lokaciji nadomak parka Jelovac i Prvomajske ulice, savrseno upakovan i renoviran, poseduje i terasu. Zgrada je relativno novije gradnje, centralno grejanje po utrosku, stan je uknjizen,postoji mogucnost kreditnog finansiranja.",
+  "photos": 8,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
   "id": "ho-5425642795432",
   "slug": "ho-5425642795432-izdavanje-stan-altina",
   "deal": "rent",
