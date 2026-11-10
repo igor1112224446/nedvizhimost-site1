@@ -1,5 +1,149 @@
 [
  {
+  "id": "ho-5425646293970",
+  "slug": "ho-5425646293970-izdavanje-stan-kalvarija",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 60 м², Калвария, Земун",
+  "kind": "2,5-комнатная квартира",
+  "price": 700,
+  "area": 60,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Калвария",
+  "street": "Златиборска",
+  "geo": {
+   "lat": 44.83817,
+   "lng": 20.39644
+  },
+  "facts": [
+   [
+    "Площадь",
+    "60 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "4-й из 5"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 100 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "подходит студентам",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "терраса",
+   "горячая вода"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 60 м² в районе Калвария (Земун, Белград). 4-й этаж из 5, с мебелью, отопление автономное, люкс, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, подходит студентам, домофон, интернет, кабельное ТВ, кондиционер, парковка, терраса, горячая вода. Аренда 700 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem potpuno renoviran stan sa svim stvarima, a koji se nalazi na najlepsoj lokaciji u Zemunu- Kalvarija, u ulici Zlatiborska.\nStan je useljiv i dostupan za razgledanje od 13.11.2026. godine, renoviran po najvisim standardima, sve radove je izvodila profesionalna firma koja daje garanciju na sve radove godinu dana. U stanu ne postoji nikakvo ulaganje.\nStan se nalazi 100 metara od svih infrastrukturnih sadrzaja (autobusko stajaliste, vrtici, skola, parkovi, pijaca, marketi, apoteke, restorani..) i tvrdim da je jedno od najlepsih mesta za zivot.\nProstorije: dnevni boravak sa kuhinjom i trpezarijom, hodnik, 2 spavace sobe, odvojen garderober, kupatilo i terasa.\nNije poslednji sprat, zgrada ima pet spratova plus potkrovlje, a stan se nalazi na cetvrtom spratu.\nZgrada ne poseduje lift, ali stepenice nisu zamorne i lako se stize do stana.\n*Sa agencijama saradjujem iskljucivo bez obaveze placanja provizije sa moje strane.*\nI am renting out a completely renovated apartment with everything, which is located in the most beautiful location in Zemun - Kalvarija, in Zlatiborska Street.\n\nThe apartment is habitable and available for viewing from 11/13/2026, renovated according to the highest standards, all work was performed by a professional company that gives a guarantee on all work for one year. There is no investment in the apartment.\n\nThe apartment is located 100 meters from all infrastructure facilities (bus stops, kindergartens, schools, parks, markets, markets, pharmacies, restaurants...) and I claim that it is one of the most beautiful places to live.\n\nRooms: living room with kitchen and dining room, hallway, 2 bedrooms, separate wardrobe, bathroom and terrace.\n\nIt is not the last floor, the building has five floors plus an attic, and the apartment is on the fourth floor.\n\nThe building does not have an elevator, but the stairs are not tiring and it is easy to reach the apartment.",
+  "photos": 15,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
+  "id": "ho-5425645921651",
+  "slug": "ho-5425645921651-izdavanje-stan-centar",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 49 м², Центр, Палилула",
+  "kind": "двухкомнатная квартира",
+  "price": 700,
+  "area": 49,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Центр",
+  "street": "Карнеджиева",
+  "geo": {
+   "lat": 44.80464,
+   "lng": 20.47134
+  },
+  "facts": [
+   [
+    "Площадь",
+    "49 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "9-й из 11"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "кондиционер",
+   "лифт",
+   "подвал",
+   "терраса",
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "салонная планировка",
+   "для некурящих"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 49 м² в районе Центр (Палилула, Белград). 9-й этаж из 11, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: интернет, кондиционер, лифт, подвал, терраса, депозит, не последний этаж, можно въехать сразу, салонная планировка, для некурящих. Аренда 700 € в месяц.",
+  "originalLang": "sr",
+  "original": "Lux stan sa svim sadržajima.Blizina Tašmajdan parka,Vukovog spomenika I brojnih fakulteta.",
+  "photos": 13,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
   "id": "ho-5425647961044",
   "slug": "ho-5425647961044-prodaja-stan-tasmajdan",
   "deal": "sale",
