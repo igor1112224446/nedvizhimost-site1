@@ -1,5 +1,69 @@
 [
  {
+  "id": "ho-5425647958269",
+  "slug": "ho-5425647958269-prodaja-stan-dedinje",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: двухкомнатная квартира, 55 м², Дедине, Савски-Венац",
+  "kind": "двухкомнатная квартира",
+  "price": 240000,
+  "area": 55,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "opstina-savski-venac",
+  "location": "Дедине",
+  "street": "Миче Орловича",
+  "geo": {
+   "lat": 44.76517,
+   "lng": 20.45907
+  },
+  "facts": [
+   [
+    "Площадь",
+    "55 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "приземный из 2"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "домофон",
+   "интернет",
+   "кондиционер",
+   "парковка",
+   "подвал",
+   "с садом",
+   "видеонаблюдение",
+   "можно въехать сразу",
+   "есть право собственности"
+  ],
+  "text": "Продаётся двухкомнатная квартира площадью 55 м² в районе Дедине (Савски-Венац, Белград). Приземный этаж из 2, отопление центральное, люкс, дом современной постройки. Есть: домофон, интернет, кондиционер, парковка, подвал, с садом, видеонаблюдение, можно въехать сразу, есть право собственности. Цена 240 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju stan na Dedinju, Lisicji potok, u novijoj, dobro odrzavanoj zgradi sa parking mestom.\n\nOdlican raspored prostorija, od izvorno projektovanog 3-sobnog stana napravljen je komforan 2-soban.\nStan se prodaje kompletno namesten bez ikakvih ulaganj, a postoji i opcija sa umanjenom cenom od 10.000 eur bez namestaja.\n\nLokacija je mirna i u blizini marketa, vrtica i skola.",
+  "photos": 15,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
   "id": "ho-5425647958489",
   "slug": "ho-5425647958489-izdavanje-stan-retenzija",
   "deal": "rent",
