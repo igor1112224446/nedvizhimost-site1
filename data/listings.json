@@ -1,5 +1,73 @@
 [
  {
+  "id": "ho-5425646794966",
+  "slug": "ho-5425646794966-prodaja-stan-gornji-grad",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: трёхкомнатная квартира, 71.33 м², Горни град, Земун",
+  "kind": "трёхкомнатная квартира",
+  "price": 243500,
+  "area": 71.33,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Горни град",
+  "street": "Банатска",
+  "geo": {
+   "lat": 44.85438,
+   "lng": 20.37859
+  },
+  "facts": [
+   [
+    "Площадь",
+    "71.33 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "5-й из 6"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "гараж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "лоджия",
+   "парковка",
+   "видеонаблюдение",
+   "энергопаспорт",
+   "не последний этаж",
+   "можно въехать сразу",
+   "есть право собственности"
+  ],
+  "text": "Продаётся трёхкомнатная квартира площадью 71.33 м² в районе Горни град (Земун, Белград). 5-й этаж из 6, отопление центральное, люкс, дом современной постройки. Есть: гараж, домофон, интернет, кабельное ТВ, кондиционер, лифт, лоджия, парковка, видеонаблюдение, энергопаспорт, не последний этаж, можно въехать сразу, есть право собственности. Цена 243 500 €.",
+  "originalLang": "sr",
+  "original": "- Stan prodaje vlasnik. Prodaja bez provizije. Agencije se mogu javiti isključivo da dovedu kupca koga zastupaju i od njega naplate proviziju.\n\n- U ponudi potpuno nov neuseljavan 3,0 soban stan 71,33 m2 u naselju Zemona nova, zajedno sa parking mestom od 14m2 na -1 spratu odmah do ulaznih vrata u garažu\n- Prodaju se isključivo zajedno. Cena parking mesta je dodatni iznos na cenu stana od 23.000e\n - Stan ima 2 spavaće sobe, 2 mokra čvora, veliki  dnevni boravak sa trpezarijom i prostranom kuhinjom.\n- 2 klima uređaja \n- Opremljen je smart home Oblo uređajem za povezivanje ostalih smart home  uređaja i daljinsko upravljanje njima\n- Pozicija stana je jug, sa pogledom na mirni deo stambenog naselja, \n- Nalazi se na 5. spratu, lokacijski u okviru zgrade udaljeno od servisa i obilaznice što omogućava miran i kvalitetan život\n- Može prodaja na kredit",
+  "photos": 11,
+  "added": "2026-11-10",
+  "updated": "2026-11-10"
+ },
+ {
   "id": "ho-5425647410593",
   "slug": "ho-5425647410593-prodaja-stan-borca",
   "deal": "sale",
