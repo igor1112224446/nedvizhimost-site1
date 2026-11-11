@@ -1,5 +1,241 @@
 [
  {
+  "id": "kp-197171286",
+  "slug": "kp-197171286-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 65 м², © ОпенСтреетМап цонтрибуторс, Раковица",
+  "kind": "трёхкомнатная квартира",
+  "price": 650,
+  "area": 65,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Раковица",
+  "districtSlug": "rakovica",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Патриярха Йоаникия",
+  "geo": {
+   "lat": 44.73999,
+   "lng": 20.42302
+  },
+  "facts": [
+   [
+    "Площадь",
+    "65 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "2-й из 7"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "домофон",
+   "терраса",
+   "кондиционер",
+   "видеонаблюдение",
+   "лифт",
+   "доступ для колясок",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 65 м² в районе © ОпенСтреетМап цонтрибуторс (Раковица, Белград). 2-й этаж из 7, с мебелью, отопление центральное, старый фонд. Есть: можно въехать сразу, домофон, терраса, кондиционер, видеонаблюдение, лифт, доступ для колясок, парковка, депозит. Аренда 650 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se prostran trosoban stan od 65 m², na drugom spratu stambene zgrade sa dva lifta (putnički i teretni).  \n\nStan je namešten i funkcionalnog rasporeda, a sastoji se od komforne dnevne sobe, dve spavaće sobe, kuhinje, kupatila, terase i praktičnog špajza. Idealan je za porodicu, par ili zaposlene osobe koje traže udoban i miran životni prostor.  \n\nLokacija je izuzetno pogodna za svakodnevni život. U neposrednoj blizini nalaze se obdanište, osnovna škola i gimnazija, dok se Maxi nalazi preko puta ulaza u zgradu, a Lidl na nekoliko minuta udaljenosti.  \n\nDodatna prednost su veliki besplatni parking prostori ispred i iza zgrade, što omogućava jednostavno i bezbrižno parkiranje.  \n\nCena zakupa: 650 € mesečno + režijski troškovi.  \nDepozit u visini jedne mesečne zakupnine.  \n\nKontakt telefon aktivan od 10h do 19h",
+  "photos": 10,
+  "added": "2026-11-11",
+  "updated": "2026-11-11"
+ },
+ {
+  "id": "kp-197176741",
+  "slug": "kp-197176741-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: четырёхкомнатная квартира, 90 м², © ОпенСтреетМап цонтрибуторс, Палилула",
+  "kind": "четырёхкомнатная квартира",
+  "price": 750,
+  "area": 90,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Личка 12A",
+  "geo": {
+   "lat": 44.87219,
+   "lng": 20.46273
+  },
+  "facts": [
+   [
+    "Площадь",
+    "90 м²"
+   ],
+   [
+    "Комнат",
+    "4"
+   ],
+   [
+    "Этаж",
+    "3-й"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кондиционер",
+   "депозит"
+  ],
+  "text": "Сдаётся четырёхкомнатная квартира площадью 90 м² в районе © ОпенСтреетМап цонтрибуторс (Палилула, Белград). 3-й этаж, с мебелью. Есть: можно въехать сразу, интернет, домофон, терраса, кондиционер, депозит. Аренда 750 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stan od  90m2, tri spavace sobe, tri terase, potpuno nov, namesten, treci sprat, izdajemo strancima i obezbedjujemo bele kartone.",
+  "photos": 15,
+  "added": "2026-11-11",
+  "updated": "2026-11-11"
+ },
+ {
+  "id": "kp-197127421",
+  "slug": "kp-197127421-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 48 м², © ОпенСтреетМап цонтрибуторс, Чукарица",
+  "kind": "двухкомнатная квартира",
+  "price": 800,
+  "area": 48,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "cukarica",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Марине Величкович",
+  "geo": {
+   "lat": 44.76426,
+   "lng": 20.40993
+  },
+  "facts": [
+   [
+    "Площадь",
+    "48 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "4-й из 5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "кабельное ТВ",
+   "лифт",
+   "парковка",
+   "гараж",
+   "депозит"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 48 м² в районе © ОпенСтреетМап цонтрибуторс (Чукарица, Белград). 4-й этаж из 5, с мебелью, отопление центральное, дом современной постройки. Есть: можно въехать сразу, терраса, кабельное ТВ, лифт, парковка, гараж, депозит. Аренда 800 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se moderno namešten i potpuno opremljen dvosoban stan površine 48 m², na četvrtom spratu zgrade, nije poslednji sprat.\n\nStan se sastoji od dnevnog boravka sa kuhinjom i trpezarijom, odvojene spavaće sobe i kupatila. Opremljen je svim neophodnim kućnim aparatima i spreman za useljenje.\n\nVELIKA PREDNOST: Privatno garažno mesto u garaži zgrade UKLJUČENO JE U CENU ZAKUPA!\n\nDodatne karakteristike:\n\n* 48 m², dvosoban stan\n\n* Četvrti sprat, lift\n\n* Potpuno namešten i opremljen\n\n* Centralno grejanje i klima uređaj\n\n* Novija zgrada, odlično stanje\n\n* Privatno garažno mesto bez dodatne naknade\n\nCena: 800 € mesečno (sa garažnim mestom)\n\nDepozit: 500 €\n\nStan je odmah useljiv!",
+  "photos": 12,
+  "added": "2026-11-11",
+  "updated": "2026-11-11"
+ },
+ {
+  "id": "kp-197133815",
+  "slug": "kp-197133815-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 45 м², © ОпенСтреетМап цонтрибуторс, Новый Белград",
+  "kind": "1,5-комнатная квартира",
+  "price": 650,
+  "area": 45,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "novi-beograd",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Булевар Арсения Чарноевича",
+  "geo": {
+   "lat": 44.8155,
+   "lng": 20.41734
+  },
+  "facts": [
+   [
+    "Площадь",
+    "45 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "2-й из 6"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ]
+  ],
+  "features": [
+   "кондиционер",
+   "лифт"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 45 м² в районе © ОпенСтреетМап цонтрибуторс (Новый Белград, Белград). 2-й этаж из 6, с мебелью, отопление центральное, после ремонта. Есть: кондиционер, лифт. Аренда 650 € в месяц.",
+  "originalLang": "sr",
+  "original": "RENOVIRAN I NAMEŠTEN STAN – BLOK 29, PRVA ZGRADA DO BEOGRADSKE ARENE\n\nIzdaje se renoviran, potpuno namešten jednoiposoban stan površine 45 m², na drugom spratu uredne stambene zgrade sa liftom, u Bloku 29 na Novom Beogradu.\n\nStan se nalazi na izuzetno atraktivnoj lokaciji, u prvoj zgradi do Beogradske arene, sa odličnom povezanošću sa svim delovima grada.\n\nStan je renoviran i funkcionalno organizovan, a budućim zakupcima će biti na raspolaganju kompletno opremljen prostor, uključujući kuhinjske elemente, mašinu za sudove, frižider, šporet, veš mašinu, klima-uređaj, televizor, ležaj i plakare. U toku je montaža nove kuhinje.\n\nGrejanje je centralno.\n\nZgrada poseduje lift i podrum, a u neposrednoj okolini nalazi se javni parking.\n\nOdlična lokacija za one koji žele da budu nadomak Arene, tržnih centara, poslovnih zona, gradskog prevoza i svih važnih sadržaja Novog Beograda.\n\nStan se izdaje direktno od vlasnika, na duzi vremenski period.\n\nUseljiv od 20.11.2026.\n\nCena: 650 EUR mesečno (moguć dogovor).",
+  "photos": 11,
+  "added": "2026-11-11",
+  "updated": "2026-11-11"
+ },
+ {
   "id": "ho-5425647967508",
   "slug": "ho-5425647967508-prodaja-stan-borca",
   "deal": "sale",
