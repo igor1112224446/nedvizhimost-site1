@@ -1,5 +1,71 @@
 [
  {
+  "id": "ho-5425644335774",
+  "slug": "ho-5425644335774-prodaja-stan-krnjaca",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 1,5-комнатная квартира, 39 м², Крняча, Палилула",
+  "kind": "1,5-комнатная квартира",
+  "price": 99000,
+  "area": 39,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Крняча",
+  "street": "Зренянински пут 5",
+  "geo": {
+   "lat": 44.83942,
+   "lng": 20.49177
+  },
+  "facts": [
+   [
+    "Площадь",
+    "39 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "2-й из 2"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "энергопаспорт",
+   "можно въехать сразу",
+   "мансарда",
+   "есть право собственности",
+   "французский балкон",
+   "домофон",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся 1,5-комнатная квартира площадью 39 м² в районе Крняча (Палилула, Белград). 2-й этаж из 2, отопление автономное, люкс, дом современной постройки. Есть: энергопаспорт, можно въехать сразу, мансарда, есть право собственности, французский балкон, домофон, кабельное ТВ, кондиционер, парковка, горячая вода, видеонаблюдение. Цена 99 000 €.",
+  "originalLang": "sr",
+  "original": "Stan se nalazi u potkrovlju ,funkcionalan raspored: predsoblje,dnevna soba sa trpezarijom, kupatilo,kuhinja,spavaća soba.\nVisok kvalitet gradnje:\n-Hrastov parket\n\n-Granitna keramika\n\n-Ugradne sanitarije (geberit/ hansgrohe)\n\n-Sigurnosna vrata za ulazak u stan - Bosal\n\n-Aluminijumska stolarija,troslojno staklo ,elektromotori na roletnama sa daljincem\n\n-Etažno grejanje(Vaillant kotao)\n-Klima uređaj split inverter - Samsung\n\n-Fasada –kamena vuna 20 cm ,Fundermax HPL drvo dekor I demit\n\n-Energetski pasoš\n\n-Kondominijum kompleks sa kapijom i privatnim dvorištem\n\n-Unutrašnji park\n\n-Parking obezbeđen za svaki stan - u okviru kompleksa\n-Sunčana strana- stanje orijentisan u pravcu istok-jug-zapad\n\nLokacija:\n\nCentar grada - Trg Republike 3,8km - 5 minuta vožnje – 1 autobuska stanica da grada\n\nSportski centar Pionir 1,5 km - 4 minuta vožnje\n\nSrednja tehnička škola 150 m – 3 minuta hoda\n\nTržni centar BIG 2,5 km\n\nOsnovana škola 450 m\n\nČetiri vrtića u krugu od 400m\n\nDom zdravlja - 350 m\n\nArhitektonski,mašinski,elektrotehnički fakultet - 3,5km",
+  "photos": 15,
+  "added": "2026-11-11",
+  "updated": "2026-11-11"
+ },
+ {
   "id": "kp-197171286",
   "slug": "kp-197171286-izdavanje-stan-openstreetmap-contributors",
   "deal": "rent",
