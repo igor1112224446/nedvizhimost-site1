@@ -866,6 +866,75 @@
   "updated": "2026-11-11"
  },
  {
+  "id": "ho-5425643105577",
+  "slug": "ho-5425643105577-izdavanje-stan-brace-jerkovic",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 62 м², Браче Еркович, Вождовац",
+  "kind": "двухкомнатная квартира",
+  "price": 500,
+  "area": 62,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "Браче Еркович",
+  "street": "Браче Еркович",
+  "geo": {
+   "lat": 44.76616,
+   "lng": 20.49135
+  },
+  "facts": [
+   [
+    "Площадь",
+    "62 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "5-й из 6"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "терраса"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 62 м² в районе Браче Еркович (Вождовац, Белград). 5-й этаж из 6, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, интернет, кабельное ТВ, кондиционер, лифт, парковка, терраса. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se isključivo parovima (ne samcima), ozbiljnim, zaposlenim osobama, nepušačima, srpskim državljanima.\nIt is issued exclusively to Serbian citizens.\nIzdaje se dvosoban, lepo namešten stan u naselju Braće Jerković. Veliki broj linija gradskog prevoza u neposrednoj blizini.\nStan je veoma prostran sa velikom dnevnom sobom, spavaćom sobom, kuhinjom i kupatilom.\nKompletno opremljen. Useljiv od .\nInfostan 100 EUR.\nIzdaje isključivo vlasnik direktno. Mole se agencije da se ne javljalju sa ponudama.",
+  "photos": 8,
+  "added": "2026-11-11",
+  "updated": "2026-11-11"
+ },
+ {
   "id": "ho-5425643587138",
   "slug": "ho-5425643587138-izdavanje-stan-karaburma",
   "deal": "rent",
