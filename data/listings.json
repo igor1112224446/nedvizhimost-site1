@@ -1,5 +1,63 @@
 [
  {
+  "id": "ho-5425646040966",
+  "slug": "ho-5425646040966-izdavanje-stan-fon-bilecka",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 35 м², ФОН - Билечка, Вождовац",
+  "kind": "однокомнатная квартира",
+  "price": 350,
+  "area": 35,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "ФОН - Билечка",
+  "street": "Милице Милойкович",
+  "geo": {
+   "lat": 44.76489,
+   "lng": 20.47947
+  },
+  "facts": [
+   [
+    "Площадь",
+    "35 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "приземный из 2"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Коммунальные",
+    "около 20 € в месяц"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "для некурящих",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 35 м² в районе ФОН - Билечка (Вождовац, Белград). Приземный этаж из 2, отопление аккумуляционные печи. Есть: можно въехать сразу, для некурящих, домофон, интернет, кабельное ТВ, кондиционер, парковка. Аренда 350 € в месяц.",
+  "originalLang": "sr",
+  "original": "izdaje se stan na odlicnoj lokaciji na Vozdovcu, u blizini Banjicke sume. stan je udaljen nekoliko minuta hoda od Fona i FPN, VMA, saobracajnog, par stanica od farmaceutskog i veterinarskog fakulteta.odlicna povezanost sa svim delovima grada.\n-stan iskljucivo za 1 osobu i nepusaca\n-potpisuje se ugovor na 2 godine.\n-mesecne rezije 20e (infostan+televizija i iternet)\n-struja se placa po utrosku\n-grejanje TA i klima\n-kucni ljubimci nisu dozvoljeni\n-depozit 400e\n-slobodna zona za parkiranje\n-stan u prizemlju ( porodicna zgrada )\n\nkontakt: ( moze da se pogleda od 12do 20 svakog dana)",
+  "photos": 5,
+  "added": "2026-11-11",
+  "updated": "2026-11-11"
+ },
+ {
   "id": "ho-5425644335774",
   "slug": "ho-5425644335774-prodaja-stan-krnjaca",
   "deal": "sale",
