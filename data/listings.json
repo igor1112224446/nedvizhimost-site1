@@ -1,5 +1,66 @@
 [
  {
+  "id": "ho-5425647433860",
+  "slug": "ho-5425647433860-izdavanje-stan-zemunske-kapije",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 60 м², Земунске капие, Земун",
+  "kind": "2,5-комнатная квартира",
+  "price": 550,
+  "area": 60,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Земунске капие",
+  "street": "Сумадиска",
+  "geo": {
+   "lat": 44.85517,
+   "lng": 20.3825
+  },
+  "facts": [
+   [
+    "Площадь",
+    "60 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "4-й"
+   ],
+   [
+    "Мебель",
+    "частично меблирована"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "гараж",
+   "домофон",
+   "интернет",
+   "кондиционер",
+   "парковка",
+   "можно въехать сразу"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 60 м² в районе Земунске капие (Земун, Белград). 4-й этаж, частично меблирована, в исходном состоянии, дом современной постройки. Есть: гараж, домофон, интернет, кондиционер, парковка, можно въехать сразу. Аренда 550 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se svetao i funkcionalan stan sa prelepim pogledom na park. Stan se sastoji od spavaće sobe, dnevnog boravka sa kuhinjom odvojenom šankom, prostrane ostave, kupatila sa kadom i terase. Dnevna soba trenutno nema garnituru, ali se ona može brzo obezbediti u dogovoru sa zakupcem. stan je dostupan odmah",
+  "photos": 9,
+  "added": "2026-11-12",
+  "updated": "2026-11-12"
+ },
+ {
   "id": "ho-5425634724200",
   "slug": "ho-5425634724200-izdavanje-stan-centar",
   "deal": "rent",
