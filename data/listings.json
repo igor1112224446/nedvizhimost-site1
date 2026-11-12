@@ -1,5 +1,68 @@
 [
  {
+  "id": "ho-5425647971188",
+  "slug": "ho-5425647971188-izdavanje-stan-bulevar-oslobodjenja",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 64 м², Булевар ослободженя, Вождовац",
+  "kind": "двухкомнатная квартира",
+  "price": 1100,
+  "area": 64,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "Булевар ослободженя",
+  "street": "Гостиварска",
+  "geo": {
+   "lat": 44.7772,
+   "lng": 20.47585
+  },
+  "facts": [
+   [
+    "Площадь",
+    "64 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "4-й"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "двухуровневая",
+   "не последний этаж",
+   "можно въехать сразу",
+   "интернет",
+   "кондиционер",
+   "лифт",
+   "терраса"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 64 м² в районе Булевар ослободженя (Вождовац, Белград). 4-й этаж, отопление центральное, люкс, дом современной постройки. Есть: депозит, двухуровневая, не последний этаж, можно въехать сразу, интернет, кондиционер, лифт, терраса. Аренда 1 100 € в месяц.",
+  "originalLang": "sr",
+  "original": "IZDAJE SE STAN NA VOŽDOVCU – GOSTIVARSKA ULICA\n\nIzdaje se kompletno opremljen stan na Voždovcu, u Gostivarskoj ulici.\n\nStan je potpuno namešten i opremljen svim neophodnim stvarima za svakodnevni život. Odmah je useljiv!\n\nPosebna pogodnost za strane državljane:\nMogućnost obezbeđivanja belog kartona, kao i kompletne potrebne dokumentacije za prijavu i regulisanje boravka stranih državljana.\n\nStan je spreman za useljenje bez dodatnih ulaganja.\n\nZa više informacija, fotografije i dogovor oko razgledanja, slobodno se javite putem poruke ili telefona.\n\nСДАЁТСЯ КВАРТИРА В РАЙОНЕ ВОЖДОВАЦ, УЛИЦА ГОСТИВАРСКАЯ (GOSTIVARSKA)\n\nСдаётся полностью меблированная и оборудованная квартира в районе Вождовац, на улице Гостиварской.\n\nВ квартире есть всё необходимое для комфортного проживания. Полностью готова к заселению — можно заезжать сразу!\n\nОсобые условия для иностранных граждан:\nВозможно оформление белого картона (регистрация по месту пребывания), а также предоставление полного комплекта необходимых документов для иностранных граждан.\n\nКвартира полностью готова к проживанию.\n\nЗа дополнительной информацией, фотографиями и для организации просмотра пишите или звоните.",
+  "photos": 12,
+  "added": "2026-11-12",
+  "updated": "2026-11-12"
+ },
+ {
   "id": "fz-66f29a6fdd77e001880dab40",
   "slug": "fz-66f29a6fdd77e001880dab40-izdavanje-stan-gundulicev-venac",
   "deal": "rent",
