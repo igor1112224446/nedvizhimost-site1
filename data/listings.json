@@ -1,5 +1,51 @@
 [
  {
+  "id": "fz-66f29a6fdd77e001880dab40",
+  "slug": "fz-66f29a6fdd77e001880dab40-izdavanje-stan-gundulicev-venac",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 28 м², Гундуличев Венац, Старый город",
+  "kind": "студия",
+  "price": 600,
+  "area": 28,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "stari-grad",
+  "location": "Гундуличев Венац",
+  "street": "Гундуличев Венац",
+  "geo": {
+   "lat": 44.81866,
+   "lng": 20.47071
+  },
+  "facts": [
+   [
+    "Площадь",
+    "28 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся студия площадью 28 м² в районе Гундуличев Венац (Старый город, Белград). С мебелью, отопление центральное. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "A luxury and modern apartment for rent, located in close proximity to Skadarlija. The apartment has been completely renovated and is fully furnished with all necessary furniture, appliances, and household equipment, as well as everything else required for living. Everything is brand new and unused. Available for immediate move-in. Direct agreement with the apartment owner, no agency fees.",
+  "photos": 15,
+  "added": "2026-11-12",
+  "updated": "2026-11-12"
+ },
+ {
   "id": "ho-5425647971184",
   "slug": "ho-5425647971184-prodaja-stan-paviljoni",
   "deal": "sale",
