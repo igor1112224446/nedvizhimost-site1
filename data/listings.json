@@ -1,5 +1,67 @@
 [
  {
+  "id": "kp-196747415",
+  "slug": "kp-196747415-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 85 м², © ОпенСтреетМап цонтрибуторс, Раковица",
+  "kind": "трёхкомнатная квартира",
+  "price": 650,
+  "area": 85,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Раковица",
+  "districtSlug": "rakovica",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Ранка Жеравице",
+  "geo": {
+   "lat": 44.74306,
+   "lng": 20.44535
+  },
+  "facts": [
+   [
+    "Площадь",
+    "85 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "1-й из 2"
+   ],
+   [
+    "Отопление",
+    "кондиционер"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "домофон",
+   "терраса",
+   "кондиционер",
+   "видеонаблюдение",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 85 м² в районе © ОпенСтреетМап цонтрибуторс (Раковица, Белград). 1-й этаж из 2, с мебелью, отопление кондиционер, дом современной постройки. Есть: можно въехать сразу, домофон, терраса, кондиционер, видеонаблюдение, парковка, депозит. Аренда 650 € в месяц.",
+  "originalLang": "sr",
+  "original": "Prelep svetao stan do Kosutnjacke sume u najmirnijem delu\nParking je ukljucen u cenu\nKompletno namesten stan sa ganc novim stvarima\nZa drugu sobu po potrebi moze se ubaciti namestaj\nTerasa 11m2 sa prelepim pogledom\nBez mogucnosti prijave boravka za strane drzavljane\nZa vise informacija mozete pozvati. . .",
+  "photos": 15,
+  "added": "2026-11-12",
+  "updated": "2026-11-12"
+ },
+ {
   "id": "ho-5425647971188",
   "slug": "ho-5425647971188-izdavanje-stan-bulevar-oslobodjenja",
   "deal": "rent",
