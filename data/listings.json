@@ -1,5 +1,271 @@
 [
  {
+  "id": "ho-5425634724200",
+  "slug": "ho-5425634724200-izdavanje-stan-centar",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 18 м², Центр, Старый город",
+  "kind": "однокомнатная квартира",
+  "price": 380,
+  "area": 18,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "opstina-stari-grad",
+  "location": "Центр",
+  "street": "Далматинска",
+  "geo": {
+   "lat": 44.81494,
+   "lng": 20.47152
+  },
+  "facts": [
+   [
+    "Площадь",
+    "18 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "приземный из 1"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "домофон",
+   "кабельное ТВ",
+   "с садом"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 18 м² в районе Центр (Старый город, Белград). Приземный этаж из 1, с мебелью, отопление аккумуляционные печи, в исходном состоянии, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, домофон, кабельное ТВ, с садом. Аренда 380 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem na duže garsonjeru u centru, kod Botaničke bašte. Kompletno opremljena, TA, kablovska. Sveže okrečeno. Ležaj nov, nekorišćen. Plaćanje mesečno + depozit. U stanarinu su uračunati infostan i kablovska. Plaća se samo utrošak struje. Bez kućnih ljubimaca.\nStan je idealan za jednu osobu.\nVlasnik.",
+  "photos": 11,
+  "added": "2026-11-12",
+  "updated": "2026-11-12"
+ },
+ {
+  "id": "kp-197159824",
+  "slug": "kp-197159824-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 68 м², © ОпенСтреетМап цонтрибуторс, Вождовац",
+  "kind": "трёхкомнатная квартира",
+  "price": 600,
+  "area": 68,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Паунова 51",
+  "geo": {
+   "lat": 44.75466,
+   "lng": 20.47817
+  },
+  "facts": [
+   [
+    "Площадь",
+    "68 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "4-й из 4"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "кондиционер",
+   "видеонаблюдение",
+   "лифт",
+   "депозит"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 68 м² в районе © ОпенСтреетМап цонтрибуторс (Вождовац, Белград). 4-й этаж из 4, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, домофон, кондиционер, видеонаблюдение, лифт, депозит. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stan je potpuno namesten, sa velikim dnevnim boravkom, dve spavace, hodnokom, kuhinjom, kupatilom i prostorijom za susenje vesa preko puta stana. U blizini se nalazi TC Banjica, skola, vrtic, pijaca, marketi, sportski centar Banjica i VMA. Odlicna povezanost sa svim drlovima grada, a stanica GSP je odmah ispred zgrade. Stan se iskljucivo izdaje porodici, na duzi vremenski period.",
+  "photos": 9,
+  "added": "2026-11-12",
+  "updated": "2026-11-12"
+ },
+ {
+  "id": "ho-5425635886659",
+  "slug": "ho-5425635886659-izdavanje-stan-karaburma",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 20 м², Карабурма, Палилула",
+  "kind": "однокомнатная квартира",
+  "price": 300,
+  "area": 20,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Карабурма",
+  "street": "Драгослава Срейовича",
+  "geo": {
+   "lat": 44.80286,
+   "lng": 20.52193
+  },
+  "facts": [
+   [
+    "Площадь",
+    "20 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "приземный из 5"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "подходит студентам",
+   "парковка",
+   "с садом",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 20 м² в районе Карабурма (Палилула, Белград). Приземный этаж из 5, с мебелью, отопление аккумуляционные печи, после ремонта, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, подходит студентам, парковка, с садом, видеонаблюдение. Аренда 300 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem na duže nameštenu garsonjeru blizu Zvezdarske šume, prizemlje, TA, parking mesto. U blizini su linije gradskog prevoza 16, 23, 25, 27, 27E, 25P, 74 i 63. Idealan za jednu osobu. Plaćanje mesečno + depozit.\nVlasnik.",
+  "photos": 13,
+  "added": "2026-11-12",
+  "updated": "2026-11-12"
+ },
+ {
+  "id": "kp-197184068",
+  "slug": "kp-197184068-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 33 м², © ОпенСтреетМап цонтрибуторс, Звездара",
+  "kind": "1,5-комнатная квартира",
+  "price": 400,
+  "area": 33,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Луштичка 2B",
+  "geo": {
+   "lat": 44.76971,
+   "lng": 20.50966
+  },
+  "facts": [
+   [
+    "Площадь",
+    "33 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "2-й из 3"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 33 м² в районе © ОпенСтреетМап цонтрибуторс (Звездара, Белград). 2-й этаж из 3, с мебелью, отопление газовое, после ремонта, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, кабельное ТВ, кондиционер, видеонаблюдение, парковка, депозит. Аренда 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem stan u novoj zgradi u naselju medakovic padina, opstina zvezdara. Stan je namesten i opremljen novim stvarima i uredjajima, nalazi se na drugom spratu, povrsine je 33m2 i ima zasebnu spavacu sobu.\nGrejanje je na gas, po potrosnji, mali su mesecni racuni.\nU cenu je uracunato i jedno obezbedjeno parking mesto ispred zgrade. Stan ima i inverter klimu.\nPogodan za samce ili parove. Obavezan depozit u visini jedne zakupnine.",
+  "photos": 15,
+  "added": "2026-11-12",
+  "updated": "2026-11-12"
+ },
+ {
   "id": "kp-196747415",
   "slug": "kp-196747415-izdavanje-stan-openstreetmap-contributors",
   "deal": "rent",
@@ -37373,72 +37639,6 @@
   "originalLang": "sr",
   "original": "U prilici smo da vam ponudimo ekskluzivan duplex stan na jednoj od najprestižnijih lokacija u Beogradu - u ulici Kralja Petra, u samom srcu grada. Nekretnina koja spaja luksuz, komfor i funkcionalan porodični život.\nStan se nalazi na 6. spratu i prostire se na ukupno 179m2 (93,90m2 + 85,20m2), sa odlično organizovanim rasporedom prostorija i obiljem prirodne svetlosti.\nDonji nivo:\n prostran open space dnevni boravak, moderna kuhinja i trpezarijski deo gostinski WC zastakljena terasa od 10m2\nGornji nivo:\n    3 velike spavaće sobe    kupatilo    posebna prostorija za mašine/vešeraj sa mogućnošću izrade dodatnog toaleta   grejanje je rešeno putem klima uređaja i električnog kotla\nStan ne poseduje garažu, ali postoji iznajmljeno parking mesto u neposrednoj blizini.\nNekretnina idealna za porodičan život, ali i kao luksuzna investicija u centru grada,nadomak svih važnih sadržaja, restorana, škola, kulturnih dešavanja i gradskog života.",
   "photos": 15,
-  "added": "2026-10-26",
-  "updated": "2026-10-26"
- },
- {
-  "id": "ho-5425634724200",
-  "slug": "ho-5425634724200-izdavanje-stan-centar",
-  "deal": "rent",
-  "type": "apartment",
-  "cat": "flat",
-  "title": "Аренда: однокомнатная квартира, 18 м², Центр, Старый город",
-  "kind": "однокомнатная квартира",
-  "price": 400,
-  "area": 18,
-  "rooms": 1,
-  "city": "Белград",
-  "district": "Старый город",
-  "districtSlug": "opstina-stari-grad",
-  "location": "Центр",
-  "street": "Далматинска",
-  "geo": {
-   "lat": 44.81494,
-   "lng": 20.47152
-  },
-  "facts": [
-   [
-    "Площадь",
-    "18 м²"
-   ],
-   [
-    "Комнат",
-    "1"
-   ],
-   [
-    "Этаж",
-    "приземный из 1"
-   ],
-   [
-    "Отопление",
-    "аккумуляционные печи"
-   ],
-   [
-    "Мебель",
-    "с мебелью"
-   ],
-   [
-    "Состояние",
-    "в исходном состоянии"
-   ],
-   [
-    "Дом",
-    "дом современной постройки"
-   ]
-  ],
-  "features": [
-   "депозит",
-   "не последний этаж",
-   "можно въехать сразу",
-   "для некурящих",
-   "домофон",
-   "кабельное ТВ",
-   "с садом"
-  ],
-  "text": "Сдаётся однокомнатная квартира площадью 18 м² в районе Центр (Старый город, Белград). Приземный этаж из 1, с мебелью, отопление аккумуляционные печи, в исходном состоянии, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, домофон, кабельное ТВ, с садом. Аренда 400 € в месяц.",
-  "originalLang": "sr",
-  "original": "Izdajem na duže garsonjeru u centru, kod Botaničke bašte. Kompletno opremljena, TA, kablovska. Sveže okrečeno. Ležaj nov, nekorišćen. Plaćanje mesečno + depozit. U stanarinu su uračunati infostan i kablovska. Plaća se samo utrošak struje. Bez kućnih ljubimaca.\nStan je idealan za jednu osobu.\nNe sarađujem sa agencijama. \nVlasnik.",
-  "photos": 11,
   "added": "2026-10-26",
   "updated": "2026-10-26"
  },
