@@ -728,6 +728,590 @@
   "updated": "2026-11-12"
  },
  {
+  "id": "fz-6af4226b1a5e73cf3a0700ea",
+  "slug": "fz-6af4226b1a5e73cf3a0700ea-izdavanje-stan-mirijevo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 40 м², Мириево, Звездара",
+  "kind": "1,5-комнатная квартира",
+  "price": 450,
+  "area": 40,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Мириево",
+  "street": "Лазара Трифуновича 5A",
+  "geo": {
+   "lat": 44.79517,
+   "lng": 20.53216
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Отопление",
+    "электрическое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "кондиционер"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 40 м² в районе Мириево (Звездара, Белград). С мебелью, отопление электрическое. Есть: кондиционер. Аренда 450 € в месяц.",
+  "originalLang": "sr",
+  "original": "Jednoiposoban stan u zgradi za izdavanje, Namešteno, Mirijevo, 40 m2, na 3. spratu, ima lift. Stanje - Novo, Struja, ima terasu, ima kupatilo, ima toalet.",
+  "photos": 13,
+  "added": "2026-11-12",
+  "updated": "2026-11-12"
+ },
+ {
+  "id": "fz-6af3872ba133cdd52303de69",
+  "slug": "fz-6af3872ba133cdd52303de69-izdavanje-stan-medakovic-2",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 38 м², Медакович 2, Вождовац",
+  "kind": "однокомнатная квартира",
+  "price": 400,
+  "area": 38,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Медакович 2",
+  "street": "Растка Петровича 33",
+  "geo": {
+   "lat": 44.77686,
+   "lng": 20.49276
+  },
+  "facts": [
+   [
+    "Площадь",
+    "38 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Отопление",
+    "электрическое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся однокомнатная квартира площадью 38 м² в районе Медакович 2 (Вождовац, Белград). С мебелью, отопление электрическое. Аренда 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "Jednosoban stan u zgradi za izdavanje, Namešteno, Medaković 2, 38 m2, u suterenu. Stanje - Renovirano, Struja, ima kupatilo.",
+  "photos": 15,
+  "added": "2026-11-12",
+  "updated": "2026-11-12"
+ },
+ {
+  "id": "fz-6af3551bba709518740a99cd",
+  "slug": "fz-6af3551bba709518740a99cd-izdavanje-stan-crveni-krst-zvezdara",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 60 м², Црвени Крст Звездара, Звездара",
+  "kind": "2,5-комнатная квартира",
+  "price": 500,
+  "area": 60,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Црвени Крст Звездара",
+  "street": "Милича Ракича 6",
+  "geo": {
+   "lat": 44.77975,
+   "lng": 20.50876
+  },
+  "facts": [
+   [
+    "Площадь",
+    "60 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "частично меблирована"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 60 м² в районе Црвени Крст Звездара (Звездара, Белград). Частично меблирована, отопление центральное. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Dvoiposoban stan u zgradi za izdavanje, Polunamešteno, Crveni Krst Zvezdara, 60 m2, na 10. spratu, ima lift. Stanje - Uobičajeno, Centralno, ima terasu, ima lođu, ima kupatilo, ima toalet.",
+  "photos": 15,
+  "added": "2026-11-12",
+  "updated": "2026-11-12"
+ },
+ {
+  "id": "fz-6aed2d9967f7bc575e0f2cc1",
+  "slug": "fz-6aed2d9967f7bc575e0f2cc1-izdavanje-stan-klinicki-centar",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 78 м², Клинички Центар, Савски-Венац",
+  "kind": "трёхкомнатная квартира",
+  "price": 1400,
+  "area": 78,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "savski-venac",
+  "location": "Клинички Центар",
+  "street": "Клинички Центар",
+  "geo": {
+   "lat": 44.80049,
+   "lng": 20.46403
+  },
+  "facts": [
+   [
+    "Площадь",
+    "78 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся трёхкомнатная квартира площадью 78 м² в районе Клинички Центар (Савски-Венац, Белград). С мебелью, отопление центральное. Аренда 1 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "Trosoban stan salonac za izdavanje, Namešteno, Klinički Centar, 78 m2, na 5. spratu, ima lift. Stanje - Uobičajeno, Centralno, ima terasu, ima kupatilo, ima toalet.",
+  "photos": 15,
+  "added": "2026-11-12",
+  "updated": "2026-11-12"
+ },
+ {
+  "id": "ho-5425643109729",
+  "slug": "ho-5425643109729-prodaja-stan-naselje-stepa-stepanovic",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: четырёхкомнатная квартира, 104 м², Населе Степа Степанович, Вождовац",
+  "kind": "четырёхкомнатная квартира",
+  "price": 381000,
+  "area": 104,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "Населе Степа Степанович",
+  "street": "Душана Йовановича",
+  "geo": {
+   "lat": 44.75352,
+   "lng": 20.49743
+  },
+  "facts": [
+   [
+    "Площадь",
+    "104 м²"
+   ],
+   [
+    "Комнат",
+    "4"
+   ],
+   [
+    "Этаж",
+    "8-й из 8"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "есть право собственности",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся четырёхкомнатная квартира площадью 104 м² в районе Населе Степа Степанович (Вождовац, Белград). 8-й этаж из 8, отопление газовое, люкс, старый фонд. Есть: можно въехать сразу, есть право собственности, домофон, интернет, кабельное ТВ, кондиционер, лифт, парковка, терраса, горячая вода, видеонаблюдение. Цена 381 000 €.",
+  "originalLang": "sr",
+  "original": "Stan u zgradi sagradjenoj 2014 godine. Dnevna soba, kuhinja sa trpezarijom, tri spavace sobe (jedna je trenutno opremljena kao kancelarija i garderober), dva hodnika, dva kupatila (jedno sa tus kabinom, drugo sa djakuzijem i tv-om) terasa zastakljena pomicnim staklima. Grejanje i topla voda na gas, privatni sprat sa par stanova, ogranicen pristup spratu (lift samo za stanare poslednjeg sprata), granitna keramika, roletne na daljinski, hastov parket I klase, norveski parket gde je podno grejanje, najsavremenija kuhinja, rucno izradjena sobna vrata, led rasveta, ozvucenje i dvd sistem, spavaca soba sa francuskim lezajem, ugradni plakari, dva parking mesta uz stan (moguce i vise uz neposredni dogovor) i jos mnogo drugih stvari. Stan uknjizen. Troskovi komunalija bez interneta i televizije oko 40e mesecno. Bez ikakvih ulaganja, prodaje se kompletno opremljen sa kompletnim namestajem. Jedinstvena ponuda. Mogucnost kupovine na kredit. Bez agencijske provizije, direktna kupovina od vlasnika. Mogućnost zamene za manji stan uz doplatu.",
+  "photos": 15,
+  "added": "2026-11-12",
+  "updated": "2026-11-12"
+ },
+ {
+  "id": "ho-5425647968450",
+  "slug": "ho-5425647968450-izdavanje-stan-cara-dusana",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 65 м², Цара Душана, Старый город",
+  "kind": "2,5-комнатная квартира",
+  "price": 1100,
+  "area": 65,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "opstina-stari-grad",
+  "location": "Цара Душана",
+  "street": "Цара Душана",
+  "geo": {
+   "lat": 44.82268,
+   "lng": 20.46137
+  },
+  "facts": [
+   [
+    "Площадь",
+    "65 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "6-й из 12"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "можно въехать сразу",
+   "интернет",
+   "кондиционер",
+   "лоджия"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 65 м² в районе Цара Душана (Старый город, Белград). 6-й этаж из 12, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: не последний этаж, можно въехать сразу, интернет, кондиционер, лоджия. Аренда 1 100 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem kompletno namesten dvoiposoban stan povrsine 65m2 na Starom Gradu.\n\nStan se sastoji do dnevne sobe, spavace sobe, kuhinje sa trpezarijom, kupatila, terase i hodnika.\n\nSaradnja sa agencijama je moguca samo ako proviziju naplacuju od zakupca.",
+  "photos": 12,
+  "added": "2026-11-12",
+  "updated": "2026-11-12"
+ },
+ {
+  "id": "ho-5425636189319",
+  "slug": "ho-5425636189319-izdavanje-stan-bezanijska-kosa-1",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 68 м², Бежанийска коса 1, Новый Белград",
+  "kind": "2,5-комнатная квартира",
+  "price": 600,
+  "area": 68,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Бежанийска коса 1",
+  "street": "Зивойина Лукица",
+  "geo": {
+   "lat": 44.82065,
+   "lng": 20.38965
+  },
+  "facts": [
+   [
+    "Площадь",
+    "68 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "3-й из 3"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "двухуровневая",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "подвал",
+   "терраса",
+   "горячая вода"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 68 м² в районе Бежанийска коса 1 (Новый Белград, Белград). 3-й этаж из 3, с мебелью, отопление центральное. Есть: депозит, двухуровневая, домофон, интернет, кабельное ТВ, кондиционер, подвал, терраса, горячая вода. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem duplex na Bezanijskoj Kosi, kod hrama i trznog centra. Stan je dvoiposoban, namesten, odmah useljiv. Mogucnost placanja 12 meseci unapred po ceni od 450€ mesecno.\n\nIvica",
+  "photos": 9,
+  "added": "2026-11-12",
+  "updated": "2026-11-12"
+ },
+ {
+  "id": "ho-5425646440830",
+  "slug": "ho-5425646440830-izdavanje-stan-hadzipopovac",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 40 м², Хаджипоповац, Палилула",
+  "kind": "двухкомнатная квартира",
+  "price": 700,
+  "area": 40,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Хаджипоповац",
+  "street": "Любе Дидича",
+  "geo": {
+   "lat": 44.81141,
+   "lng": 20.48093
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "4-й из 5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "французский балкон",
+   "гараж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 40 м² в районе Хаджипоповац (Палилула, Белград). 4-й этаж из 5, с мебелью, отопление центральное, люкс, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, французский балкон, гараж, домофон, интернет, кабельное ТВ, кондиционер, лифт, парковка, терраса, видеонаблюдение. Аренда 700 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdavanje stana u centru grada, u novogradnji, neuseljavan, dvosoban, terasa i francuski balkon. Centralno grejanje po potrošnji, kalorimetri. Mogućnost iznajmljivanja parking mesta u zajedničkoj garaži, dodatno se naplaćuje. Miran kvart u neposrednoj blizini Cvijićeve ulice, zgrada useljena ove godine. Blizina TC zira, osnovna škola, biblioteka, prodavnice, kafići, autobuska stanica, sve na stotinak metara udaljenosti.",
+  "photos": 15,
+  "added": "2026-11-12",
+  "updated": "2026-11-12"
+ },
+ {
+  "id": "ho-5425647737946",
+  "slug": "ho-5425647737946-prodaja-stan-bele-vode",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 4,5-комнатная квартира, 83 м², Беле воде, Чукарица",
+  "kind": "4,5-комнатная квартира",
+  "price": 199900,
+  "area": 83,
+  "rooms": 4.5,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "opstina-cukarica",
+  "location": "Беле воде",
+  "street": "Комовска",
+  "geo": {
+   "lat": 44.75228,
+   "lng": 20.40584
+  },
+  "facts": [
+   [
+    "Площадь",
+    "83 м²"
+   ],
+   [
+    "Комнат",
+    "4,5"
+   ],
+   [
+    "Этаж",
+    "3-й из 3"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "двухуровневая",
+   "есть право собственности",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "терраса"
+  ],
+  "text": "Продаётся 4,5-комнатная квартира площадью 83 м² в районе Беле воде (Чукарица, Белград). 3-й этаж из 3, отопление автономное, люкс, старый фонд. Есть: двухуровневая, есть право собственности, интернет, кабельное ТВ, кондиционер, парковка, терраса. Цена 199 900 €.",
+  "originalLang": "sr",
+  "original": "Prelep porodični dupleks, 4,5 soba, 82,7 m² – Bele Vode\n\nNa prodaju svetao, izuzetno funkcionalan i pažljivo održavan porodični dupleks, smešten na trećem, poslednjem spratu manje stambene zgrade, u jednom od najlepših i najmirnijih delova Belih Voda.\n\nStan je dvostrano orijentisan (istok–zapad), osunčan tokom celog dana, sa odličnim rasporedom prostorija i jasnom podelom na dnevnu i spavaću zonu.\n\nLokacija i okruženje\n\nZgrada se nalazi u mirnom, porodičnom okruženju, okružena uređenim dvorištem i zelenilom, a svi važni sadržaji dostupni su na nekoliko minuta hoda:\n\n- Pijaca – 100 m\n- Pošta – 50 m\n- Osnovna škola – 100 m\n- Vrtić – 200 m\n\nZgrada, ulaz i dvorište redovno se i domaćinski održavaju. Fasada i ulazna vrata su obnovljeni.\n\nDodatne pogodnosti:\n\n- Jedno parking mesto na raspolaganju u dvorištu zgrade\n- Mogućnost zakupa garaže za 5.000 RSD mesečno po mestu\n- Niski mesečni troškovi Infostana – oko 4.000 RSD\n\nKvalitet gradnje i opremljenost\n\nStan se nalazi u nadogradnji iz 2008. godine, kvalitetno je opremljen i redovno održavan, bez potrebe za dodatnim ulaganjima.\n\n- PVC stolarija sa troslojnim staklom i komarnicima\n- Hrastov parket\n- Španska keramika\n- Aluminijumski radijatori i etažno grejanje na struju\n- Hüppe tuš-kada\n- Dva klima-uređaja\n- Redovno krečen i održavan\n\nStan se prodaje polunamešten. U cenu su uključeni kuhinjski elementi, ugradni plakari i dva klima-uređaja, uz mogućnost dogovora oko dodatnog nameštaja.\n\nRaspored prostorija\n\nDonji nivo – 52,82 m² (uknjižen):\n\n- Dnevni boravak sa trpezarijom i kuhinjom\n- Dve spavaće sobe\n- Kupatilo\n- Terasa\n- Hodnik\n- Unutrašnje stepenište za gornji nivo\n\nGornji nivo – 29,88 m² (merena površina, u postupku ozakonjenja):\n\n- Prostrana spavaća soba sa zasebnim garderoberom (walk-in)\n- Dodatna spavaća ili radna soba\n- Ostava / špajz\n- Hodnik\n\nUkupna površina oba nivoa iznosi 82,70 m², od čega je donji nivo površine 52,82 m² uknjižen, dok je za gornji nivo od 29,88 m² izrađen elaborat i predat zahtev za ozakonjenje.\n\nStan je idealan za porodicu koja želi komfor, funkcionalan raspored, mir i zelenilo, uz sve prednosti gradskog života nadohvat ruke.\n-------------\nПрекрасная семейная двухуровневая квартира, 82,7 м² – Беле-Воде\n\nПродаётся светлая, уютная и функциональная двухуровневая квартира (дуплекс), расположенная на третьем, последнем этаже небольшого жилого дома, в одном из самых приятных и спокойных уголков района Беле-Воде (Bele Vode), Белград.\n\nКвартира имеет двустороннюю ориентацию (восток–запад), благодаря чему в ней много естественного света в течение всего дня. Продуманная планировка с отдельными жилыми зонами делает её отличным выбором для семьи с детьми.\n\nРасположение и инфраструктура\n\nДом находится в тихом, зелёном районе с благоустроенной придомовой территорией. Вся необходимая инфраструктура расположена в нескольких минутах ходьбы:\n\n- Рынок – 100 м\n- Почта – 50 м\n- Начальная школа – 100 м\n- Детский сад – 200 м\n\nДом, подъезд и двор содержатся в отличном состоянии. Фасад и входные две",
+  "photos": 15,
+  "added": "2026-11-12",
+  "updated": "2026-11-12"
+ },
+ {
+  "id": "ho-5425644502512",
+  "slug": "ho-5425644502512-izdavanje-stan-vukov-spomenik",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 46 м², Вуков Споменик, Звездара",
+  "kind": "двухкомнатная квартира",
+  "price": 700,
+  "area": 46,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Вуков Споменик",
+  "street": "Крфска",
+  "geo": {
+   "lat": 44.80443,
+   "lng": 20.48516
+  },
+  "facts": [
+   [
+    "Площадь",
+    "46 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "4-й из 5"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 30 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "гараж",
+   "камин",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 46 м² в районе Вуков Споменик (Звездара, Белград). 4-й этаж из 5, с мебелью, отопление автономное, люкс, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, гараж, камин, кондиционер, лифт, парковка, терраса, видеонаблюдение. Аренда 700 € в месяц.",
+  "originalLang": "sr",
+  "original": "Lux opremljen, sve se vidi na slikama a saljem i video snimak. Troskovi minimalni. \n\nSpavaca soba može da se podeli na 2 dečije, moze da bude i kao veliki francuski a ako uzimate na duzi period moze potpuno nova soba\n\nVisina stana 280 cm \n\ndoplata za garazu 100e\n\nNema provizije \n\nLuxuriously furnished, everything can be seen in the pictures. Costs minimal.\n\nThe bedroom can be divided into 2 children's rooms.\n\n \n\nThe height of the apartment is 280\n\n \n\nI send the video to whoever wants it",
+  "photos": 15,
+  "added": "2026-11-12",
+  "updated": "2026-11-12"
+ },
+ {
   "id": "ho-5425646040966",
   "slug": "ho-5425646040966-izdavanje-stan-fon-bilecka",
   "deal": "rent",
