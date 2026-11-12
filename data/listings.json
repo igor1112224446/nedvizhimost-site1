@@ -1,5 +1,66 @@
 [
  {
+  "id": "ho-5425647971184",
+  "slug": "ho-5425647971184-prodaja-stan-paviljoni",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: однокомнатная квартира, 31 м², Павильони, Новый Белград",
+  "kind": "однокомнатная квартира",
+  "price": 152000,
+  "area": 31,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Павильони",
+  "street": "Джона Кенедия",
+  "geo": {
+   "lat": 44.83305,
+   "lng": 20.40124
+  },
+  "facts": [
+   [
+    "Площадь",
+    "31 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "3-й из 5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "можно въехать сразу",
+   "есть право собственности",
+   "кондиционер",
+   "лифт",
+   "терраса"
+  ],
+  "text": "Продаётся однокомнатная квартира площадью 31 м² в районе Павильони (Новый Белград, Белград). 3-й этаж из 5, отопление центральное, после ремонта, старый фонд. Есть: не последний этаж, можно въехать сразу, есть право собственности, кондиционер, лифт, терраса. Цена 152 000 €.",
+  "originalLang": "sr",
+  "original": "Lux garsonjera - renovirana 2022. godine, u Paviljonima, kod Instituta za majku i dete na Novom Beogradu. Radjeno je sve, struja, cevi, PVC, košuljica, parket... Odličan za izdavanje i za život. Prelepa terasa duž celog stana, sa pogledom na prak. Stan je svetao. Miran kraj. Centralno grejanje + klima uređaj. Prodaje se kompletno namešten.",
+  "photos": 9,
+  "added": "2026-11-12",
+  "updated": "2026-11-12"
+ },
+ {
   "id": "ho-5425643050524",
   "slug": "ho-5425643050524-prodaja-stan-naselje-stepa-stepanovic",
   "deal": "sale",
@@ -7010,10 +7071,10 @@
   "features": [],
   "text": "Сдаётся 1,5-комнатная квартира площадью 60 м² в районе Плави Хоризонти (Земун, Белград). С мебелью, отопление электрическое. Аренда 550 € в месяц.",
   "originalLang": "sr",
-  "original": "Sada možeš da proveriš koliko bi ti vremena trebalo od nekretnine koju trenutno gledaš do tebi bitnih lokacija do kojih svakodnevno putuješ – posao, vrtić, fakultet, škola, teretana.",
+  "original": "💶 Cena mesečne kirije: 550 €\n******🔐 ****Depozit: jedna mesečna kirija (550 €)\n****🔥 ****Grejanje: podno, na struju\n****💡 ****Režije: oko 60 € mesečno\n****📅 ****Plaćanje: mesečno",
   "photos": 7,
   "added": "2026-11-08",
-  "updated": "2026-11-08"
+  "updated": "2026-11-12"
  },
  {
   "id": "ho-5425646013137",
