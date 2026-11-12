@@ -1,5 +1,72 @@
 [
  {
+  "id": "ho-5425643050524",
+  "slug": "ho-5425643050524-prodaja-stan-naselje-stepa-stepanovic",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: четырёхкомнатная квартира, 104.5 м², Населе Степа Степанович, Вождовац",
+  "kind": "четырёхкомнатная квартира",
+  "price": 385000,
+  "area": 104.5,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "Населе Степа Степанович",
+  "street": "Душана Йовановича",
+  "geo": {
+   "lat": 44.75349,
+   "lng": 20.49719
+  },
+  "facts": [
+   [
+    "Площадь",
+    "104.5 м²"
+   ],
+   [
+    "Комнат",
+    "4"
+   ],
+   [
+    "Этаж",
+    "8-й из 8"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "есть право собственности",
+   "домофон",
+   "интернет",
+   "камин",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся четырёхкомнатная квартира площадью 104.5 м² в районе Населе Степа Степанович (Вождовац, Белград). 8-й этаж из 8, отопление газовое, люкс, старый фонд. Есть: можно въехать сразу, есть право собственности, домофон, интернет, камин, кабельное ТВ, кондиционер, лифт, парковка, терраса, горячая вода, видеонаблюдение. Цена 385 000 €.",
+  "originalLang": "sr",
+  "original": "Stan u zgradi sagradjenoj 2014 godine. Dnevna soba, kuhinja sa trpezarijom, tri spavace sobe (jedna je trenutno opremljena kao kancelarija), dva hodnika, dva kupatila (jedno sa tus kabinom, drugo sa djakuzijem i tv-om) terasa zastakljena pomicnim staklima. Grejanje i topla voda na gas, privatni sprat sa par stanova, ogranicen pristup spratu (lift samo za stanare poslednjeg sprata), granitna keramika, roletne na daljinski, prirodni kamen, hrastov parket I klase, najsavremenija kuhinja, rucno izradjena sobna vrata, led rasveta, ozvucenje i dvd sistem harman cardon, spavaca soba sa okruglim francuskim lezajem, ugradni plakari, pogled prema centru grada, dva parking mesta uz stan (moguce i vise uz neposredni dogovor) i jos mnogo drugih stvari. Stan uknjizen. Troskovi komunalija bez interneta i televizije oko 40e mesecno. Bez ikakvih ulaganja, prodaje se kompletno opremljen sa kompletnim namestajem. Jedinstvena ponuda. Pogled sa terase ka gradu i hramu Svetog Save. Mogucnost kupovine na kredit. Bez agencijske provizije, direktna kupovina od vlasnika. Postoji mogućnost zamene za manji stan uz doplatu.",
+  "photos": 15,
+  "added": "2026-11-12",
+  "updated": "2026-11-12"
+ },
+ {
   "id": "ho-5425647971271",
   "slug": "ho-5425647971271-prodaja-stan-novi-zeleznik",
   "deal": "sale",
