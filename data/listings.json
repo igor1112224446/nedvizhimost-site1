@@ -1,5 +1,61 @@
 [
  {
+  "id": "ho-5425646845298",
+  "slug": "ho-5425646845298-prodaja-stan-ledine",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 2,5-комнатная квартира, 62 м², Ледине, Новый Белград",
+  "kind": "2,5-комнатная квартира",
+  "price": 155000,
+  "area": 62,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Ледине",
+  "street": "Исидоре Секулич",
+  "geo": {
+   "lat": 44.80185,
+   "lng": 20.33098
+  },
+  "facts": [
+   [
+    "Площадь",
+    "62 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "2-й из 3"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "энергопаспорт",
+   "не последний этаж",
+   "кондиционер",
+   "парковка",
+   "терраса"
+  ],
+  "text": "Продаётся 2,5-комнатная квартира площадью 62 м² в районе Ледине (Новый Белград, Белград). 2-й этаж из 3, отопление автономное, дом современной постройки. Есть: энергопаспорт, не последний этаж, кондиционер, парковка, терраса. Цена 155 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju stan u novogradnji – 62 – završetak radova januar 2027 . \n\nU ponudi je moderan stan površine 62 kvadrata u kvalitetnoj novogradnji, sa planiranim završetkom radova u januaru 2027. godine. Objekat poseduje građevinsku dozvolu, a gradnja se izvodi po visokim standardima, uz pažljivo birane, prvoklasne materijale.\n\n Vrhunski kvalitet gradnje i opreme\n\nFasada sa 15 cm termoizolacije – odlična energetska efikasnost\nNemačka PVC stolarija Suko, 7 komora – maksimalna toplotna i zvučna izolacija\nTarkett hrastov parket – prva klasa\nItalijanska i španska keramika – prva klasa\nBlindirana ulazna vrata\nVideo nadzor sa interfon sistemom\n\n Funkcionalan i moderan raspored – 65 m²\n\nDve komforne spavaće sobe\nKupatilo\nProstrana dnevna soba sa trpezarijom i kuhinjom (open space koncept)\nTerasa\n\n Odlična lokacija\nStan se nalazi na izuzetno atraktivnoj lokaciji, neposredno pored autobuske stanice, marketa, kafića, apoteke i svih neophodnih sadržaja za udoban svakodnevni život.\n\nIdealan izbor za porodični dom, ali i kao sigurna investicija.",
+  "photos": 10,
+  "added": "2026-11-13",
+  "updated": "2026-11-13"
+ },
+ {
   "id": "ho-5425647980843",
   "slug": "ho-5425647980843-izdavanje-stan-cara-dusana",
   "deal": "rent",
