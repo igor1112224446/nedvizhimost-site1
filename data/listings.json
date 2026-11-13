@@ -1,5 +1,73 @@
 [
  {
+  "id": "ho-5425647980843",
+  "slug": "ho-5425647980843-izdavanje-stan-cara-dusana",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 3,5-комнатная квартира, 85 м², Цара Душана, Старый город",
+  "kind": "3,5-комнатная квартира",
+  "price": 1100,
+  "area": 85,
+  "rooms": 3.5,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "opstina-stari-grad",
+  "location": "Цара Душана",
+  "street": "Цара Душана",
+  "geo": {
+   "lat": 44.82268,
+   "lng": 20.46137
+  },
+  "facts": [
+   [
+    "Площадь",
+    "85 м²"
+   ],
+   [
+    "Комнат",
+    "3,5"
+   ],
+   [
+    "Этаж",
+    "1-й из 7"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "салонная планировка",
+   "домофон",
+   "интернет",
+   "кондиционер",
+   "лифт",
+   "терраса"
+  ],
+  "text": "Сдаётся 3,5-комнатная квартира площадью 85 м² в районе Цара Душана (Старый город, Белград). 1-й этаж из 7, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу, салонная планировка, домофон, интернет, кондиционер, лифт, терраса. Аренда 1 100 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem kompletno namesten troiposoban stan u centru Beograda, Stari grad.\n\nStan se sastoji od: dve prostrane spavace sobe, dnevnog boravka sa trpezarijom, kuhinje, kupatila, terase i hodnika.\n\nSaradanja sa agencijama je moguca samo ako naplacuju proviziju iskljucivo od buduceg zakupca.",
+  "photos": 12,
+  "added": "2026-11-13",
+  "updated": "2026-11-13"
+ },
+ {
   "id": "ho-5425635532612",
   "slug": "ho-5425635532612-izdavanje-stan-centar",
   "deal": "rent",
