@@ -1,5 +1,673 @@
 [
  {
+  "id": "fz-6af383c24321bc8283001d69",
+  "slug": "fz-6af383c24321bc8283001d69-prodaja-stan-becmen",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 2,5-комнатная квартира, 42 м², Бечмен, Сурчин",
+  "kind": "2,5-комнатная квартира",
+  "price": 75600,
+  "area": 42,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Сурчин",
+  "districtSlug": "surcin",
+  "location": "Бечмен",
+  "street": "Бечмен",
+  "geo": {
+   "lat": 44.77949,
+   "lng": 20.21628
+  },
+  "facts": [
+   [
+    "Площадь",
+    "42 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "1-й из 3"
+   ],
+   [
+    "Отопление",
+    "тёплый пол"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся 2,5-комнатная квартира площадью 42 м² в районе Бечмен (Сурчин, Белград). 1-й этаж из 3, отопление тёплый пол. Цена 75 600 €.",
+  "originalLang": "sr",
+  "original": "Dvoiposoban stan u zgradi za prodaju, uknjižen, Bečmen, 42 m2, na 1. spratu. Stanje - Novo, Podno, ima terasu, ima lođu, ima kupatilo, ima toalet.",
+  "photos": 7,
+  "added": "2026-11-13",
+  "updated": "2026-11-13"
+ },
+ {
+  "id": "fz-6af61cf0c7353cfa5b030133",
+  "slug": "fz-6af61cf0c7353cfa5b030133-prodaja-stan-bogoslovija",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 1,5-комнатная квартира, 40 м², Богословия, Палилула",
+  "kind": "1,5-комнатная квартира",
+  "price": 140000,
+  "area": 40,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "Богословия",
+  "street": "Генерала Арачича 16",
+  "geo": {
+   "lat": 44.81466,
+   "lng": 20.49791
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "1-й из 5"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи, кондиционер, электрическое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "терраса"
+  ],
+  "text": "Продаётся 1,5-комнатная квартира площадью 40 м² в районе Богословия (Палилула, Белград). 1-й этаж из 5, с мебелью, отопление аккумуляционные печи, кондиционер, электрическое. Есть: терраса. Цена 140 000 €.",
+  "originalLang": "sr",
+  "original": "Jednoiposoban stan u zgradi za prodaju, uknjižen, Bogoslovija, 40 m2, na 1. spratu. Stanje - Uobičajeno, TA peć, ima terasu, ima kupatilo.",
+  "photos": 6,
+  "added": "2026-11-13",
+  "updated": "2026-11-13"
+ },
+ {
+  "id": "ho-5425643053995",
+  "slug": "ho-5425643053995-izdavanje-stan-beograd-na-vodi",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: четырёхкомнатная квартира, 112 м², Београд на води, Савски-Венац",
+  "kind": "четырёхкомнатная квартира",
+  "price": 3000,
+  "area": 112,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "opstina-savski-venac",
+  "location": "Београд на води",
+  "street": "Херцеговачка",
+  "geo": {
+   "lat": 44.80882,
+   "lng": 20.45034
+  },
+  "facts": [
+   [
+    "Площадь",
+    "112 м²"
+   ],
+   [
+    "Комнат",
+    "4"
+   ],
+   [
+    "Этаж",
+    "12-й из 19"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 190 € в месяц"
+   ]
+  ],
+  "features": [
+   "можно с животными",
+   "можно въехать сразу",
+   "домофон",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "терраса"
+  ],
+  "text": "Сдаётся четырёхкомнатная квартира площадью 112 м² в районе Београд на води (Савски-Венац, Белград). 12-й этаж из 19, без мебели, отопление центральное, в исходном состоянии, дом современной постройки. Есть: можно с животными, можно въехать сразу, домофон, кондиционер, лифт, парковка, терраса. Аренда 3 000 € в месяц.",
+  "originalLang": "sr",
+  "original": "Nov, neuseljavan stan u BG na vodi, zgrada BW Terra sa pogledom na reku iz sve četiri sobe. Izdaje se prazan na duži period. Opremljen ugradnim ormarima i kuhinjom. Ostalo opremite prema svom ukusu. Jedno garažno mesto.Cena 2500, plaćanje na tromesečnom nivou, depozit 1200eur.",
+  "photos": 7,
+  "added": "2026-11-13",
+  "updated": "2026-11-13"
+ },
+ {
+  "id": "fz-6af6044cd50d3a8b8c0189f7",
+  "slug": "fz-6af6044cd50d3a8b8c0189f7-izdavanje-stan-mirijevo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 29 м², Мириево, Звездара",
+  "kind": "студия",
+  "price": 400,
+  "area": 29,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Мириево",
+  "street": "Пупинова",
+  "geo": {
+   "lat": 44.78887,
+   "lng": 20.53957
+  },
+  "facts": [
+   [
+    "Площадь",
+    "29 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся студия площадью 29 м² в районе Мириево (Звездара, Белград). С мебелью, отопление центральное. Аренда 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "Garsonjera u zgradi za izdavanje, Namešteno, Mirijevo, 29 m2, na 3. spratu, ima lift. Stanje - Renovirano, Centralno, ima kupatilo, ima toalet.",
+  "photos": 8,
+  "added": "2026-11-13",
+  "updated": "2026-11-13"
+ },
+ {
+  "id": "fz-6af5ef7ebbf65efeed07080e",
+  "slug": "fz-6af5ef7ebbf65efeed07080e-izdavanje-stan-autokomanda",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: четырёхкомнатная квартира, 200 м², Аутокоманда, Вождовац",
+  "kind": "четырёхкомнатная квартира",
+  "price": 2000,
+  "area": 200,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Аутокоманда",
+  "street": "Борисавлевичева",
+  "geo": {
+   "lat": 44.78484,
+   "lng": 20.46948
+  },
+  "facts": [
+   [
+    "Площадь",
+    "200 м²"
+   ],
+   [
+    "Комнат",
+    "4"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся четырёхкомнатная квартира площадью 200 м² в районе Аутокоманда (Вождовац, Белград). Без мебели, отопление автономное. Аренда 2 000 € в месяц.",
+  "originalLang": "sr",
+  "original": "Četvorosoban stan dupleks za izdavanje, Prazno, Autokomanda, 200 m2, na 3. spratu. Etažno, ima terasu, ima kupatilo, ima toalet. Ima garažno mesto u sklopu zgrade.",
+  "photos": 15,
+  "added": "2026-11-13",
+  "updated": "2026-11-13"
+ },
+ {
+  "id": "fz-6af5af4904ec838fc40c9f09",
+  "slug": "fz-6af5af4904ec838fc40c9f09-izdavanje-stan-kluz",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 35 м², Клуз, Звездара",
+  "kind": "1,5-комнатная квартира",
+  "price": 550,
+  "area": 35,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Клуз",
+  "street": "Вое Вельковича 7",
+  "geo": {
+   "lat": 44.78792,
+   "lng": 20.51734
+  },
+  "facts": [
+   [
+    "Площадь",
+    "35 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Отопление",
+    "норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "кондиционер"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 35 м² в районе Клуз (Звездара, Белград). С мебелью, отопление норвежские радиаторы. Есть: кондиционер. Аренда 550 € в месяц.",
+  "originalLang": "sr",
+  "original": "Jednoiposoban stan u zgradi za izdavanje, Namešteno, Kluz, 35 m2, na 4. spratu, ima lift. Norveški radijatori, ima terasu, ima kupatilo, ima toalet.",
+  "photos": 10,
+  "added": "2026-11-13",
+  "updated": "2026-11-13"
+ },
+ {
+  "id": "fz-6536a743a5e42da4d102cb7c",
+  "slug": "fz-6536a743a5e42da4d102cb7c-izdavanje-stan-savski-trg",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 55 м², Савски Трг, Савски-Венац",
+  "kind": "двухкомнатная квартира",
+  "price": 950,
+  "area": 55,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "savski-venac",
+  "location": "Савски Трг",
+  "street": "Савски Трг",
+  "geo": {
+   "lat": 44.80835,
+   "lng": 20.45719
+  },
+  "facts": [
+   [
+    "Площадь",
+    "55 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся двухкомнатная квартира площадью 55 м² в районе Савски Трг (Савски-Венац, Белград). С мебелью, отопление центральное. Аренда 950 € в месяц.",
+  "originalLang": "sr",
+  "original": "Dvosoban stan u zgradi za izdavanje, Namešteno, Savski Trg, 55 m2, ima lift. Stanje - Renovirano, Centralno, ima terasu, ima kupatilo.",
+  "photos": 6,
+  "added": "2026-11-13",
+  "updated": "2026-11-13"
+ },
+ {
+  "id": "fz-6a4d0a4ef50f2da98e02cff7",
+  "slug": "fz-6a4d0a4ef50f2da98e02cff7-izdavanje-stan-gornji-grad",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 45 м², Горни Град, Земун",
+  "kind": "двухкомнатная квартира",
+  "price": 800,
+  "area": 45,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "Горни Град",
+  "street": "Банатска",
+  "geo": {
+   "lat": 44.85244,
+   "lng": 20.37901
+  },
+  "facts": [
+   [
+    "Площадь",
+    "45 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся двухкомнатная квартира площадью 45 м² в районе Горни Град (Земун, Белград). С мебелью, отопление центральное. Аренда 800 € в месяц.",
+  "originalLang": "sr",
+  "original": "Dvosoban stan u zgradi za izdavanje, Namešteno, Gornji Grad, 45 m2, na 3. spratu, ima lift. Stanje - Novo, Centralno, ima terasu, ima kupatilo. Ima parking mesto. Ima garažno mesto u sklopu zgrade.",
+  "photos": 14,
+  "added": "2026-11-13",
+  "updated": "2026-11-13"
+ },
+ {
+  "id": "ho-5425647974884",
+  "slug": "ho-5425647974884-izdavanje-stan-mirijevo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 29 м², Мириево, Звездара",
+  "kind": "студия",
+  "price": 400,
+  "area": 29,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Мириево",
+  "street": "Пупинова",
+  "geo": {
+   "lat": 44.78893,
+   "lng": 20.54001
+  },
+  "facts": [
+   [
+    "Площадь",
+    "29 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "3-й из 4"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно с животными",
+   "не последний этаж",
+   "можно въехать сразу",
+   "подходит студентам",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "подвал"
+  ],
+  "text": "Сдаётся студия площадью 29 м² в районе Мириево (Звездара, Белград). 3-й этаж из 4, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: депозит, можно с животными, не последний этаж, можно въехать сразу, подходит студентам, домофон, интернет, кабельное ТВ, кондиционер, лифт, подвал. Аренда 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem nameštenu garsonjeru 29m2, u stambenoj zgradi na Mirijevu (Pupinova), treći sprat, lift. Dnevni boravak sa kuhinjom, predsobljem i kupatilom (tuš kabina, veš mašina); centralno grejanje, kablovska, internet. Vlasnik. Plaćanje mesečno 400 evra + depozit jedna stanarina. Useljivo odmah.\n\nPozvati: \nMejl:",
+  "photos": 8,
+  "added": "2026-11-13",
+  "updated": "2026-11-13"
+ },
+ {
+  "id": "ho-5425645688563",
+  "slug": "ho-5425645688563-prodaja-stan-batajnica",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 2,5-комнатная квартира, 77 м², Батайница, Земун",
+  "kind": "2,5-комнатная квартира",
+  "price": 132000,
+  "area": 77,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Батайница",
+  "street": "Майора Зорана Радосавлевича",
+  "geo": {
+   "lat": 44.89699,
+   "lng": 20.29319
+  },
+  "facts": [
+   [
+    "Площадь",
+    "77 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "1-й из 3"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "гараж",
+   "кондиционер",
+   "терраса",
+   "горячая вода"
+  ],
+  "text": "Продаётся 2,5-комнатная квартира площадью 77 м² в районе Батайница (Земун, Белград). 1-й этаж из 3, отопление автономное, люкс, дом современной постройки. Есть: можно въехать сразу, гараж, кондиционер, терраса, горячая вода. Цена 132 000 €.",
+  "originalLang": "sr",
+  "original": "Prodajem stan 77 kvadrataOd ovog stana su napravljena dva zasebna stana\nJedan ima 55 kvadrata, drugi ima 25 kvadrata\nZasebni ulazi zasebna kupatila kuhinja\nStan se vodi u katastru kao poslovni aprtman, doplata za namestaj 15.000 eura\nU ova dva stana uloženo preko 26.hiljada eura.\nCena za Garažno mesto 10.000 eura",
+  "photos": 15,
+  "added": "2026-11-13",
+  "updated": "2026-11-13"
+ },
+ {
+  "id": "ho-5425647974275",
+  "slug": "ho-5425647974275-prodaja-stan-zarkovo",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 2,5-комнатная квартира, 62 м², Жарково, Чукарица",
+  "kind": "2,5-комнатная квартира",
+  "price": 215000,
+  "area": 62,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "opstina-cukarica",
+  "location": "Жарково",
+  "street": "Трговачка",
+  "geo": {
+   "lat": 44.76128,
+   "lng": 20.41412
+  },
+  "facts": [
+   [
+    "Площадь",
+    "62 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "2-й из 5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "можно въехать сразу",
+   "есть право собственности",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "подвал",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся 2,5-комнатная квартира площадью 62 м² в районе Жарково (Чукарица, Белград). 2-й этаж из 5, отопление центральное, люкс, старый фонд. Есть: не последний этаж, можно въехать сразу, есть право собственности, домофон, интернет, кабельное ТВ, кондиционер, лифт, подвал, терраса, горячая вода, видеонаблюдение. Цена 215 000 €.",
+  "originalLang": "sr",
+  "original": "Gradjevinska firma - LAVAS vam prestavlja novi projekat!\n\nNaš peti stan na vašoj omiljenoj lokaciji!\n\nLux stan - kompletno - renoviran naj savremenijim materijalim.\n\nStan je u prelepoj zgrada koja je vrhunski održavana.\n\nStan je u neposrednoj blizini škole ,prodavnica i svih aktivnosti koje su potrebne za svakodnevni život.\n\nStan gleda na tržni centar Mondo i prelepi park!\n\nStan se kompletno renovira -nove instalacije ,naj savremeniji zvučni prozori sa alu roletnama,granitna keramika,inventer rashladni uredzaj,hrastov target parket i vrhunska zvučna izolacija u stanu!\n\nStan se završava i useljiv je 10.12.2026god\n\nSve glavne saobraćajnice su u blizini i buduća metro stanica na 50m.\n\nUz kupovinu stana dobijate godinu dana osiguranja stambenog prostora kod \n\nPosetite naš you tube kanal i pogledajte naše stanove: Lavas gradnja\n.\n\nAgencije NE,hvala!!!!",
+  "photos": 5,
+  "added": "2026-11-13",
+  "updated": "2026-11-13"
+ },
+ {
+  "id": "ho-5425647971229",
+  "slug": "ho-5425647971229-izdavanje-stan-mirijevo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 37 м², Мириево, Звездара",
+  "kind": "двухкомнатная квартира",
+  "price": 450,
+  "area": 37,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Мириево",
+  "street": "Капетана Милоса Зуница 25F",
+  "geo": {
+   "lat": 44.79598,
+   "lng": 20.53997
+  },
+  "facts": [
+   [
+    "Площадь",
+    "37 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "4-й из 4"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 100 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "подходит студентам",
+   "домофон",
+   "интернет",
+   "кондиционер",
+   "лифт",
+   "терраса"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 37 м² в районе Мириево (Звездара, Белград). 4-й этаж из 4, с мебелью, отопление автономное, люкс, дом современной постройки. Есть: депозит, можно въехать сразу, подходит студентам, домофон, интернет, кондиционер, лифт, терраса. Аренда 450 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem namesten stan u Mirijevu, novogradnja, Kapetana Milosa Zunjica 25F. Sav namestaj je nov, odmah useljivo",
+  "photos": 4,
+  "added": "2026-11-13",
+  "updated": "2026-11-13"
+ },
+ {
   "id": "ho-5425647433860",
   "slug": "ho-5425647433860-izdavanje-stan-zemunske-kapije",
   "deal": "rent",
