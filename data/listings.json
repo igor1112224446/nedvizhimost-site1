@@ -1530,6 +1530,254 @@
   "updated": "2026-11-13"
  },
  {
+  "id": "fz-6af14ebcacdb128ce40f121e",
+  "slug": "fz-6af14ebcacdb128ce40f121e-prodaja-stan-blok-62",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: четырёхкомнатная квартира, 102 м², Блок 62, Новый Белград",
+  "kind": "четырёхкомнатная квартира",
+  "price": 360000,
+  "area": 102,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "novi-beograd",
+  "location": "Блок 62",
+  "street": "Юрия Гагарина",
+  "geo": {
+   "lat": 44.8043,
+   "lng": 20.39511
+  },
+  "facts": [
+   [
+    "Площадь",
+    "102 м²"
+   ],
+   [
+    "Комнат",
+    "4"
+   ],
+   [
+    "Этаж",
+    "4-й из 4"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "частично меблирована"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся четырёхкомнатная квартира площадью 102 м² в районе Блок 62 (Новый Белград, Белград). 4-й этаж из 4, частично меблирована, отопление центральное. Цена 360 000 €.",
+  "originalLang": "sr",
+  "original": "Četvorosoban stan u zgradi za prodaju, uknjižen, Blok 62, 102 m2, na 4. spratu, ima lift. Stanje - Renovirano, Centralno, ima terasu, ima lođu, ima kupatilo, ima toalet.",
+  "photos": 15,
+  "added": "2026-11-13",
+  "updated": "2026-11-13"
+ },
+ {
+  "id": "fz-6af4a621fae3216b9a05808d",
+  "slug": "fz-6af4a621fae3216b9a05808d-prodaja-stan-borca",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: двухкомнатная квартира, 5723 м², Борча, Палилула",
+  "kind": "двухкомнатная квартира",
+  "price": 129000,
+  "area": 5723,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "Борча",
+  "street": "Косовопольска",
+  "geo": {
+   "lat": 44.87931,
+   "lng": 20.45953
+  },
+  "facts": [
+   [
+    "Площадь",
+    "5723 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "1-й из 3"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся двухкомнатная квартира площадью 5723 м² в районе Борча (Палилула, Белград). 1-й этаж из 3, без мебели, отопление аккумуляционные печи. Цена 129 000 €.",
+  "originalLang": "sr",
+  "original": "Dvosoban stan u zgradi za prodaju, u procesu uknjižavanja, Borča, 5723 m2, na 1. spratu. Stanje - Novo, TA peć, ima terasu, ima kupatilo, ima toalet. Ima parking mesto.",
+  "photos": 7,
+  "added": "2026-11-13",
+  "updated": "2026-11-13"
+ },
+ {
+  "id": "fz-6af323c5941a1cb2700d7cb0",
+  "slug": "fz-6af323c5941a1cb2700d7cb0-prodaja-stan-zarkovo",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: трёхкомнатная квартира, 80 м², Жарково, Чукарица",
+  "kind": "трёхкомнатная квартира",
+  "price": 245000,
+  "area": 80,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "cukarica",
+  "location": "Жарково",
+  "street": "Трговачка",
+  "geo": {
+   "lat": 44.74886,
+   "lng": 20.412
+  },
+  "facts": [
+   [
+    "Площадь",
+    "80 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "6-й из 8"
+   ],
+   [
+    "Отопление",
+    "центральное, кондиционер"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся трёхкомнатная квартира площадью 80 м² в районе Жарково (Чукарица, Белград). 6-й этаж из 8, отопление центральное, кондиционер. Цена 245 000 €.",
+  "originalLang": "sr",
+  "original": "Trosoban stan u zgradi za prodaju, uknjižen, Žarkovo, 80 m2, na 6. spratu, ima lift. Centralno, ima lođu, ima kupatilo, ima toalet.",
+  "photos": 10,
+  "added": "2026-11-13",
+  "updated": "2026-11-13"
+ },
+ {
+  "id": "fz-6af23b4cb4d2033f7f077023",
+  "slug": "fz-6af23b4cb4d2033f7f077023-prodaja-stan-krnjaca",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: трёхкомнатная квартира, 73 м², Крняча, Палилула",
+  "kind": "трёхкомнатная квартира",
+  "price": 175000,
+  "area": 73,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "Крняча",
+  "street": "Партизански Блок Улица 2 51",
+  "geo": {
+   "lat": 44.84544,
+   "lng": 20.48109
+  },
+  "facts": [
+   [
+    "Площадь",
+    "73 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "2-й из 4"
+   ],
+   [
+    "Отопление",
+    "электрическое, норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ]
+  ],
+  "features": [
+   "терраса"
+  ],
+  "text": "Продаётся трёхкомнатная квартира площадью 73 м² в районе Крняча (Палилула, Белград). 2-й этаж из 4, без мебели, отопление электрическое, норвежские радиаторы. Есть: терраса. Цена 175 000 €.",
+  "originalLang": "sr",
+  "original": "Trosoban stan u zgradi za prodaju, u procesu uknjižavanja, Krnjača, 73 m2, na 2. spratu, ima lift. Stanje - Novo, Struja, ima terasu, ima kupatilo, ima toalet. Ima parking mesto u dvorištu.",
+  "photos": 15,
+  "added": "2026-11-13",
+  "updated": "2026-11-13"
+ },
+ {
+  "id": "fz-6a93177fb3f5c8c5b50994f5",
+  "slug": "fz-6a93177fb3f5c8c5b50994f5-prodaja-stan-vinca",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 2,5-комнатная квартира, 55 м², Винча, Гроцка",
+  "kind": "2,5-комнатная квартира",
+  "price": 88000,
+  "area": 55,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Гроцка",
+  "districtSlug": "grocka",
+  "location": "Винча",
+  "street": "Професора Васича 116A",
+  "geo": {
+   "lat": 44.75105,
+   "lng": 20.60813
+  },
+  "facts": [
+   [
+    "Площадь",
+    "55 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "4-й из 4"
+   ],
+   [
+    "Отопление",
+    "центральное, электрическое, кондиционер"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся 2,5-комнатная квартира площадью 55 м² в районе Винча (Гроцка, Белград). 4-й этаж из 4, без мебели, отопление центральное, электрическое, кондиционер. Цена 88 000 €.",
+  "originalLang": "sr",
+  "original": "Dvoiposoban stan u zgradi za prodaju, uknjižen, Vinča, 55 m2, na 4. spratu. Stanje - Renovirano, Centralno, ima kupatilo. Ima parking mesto.",
+  "photos": 11,
+  "added": "2026-11-13",
+  "updated": "2026-11-13"
+ },
+ {
   "id": "fz-6af383c24321bc8283001d69",
   "slug": "fz-6af383c24321bc8283001d69-prodaja-stan-becmen",
   "deal": "sale",
