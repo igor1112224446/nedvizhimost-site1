@@ -819,6 +819,395 @@
   "updated": "2026-11-14"
  },
  {
+  "id": "kp-197246690",
+  "slug": "kp-197246690-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 62 м², © ОпенСтреетМап цонтрибуторс, Раковица",
+  "kind": "трёхкомнатная квартира",
+  "price": 500,
+  "area": 62,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Раковица",
+  "districtSlug": "rakovica",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Вукасовичева 24",
+  "geo": {
+   "lat": 44.75399,
+   "lng": 20.44914
+  },
+  "facts": [
+   [
+    "Площадь",
+    "62 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "высокий приземный из 3"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "подвал",
+   "кабельное ТВ",
+   "кондиционер",
+   "лоджия",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 62 м² в районе © ОпенСтреетМап цонтрибуторс (Раковица, Белград). Высокий приземный этаж из 3, с мебелью, отопление автономное, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, подвал, кабельное ТВ, кондиционер, лоджия, парковка, депозит. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se kompletno opremljen, izuzetno funkcionalna, namešten trosoban stan površine 62m2 na Kanarevom brdu u Vukasovićevoj ulici. Stan se nalazi na visokom prizemlju održavane zgrade i idealan je za porodice sa decom zbog sjajnog rasporeda prostorija. Odvojena prostrana dnevna soba, dve odvojene spavaće sobe, posebno trpezarija sa kuhinjom, zastakljena lodja/terasa, odvojen špajz. Stan ima svu potrebnu belu tehniku, pvc stolarija, klima. Grejanje etažno na struju. Grejanje se placa samo zimi po utroška, dok su računi za Infostan tokom godine minimalni. Ispred zgrade se nalazi slobodan parking. Stan je lociran u mirnom delu naselja, u blizini marketa Sunce i Maxi-ja. Osnovna skola na 20m, vrtić na 50m. Dom zdravlja i 6 linija gradskog prevoza u blizini. Stan je useljiv od 1.12.2026.",
+  "photos": 15,
+  "added": "2026-11-14",
+  "updated": "2026-11-14"
+ },
+ {
+  "id": "kp-197263425",
+  "slug": "kp-197263425-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 3,5-комнатная квартира, 90 м², © ОпенСтреетМап цонтрибуторс, Врачар",
+  "kind": "3,5-комнатная квартира",
+  "price": 850,
+  "area": 90,
+  "rooms": 3.5,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "vracar",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Шуматовачка",
+  "geo": {
+   "lat": 44.80564,
+   "lng": 20.46979
+  },
+  "facts": [
+   [
+    "Площадь",
+    "90 м²"
+   ],
+   [
+    "Комнат",
+    "3,5"
+   ],
+   [
+    "Этаж",
+    "приземный"
+   ],
+   [
+    "Отопление",
+    "кондиционер, электрическое, норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "кабельное ТВ",
+   "двухуровневая",
+   "кондиционер",
+   "депозит"
+  ],
+  "text": "Сдаётся 3,5-комнатная квартира площадью 90 м² в районе © ОпенСтреетМап цонтрибуторс (Врачар, Белград). Приземный этаж, с мебелью, отопление кондиционер, электрическое, норвежские радиаторы, после ремонта. Есть: можно въехать сразу, интернет, терраса, кабельное ТВ, двухуровневая, кондиционер, депозит. Аренда 850 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem kucu na Vračaru kod Hrama Sv. Save.\n\nKuća je na sprat i ima 90 kvadrata.\n\nU prizemlju se nalazi predsoblje, kuhinja, trpezarija, manje kupatilo, i veliki dnevni boravak.\n\nNa spratu se nalaze dve odvojene velike spavaće sobe sa velikim ormarima, veliko kupatilo i terasa.\n\nPotpuno je renovirana i odmah useljiva.\n\nMesečne režije minimalne.\n\nPozovite za dogovor oko cene.\n\nKućni ljubimci nisu dozvoljeni.",
+  "photos": 7,
+  "added": "2026-11-14",
+  "updated": "2026-11-14"
+ },
+ {
+  "id": "ho-5425647982387",
+  "slug": "ho-5425647982387-prodaja-stan-studentski-trg",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: двухкомнатная квартира, 43 м², Студентски трг, Старый город",
+  "kind": "двухкомнатная квартира",
+  "price": 296400,
+  "area": 43,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "opstina-stari-grad",
+  "location": "Студентски трг",
+  "street": "Вишничева",
+  "geo": {
+   "lat": 44.82109,
+   "lng": 20.45955
+  },
+  "facts": [
+   [
+    "Площадь",
+    "43 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Отопление",
+    "тёплый пол"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "есть право собственности",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "подвал",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся двухкомнатная квартира площадью 43 м² в районе Студентски трг (Старый город, Белград). Отопление тёплый пол, после ремонта, старый фонд. Есть: можно въехать сразу, есть право собственности, домофон, интернет, кабельное ТВ, кондиционер, подвал, видеонаблюдение. Цена 296 400 €.",
+  "originalLang": "sr",
+  "original": "DORĆOL, VIŠNJIĆEVA 6 — RENOVIRAN I NAMEŠTEN STAN, 43 m²\n\nProdajem uknjižen stan od 43 m² u Višnjićevoj 6, u staroj trgovačkoj zgradi sa predivnim pasažom i posebnim šarmom starog Beograda.\n\nStan je stručno renoviran uz angažovanje arhitekte, sa pažnjom posvećenom detaljima i udobnosti.\n\n- Podno grejanje u stanu i kupatilu.\n- Visina plafona 2,90 m.\n- Nalazi se na 1,5. spratu, u zgradi od šest spratova, bez lifta.\n- U zatvorenom dvorištu nalazi se parking koji stanari slobodno koriste.\n- Prodaje se kompletno namešten, sa svim stvarima koje se nalaze u stanu.\n- Uknjižen.\n\nStan sa karakterom, na odličnoj lokaciji u srcu Dorćola.\n\nProdaja direktno od vlasnika — bez agencijske provizije.\n\nZa više informacija i dogovor oko razgledanja, javite se privatnom porukom.\n\nДОРЧОЛ, VIŠNJIĆEVA 6 — КВАРТИРА С РЕМОНТОМ И МЕБЕЛЬЮ, 43 м²\n\nПродаю квартиру площадью 43 м² по адресу Višnjićeva 6, в старинном торговом здании с прекрасным пассажем и особой атмосферой старого Белграда.\n\nВ квартире выполнен профессиональный ремонт с участием архитектора, с вниманием к деталям и комфорту.\n\n- Тёплые полы в квартире и ванной комнате.\n- Высота потолков — 2,90 м.\n- Расположение — 1,5-й этаж шестиэтажного дома, без лифта.\n- В закрытом дворе есть парковка, которой жильцы могут свободно пользоваться.\n- Продаётся полностью меблированной, со всем содержимым квартиры.\n- Право собственности зарегистрировано в кадастре недвижимости.\n\nКвартира с характером в самом сердце Дорчола.\n\nПродажа напрямую от собственника — без агентской комиссии.\n\nДля дополнительной информации и записи на просмотр пишите в личные сообщения.",
+  "photos": 15,
+  "added": "2026-11-14",
+  "updated": "2026-11-14"
+ },
+ {
+  "id": "ho-5425646908194",
+  "slug": "ho-5425646908194-izdavanje-stan-skadarlija",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 40 м², Скадарлия, Старый город",
+  "kind": "двухкомнатная квартира",
+  "price": 700,
+  "area": 40,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "opstina-stari-grad",
+  "location": "Скадарлия",
+  "street": "Булевар деспота Стефана",
+  "geo": {
+   "lat": 44.81686,
+   "lng": 20.46768
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "4-й из 4"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 40 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "пентхаус",
+   "мансарда",
+   "для некурящих",
+   "подходит студентам",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "с садом",
+   "терраса"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 40 м² в районе Скадарлия (Старый город, Белград). 4-й этаж из 4, с мебелью, отопление автономное, люкс, старый фонд. Есть: депозит, можно въехать сразу, пентхаус, мансарда, для некурящих, подходит студентам, домофон, интернет, кабельное ТВ, кондиционер, с садом, терраса. Аренда 700 € в месяц.",
+  "originalLang": "sr",
+  "original": "Jedinstveni stan u centru grada,smart home sistem upravljanje preko aplikacije rasvetom,bojlerom robot usisivacem..,terasa 25 kvadrata,blizina skadarlije,cetinjske,bajlonijeve pijace..,odlicna povezanost sa ostalim delovima grada, ,vredi pogledati",
+  "photos": 12,
+  "added": "2026-11-14",
+  "updated": "2026-11-14"
+ },
+ {
+  "id": "ho-5425647982359",
+  "slug": "ho-5425647982359-izdavanje-stan-vidikovacka-padina",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 28 м², Видиковачка падина, Раковица",
+  "kind": "студия",
+  "price": 300,
+  "area": 28,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Раковица",
+  "districtSlug": "opstina-rakovica",
+  "location": "Видиковачка падина",
+  "street": "Моме Станойловича",
+  "geo": {
+   "lat": 44.7357,
+   "lng": 20.42786
+  },
+  "facts": [
+   [
+    "Площадь",
+    "28 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "2-й из 6"
+   ],
+   [
+    "Отопление",
+    "норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 50 € в месяц"
+   ]
+  ],
+  "features": [
+   "терраса",
+   "депозит",
+   "не последний этаж",
+   "подходит студентам"
+  ],
+  "text": "Сдаётся студия площадью 28 м² в районе Видиковачка падина (Раковица, Белград). 2-й этаж из 6, с мебелью, отопление норвежские радиаторы, после ремонта, старый фонд. Есть: терраса, депозит, не последний этаж, подходит студентам. Аренда 300 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem garosnjeru u Kneževcu, u ulici Mome Stanojlovića broj 16. Stan se nalazi u mirnoj ulici, na drugom spratu i površine je 28 kvadrata. Ima natkrivenu terasu. Kompletno je namešten. Grejanje je na francuski radijator. Ispred zgrade postoji javni parking. Pogodan je za studente, parove, samce.. U neposrednoj blizini su Maxi, apoteka, škola i autobuska stajališta 42 i 502. Useljiv je od . Mesečna kirija je 300 evra plus depozit. Za sve detaljnije informacije pozovite na kontakt",
+  "photos": 11,
+  "added": "2026-11-14",
+  "updated": "2026-11-14"
+ },
+ {
+  "id": "kp-197268596",
+  "slug": "kp-197268596-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 64 м², © ОпенСтреетМап цонтрибуторс, Вождовац",
+  "kind": "2,5-комнатная квартира",
+  "price": 800,
+  "area": 64,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Генерала Владимира Кондича",
+  "geo": {
+   "lat": 44.75651,
+   "lng": 20.49342
+  },
+  "facts": [
+   [
+    "Площадь",
+    "64 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "5-й из 6"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "доступ для колясок",
+   "депозит"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 64 м² в районе © ОпенСтреетМап цонтрибуторс (Вождовац, Белград). 5-й этаж из 6, с мебелью, отопление центральное. Есть: интернет, домофон, терраса, кабельное ТВ, кондиционер, лифт, доступ для колясок, депозит. Аренда 800 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stepa Stepanović, dvoiposoban stan. Kompletno namešten sa svim neophodnim stvarima. Dostupan od . Miran kraj sa dosta zelenila i terena za rekreaciju. Depozit u visini jedne mesečne rente. Bez kućnih ljubimaca.\n\nStepa Stepanović, cozy 2.5-room apartment. Fully furnished and ready to move in, with everything you might need. The apartment is available for move-in from December 1st. Nice, quiet neighborhood with plenty of greenery and spots for recreation. Deposit is one month’s rent. Sorry, no pets.",
+  "photos": 15,
+  "added": "2026-11-14",
+  "updated": "2026-11-14"
+ },
+ {
   "id": "ho-5425647980536",
   "slug": "ho-5425647980536-izdavanje-stan-arena",
   "deal": "rent",
