@@ -1,5 +1,77 @@
 [
  {
+  "id": "ho-5425647982361",
+  "slug": "ho-5425647982361-izdavanje-stan-autokomanda",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: четырёхкомнатная квартира, 65 м², Аутокоманда, Вождовац",
+  "kind": "четырёхкомнатная квартира",
+  "price": 900,
+  "area": 65,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "Аутокоманда",
+  "street": "Борисавлевичева",
+  "geo": {
+   "lat": 44.78265,
+   "lng": 20.47665
+  },
+  "facts": [
+   [
+    "Площадь",
+    "65 м²"
+   ],
+   [
+    "Комнат",
+    "4"
+   ],
+   [
+    "Этаж",
+    "1-й из 4"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно с животными",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "подходит студентам",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лоджия",
+   "парковка",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся четырёхкомнатная квартира площадью 65 м² в районе Аутокоманда (Вождовац, Белград). 1-й этаж из 4, с мебелью, отопление газовое, после ремонта, старый фонд. Есть: депозит, можно с животными, не последний этаж, можно въехать сразу, для некурящих, подходит студентам, домофон, интернет, кабельное ТВ, кондиционер, лоджия, парковка, видеонаблюдение. Аренда 900 € в месяц.",
+  "originalLang": "sr",
+  "original": "Posrednik\n\nIzdaje se kompletno opremljen četvorosoban stan površine 65 m², smešten na prvom spratu zgrade novije gradnje, u mirnoj i rezidencijalnoj Borisavljevićevoj ulici, na samom početku Voždovca, u neposrednoj blizini Autokomande.\n\nStan se sastoji od dnevne sobe sa trpezarijom, kuhinje, odvojen spavaći blok sa tri spavaće sobe, kupatila, hodnika i terase.\n\nStan je opremljen klima-uređajem, dok je grejanje etažno na gas.\n\nPosebnu pogodnost predstavlja parking mesto koje pripada stanu, što je značajna prednost na ovoj lokaciji. Parking mesto se doplaćuje 100e.\n\nIspred zgrade se nalazi autobusko stajalište, a uz to Borisavljevićeva ulica povezuje Vojvode Stepe i Kumodrašku ulicu, što omogućava jednostavan pristup različitim delovima grada.\n\nKućni ljubimci su dozvoljeni.\n\nZahvaljujući funkcionalnom rasporedu sa tri odvojene spavaće sobe, odličnoj lokaciji, parking mestu i blizini svih neophodnih sadržaja, ovaj stan predstavlja odličan izbor.",
+  "photos": 11,
+  "added": "2026-11-14",
+  "updated": "2026-11-14"
+ },
+ {
   "id": "ho-5425645032462",
   "slug": "ho-5425645032462-izdavanje-stan-borca",
   "deal": "rent",
