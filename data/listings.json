@@ -1,5 +1,73 @@
 [
  {
+  "id": "ho-5425647982156",
+  "slug": "ho-5425647982156-izdavanje-stan-cara-dusana",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 41 м², Цара Душана, Земун",
+  "kind": "двухкомнатная квартира",
+  "price": 650,
+  "area": 41,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Цара Душана",
+  "street": "Лазе Йовановича Порция",
+  "geo": {
+   "lat": 44.85252,
+   "lng": 20.38955
+  },
+  "facts": [
+   [
+    "Площадь",
+    "41 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "высокий приземный из 3"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 70 € в месяц"
+   ]
+  ],
+  "features": [
+   "французский балкон",
+   "гараж",
+   "домофон",
+   "кондиционер",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение",
+   "депозит",
+   "не последний этаж"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 41 м² в районе Цара Душана (Земун, Белград). Высокий приземный этаж из 3, с мебелью, люкс, дом современной постройки. Есть: французский балкон, гараж, домофон, кондиционер, терраса, горячая вода, видеонаблюдение, депозит, не последний этаж. Аренда 650 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem stan, novogradnja, sa garazom. Sastoji se od dnevne sobe sa trpezarijom, hodnik, spavaca soba, kupatilo, terasa i dodatni franciski balkon. U stanu novi uredjaji pod garancijom: LG televizor, Gorenje kombinovani frizider-zamrzivac, ugradna rerna, ugradna ploca, sudomasina, aspirator, ves masina.Troskovi grejanja minimalni i fiksni-toplotne pumpe.\nZgrada se nalazi izmedju ulice Cara Dusana i Ugrinovacke, pored skole Sonja Marinkovic, blizina vrtica, supermarketa i autobuskih stajalista.\nDepozit u visini jedne kirije.\nUseljiv od 1.decembra.\nNije pet frendly.",
+  "photos": 15,
+  "added": "2026-11-14",
+  "updated": "2026-11-14"
+ },
+ {
   "id": "ho-5425646845298",
   "slug": "ho-5425646845298-prodaja-stan-ledine",
   "deal": "sale",
