@@ -1,5 +1,58 @@
 [
  {
+  "id": "ho-5425645032462",
+  "slug": "ho-5425645032462-izdavanje-stan-borca",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 40 м², Борча, Палилула",
+  "kind": "1,5-комнатная квартира",
+  "price": 350,
+  "area": 40,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Борча",
+  "street": "Валевског Одреда 27",
+  "geo": {
+   "lat": 44.87877,
+   "lng": 20.45632
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "1-й из 1"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "терраса"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 40 м² в районе Борча (Палилула, Белград). 1-й этаж из 1, с мебелью. Есть: можно въехать сразу, интернет, кабельное ТВ, кондиционер, парковка, терраса. Аренда 350 € в месяц.",
+  "originalLang": "sr",
+  "original": "Kompletno namesten i ekonomican stan sa 2 sobe na vrlo lepoj lokaciji u Borci, u zgradi, izmedju ilica Valjevskog Odreda i Kombinatove. Nov namestaj: LCD TV, klima klasa A za grejanje i hladjenje sa malom potrosnjom struje, ves masina, bracni krevet itd.Stan je sa lepom terasom. Veoma je topao i lako se greje sa klimom koja trosi malo struje.\nOpticki internet, i katv (odlican paket Supernove). Ukupni troskovi za katv, Internet i Infostan su 2500din. Struja je koliko se potrosi. U cenu stana je ukljuceno kompletno odrzavanje elektricnih uredjaja ili majstora ukoliko se ukaze potreba.\nStan se nalazi na samoj stanici 95. Useljiv odmah",
+  "photos": 15,
+  "added": "2026-11-14",
+  "updated": "2026-11-14"
+ },
+ {
   "id": "ho-5425646440841",
   "slug": "ho-5425646440841-izdavanje-stan-bogoslovija",
   "deal": "rent",
