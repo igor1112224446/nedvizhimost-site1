@@ -1,5 +1,78 @@
 [
  {
+  "id": "ho-5425646440841",
+  "slug": "ho-5425646440841-izdavanje-stan-bogoslovija",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 27 м², Богословия, Палилула",
+  "kind": "студия",
+  "price": 340,
+  "area": 27,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Богословия",
+  "street": "Симе Шолае",
+  "geo": {
+   "lat": 44.81605,
+   "lng": 20.49811
+  },
+  "facts": [
+   [
+    "Площадь",
+    "27 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "приземный из 4"
+   ],
+   [
+    "Отопление",
+    "норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 100 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно с животными",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "подходит студентам",
+   "интернет",
+   "кабельное ТВ",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся студия площадью 27 м² в районе Богословия (Палилула, Белград). Приземный этаж из 4, с мебелью, отопление норвежские радиаторы, после ремонта, дом современной постройки. Есть: депозит, можно с животными, не последний этаж, можно въехать сразу, для некурящих, подходит студентам, интернет, кабельное ТВ, горячая вода, видеонаблюдение. Аренда 340 € в месяц.",
+  "originalLang": "sr",
+  "original": "Potpuno nov stan. Namešten, odmah useljiv. Miran kraj grada na 2,9km od centra sa jako dobrom konekcijom sa gradom. Dva minuta peške prodavnice, fast food, apoteka, pumpa. 10 minuta peske shoping mall.\n\nStan slobodan da se pogleda kada god, a useljiv od 01.03.\n- nov ugradni sporet\n- nova ugradna ploca\n- nova kuhinja\n- nov wc\n- nov ormar\n- nova svaka slavina, plocice sve\n- nove stolice \n\nKvalitetna ulazna vrata, prirodna svetlost, tri prozora, podna izolacija, zidna izolacija.",
+  "photos": 15,
+  "added": "2026-11-14",
+  "updated": "2026-11-14"
+ },
+ {
   "id": "ho-5425647982156",
   "slug": "ho-5425647982156-izdavanje-stan-cara-dusana",
   "deal": "rent",
