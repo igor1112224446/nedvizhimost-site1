@@ -1,5 +1,75 @@
 [
  {
+  "id": "ho-5425647266962",
+  "slug": "ho-5425647266962-izdavanje-stan-blok-65",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 39.11 м², Блок 65, Новый Белград",
+  "kind": "однокомнатная квартира",
+  "price": 800,
+  "area": 39.11,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Блок 65",
+  "street": "Джорджа Станоевича",
+  "geo": {
+   "lat": 44.81077,
+   "lng": 20.39565
+  },
+  "facts": [
+   [
+    "Площадь",
+    "39.11 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "1-й из 10"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 150 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно с животными",
+   "не последний этаж",
+   "можно въехать сразу",
+   "гараж",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 39.11 м² в районе Блок 65 (Новый Белград, Белград). 1-й этаж из 10, без мебели, люкс, дом современной постройки. Есть: депозит, можно с животными, не последний этаж, можно въехать сразу, гараж, интернет, кабельное ТВ, кондиционер, лифт, терраса, видеонаблюдение. Аренда 800 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se prazan jednosoban stan površine 39.11m². smešten na prvom spratu novog i modernog kompleksa Airport Garden u Bloku 65 kod Westa. Moguće je i izdavanje sa garažnim mestom u sklopu kompleksa.\nStan je odmah useljiv, bez dodatnih ulaganja, i predstavlja odličnu priliku za one koji žele kvalitetan životni prostor u novogradnji, na dobro povezanoj i traženoj lokaciji.\n\nProstor pruža mogućnost uređenja prema sopstvenim potrebama i stilu, što ga čini idealnim izborom kako za pojedince, tako i za parove. Moguće je iznajmljivnje za kancelariju ili poslovni prostor. \nKompleks Airport Garden je savremen i moderan, sa uređenim okruženjem. U sklopu zgrade je obezbeđen video nadzor i fizičko obezbeđenje.\n\nStan je odmah useljiv, bez dodatnih ulaganja, i predstavlja odličnu priliku za one koji žele kvalitetan životni prostor u novogradnji, na dobro povezanoj i traženoj lokaciji.\n\nKontakt i informacije",
+  "photos": 15,
+  "added": "2026-11-14",
+  "updated": "2026-11-14"
+ },
+ {
   "id": "ho-5425647983980",
   "slug": "ho-5425647983980-izdavanje-stan-blok-65",
   "deal": "rent",
