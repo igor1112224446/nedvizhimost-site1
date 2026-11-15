@@ -651,6 +651,784 @@
   "updated": "2026-11-15"
  },
  {
+  "id": "kp-197296842",
+  "slug": "kp-197296842-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 60 м², © ОпенСтреетМап цонтрибуторс, Чукарица",
+  "kind": "2,5-комнатная квартира",
+  "price": 650,
+  "area": 60,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "cukarica",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Николая Гоголя 98A",
+  "geo": {
+   "lat": 44.76943,
+   "lng": 20.4128
+  },
+  "facts": [
+   [
+    "Площадь",
+    "60 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "2-й из 6"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "подвал",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "лифт",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 60 м² в районе © ОпенСтреетМап цонтрибуторс (Чукарица, Белград). 2-й этаж из 6, с мебелью, отопление центральное, в исходном состоянии, старый фонд. Есть: можно въехать сразу, интернет, домофон, терраса, подвал, кабельное ТВ, кондиционер, видеонаблюдение, лифт, парковка, депозит. Аренда 650 € в месяц.",
+  "originalLang": "sr",
+  "original": "Zgrada od fasadne cigle preko puta okretnice tramvaja u zelenilu. .Dva ulaza. .Igraliste za decu. .",
+  "photos": 15,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "kp-197297502",
+  "slug": "kp-197297502-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 42 м², © ОпенСтреетМап цонтрибуторс, Звездара",
+  "kind": "двухкомнатная квартира",
+  "price": 550,
+  "area": 42,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Войислава Илича",
+  "geo": {
+   "lat": 44.79216,
+   "lng": 20.49682
+  },
+  "facts": [
+   [
+    "Площадь",
+    "42 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "высокий приземный из 7"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "подвал",
+   "доступ для колясок"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 42 м² в районе © ОпенСтреетМап цонтрибуторс (Звездара, Белград). Высокий приземный этаж из 7, с мебелью, отопление центральное, в исходном состоянии, старый фонд. Есть: можно въехать сразу, терраса, подвал, доступ для колясок. Аренда 550 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se namešten dvosoban stan od 42 m² u ulici Vojislava Ilića 127, visoko prizemlje.\n\nStan se nalazi na odličnoj lokaciji – preko puta tekstilne škole, odmah iznad marketa Vero i BEO Shopping Centra. Odlično je povezan gradskim prevozom sa svim delovima grada.\n\n* **Kvadratura: ** 42 m²\n\n* **Sprat: ** Visoko prizemlje\n\n* **Grejanje: ** Centralno (jako toplo)\n\n* **Cena: ** 550 € mesečno\n\n* **Dodatni prostor: ** Podrum površine 5 m²\n\nStan se izdaje kompletno namešten, postoji mogućnost iznošenja viška stvari po dogovoru i potrebi zakupca.\n\nZa sve dodatne informacije i dogovor oko gledanja stana",
+  "photos": 7,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "kp-197210312",
+  "slug": "kp-197210312-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 61 м², © ОпенСтреетМап цонтрибуторс, Вождовац",
+  "kind": "двухкомнатная квартира",
+  "price": 600,
+  "area": 61,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Беранска 114A",
+  "geo": {
+   "lat": 44.74911,
+   "lng": 20.4924
+  },
+  "facts": [
+   [
+    "Площадь",
+    "61 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "приземный из 4"
+   ],
+   [
+    "Отопление",
+    "норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "энергопаспорт",
+   "видеонаблюдение",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 61 м² в районе © ОпенСтреетМап цонтрибуторс (Вождовац, Белград). Приземный этаж из 4, с мебелью, отопление норвежские радиаторы, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, кондиционер, энергопаспорт, видеонаблюдение, парковка, депозит. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "stan 61mkv, NEMA INFOSTAN, TROSARINA, blizina fakulteta Farmaceitski, Saobracajni, Singidunum, Fon, beranska ulica paralelna sa vojvode stepe ide autobus 33, 406L i blizu 25ica, parking, kablovska internet,   odrzavanje zgrade, upravnik voda 3770din",
+  "photos": 15,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "fz-6afa0371540b49a7b404e309",
+  "slug": "fz-6afa0371540b49a7b404e309-prodaja-stan-blok-30",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: трёхкомнатная квартира, 89 м², Блок 30, Новый Белград",
+  "kind": "трёхкомнатная квартира",
+  "price": 370000,
+  "area": 89,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "novi-beograd",
+  "location": "Блок 30",
+  "street": "Булевар Зорана Джинджича",
+  "geo": {
+   "lat": 44.81327,
+   "lng": 20.42761
+  },
+  "facts": [
+   [
+    "Площадь",
+    "89 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "8-й из 11"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся трёхкомнатная квартира площадью 89 м² в районе Блок 30 (Новый Белград, Белград). 8-й этаж из 11, отопление центральное. Цена 370 000 €.",
+  "originalLang": "sr",
+  "original": "Trosoban stan u zgradi za prodaju, uknjižen, Blok 30, 89 m2, na 8. spratu, ima lift. Stanje - Uobičajeno, Centralno, ima lođu, ima kupatilo, ima toalet.",
+  "photos": 15,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "ho-5425647662140",
+  "slug": "ho-5425647662140-prodaja-stan-beograd-na-vodi",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: четырёхкомнатная квартира, 167 м², Београд на води, Савски-Венац",
+  "kind": "четырёхкомнатная квартира",
+  "price": 1320000,
+  "area": 167,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "opstina-savski-venac",
+  "location": "Београд на води",
+  "street": "Херцеговачка",
+  "geo": {
+   "lat": 44.80904,
+   "lng": 20.45019
+  },
+  "facts": [
+   [
+    "Площадь",
+    "167 м²"
+   ],
+   [
+    "Комнат",
+    "4"
+   ],
+   [
+    "Этаж",
+    "16-й из 20"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "есть право собственности",
+   "домофон",
+   "интернет",
+   "камин",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "лоджия",
+   "парковка",
+   "подвал",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся четырёхкомнатная квартира площадью 167 м² в районе Београд на води (Савски-Венац, Белград). 16-й этаж из 20, отопление центральное, люкс, дом современной постройки. Есть: можно въехать сразу, есть право собственности, домофон, интернет, камин, кабельное ТВ, кондиционер, лифт, лоджия, парковка, подвал, терраса, горячая вода, видеонаблюдение. Цена 1 320 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju je jedinstven dizajnerski stan u BW Residences, u prvom redu do Save, na 16. spratu, sa spektakularnim pogledom na reku, grad i zalaske sunca.\nDom za nekoga ko želi da se svakog jutra budi uz pogled na Savu, a dan završava u sopstvenom jacuzziju iznad grada, čak i tokom zime.\n\nStan ima 159,75 m² uknjižene površine, uz dodatnih 6 m² terase koja je pripala stanu, odnosno ukupno 165,75 m².\n\nPrilikom renoviranja stan je praktično izgrađen ponovo od poda do plafona. Originalni enterijer je potpuno uklonjen, a iznova su izvedeni podovi, zidovi, plafoni, instalacije i kompletan enterijer. Sve je rađeno bez kompromisa, uz high-end materijale i opremu: Gaggenau kuhinjska tehnika, Gessi armature i galanterija, nameštaj rađen po meri i podno grejanje kroz ceo stan, uključujući i terasu.\n\nSrce stana je prostrani open-space dnevni boravak sa kuhinjom i trpezarijom, okrenut ka reci i direktno povezan sa velikom terasom. Prirodno drvo i kamen, ambijentalna rasveta, integrisani kamin i velike staklene površine stvaraju atmosferu luksuznog boutique hotela, uz toplinu pravog doma.\n\nMaster suite od oko 30 m² predstavlja zasebnu privatnu celinu. Krevet je okrenut prema Savi, pa se direktno iz njega pruža pogled na reku i zalazak sunca. Poseduje sopstveno spa kupatilo sa samostojećom kadom i walk-in rain tušem.\n\nStan je prvobitno bio četvorosoban, ali je iz želje za većim i komfornijim prostorijama pretvoren u trosoban. Dve spavaće sobe spojene su u današnju dečju sobu od oko 25 m². Sve je planski izvedeno tako da se ona jednostavno može ponovo podeliti na dve standardne spavaće sobe. Ukoliko kupcu više odgovara četvorosobna konfiguracija, vraćanje originalnog rasporeda može biti izvedeno o mom trošku.\n\nPoseban doživljaj pružaju dve terase. Glavna terasa od čak 38 m² uređena je kao dnevni boravak na otvorenom, sa lounge zonom, ležaljkama i grejanim jacuzzijem koji se može koristiti tokom cele godine. Južna/jugozapadna orijentacija donosi obilje sunca i prelepe zalaske nad Savom.\n\nDruga, intimnija frontalna terasa od 6 m² direktno je okrenuta ka Savi, idealna za jutarnju kafu uz otvoren pogled na reku.\n\nStan se prodaje kompletno namešten i spreman za useljenje.\nJedna od najvećih prednosti stana je njegova pozicija – ispred njega nema drugih objekata, pa pogled prema Savi ostaje potpuno otvoren i nesmetan. Prvi red do reke, 16. sprat, dve terase i potpuna otvorenost prema Savi stvaraju osećaj privatnosti i prostora koji je izuzetno teško pronaći u Beogradu na vodi. Stan je rađen za sopstveno stanovanje, bez kompromisa u kvalitetu i izboru materijala.\n\nStanari BW Residences imaju na raspolaganju bazen, spa, Technogym teretanu, deciju igraonicu, concierge i 24/7 obezbeđenje, dok su Sava Promenada, Galerija i restorani na svega nekoliko koraka.\n\nCena: 1.320.000 €\nGaražno mesto: 40.000 €\nOvo nije samo stan sa pogledom na Savu. Ovo je dom napravljen bez kompromisa, mesto na kojem svaki dan pruža osećaj boravka u hotelu sa pet zvezdica.",
+  "photos": 15,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "ho-5425647864101",
+  "slug": "ho-5425647864101-prodaja-stan-beograd-na-vodi",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: трёхкомнатная квартира, 105 м², Београд на води, Савски-Венац",
+  "kind": "трёхкомнатная квартира",
+  "price": 645000,
+  "area": 105,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "opstina-savski-venac",
+  "location": "Београд на води",
+  "street": "Херцеговачка",
+  "geo": {
+   "lat": 44.80996,
+   "lng": 20.45019
+  },
+  "facts": [
+   [
+    "Площадь",
+    "105 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "5-й из 17"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "французский балкон",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся трёхкомнатная квартира площадью 105 м² в районе Београд на води (Савски-Венац, Белград). 5-й этаж из 17, отопление центральное, люкс, дом современной постройки. Есть: французский балкон, домофон, интернет, кабельное ТВ, кондиционер, лифт, парковка, терраса, горячая вода, видеонаблюдение. Цена 645 000 €.",
+  "originalLang": "sr",
+  "original": "BW VICTORIA | 105 m² | Prvi red do Save i trajno otvoren pogled\n\nZamislite jutro uz otvoren pogled na Savu, kafu na prostranoj terasi i šetnju uz reku čim izađete iz zgrade. U ovom stanu, to je vaša svakodnevica.\n\nNa prodaju je trosoban stan u BW Victoria, jednoj od arhitektonski najupečatljivijih zgrada Beograda na vodi. Prepoznatljiva fasada, položaj na samoj obali i sadržaji za stanare čine ovu adresu posebnim izborom za život.\n\nStan se nalazi u središnjem delu zgrade, u prvom redu do reke, sa direktnim, trajno otvorenim pogledom na Savu. Dnevni boravak i obe spavaće sobe okrenuti su ka reci. Upravo taj položaj daje mu ono zbog čega se bira život uz vodu: širinu vidika i reku koja je deo ambijenta vašeg doma.\n\nProstrana terasa ima dovoljno mesta za udobnu garnituru i sto za ručavanje, pa lako postaje omiljeni deo doma – za jutarnju kafu, večeru udvoje ili druženje sa prijateljima uz pogled na reku. Na nju se izlazi iz dnevnog boravka i jedne spavaće sobe.\n\nDnevni boravak od gotovo 26 m² povezan je sa otvorenom kuhinjom i trpezarijskim delom. Velike staklene površine od poda do plafona unose svetlost i povezuju enterijer sa terasom i pogledom.\n\nDve spavaće sobe, površine 19 m² i 18,81 m², postavljene su sa suprotnih strana dnevnog boravka, pružajući više privatnosti ukućanima. Obe nude prostor za veliki krevet i garderobu, a druga se može urediti i kao dečija, gostinska ili radna soba. Glavna spavaća soba ima sopstveno kupatilo i izlaz na terasu, što joj daje osećaj zasebnog privatnog apartmana.\n\nStan ima dva kupatila – jedno sa tušem, drugo sa kadom – poseban gostinski toalet i zasebnu vešernicu. Prostori predviđeni za plakare na ulazu i u spavaćim sobama dodatno olakšavaju organizaciju. Raspored pruža komfor za porodični život, rad od kuće i boravak gostiju.\n\nBW Victoria donosi pogodnosti koje svakodnevicu čine jednostavnijom i prijatnijom:\n\n- Unutrašnji bazen sa pogledom na reku.\n- Spa i wellness zonu sa saunom i savremenom teretanom.\n- Klub stanara – prostor za poslovne i privatne sastanke, uz očuvanu privatnost vašeg doma.\n- Reprezentativan ulazni lobi sa recepcijom i obezbeđenjem 24/7.\n- Prostorije za bicikle i dečija kolica, kao i stanicu za čišćenje ljubimaca nakon šetnje.\n\nDirektan pristup Sava Promenadi znači da su šetnja, trčanje i vožnja bicikla uz reku deo vaše dnevne rutine. Prodavnice, kafići i restorani nalaze se u prizemlju, dok su Galerija i Savski park u blizini. Jutarnji trening, opuštanje u sauni, poslovni sastanak ili večera uz reku – sve je nadomak vašeg doma.\n\nOvo je stan za kupca koji podjednako ceni pogled, prostranu terasu, privatnost i kvalitet svakodnevnog života. Spoj položaja u zgradi, funkcionalnog rasporeda i sadržaja BW Victoria najbolje se doživljava uživo.\nUz stan se prodaje i parking mesto po izvornoj ceni od 42.000 €.\nZakažite razgledanje i stanite na terasu. Pogled će vam reći ostalo.",
+  "photos": 14,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "ho-5425644009024",
+  "slug": "ho-5425644009024-izdavanje-stan-meandri",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 35 м², Меандри, Земун",
+  "kind": "1,5-комнатная квартира",
+  "price": 500,
+  "area": 35,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Меандри",
+  "street": "Раде Кончара",
+  "geo": {
+   "lat": 44.84612,
+   "lng": 20.38598
+  },
+  "facts": [
+   [
+    "Площадь",
+    "35 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "4-й из 4"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "домофон",
+   "интернет",
+   "кондиционер",
+   "парковка",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение",
+   "депозит"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 35 м² в районе Меандри (Земун, Белград). 4-й этаж из 4, с мебелью, люкс, дом современной постройки. Есть: домофон, интернет, кондиционер, парковка, терраса, горячая вода, видеонаблюдение, депозит. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem 1.5 stan, kompletno namesten, na duzi vremenski period. Stan je novogradnja i useljiv od 1. februara. Depozit u visini kirije. Za dodatne informacije pozvati na broj",
+  "photos": 8,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "ho-5425646532097",
+  "slug": "ho-5425646532097-izdavanje-stan-rupcine",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 32 м², Рупчине, Чукарица",
+  "kind": "1,5-комнатная квартира",
+  "price": 260,
+  "area": 32,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "opstina-cukarica",
+  "location": "Рупчине",
+  "street": "Цедомира попова 6",
+  "geo": {
+   "lat": 44.74141,
+   "lng": 20.39923
+  },
+  "facts": [
+   [
+    "Площадь",
+    "32 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "4-й из 5"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 50 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно с животными",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "подходит студентам",
+   "домофон",
+   "интернет",
+   "кондиционер",
+   "терраса"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 32 м² в районе Рупчине (Чукарица, Белград). 4-й этаж из 5, без мебели, отопление газовое, после ремонта, дом современной постройки. Есть: депозит, можно с животными, не последний этаж, можно въехать сразу, для некурящих, подходит студентам, домофон, интернет, кондиционер, терраса. Аренда 260 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stan u odlicnom stanju. Stan nema namestaj ali poseduje kompletnu belu tehniku. Od stanice 55,58, 88,511n i 512 10 min, i 51 12min peske. Vredi pogledati",
+  "photos": 9,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "ho-5425647988756",
+  "slug": "ho-5425647988756-izdavanje-stan-dorcol",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 57 м², Дорчол, Старый город",
+  "kind": "двухкомнатная квартира",
+  "price": 850,
+  "area": 57,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "opstina-stari-grad",
+  "location": "Дорчол",
+  "street": "Господар Йованова",
+  "geo": {
+   "lat": 44.82153,
+   "lng": 20.46023
+  },
+  "facts": [
+   [
+    "Площадь",
+    "57 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "11-й из 13"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 100 € в месяц"
+   ]
+  ],
+  "features": [
+   "домофон",
+   "кондиционер",
+   "лифт",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 57 м² в районе Дорчол (Старый город, Белград). 11-й этаж из 13, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: домофон, кондиционер, лифт, терраса, видеонаблюдение. Аренда 850 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se dvosoban stan od 57 m2 u Gospodar Jovanovoj ulici u zgradi Maxija. \n\nStan je namešten i sastoji se od kuhinje, dnevne sobe, spavaće sobe, kupatila i zastakljene terase. \nNalazi se na 11. Spratu od ukupno 13. Zgrada ima dva lifta. \nStan ima klimu i centralno grejanje.\nMesečni računi (infostan+struja) oko 100 evra.\nCena je 850 evra plus depozit u visini jedne kirije. \nKontakt telefon (kontaktirati putem Vibera)",
+  "photos": 12,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "ho-5425647988753",
+  "slug": "ho-5425647988753-prodaja-stan-dedinje",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: четырёхкомнатная квартира, 96 м², Дедине, Савски-Венац",
+  "kind": "четырёхкомнатная квартира",
+  "price": 393600,
+  "area": 96,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "opstina-savski-venac",
+  "location": "Дедине",
+  "street": "Црнотравска",
+  "geo": {
+   "lat": 44.76805,
+   "lng": 20.46777
+  },
+  "facts": [
+   [
+    "Площадь",
+    "96 м²"
+   ],
+   [
+    "Комнат",
+    "4"
+   ],
+   [
+    "Этаж",
+    "1-й из 3"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "гараж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся четырёхкомнатная квартира площадью 96 м² в районе Дедине (Савски-Венац, Белград). 1-й этаж из 3, отопление центральное, люкс, дом современной постройки. Есть: гараж, домофон, интернет, кабельное ТВ, кондиционер, лифт, терраса, видеонаблюдение. Цена 393 600 €.",
+  "originalLang": "sr",
+  "original": "DEDINJE CORNER | ČETVOROSOBAN STAN 96 m² | NOVOGRADNJA | DIREKTNO OD INVESTITORA\n\nU okviru savremenog stambenog objekta Dedinje Corner sa ukupno 15 stanova, na atraktivnoj lokaciji na Dedinju, u neposrednoj blizini VMA, u prodaji je četvorosobni stan na prvom spratu površine 96 m². Prodaja se vrši direktno od investitora, koji je istovremeno i izvođač radova. Planirani završetak radova je jul 2027. godine.\n\nStan se nalazi na prvom spratu i odlikuje se pažljivo osmišljenim, funkcionalnim rasporedom i visokim standardom gradnje.\n\nPosebna pažnja posvećena je kvalitetu ugrađenih materijala, energetskoj efikasnosti i komforu stanovanja.\n\n- visina plafona 2,85 m\n- visokokvalitetna aluminijumska stolarija sa troslojnim termoizolacionim staklom tipa Four Seasons\n- centralno grejanje\n- multisplit sistem klimatizacije\n- garaža\n\nCena: 4.100 €/m² + PDV\n\nZa sve dodatne informacije, detaljnije upoznavanje sa projektom ili dogovor oko obilaska gradilišta, slobodno nas kontaktirajte.",
+  "photos": 15,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "ho-5425647988751",
+  "slug": "ho-5425647988751-prodaja-stan-blok-58",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 2,5-комнатная квартира, 61 м², Блок 58, Новый Белград",
+  "kind": "2,5-комнатная квартира",
+  "price": 299000,
+  "area": 61,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Блок 58",
+  "street": "Юрия Гагарина",
+  "geo": {
+   "lat": 44.80398,
+   "lng": 20.40549
+  },
+  "facts": [
+   [
+    "Площадь",
+    "61 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "6-й из 10"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "энергопаспорт",
+   "не последний этаж",
+   "гараж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся 2,5-комнатная квартира площадью 61 м² в районе Блок 58 (Новый Белград, Белград). 6-й этаж из 10, отопление газовое, люкс, дом современной постройки. Есть: энергопаспорт, не последний этаж, гараж, домофон, интернет, кабельное ТВ, кондиционер, лифт, парковка, терраса, горячая вода, видеонаблюдение. Цена 299 000 €.",
+  "originalLang": "sr",
+  "original": "Prodajem nov dvoiposoban stan na Novom Beogradu-ekskluzivna lokacija u naselju Lastavice,Blok 58 u trouglu Belvil, Sakura - Lastavice.\nStan se nalazi na 6.spratu od 9, plus povuceni sprat.\nStan je dvostrano orjentisan,prozracan i pun svetlosti. \nStan se prodaje potpuno namesten (sa kvalitetnim namestajem) i opremljen sa svim uredjajima.\nStan se sastoji od: ulazni hodnik, dnevna soba, trpezarija, kuhinja, dve spavace sobe, kupatilo i terasa.\nGrejanje na gas po utrosku. Zgrada ima 24-casovno obezbedjenje.\nStambena zajednica funkcionalna, prostor oko zgrade sredjen i redovno se odrzava.\nPrimopredaja stana moguca u vrlo kratkom roku.\nKontakt -",
+  "photos": 14,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "kp-197285208",
+  "slug": "kp-197285208-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 75 м², © ОпенСтреетМап цонтрибуторс, Звездара",
+  "kind": "двухкомнатная квартира",
+  "price": 1400,
+  "area": 75,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Захумска 30",
+  "geo": {
+   "lat": 44.80332,
+   "lng": 20.48283
+  },
+  "facts": [
+   [
+    "Площадь",
+    "75 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "6-й из 7"
+   ],
+   [
+    "Отопление",
+    "центральное, кондиционер"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "французский балкон",
+   "лифт",
+   "можно с животными",
+   "депозит"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 75 м² в районе © ОпенСтреетМап цонтрибуторс (Звездара, Белград). 6-й этаж из 7, с мебелью, отопление центральное, кондиционер, после ремонта, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, французский балкон, лифт, можно с животными, депозит. Аренда 1 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "Luksuzni apartman na odličnoj lokaciji. Prostrana dnevna soba sa kuhinjom i trpezarijom, dvostrano orijentisana. Pogled na crkvu Svetog Marka. Odvojena spavaća soba sa zasebnim kupatilom opremljeno hidromasažnom kadom. Dva kupatila i poseban radni prostor. Kompletno renoviran, namešten i spreman za useljenje. Ljubimci su dobrodošli. Ukoliko imate neka pitanja tu sam za vas.",
+  "photos": 15,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
   "id": "ho-5425647988515",
   "slug": "ho-5425647988515-izdavanje-stan-crveni-krst",
   "deal": "rent",
