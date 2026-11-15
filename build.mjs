@@ -235,6 +235,8 @@ const DEAL = {
   sale: { path: 'prodazha', name: 'Купить', h1: 'Квартиры и дома в Белграде на продажу', lead: 'Квартиры и дома от собственников. Проверим документы и сопроводим сделку от просмотра до регистрации права.', per: '' },
 };
 const photo = (l, i = 1) => `/photos/${l.id}/${i}.jpg`;
+// Обрезка описания для поисковиков по границе слова, без оборванной запятой в конце
+const snippet = (t, n) => { const s = String(t).replace(/\s+/g, ' ').trim(); if (s.length <= n) return s; const cut = s.slice(0, n - 1).replace(/[\s,;:–—-]+\S*$/, ''); return cut.replace(/[,;:–—-]+$/, '') + '…'; };
 const placeLine = (l) => [l.location, l.district].filter((x, i, a) => x && a.indexOf(x) === i).join(', ');
 const fact = (l, k) => (l.facts || []).find((f) => f[0] === k)?.[1] || '';
 const roomsKey = (l) => (l.type === 'house' ? 'house' : !l.rooms || l.rooms <= 0.5 ? '0' : l.rooms >= 4 ? '4' : String(Math.round(l.rooms * 2) / 2));
@@ -354,6 +356,28 @@ function mega(key, nav) {
   </div>`;
 }
 
+// ---------- статистика посещений ----------
+// Google Analytics 4 и Яндекс Метрика. Пустая строка — счётчик выключен.
+const ANALYTICS = {
+  ga: 'G-ZL2D979PL5',
+  ym: '114267616',        // номер счётчика Яндекс Метрики
+  yandexVerification: '', // код подтверждения Яндекс Вебмастера (если подтверждать мета-тегом)
+};
+// Цели: клик по телефону, WhatsApp, Telegram, Viber и отправка формы заявки.
+// В Метрике и Google они приходят как события phone_click, whatsapp_click, telegram_click, viber_click, lead_form
+function analyticsHead() {
+  const { ga, ym, yandexVerification } = ANALYTICS;
+  const parts = [];
+  if (yandexVerification) parts.push(`<meta name="yandex-verification" content="${esc(yandexVerification)}">`);
+  if (ga) parts.push(`<script async src="https://www.googletagmanager.com/gtag/js?id=${esc(ga)}"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','${esc(ga)}');</script>`);
+  if (ym) parts.push(`<script>(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};m[i].l=1*new Date();for(var j=0;j<document.scripts.length;j++){if(document.scripts[j].src===r){return}}k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})(window,document,'script','https://mc.yandex.ru/metrika/tag.js?id=${Number(ym)}','ym');ym(${Number(ym)},'init',{ssr:true,webvisor:true,clickmap:true,ecommerce:'dataLayer',accurateTrackBounce:true,trackLinks:true});</script>`);
+  if (ga || ym) parts.push(`<script>(function(){function goal(n){try{if(window.gtag)gtag('event',n);if(window.ym&&${Number(ym) || 0})ym(${Number(ym) || 0},'reachGoal',n)}catch(e){}}
+document.addEventListener('click',function(e){var a=e.target&&e.target.closest&&e.target.closest('a[href]');if(!a)return;var h=a.getAttribute('href')||'';var n=/^tel:/i.test(h)?'phone_click':/wa\.me|whatsapp/i.test(h)?'whatsapp_click':/t\.me\//i.test(h)?'telegram_click':/^viber:/i.test(h)?'viber_click':'';if(n)goal(n)},true);
+document.addEventListener('submit',function(){goal('lead_form')},true)})();</script>`);
+  return parts.join('\n');
+}
+
 // ---------- каркас страницы ----------
 function page({ title, desc, url, image, jsonld = [], body, nav, head = '', overlay = false }) {
   const canonical = abs(url);
@@ -383,6 +407,7 @@ ${image ? `<meta property="og:image" content="${esc(abs(image))}">\n<meta name="
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap">
 <link rel="stylesheet" href="/assets/site.css?v=${V.css}">
+${analyticsHead()}
 ${head}
 ${jsonld.map((j) => `<script type="application/ld+json">${JSON.stringify(j).replace(/</g, '\\u003c')}</script>`).join('\n')}
 </head>
@@ -955,8 +980,9 @@ ${similar.length + more.length ? `<section class="block"><div class="wrap"><div 
     } : undefined,
   };
   write(url.slice(1) + 'index.html', page({
-    title: `${heading(l)} ${l.deal === 'rent' ? 'в аренду' : 'на продажу'}, ${placeLine(l)} — ${money(l.price)}${l.deal === 'rent' && l.price ? ' в месяц' : ''}`,
-    desc: (l.text || '').slice(0, 160),
+    // короткий заголовок (до ~65 знаков), чтобы поисковики не обрезали его в выдаче
+    title: `${heading(l)} ${l.deal === 'rent' ? 'в аренду' : 'на продажу'}, ${l.district || placeLine(l)} — ${money(l.price)}${l.deal === 'rent' && l.price ? ' / мес' : ''}`,
+    desc: snippet(l.text || '', 158),
     url,
     image: photos[0],
     jsonld: [ld, crumbsLd(items)],
