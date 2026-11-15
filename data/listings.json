@@ -1,5 +1,656 @@
 [
  {
+  "id": "kp-197290083",
+  "slug": "kp-197290083-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 70 м², © ОпенСтреетМап цонтрибуторс, Звездара",
+  "kind": "2,5-комнатная квартира",
+  "price": 700,
+  "area": 70,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Нине Кирсанове 4",
+  "geo": {
+   "lat": 44.77713,
+   "lng": 20.54743
+  },
+  "facts": [
+   [
+    "Площадь",
+    "70 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "1-й из 4"
+   ],
+   [
+    "Отопление",
+    "кондиционер, тёплый пол"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "домофон",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 70 м² в районе © ОпенСтреетМап цонтрибуторс (Звездара, Белград). 1-й этаж из 4, с мебелью, отопление кондиционер, тёплый пол, дом современной постройки. Есть: можно въехать сразу, домофон, кабельное ТВ, кондиционер, видеонаблюдение, парковка, депозит. Аренда 700 € в месяц.",
+  "originalLang": "sr",
+  "original": "Nikad niko ziveo nov LUX, kupljen prosle godine sredjen za cerku skupim namestajem po njenom ukusu.\n\nPripadajuce parking mesto, podno grejanje plus centralna klima.\n\nKompletno namesten, prelep, osvetljen, prvi sprat.\nTerasa velika sa pogledom na sumu, miran kraj.\n\nDepozit u visini prve kirije.\n\nSlike sve govore, za vise informacija poziv.\nMile.",
+  "photos": 15,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "ho-5425647990138",
+  "slug": "ho-5425647990138-izdavanje-stan-zemun-polje",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 42 м², Земун поле, Земун",
+  "kind": "двухкомнатная квартира",
+  "price": 300,
+  "area": 42,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Земун поле",
+  "street": "Язачка",
+  "geo": {
+   "lat": 44.87768,
+   "lng": 20.31386
+  },
+  "facts": [
+   [
+    "Площадь",
+    "42 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "2-й из 2"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "кондиционер",
+   "парковка",
+   "терраса",
+   "депозит",
+   "можно въехать сразу"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 42 м² в районе Земун поле (Земун, Белград). 2-й этаж из 2, с мебелью, отопление автономное, после ремонта, старый фонд. Есть: кондиционер, парковка, терраса, депозит, можно въехать сразу. Аренда 300 € в месяц.",
+  "originalLang": "sr",
+  "original": "",
+  "photos": 6,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "fz-6af6e1cbd61e3d72070e7935",
+  "slug": "fz-6af6e1cbd61e3d72070e7935-prodaja-stan-jajinci",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: трёхкомнатная квартира, 60 м², Яйинци, Вождовац",
+  "kind": "трёхкомнатная квартира",
+  "price": 200000,
+  "area": 60,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Яйинци",
+  "street": "Булевар Йна 33",
+  "geo": {
+   "lat": 44.74823,
+   "lng": 20.47701
+  },
+  "facts": [
+   [
+    "Площадь",
+    "60 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "2-й из 3"
+   ],
+   [
+    "Отопление",
+    "кондиционер, автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся трёхкомнатная квартира площадью 60 м² в районе Яйинци (Вождовац, Белград). 2-й этаж из 3, с мебелью, отопление кондиционер, автономное. Цена 200 000 €.",
+  "originalLang": "sr",
+  "original": "Trosoban stan u zgradi za prodaju, uknjižen, Jajinci, 60 m2, na 2. spratu, ima lift. Stanje - Novo, Klima, ima terasu, ima kupatilo, ima toalet. Ima parking mesto. Ima garažno mesto u sklopu zgrade.",
+  "photos": 15,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "fz-6af787a63ae165ddf40b79c9",
+  "slug": "fz-6af787a63ae165ddf40b79c9-prodaja-stan-visnjicka-banja",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: трёхкомнатная квартира, 67 м², Вишничка Баня, Палилула",
+  "kind": "трёхкомнатная квартира",
+  "price": 255000,
+  "area": 67,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "Вишничка Баня",
+  "street": "Сланачки Пут 76s",
+  "geo": {
+   "lat": 44.81353,
+   "lng": 20.54182
+  },
+  "facts": [
+   [
+    "Площадь",
+    "67 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "4-й из 5"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "терраса"
+  ],
+  "text": "Продаётся трёхкомнатная квартира площадью 67 м² в районе Вишничка Баня (Палилула, Белград). 4-й этаж из 5, с мебелью, отопление газовое. Есть: терраса. Цена 255 000 €.",
+  "originalLang": "sr",
+  "original": "Trosoban stan u zgradi za prodaju, uknjižen, Višnjička Banja, 67 m2, na 4. spratu, ima lift. Stanje - luksuzno, Gas, ima terasu, ima kupatilo, ima toalet.",
+  "photos": 11,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "fz-6af72478c3ccf1a6dd055137",
+  "slug": "fz-6af72478c3ccf1a6dd055137-prodaja-stan-mirijevo",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 1,5-комнатная квартира, 45 м², Мириево, Звездара",
+  "kind": "1,5-комнатная квартира",
+  "price": 60000,
+  "area": 45,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Мириево",
+  "street": "Николе Доксата 32",
+  "geo": {
+   "lat": 44.79878,
+   "lng": 20.52013
+  },
+  "facts": [
+   [
+    "Площадь",
+    "45 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Отопление",
+    "кондиционер, автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся 1,5-комнатная квартира площадью 45 м² в районе Мириево (Звездара, Белград). С мебелью, отопление кондиционер, автономное. Цена 60 000 €.",
+  "originalLang": "sr",
+  "original": "Jednoiposoban stan u zgradi za prodaju, u procesu uknjižavanja, Mirijevo, 45 m2, u suterenu. Stanje - luksuzno, Klima, ima terasu, ima kupatilo. Ima parking mesto u dvorištu.",
+  "photos": 15,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "fz-6af70ff390ba49901207f0f3",
+  "slug": "fz-6af70ff390ba49901207f0f3-prodaja-stan-klinicki-centar",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 1,5-комнатная квартира, 28 м², Клинички Центар, Савски-Венац",
+  "kind": "1,5-комнатная квартира",
+  "price": 143000,
+  "area": 28,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "savski-venac",
+  "location": "Клинички Центар",
+  "street": "Краля Милутина",
+  "geo": {
+   "lat": 44.80245,
+   "lng": 20.46438
+  },
+  "facts": [
+   [
+    "Площадь",
+    "28 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Отопление",
+    "электрическое"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся 1,5-комнатная квартира площадью 28 м² в районе Клинички Центар (Савски-Венац, Белград). Без мебели, отопление электрическое. Цена 143 000 €.",
+  "originalLang": "sr",
+  "original": "Jednoiposoban stan u zgradi za prodaju, uknjižen, Klinički Centar, 28 m2, na prizemlju. Stanje - Renovirano, Struja, ima kupatilo, ima toalet.",
+  "photos": 11,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "fz-6af6e06b2f90efa28607a6e0",
+  "slug": "fz-6af6e06b2f90efa28607a6e0-prodaja-stan-blok-64",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: трёхкомнатная квартира, 75 м², Блок 64, Новый Белград",
+  "kind": "трёхкомнатная квартира",
+  "price": 322500,
+  "area": 75,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "novi-beograd",
+  "location": "Блок 64",
+  "street": "Джорджа Станоевича 51B",
+  "geo": {
+   "lat": 44.81039,
+   "lng": 20.39295
+  },
+  "facts": [
+   [
+    "Площадь",
+    "75 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "4-й из 10"
+   ],
+   [
+    "Отопление",
+    "тепловой насос"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся трёхкомнатная квартира площадью 75 м² в районе Блок 64 (Новый Белград, Белград). 4-й этаж из 10, без мебели, отопление тепловой насос. Цена 322 500 €.",
+  "originalLang": "sr",
+  "original": "Trosoban stan u zgradi za prodaju, u procesu uknjižavanja, Blok 64, 75 m2, na 4. spratu, ima lift. Stanje - luksuzno, Toplotna pumpa, ima terasu, ima kupatilo, ima toalet. Ima garažno mesto u sklopu zgrade.",
+  "photos": 15,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "fz-6af98cd6dd7dc7f6000f9365",
+  "slug": "fz-6af98cd6dd7dc7f6000f9365-prodaja-stan-visnjicka-banja",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: трёхкомнатная квартира, 99 м², Вишничка Баня, Палилула",
+  "kind": "трёхкомнатная квартира",
+  "price": 275000,
+  "area": 99,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "Вишничка Баня",
+  "street": "Сланачки Пут 76",
+  "geo": {
+   "lat": 44.81359,
+   "lng": 20.53645
+  },
+  "facts": [
+   [
+    "Площадь",
+    "99 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "5-й из 5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся трёхкомнатная квартира площадью 99 м² в районе Вишничка Баня (Палилула, Белград). 5-й этаж из 5, без мебели, отопление центральное. Цена 275 000 €.",
+  "originalLang": "sr",
+  "original": "Trosoban stan u zgradi za prodaju, uknjižen, Višnjička Banja, 99 m2, na 5. spratu, ima lift. Stanje - Novo, Centralno, ima terasu, ima kupatilo, ima toalet. Ima garažno mesto u sklopu zgrade.",
+  "photos": 15,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "fz-6af97f14c0d9dc702e096e64",
+  "slug": "fz-6af97f14c0d9dc702e096e64-prodaja-stan-blok-30",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 3,5-комнатная квартира, 94 м², Блок 30, Новый Белград",
+  "kind": "3,5-комнатная квартира",
+  "price": 350000,
+  "area": 94,
+  "rooms": 3.5,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "novi-beograd",
+  "location": "Блок 30",
+  "street": "Блок 30",
+  "geo": {
+   "lat": 44.819,
+   "lng": 20.42271
+  },
+  "facts": [
+   [
+    "Площадь",
+    "94 м²"
+   ],
+   [
+    "Комнат",
+    "3,5"
+   ],
+   [
+    "Этаж",
+    "7-й из 9"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся 3,5-комнатная квартира площадью 94 м² в районе Блок 30 (Новый Белград, Белград). 7-й этаж из 9, отопление центральное. Цена 350 000 €.",
+  "originalLang": "sr",
+  "original": "Troiposoban stan u zgradi za prodaju, uknjižen, Blok 30, 94 m2, na 7. spratu, ima lift. Stanje - Potrebno renoviranje, Centralno, ima lođu, ima kupatilo, ima toalet.",
+  "photos": 1,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "kp-197304471",
+  "slug": "kp-197304471-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 40 м², © ОпенСтреетМап цонтрибуторс, Вождовац",
+  "kind": "1,5-комнатная квартира",
+  "price": 400,
+  "area": 40,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Генерала Джоке Поповича",
+  "geo": {
+   "lat": 44.76822,
+   "lng": 20.49238
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "1-й из 3"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "домофон",
+   "терраса",
+   "кондиционер",
+   "видеонаблюдение",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 40 м² в районе © ОпенСтреетМап цонтрибуторс (Вождовац, Белград). 1-й этаж из 3, с мебелью, отопление автономное, дом современной постройки. Есть: можно въехать сразу, домофон, терраса, кондиционер, видеонаблюдение, парковка, депозит. Аренда 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stan kompletno namešten, odličan sa parkingom ispred zgrade, video nadzor na zgradi. Odmah useljiv. Za svaku preporuku.",
+  "photos": 10,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "kp-197300832",
+  "slug": "kp-197300832-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 38 м², © ОпенСтреетМап цонтрибуторс, Раковица",
+  "kind": "однокомнатная квартира",
+  "price": 325,
+  "area": 38,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Раковица",
+  "districtSlug": "rakovica",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Сретена Младеновича-Мике",
+  "geo": {
+   "lat": 44.72978,
+   "lng": 20.42595
+  },
+  "facts": [
+   [
+    "Площадь",
+    "38 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "приземный"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "лоджия",
+   "депозит"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 38 м² в районе © ОпенСтреетМап цонтрибуторс (Раковица, Белград). Приземный этаж, с мебелью, отопление центральное, в исходном состоянии, старый фонд. Есть: можно въехать сразу, лоджия, депозит. Аренда 325 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem namesten stan u ulici Sretena Mladenovica Mike 38m2 plus 7 metara zastakljene terase. Stan se nalazi u prizemlju. Odmah useljiv.\n\nSastoji se iz predsoblja, trpezarije, kuhinje, kupatila, sobe i zastakljeni kome.",
+  "photos": 3,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "kp-197302308",
+  "slug": "kp-197302308-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 27 м², © ОпенСтреетМап цонтрибуторс, Земун",
+  "kind": "студия",
+  "price": 300,
+  "area": 27,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Капларска",
+  "geo": {
+   "lat": 44.84237,
+   "lng": 20.37319
+  },
+  "facts": [
+   [
+    "Площадь",
+    "27 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "приземный из 1"
+   ],
+   [
+    "Отопление",
+    "кондиционер"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "депозит"
+  ],
+  "text": "Сдаётся студия площадью 27 м² в районе © ОпенСтреетМап цонтрибуторс (Земун, Белград). Приземный этаж из 1, с мебелью, отопление кондиционер, дом современной постройки. Есть: можно въехать сразу, интернет, кабельное ТВ, кондиционер, видеонаблюдение, депозит. Аренда 300 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se Opremljena Garsonjera Studentici ili Radnici Samici jednoj osobi. Stan se nalazi u dvorisnoj zgradi sa cetri stana\nStan ima zaseban prolaz i ulaz u stan.\nZa ostale informacije pozvati na",
+  "photos": 15,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
   "id": "ho-5425647988515",
   "slug": "ho-5425647988515-izdavanje-stan-crveni-krst",
   "deal": "rent",
