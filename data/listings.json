@@ -1429,6 +1429,379 @@
   "updated": "2026-11-15"
  },
  {
+  "id": "ho-5425636001595",
+  "slug": "ho-5425636001595-izdavanje-stan-nemanjina",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 50 м², Неманина, Савски-Венац",
+  "kind": "1,5-комнатная квартира",
+  "price": 800,
+  "area": 50,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "opstina-savski-venac",
+  "location": "Неманина",
+  "street": "Др Александра Костича",
+  "geo": {
+   "lat": 44.80611,
+   "lng": 20.4559
+  },
+  "facts": [
+   [
+    "Площадь",
+    "50 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "6-й из 6"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 100 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно с животными",
+   "можно въехать сразу",
+   "мансарда",
+   "домофон",
+   "кондиционер",
+   "лифт",
+   "терраса"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 50 м² в районе Неманина (Савски-Венац, Белград). 6-й этаж из 6, с мебелью, отопление центральное, дом современной постройки. Есть: депозит, можно с животными, можно въехать сразу, мансарда, домофон, кондиционер, лифт, терраса. Аренда 800 € в месяц.",
+  "originalLang": "sr",
+  "original": "Moderan stan, suncan, nov, svetao. Stan ima 55 m2 sa terasom. Centralno parno grejanje je u ceni zakupa! Placate lift, vodu i odrzavanje zgrade sto je oko 65 e. Struju plaćate koliko potrošite,po racunu koji stize Plaćate i kablovsku tv ili internet koju uvedete na svoje ime. Klime dve. Lift do 5og sprata .Nova nadgradnja na staroj zgradi \nZakup je na najmanje1 godinu. Obavezan je depozit. Parkirate u dvoristu zgrade gde mesta nisu obelezena ili u zoni. Moderan i sunčan stan.Gleda na tihu ulicu . U spavacoj sobi je ugradni garderober. Dnevni boravak cine dve celine, a na njega se nadovezuje kuhinja. To je jedinstven prostor, samo je spavaca soba odvojena. Zbog takvog koncepta stana idealan je za 1 osobu ili par. Po dogovoru , uz doplatu dozvoljeni su mali psi do 5 kg \n\nZovite od 10-20h.",
+  "photos": 15,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "fz-675f26865a000c712d051ef6",
+  "slug": "fz-675f26865a000c712d051ef6-izdavanje-stan-vozdovacka-crkva",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 80 м², Вождовачка црква, Вождовац",
+  "kind": "трёхкомнатная квартира",
+  "price": 600,
+  "area": 80,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Вождовачка црква",
+  "street": "Милована Шарановича 5",
+  "geo": {
+   "lat": 44.77787,
+   "lng": 20.47978
+  },
+  "facts": [
+   [
+    "Площадь",
+    "80 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся трёхкомнатная квартира площадью 80 м² в районе Вождовачка црква (Вождовац, Белград). С мебелью, отопление газовое. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "Trosoban stan u kući za izdavanje, Namešteno, Voždovačka crkva, 80 m2, na 1. spratu. Stanje - Renovirano, Gas, ima terasu, ima kupatilo. Ima parking mesto javni parking van zone.",
+  "photos": 15,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "fz-6af73e50cdf7a3bc9a069908",
+  "slug": "fz-6af73e50cdf7a3bc9a069908-izdavanje-stan-dorcol",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 52 м², Дорчол, Старый город",
+  "kind": "двухкомнатная квартира",
+  "price": 800,
+  "area": 52,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "stari-grad",
+  "location": "Дорчол",
+  "street": "Змая Од Ночая 13",
+  "geo": {
+   "lat": 44.82066,
+   "lng": 20.45734
+  },
+  "facts": [
+   [
+    "Площадь",
+    "52 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Отопление",
+    "кондиционер"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "кондиционер"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 52 м² в районе Дорчол (Старый город, Белград). С мебелью, отопление кондиционер. Есть: кондиционер. Аренда 800 € в месяц.",
+  "originalLang": "sr",
+  "original": "Dvosoban stan u zgradi za izdavanje, Namešteno, Dorćol, 52 m2, na prizemlju. Stanje - Renovirano, Klima, ima kupatilo, ima toalet. Ima parking mesto u dvorištu.",
+  "photos": 15,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "fz-6af858ea8bd358ee21030393",
+  "slug": "fz-6af858ea8bd358ee21030393-izdavanje-stan-mali-mokri-lug",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 40 м², Мали Мокри Луг, Звездара",
+  "kind": "1,5-комнатная квартира",
+  "price": 300,
+  "area": 40,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Мали Мокри Луг",
+  "street": "Др Саве Поповича 4",
+  "geo": {
+   "lat": 44.7758,
+   "lng": 20.52065
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 40 м² в районе Мали Мокри Луг (Звездара, Белград). С мебелью, отопление центральное. Аренда 300 € в месяц.",
+  "originalLang": "sr",
+  "original": "Jednoiposoban stan u kući za izdavanje, Namešteno, Mali Mokri Lug, 40 m2, u suterenu. Stanje - Novo, Centralno, ima kupatilo. Ima parking mesto.",
+  "photos": 10,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "fz-6af828c7df43852dfe0ce9dc",
+  "slug": "fz-6af828c7df43852dfe0ce9dc-izdavanje-stan-blok-1-fontana",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 52 м², Блок 1 - Фонтана, Новый Белград",
+  "kind": "2,5-комнатная квартира",
+  "price": 600,
+  "area": 52,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "novi-beograd",
+  "location": "Блок 1 - Фонтана",
+  "street": "Народних Хероя",
+  "geo": {
+   "lat": 44.82455,
+   "lng": 20.40744
+  },
+  "facts": [
+   [
+    "Площадь",
+    "52 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 52 м² в районе Блок 1 - Фонтана (Новый Белград, Белград). С мебелью, отопление центральное. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "Dvoiposoban stan u zgradi za izdavanje, Namešteno, Blok 1 - Fontana, 52 m2, na 1. spratu, ima lift. Stanje - Renovirano, Centralno, ima lođu, ima kupatilo, ima toalet.",
+  "photos": 12,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "fz-6af9ac89debc33a13908b4b5",
+  "slug": "fz-6af9ac89debc33a13908b4b5-izdavanje-stan-karadjordjev-trg",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 65 м², Караджорджев Трг, Земун",
+  "kind": "двухкомнатная квартира",
+  "price": 650,
+  "area": 65,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "Караджорджев Трг",
+  "street": "Караджорджев Трг",
+  "geo": {
+   "lat": 44.8403,
+   "lng": 20.41466
+  },
+  "facts": [
+   [
+    "Площадь",
+    "65 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "кондиционер"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 65 м² в районе Караджорджев Трг (Земун, Белград). С мебелью, отопление газовое. Есть: кондиционер. Аренда 650 € в месяц.",
+  "originalLang": "sr",
+  "original": "Dvosoban stan u zgradi za izdavanje, Namešteno, Karađorđev Trg, 65 m2, na 2. spratu. Stanje - Uobičajeno, Gas, ima terasu, ima kupatilo, ima toalet.",
+  "photos": 15,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "ho-5425647987175",
+  "slug": "ho-5425647987175-izdavanje-stan-karaburma",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 55 м², Карабурма, Палилула",
+  "kind": "2,5-комнатная квартира",
+  "price": 450,
+  "area": 55,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Карабурма",
+  "street": "Др Драге Льочич",
+  "geo": {
+   "lat": 44.80204,
+   "lng": 20.52464
+  },
+  "facts": [
+   [
+    "Площадь",
+    "55 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "4-й из 4"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 50 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "для некурящих",
+   "подходит студентам",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "горячая вода"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 55 м² в районе Карабурма (Палилула, Белград). 4-й этаж из 4, с мебелью, отопление газовое, после ремонта, дом современной постройки. Есть: депозит, можно въехать сразу, для некурящих, подходит студентам, домофон, интернет, кабельное ТВ, кондиционер, горячая вода. Аренда 450 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem dvoipodoban namestan stan od 55 m2.Poseduje grejanje na plin,toplu vodu i klimu.Dve spavace sobe,trpezariju,kuhinju i kupatilo.Pozeljno studente.",
+  "photos": 9,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
   "id": "ho-5425647988515",
   "slug": "ho-5425647988515-izdavanje-stan-crveni-krst",
   "deal": "rent",
@@ -2227,6 +2600,145 @@
   "originalLang": "sr",
   "original": "NOVOGRADNJA – BEŽANIJSKA KOSA | DIREKTNA PRODAJA STANOVA\n\nNa odličnoj lokaciji na Bežanijskoj kosi, na uglu ulica Ljubinke Bobić i Raška Dimitrijevića, u novogradnji.\n\n88 m²\n\nIII sprat\n\nCena: 4.000 €/m² + PDV\n\nPlanirano useljenje: 31.12.2026.\n\nOdlična lokacija i dobra povezanost sa svim važnim sadržajima, uz prednosti novogradnje.\n\nZa dodatne informacije, dostupnost i dogovor oko obilaska, pozovite nas.",
   "photos": 1,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "ho-5425647751993",
+  "slug": "ho-5425647751993-prodaja-stan-meandri",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 1,5-комнатная квартира, 43.66 м², Меандри, Земун",
+  "kind": "1,5-комнатная квартира",
+  "price": 144078,
+  "area": 43.66,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Меандри",
+  "street": "Раде Кончара",
+  "geo": {
+   "lat": 44.8461,
+   "lng": 20.38599
+  },
+  "facts": [
+   [
+    "Площадь",
+    "43.66 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "3-й из 5"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "гараж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся 1,5-комнатная квартира площадью 43.66 м² в районе Меандри (Земун, Белград). 3-й этаж из 5, отопление автономное, люкс, дом современной постройки. Есть: не последний этаж, гараж, домофон, интернет, кабельное ТВ, кондиционер, лифт, парковка, терраса, горячая вода, видеонаблюдение. Цена 144 078 €.",
+  "originalLang": "sr",
+  "original": "Rade Končara 22 | Zemun\n\nNovi stambeni projekat na odličnoj lokaciji\n\n• Cena: 3.000 €/m² + PDV\n\n• Početak gradnje: decembar 2026.\n\n• Završetak gradnje: proleće 2028.\n\nSavremena arhitektura, kvalitetna gradnja i pažljivo osmišljeni stanovi za udoban i moderan život.",
+  "photos": 1,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "ho-5425647098549",
+  "slug": "ho-5425647098549-izdavanje-stan-dorcol",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 35 м², Дорчол, Старый город",
+  "kind": "однокомнатная квартира",
+  "price": 900,
+  "area": 35,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "opstina-stari-grad",
+  "location": "Дорчол",
+  "street": "Венизелосова",
+  "geo": {
+   "lat": 44.81996,
+   "lng": 20.47026
+  },
+  "facts": [
+   [
+    "Площадь",
+    "35 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "1-й из 12"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 140 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "для некурящих",
+   "французский балкон",
+   "домофон",
+   "интернет",
+   "кондиционер",
+   "лифт",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 35 м² в районе Дорчол (Старый город, Белград). 1-й этаж из 12, с мебелью, отопление центральное, люкс, дом современной постройки. Есть: депозит, не последний этаж, для некурящих, французский балкон, домофон, интернет, кондиционер, лифт, горячая вода, видеонаблюдение. Аренда 900 € в месяц.",
+  "originalLang": "sr",
+  "original": "Iznajmljuje se moderan, funkcionalan stan od 35 m² u kompleksu Novi Dorćol\n\nU ponudi je potpuno namešten stan, idealan za jednu osobu ili par koji žele udoban i urban način života u samom srcu grada. Stan je opremljen u saradnji sa arhitektom, uz korišćenje vrhunskih materijala i najsavremenije tehnologije.\n\nLokacija je jedna od najvećih prednosti – Novi Dorćol nudi savršenu kombinaciju mirnog okruženja i blizine svih ključnih sadržaja: restorana, kafića, šetališta uz reku, kao i brz pristup centru grada.\n\nDodatne pogodnosti:\n\n– stanari imaju mogućnost korišćenja spa i fitnes centra u okviru kompleksa po povlašćenim uslovima\n\n– Smart Home sistem – upravljanje stanom putem mobilne aplikacije\n\n– 24h video nadzor i portir\n\n– miran i bezbedan kraj\n\nCena: 900€ mesečno\n\nUseljivo odmah.\n\nZbog boravka vlasnika u inostranstvu, molimo da se javljate isključivo putem Vibera () ili WhatsApp-a (+41782072722).\n\nРУССКИЙ\n\nСдается современная и функциональная квартира площадью 35 м² в комплексе Novi Dorćol\n\nПредлагается полностью меблированная квартира, идеально подходящая для одного человека или пары, которые ценят комфорт и современный городской стиль жизни в центре города. Квартира оформлена в сотрудничестве с архитектором с использованием качественных материалов и современных решений.\n\nОдним из главных преимуществ является расположение — Novi Dorćol сочетает спокойную атмосферу с близостью ко всей необходимой инфраструктуре: ресторанам, кафе, набережной и удобным доступом к центру города.\n\nДополнительные преимущества:\n\n– возможность пользоваться спа и фитнес-центром в комплексе на льготных условиях\n\n– система «умный дом» — управление квартирой через мобильное приложение\n\n– круглосуточное видеонаблюдение и консьерж\n\n– тихий и безопасный район\n\nСтоимость аренды: 900 € в месяц\n\nКвартира свободна и готова к заселению.\n\nВ связи с тем, что владельцы находятся за границей, просьба связываться исключительно через Viber ) или\nENGLISH\n\nModern, functional 35 m² apartment for rent in the Novi Dorćol complex\n\nFully furnished apartment, ideal for a single person or a couple looking for a comfortable and urban lifestyle in the heart of the city. The apartment was designed in collaboration with an architect, using high-quality materials and modern technologies.\n\nThe location is one of its biggest advantages – Novi Dorćol offers a perfect balance between a peaceful environment and proximity to all key amenities: restaurants, cafés, riverside promenades, and quick access to the city center.\n\nAdditional features:\n\n– residents have access to a spa and fitness center within the complex under preferential conditions\n\n– Smart Home system – apartment control via mobile application\n\n– 24h video surveillance and concierge\n\n– quiet and safe neighborhood\n\nPrice: €900 per month\n\nAvailable for immediate move-in..\n\nDue to the owners being abroad, please contact exclusively via Viber (.) or WhatsApp .",
+  "photos": 15,
   "added": "2026-11-15",
   "updated": "2026-11-15"
  },
