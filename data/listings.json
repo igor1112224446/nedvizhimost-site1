@@ -1,5 +1,807 @@
 [
  {
+  "id": "ho-5425647988515",
+  "slug": "ho-5425647988515-izdavanje-stan-crveni-krst",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 65 м², Црвени крст, Врачар",
+  "kind": "трёхкомнатная квартира",
+  "price": 600,
+  "area": 65,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "opstina-vracar",
+  "location": "Црвени крст",
+  "street": "Поп Стоянова",
+  "geo": {
+   "lat": 44.79762,
+   "lng": 20.49033
+  },
+  "facts": [
+   [
+    "Площадь",
+    "65 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "1-й из 2"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "кабельное ТВ",
+   "кондиционер"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 65 м² в районе Црвени крст (Врачар, Белград). 1-й этаж из 2, с мебелью, отопление аккумуляционные печи, старый фонд. Есть: кабельное ТВ, кондиционер. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "Crveni krst, izdajem kompletno namešten 3.0 stan. U stanarinu od 600 e uračunati su svi troškovi (infostan, voda, KATV) osim računa za struju. Odlična povezanost sa svim delovima grada salinijama 5, 6, 7, 14, 19, 21, 22, 29, 83. Blizina Bulevara kralja Aleksandra i Beogradskog dramskog pozorišta.",
+  "photos": 12,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "ho-5425647987157",
+  "slug": "ho-5425647987157-izdavanje-stan-altina",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 37 м², Алтина, Земун",
+  "kind": "1,5-комнатная квартира",
+  "price": 450,
+  "area": 37,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Алтина",
+  "street": "Угриновачки пут",
+  "geo": {
+   "lat": 44.85307,
+   "lng": 20.3632
+  },
+  "facts": [
+   [
+    "Площадь",
+    "37 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "1-й из 4"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 25 € в месяц"
+   ]
+  ],
+  "features": [
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "терраса",
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "подходит студентам"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 37 м² в районе Алтина (Земун, Белград). 1-й этаж из 4, с мебелью, отопление автономное, люкс, дом современной постройки. Есть: домофон, интернет, кабельное ТВ, кондиционер, лифт, парковка, терраса, депозит, не последний этаж, можно въехать сразу, для некурящих, подходит студентам. Аренда 450 € в месяц.",
+  "originalLang": "sr",
+  "original": "Lep 1.5 stan,nedaleko od ulaza na Altinu u novijoj zgradi sa sopstvenim parkingom.U neposrednoj blizini:dve autobuske linije,marketi pekare,restorani i kafei.Stan se sastoji od:hodnika,spavaće sobe,kupatila,dnevne sobe,trpezarije,kuhinje i terase.Kompetno je namešten i opremljen sa:tv,veš mašina,sudomašina,šporet,frižider,klima i sl.Sigurnosna vrata,pvc stolarija sa roletnama,komarnicima i zavesama.Dobra izolacija.Grejanje etažno i klima.Mala potrošnja.Stan se izdaje na duže,plaćanje mesečno.Depozit u visini prve kirije.",
+  "photos": 10,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "ho-5425646860251",
+  "slug": "ho-5425646860251-izdavanje-stan-gornji-grad",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 20 м², Горни град, Земун",
+  "kind": "однокомнатная квартира",
+  "price": 320,
+  "area": 20,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Горни град",
+  "street": "Прегревица",
+  "geo": {
+   "lat": 44.85093,
+   "lng": 20.4026
+  },
+  "facts": [
+   [
+    "Площадь",
+    "20 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "1-й из 2"
+   ],
+   [
+    "Отопление",
+    "тёплый пол"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 40 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "с садом",
+   "горячая вода"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 20 м² в районе Горни град (Земун, Белград). 1-й этаж из 2, с мебелью, отопление тёплый пол, в исходном состоянии, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, интернет, кабельное ТВ, кондиционер, с садом, горячая вода. Аренда 320 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajemo garsonjeru u novoj, savremenoj zgradi na pocetku Pregrevice. U zgradi ima 7 stanova. U njoj zive samo mladi. Zgrada ima svoju bastu, koju mogu da koriste svi stanari. Stan je na prvom spratu od dva, 20m2. Kompletno je namesten, ima klimu, tv, usisivac, masinu za pranje i susenje vesa, dasku za peglanje ... Grejanje je podno, sami namestate temperaturu i zimi je grejanje 24 sata dnevno. Cena je 360 eur i tu su ukljuceni svi troskovi ( struja, voda i grejanje ) . Depozit u iznosu 360 eur je obavezan. Stan je useljiv odmah. Imamo dve male kuce, koje nisu opasne, ali vole da laju, pa nije za one koji se plase ! Stan je za jednu osobu. Muz i ja smo vlasnici. Masa .",
+  "photos": 11,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "ho-5425646051863",
+  "slug": "ho-5425646051863-izdavanje-stan-kalvarija",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 26 м², Калвария, Земун",
+  "kind": "однокомнатная квартира",
+  "price": 350,
+  "area": 26,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Калвария",
+  "street": "Марие Бурсач",
+  "geo": {
+   "lat": 44.83805,
+   "lng": 20.39244
+  },
+  "facts": [
+   [
+    "Площадь",
+    "26 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "приземный из 1"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "с садом",
+   "депозит",
+   "можно въехать сразу",
+   "подходит студентам"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 26 м² в районе Калвария (Земун, Белград). Приземный этаж из 1, с мебелью, отопление газовое, после ремонта, старый фонд. Есть: интернет, кабельное ТВ, кондиционер, с садом, депозит, можно въехать сразу, подходит студентам. Аренда 350 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem stan u prizemlju površine 26 m2, kompletno renoviran i opremljen. Obavezan depozit u visini jedne kirije. U cenu uračunat infostan ! Gas i struja po potrošnji. Stan je opremljen i komforan isključivo za jednu osobu. Bez kućnih ljubimaca. Vlasnik lično!",
+  "photos": 5,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "ho-5425647987244",
+  "slug": "ho-5425647987244-prodaja-stan-blok-70-kineski-trzni-centar",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 1,5-комнатная квартира, 49.1 м², Блок 70 (kineski тржни centar), Новый Белград",
+  "kind": "1,5-комнатная квартира",
+  "price": 229000,
+  "area": 49.1,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Блок 70 (kineski тржни centar)",
+  "street": "Гандиева",
+  "geo": {
+   "lat": 44.79868,
+   "lng": 20.39052
+  },
+  "facts": [
+   [
+    "Площадь",
+    "49.1 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "1-й из 2"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "можно въехать сразу",
+   "есть право собственности",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "подвал",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся 1,5-комнатная квартира площадью 49.1 м² в районе Блок 70 (kineski тржни centar) (Новый Белград, Белград). 1-й этаж из 2, отопление центральное, после ремонта, старый фонд. Есть: не последний этаж, можно въехать сразу, есть право собственности, интернет, кабельное ТВ, кондиционер, парковка, подвал, терраса, видеонаблюдение. Цена 229 000 €.",
+  "originalLang": "sr",
+  "original": "Stan je pravi raritet u ponudi, nalazi se u najlepšem delu bloka 70, u čuvenim dvospratnicama uz sami nasip i Savski kej. Kompletno je renoviran 2016. godine (PVC stolarija, parket, keramika, instalacije, gipsani radovi). Uknjižen je i u našem vlasništvu je preko 40 godina, bez tereta i zabeležbi. Za sve info kontakt isključivo telefonskim pozivom.",
+  "photos": 15,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "ho-5425643072245",
+  "slug": "ho-5425643072245-izdavanje-stan-calije",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 38 м², Чалие, Палилула",
+  "kind": "однокомнатная квартира",
+  "price": 450,
+  "area": 38,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Чалие",
+  "street": "Йованке Радакович",
+  "geo": {
+   "lat": 44.80097,
+   "lng": 20.52015
+  },
+  "facts": [
+   [
+    "Площадь",
+    "38 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "приземный из 5"
+   ],
+   [
+    "Отопление",
+    "норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 70 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "подходит студентам",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 38 м² в районе Чалие (Палилула, Белград). Приземный этаж из 5, с мебелью, отопление норвежские радиаторы, люкс, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, подходит студентам, домофон, интернет, кабельное ТВ, кондиционер, лифт, парковка, терраса, горячая вода, видеонаблюдение. Аренда 450 € в месяц.",
+  "originalLang": "sr",
+  "original": "Novogradnja,standardni prozori, osvetljeno odlicno.\n\nJednosoban sa spavacom sobom 38m2\n\nKompletno opremljen namestaj tehnika,useljiv od 1.maja 2026.\n\nDepozit obavezan u visini kirije\n\nPrijava moguca uz dogovor\n\nRezije okvirno 70e u zavisnosti od potrosnje el.energije\n\nNazalost,kucne ljubimce ne mozemo da prihvatimo\n\nZa dugorocni zakup dogovor oko popusta \n\nKontaktirajte me iskljucivo preko SMS-a,whatsapp-a,viber-a i poziva na broj telefona.\n\nMogucnost iznajmljivanja parking mesta blizu zgrade.",
+  "photos": 14,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "ho-5425647985892",
+  "slug": "ho-5425647985892-prodaja-stan-blok-44-tc-piramida",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 5-комнатная квартира, 200 м², Блок 44 (TC Piramida), Новый Белград",
+  "kind": "5-комнатная квартира",
+  "price": 489000,
+  "area": 200,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Блок 44 (TC Piramida)",
+  "street": "Нехроуова 109",
+  "geo": {
+   "lat": 44.79838,
+   "lng": 20.38503
+  },
+  "facts": [
+   [
+    "Площадь",
+    "200 м²"
+   ],
+   [
+    "Комнат",
+    "5+"
+   ],
+   [
+    "Этаж",
+    "6-й из 7"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "двухуровневая",
+   "можно въехать сразу",
+   "есть право собственности",
+   "французский балкон",
+   "домофон",
+   "интернет",
+   "камин",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "подвал",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся 5-комнатная квартира площадью 200 м² в районе Блок 44 (TC Piramida) (Новый Белград, Белград). 6-й этаж из 7, отопление центральное, после ремонта, старый фонд. Есть: двухуровневая, можно въехать сразу, есть право собственности, французский балкон, домофон, интернет, камин, кабельное ТВ, кондиционер, лифт, парковка, подвал, терраса, видеонаблюдение. Цена 489 000 €.",
+  "originalLang": "sr",
+  "original": "BLOK 44 – PROSTRAN PORODIČNI STAN NA TRI NIVOA – VLASNIK\n\nProdajemo stan u Nehruovoj 109, u Bloku 44 na Novom Beogradu, u blizini Savskog keja. Sa 200,38 m² neto površine i rasporedom na tri nivoa, ovaj stan spaja prostranu dnevnu zonu sa odvojenim prostorom za odmor i privatnost.\n\nPosebno se izdvaja dnevna soba sa trpezarijom od gotovo 45 m² — centralni prostor za porodični život, druženje i okupljanje.\n\nRASPORED\n\nNa ulaznom nivou nalaze se ulazni prostor, hodnik, toalet, kuhinja, dnevna soba sa trpezarijom površine 44,97 m² i terasa.\n\nPrvi nivo obuhvata galeriju, tri sobe, garderober, kupatilo, pomoćnu prostoriju, ostavu i terasu površine 13 m².\n\nNa drugom nivou nalaze se još dve sobe, od kojih veća ima 31 m².\n\nOvakva organizacija pruža brojne mogućnosti za veću porodicu, rad od kuće, zasebne dečje sobe ili prostor za goste. Stan nema kosine.\n\nLOKACIJA\n\nBlok 44 pruža prijatno okruženje za porodični život, sa zelenim površinama, pešačkim stazama i prostorima za igru između zgrada. U blizini su pijaca Blok 44, prodavnice, apoteke, banke, dom zdravlja, vrtići i osnovne škole, kao i tržni centri Piramida i Mala Piramida.\n\nSavski kej, sa šetalištem, biciklističkim stazama, kafićima i restoranima, omogućava rekreaciju i odmor uz reku. Većina svakodnevnih obaveza može se završiti pešice.\nLokacija je povezana sa drugim delovima Novog Beograda i Zemunom autobuskim linijama 45 i 82. Linija 45 povezuje Blok 44 sa Novim gradom u Zemunu, dok linija 82 vodi preko Bežanijske kose do Keja oslobođenja. Obe linije koriste stajališta „Blok 44” i „Dom zdravlja ‘Blok 44’”. U Ulici Jurija Gagarina dostupna je i linija 9A, koja povezuje ovaj deo Novog Beograda sa Slavijom.\nU okruženju zgrade nalaze se zajedničke parking površine. Uvek ima dovoljno parkinga.\n\nPOVRŠINA I DOKUMENTACIJA\n\nNeto površina stana iznosi 200,38 m², dok je uknjižena bruto površina 238 m². Dokumentacija je uredna.\n\nStan je na VI i VII spratu, sa unutrašnjom organizacijom na tri nivoa. L\n\nProdaja direktno od vlasnika, bez agencijske provizije za kupca. Molimo agencije da nas ne kontaktiraju.\n\nZa dodatne informacije i dogovor oko razgledanja",
+  "photos": 15,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "ho-5425647982737",
+  "slug": "ho-5425647982737-izdavanje-stan-juzni-bulevar",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 74 м², Южни булевар, Врачар",
+  "kind": "двухкомнатная квартира",
+  "price": 1500,
+  "area": 74,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "opstina-vracar",
+  "location": "Южни булевар",
+  "street": "Максима Горког",
+  "geo": {
+   "lat": 44.79349,
+   "lng": 20.47799
+  },
+  "facts": [
+   [
+    "Площадь",
+    "74 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "8-й"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 200 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "гараж",
+   "кондиционер",
+   "лифт",
+   "терраса"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 74 м² в районе Южни булевар (Врачар, Белград). 8-й этаж, с мебелью, люкс, дом современной постройки. Есть: депозит, можно въехать сразу, гараж, кондиционер, лифт, терраса. Аренда 1 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "",
+  "photos": 10,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "ho-5425646969086",
+  "slug": "ho-5425646969086-izdavanje-stan-botanicka-basta",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 40 м², Ботаничка башта, Палилула",
+  "kind": "двухкомнатная квартира",
+  "price": 700,
+  "area": 40,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Ботаничка башта",
+  "street": "Войводе Добрньца",
+  "geo": {
+   "lat": 44.81874,
+   "lng": 20.47467
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "1-й из 4"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 100 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "домофон",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 40 м² в районе Ботаничка башта (Палилула, Белград). 1-й этаж из 4, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу, домофон, кабельное ТВ, кондиционер, лифт, терраса, видеонаблюдение. Аренда 700 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stan se nalazi u neposrednoj blizini Botaničke bašte i Bulavara Despota Stefana, na 1. spratu, istočno orijentisan, moderno opremljen. Stan je namešten, renoviran, po strukturi dvosoban i sastoji se iz dnevno-kuhinjsko-trpezarijskog dela, spavaće sobe, kupatila i terase. Dnevna soba sadrži klima uređaj. Useljiv odmah. Obavezan depozit.",
+  "photos": 13,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "ho-5425644802425",
+  "slug": "ho-5425644802425-izdavanje-stan-borca",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 40 м², Борча, Палилула",
+  "kind": "1,5-комнатная квартира",
+  "price": 380,
+  "area": 40,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Борча",
+  "street": "Саве Мркаля 28",
+  "geo": {
+   "lat": 44.88191,
+   "lng": 20.45518
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "1-й из 2"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 40 м² в районе Борча (Палилула, Белград). 1-й этаж из 2, с мебелью, люкс, дом современной постройки. Есть: можно въехать сразу, домофон, интернет, кабельное ТВ, кондиционер. Аренда 380 € в месяц.",
+  "originalLang": "sr",
+  "original": "Kompletno namesten i ekonomican stan sa dve sobe na vrlo lepoj lokaciji u Borci, u zgradi od ulice Bratstva i Jedinstva, odmah ka pijaci, u samom centru Borce. Nov namestaj: LCD TV, klima klasa A za grejanje i hladjenje sa malom potrosnjom struje, ves masina itd.\n\nStan ima lepu ugaonu garnituru i bracni krevet. Vrlo je topao i veoma lako se greje sa klimom koja trosi malo struje.\n\nOpticki Internet i KATV (odlican paket Supernove). Ukupni troskovi za KATV, Internet i Infostan su 2500din. Struja je koliko se potrosi. U cenu stana je ukljuceno kompletno odrzavanje elektricnih uredjaja ili majstora ukoliko se ukaze potreba.\n\nStan se nalazi oko 100m od stanice 95, i na samoj stanici 96 i 85. Useljiv odmah",
+  "photos": 15,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "ho-5425647752077",
+  "slug": "ho-5425647752077-prodaja-stan-bezanijska-kosa-2",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: четырёхкомнатная квартира, 88 м², Бежанийска коса 2, Новый Белград",
+  "kind": "четырёхкомнатная квартира",
+  "price": 387200,
+  "area": 88,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Бежанийска коса 2",
+  "street": "Любинке Бобич",
+  "geo": {
+   "lat": 44.81402,
+   "lng": 20.37668
+  },
+  "facts": [
+   [
+    "Площадь",
+    "88 м²"
+   ],
+   [
+    "Комнат",
+    "4"
+   ],
+   [
+    "Этаж",
+    "2-й из 5"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "гараж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение",
+   "не последний этаж",
+   "есть право собственности"
+  ],
+  "text": "Продаётся четырёхкомнатная квартира площадью 88 м² в районе Бежанийска коса 2 (Новый Белград, Белград). 2-й этаж из 5, люкс, дом современной постройки. Есть: гараж, домофон, интернет, кабельное ТВ, кондиционер, лифт, терраса, горячая вода, видеонаблюдение, не последний этаж, есть право собственности. Цена 387 200 €.",
+  "originalLang": "sr",
+  "original": "Novogradnja – Bežanijska Kosa\n\nLjubinke Bobić × Raška Dimitrijevića\n\nCena: 4.000 €/m² + PDV\n\nUseljenje: decembar 2026.\n\nOdlična lokacija, savremena novogradnja i funkcionalne kvadrature pružaju idealne uslove za život u jednom od traženijih delova Beograda.",
+  "photos": 1,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
+  "id": "ho-5425647692416",
+  "slug": "ho-5425647692416-prodaja-stan-bezanijska-kosa-2",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: четырёхкомнатная квартира, 88 м², Бежанийска коса 2, Новый Белград",
+  "kind": "четырёхкомнатная квартира",
+  "price": 387200,
+  "area": 88,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Бежанийска коса 2",
+  "street": "Любинке Бобич",
+  "geo": {
+   "lat": 44.81411,
+   "lng": 20.37605
+  },
+  "facts": [
+   [
+    "Площадь",
+    "88 м²"
+   ],
+   [
+    "Комнат",
+    "4"
+   ],
+   [
+    "Этаж",
+    "3-й из 5"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "есть право собственности",
+   "гараж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся четырёхкомнатная квартира площадью 88 м² в районе Бежанийска коса 2 (Новый Белград, Белград). 3-й этаж из 5, люкс, дом современной постройки. Есть: не последний этаж, есть право собственности, гараж, домофон, интернет, кабельное ТВ, кондиционер, лифт, терраса, горячая вода, видеонаблюдение. Цена 387 200 €.",
+  "originalLang": "sr",
+  "original": "NOVOGRADNJA – BEŽANIJSKA KOSA | DIREKTNA PRODAJA STANOVA\n\nNa odličnoj lokaciji na Bežanijskoj kosi, na uglu ulica Ljubinke Bobić i Raška Dimitrijevića, u novogradnji.\n\n88 m²\n\nIII sprat\n\nCena: 4.000 €/m² + PDV\n\nPlanirano useljenje: 31.12.2026.\n\nOdlična lokacija i dobra povezanost sa svim važnim sadržajima, uz prednosti novogradnje.\n\nZa dodatne informacije, dostupnost i dogovor oko obilaska, pozovite nas.",
+  "photos": 1,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
   "id": "ho-5425643641037",
   "slug": "ho-5425643641037-izdavanje-stan-petlovo-brdo",
   "deal": "rent",
