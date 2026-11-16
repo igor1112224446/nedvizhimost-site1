@@ -1,5 +1,78 @@
 [
  {
+  "id": "ho-5425647815728",
+  "slug": "ho-5425647815728-izdavanje-stan-hotel-jugoslavija",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 35 м², Хотел Югославия, Новый Белград",
+  "kind": "двухкомнатная квартира",
+  "price": 800,
+  "area": 35,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Хотел Югославия",
+  "street": "Булевар маршала Толбухина",
+  "geo": {
+   "lat": 44.8315,
+   "lng": 20.4133
+  },
+  "facts": [
+   [
+    "Площадь",
+    "35 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "2-й из 8"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 100 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "домофон",
+   "интернет",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 35 м² в районе Хотел Югославия (Новый Белград, Белград). 2-й этаж из 8, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу, домофон, интернет, кондиционер, лифт, парковка, горячая вода, видеонаблюдение. Аренда 800 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stan je renoviran prema arhitektonskom projektu, kompletno je opremljen i odlično pozicioniran.\nStan se nalazi u jednom od najlepših delova Novog Beograda, u neposrednoj blizini brojnih poslovnih centara. U okolini su brojni restorani na Dunavu, fast food objekti i nekoliko velikih hipermarketa (Maxi, Idea). Besplatan parking ispred i oko zgrade (van zone naplate).\n\nDnevna soba sa ugaonom garniturom i TV-om, opremljena kuhinja (ploča, rerna, frižider, sudomašina), odvojena spavaća soba sa francuskim ležajem, velikim garderoberom, radnim stolom, stolicom i policama za knjige.\n\n 3 min peške od zemunskog keja i nekadašnjeg hotela „Jugoslavija”, 1 min od Starog Merkatora, preko puta doma zdravlja.\n Bulevar Mihajla Pupina (2 min peške): linije 17, 73, 82, 83, 85, 88, 610, 613, 711\n Bulevar Nikole Tesle (3 min peške): linije 15, 84, 704, 706, 707\n\nIzdaje se na godinu dana, uz mogućnost produženja. Komunalije oko 100 €, struja po potrošnji.\n\nZa više informacija i zakazivanje razgledanja, slobodno nas kontaktirajte.\n-------------------\nThe apartment has been renovated according to an architectural design, is fully equipped and ideally located. \nOne of the most desirable parts of New Belgrade, close to many of the area’s business centers. The neighborhood offers plenty of riverside restaurants on the Danube, fast food places and several large supermarkets (Maxi, Idea). Free parking in front of and around the building (no paid parking zone).\n\nLiving room with a corner sofa and TV, fully equipped kitchen (hob, oven, fridge, dishwasher), and a separate bedroom with a double bed, large wardrobe, desk, chair and bookshelves.\n\n 3 min walk to the Zemun riverfront and the former Hotel Jugoslavija, 1 min to Stari Merkator, health center across the street.\n Mihajla Pupina Boulevard (2-min walk): bus lines 17, 73, 82, 83, 85, 88, 610, 613, 711\n Nikole Tesle Boulevard (3-min walk): bus lines 15, 84, 704, 706, 707\n\nOne-year lease, with the option to extend. Utilities around €100/month, electricity based on usage.\n\nFor more information or to schedule a viewing, feel free to get in touch.",
+  "photos": 15,
+  "added": "2026-11-16",
+  "updated": "2026-11-16"
+ },
+ {
   "id": "ho-5425647992365",
   "slug": "ho-5425647992365-prodaja-stan-blok-65",
   "deal": "sale",
