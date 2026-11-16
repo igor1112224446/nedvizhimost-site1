@@ -1,5 +1,137 @@
 [
  {
+  "id": "ho-5425645304814",
+  "slug": "ho-5425645304814-izdavanje-stan-borca",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 20 м², Борча, Палилула",
+  "kind": "студия",
+  "price": 320,
+  "area": 20,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Борча",
+  "street": "Ранка Милица 32",
+  "geo": {
+   "lat": 44.8836,
+   "lng": 20.45132
+  },
+  "facts": [
+   [
+    "Площадь",
+    "20 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "приземный из 3"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "терраса",
+   "можно въехать сразу"
+  ],
+  "text": "Сдаётся студия площадью 20 м² в районе Борча (Палилула, Белград). Приземный этаж из 3, с мебелью, люкс, дом современной постройки. Есть: домофон, интернет, кабельное ТВ, кондиционер, парковка, терраса, можно въехать сразу. Аренда 320 € в месяц.",
+  "originalLang": "sr",
+  "original": "Kompletno namesten i ekonomican stan na vrlo lepoj lokaciji u Borci, u ulici Ranka Miljica lepa stambena ulica 2min od samog centra Borce. Nov namestaj: LCD TV, klima klasa A za grejanje i hladjenje sa malom potrosnjom struje, ves masina, itd.\n\nStajn je sa terasom. Vrlo je topao i veoma lako se greje sa klimom koja trosi malo struje.\n\nKATV i Internet (odlican paket Supernove). Ukupni troskovi za KATV, Internet i Infostan su 2500din. Struja je koliko se potrosi. U cenu stana je ukljuceno kompletno odrzavanje elektricnih uredjaja ili majstora ukoliko se ukaze potreba.\n\nStan se nalazi oko 100m stanica 95, 96 i 85. Useljiv odmah",
+  "photos": 13,
+  "added": "2026-11-16",
+  "updated": "2026-11-16"
+ },
+ {
+  "id": "ho-5425647989777",
+  "slug": "ho-5425647989777-izdavanje-stan-lion",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 45 м², Лион, Звездара",
+  "kind": "1,5-комнатная квартира",
+  "price": 750,
+  "area": 45,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Лион",
+  "street": "Косте Абрашевича",
+  "geo": {
+   "lat": 44.79271,
+   "lng": 20.50225
+  },
+  "facts": [
+   [
+    "Площадь",
+    "45 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "4-й из 6"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 100 € в месяц"
+   ]
+  ],
+  "features": [
+   "домофон",
+   "кондиционер",
+   "терраса",
+   "видеонаблюдение",
+   "депозит",
+   "не последний этаж",
+   "для некурящих"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 45 м² в районе Лион (Звездара, Белград). 4-й этаж из 6, с мебелью, отопление центральное, в исходном состоянии, дом современной постройки. Есть: домофон, кондиционер, терраса, видеонаблюдение, депозит, не последний этаж, для некурящих. Аренда 750 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stan 45m2, spavaća soba odvojena. Svetao stan na odlinoj lokaciji. Novogradnja. Stan je namešten. Stan izdaje vlasnik.",
+  "photos": 12,
+  "added": "2026-11-15",
+  "updated": "2026-11-15"
+ },
+ {
   "id": "kp-197290083",
   "slug": "kp-197290083-izdavanje-stan-openstreetmap-contributors",
   "deal": "rent",
