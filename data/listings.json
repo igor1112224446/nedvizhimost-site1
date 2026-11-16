@@ -1,5 +1,724 @@
 [
  {
+  "id": "kp-197335684",
+  "slug": "kp-197335684-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 50 м², © ОпенСтреетМап цонтрибуторс, Старый город",
+  "kind": "1,5-комнатная квартира",
+  "price": 350,
+  "area": 50,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "stari-grad",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Цариградска 26",
+  "geo": {
+   "lat": 44.81841,
+   "lng": 20.47363
+  },
+  "facts": [
+   [
+    "Площадь",
+    "50 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Отопление",
+    "электрическое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "депозит"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 50 м² в районе © ОпенСтреетМап цонтрибуторс (Старый город, Белград). С мебелью, отопление электрическое, старый фонд. Есть: можно въехать сразу, интернет, домофон, депозит. Аренда 350 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem stan u strogom centru, odmah useljiv, pogodan za studente, radnike.",
+  "photos": 6,
+  "added": "2026-11-16",
+  "updated": "2026-11-16"
+ },
+ {
+  "id": "kp-197331112",
+  "slug": "kp-197331112-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 40 м², © ОпенСтреетМап цонтрибуторс, Звездара",
+  "kind": "1,5-комнатная квартира",
+  "price": 500,
+  "area": 40,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Даворина Енка",
+  "geo": {
+   "lat": 44.80233,
+   "lng": 20.53
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "домофон",
+   "кабельное ТВ",
+   "кондиционер",
+   "энергопаспорт",
+   "видеонаблюдение",
+   "депозит"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 40 м² в районе © ОпенСтреетМап цонтрибуторс (Звездара, Белград). С мебелью, отопление автономное. Есть: интернет, домофон, кабельное ТВ, кондиционер, энергопаспорт, видеонаблюдение, депозит. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Potpuno namesten stan. Etazno grejanje na gas. Nizak racun za infostan. . . Obavezan depozit.",
+  "photos": 5,
+  "added": "2026-11-16",
+  "updated": "2026-11-16"
+ },
+ {
+  "id": "kp-197330834",
+  "slug": "kp-197330834-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 33 м², © ОпенСтреетМап цонтрибуторс, Звездара",
+  "kind": "студия",
+  "price": 500,
+  "area": 33,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Люблянска",
+  "geo": {
+   "lat": 44.80102,
+   "lng": 20.48704
+  },
+  "facts": [
+   [
+    "Площадь",
+    "33 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "2-й"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "кондиционер",
+   "депозит"
+  ],
+  "text": "Сдаётся студия площадью 33 м² в районе © ОпенСтреетМап цонтрибуторс (Звездара, Белград). 2-й этаж, с мебелью, отопление центральное. Есть: можно въехать сразу, кондиционер, депозит. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se kompletno nameštena i opremljena garsonjera površine 33 m², na teritoriji opštine Zvezdara.\n\nStan se nalazi na drugom spratu stambene zgrade od ukupno četiri sprata, bez lifta.\n\nStan je idealan za jednu osobu ili par, posebno za zaposlene osobe i studente koji traže funkcionalan i potpuno opremljen prostor za stanovanje.\n\nDepozit u visini jedne mesečne kirije.\n\nDodatni mesečni troškovi: Infostan, električna energija i čišćenje zgrade.\n\nStan je odmah useljiv!",
+  "photos": 8,
+  "added": "2026-11-16",
+  "updated": "2026-11-16"
+ },
+ {
+  "id": "kp-197325428",
+  "slug": "kp-197325428-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 45 м², © ОпенСтреетМап цонтрибуторс, Земун",
+  "kind": "двухкомнатная квартира",
+  "price": 600,
+  "area": 45,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Михайла Бандура",
+  "geo": {
+   "lat": 44.85439,
+   "lng": 20.33254
+  },
+  "facts": [
+   [
+    "Площадь",
+    "45 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "3-й из 4"
+   ],
+   [
+    "Отопление",
+    "кондиционер"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "терраса",
+   "кондиционер",
+   "парковка",
+   "можно с животными",
+   "депозит"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 45 м² в районе © ОпенСтреетМап цонтрибуторс (Земун, Белград). 3-й этаж из 4, с мебелью, отопление кондиционер, дом современной постройки. Есть: терраса, кондиционер, парковка, можно с животными, депозит. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se luksuzno sređen stan od 45 m² – Plavi Horizonti Izdaje se prelep, moderno i luksuzno opremljen stan površine 45 m², smešten u mirnom i prijatnom okruženju na Plavim Horizontima. Stan je kompletno sređen i opremljen, sa posebnom pažnjom posvećenom udobnosti i kvalitetu života. Od uređaja poseduje veš mašinu i mašinu za sušenje veša, kao i sve što je potrebno za prijatan i bezbrižan boravak. Troškovi su uključeni u cenu zakupa!  \n\nUseljiv od 15.12. ? Odlična povezanost sa gradom: Stanica BG voza udaljena je svega 10 minuta. Autobuske linije 708 i 709 u neposrednoj blizini. Dobra povezanost sa ostalim delovima grada. ? Mirno i prirodno okruženje, idealno za one koji žele da uživaju u tišini, zelenilu i odmoru od gradske gužve. ? Dosta slobodnog parking prostora oko zgrade, bez potrebe za dugim traženjem parking mesta.",
+  "photos": 15,
+  "added": "2026-11-16",
+  "updated": "2026-11-16"
+ },
+ {
+  "id": "kp-197324495",
+  "slug": "kp-197324495-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 57 м², © ОпенСтреетМап цонтрибуторс, Сурчин",
+  "kind": "двухкомнатная квартира",
+  "price": 500,
+  "area": 57,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Сурчин",
+  "districtSlug": "surcin",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "",
+  "geo": {
+   "lat": 44.79948,
+   "lng": 20.32663
+  },
+  "facts": [
+   [
+    "Площадь",
+    "57 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "приземный из 3"
+   ],
+   [
+    "Отопление",
+    "кондиционер, норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "энергопаспорт",
+   "видеонаблюдение",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 57 м² в районе © ОпенСтреетМап цонтрибуторс (Сурчин, Белград). Приземный этаж из 3, с мебелью, отопление кондиционер, норвежские радиаторы, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, кондиционер, энергопаспорт, видеонаблюдение, парковка, депозит. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Vlasnik izdaje stan sa velikom terasom (57kvm 33+24) u prizemlju zgrade (nova gradnja). Stan se sastoji od dnevnog boravka, kuhinje, spavace sobe, kupatila i velike terase. Stan je kompletno namešten, ima sopstveni parking i useljiv je odmah. Nalazi se na Ledinama, blizina aerodroma, autoputa, EXPO-a. Blizu stana su autobuska stajališta prodavnice, restorani, benzinske pumpe, vrtić. . .\nStan je topao, ušuškan i ima veliku terasu zaštićenu od pogleda sa strane.",
+  "photos": 15,
+  "added": "2026-11-16",
+  "updated": "2026-11-16"
+ },
+ {
+  "id": "kp-197324920",
+  "slug": "kp-197324920-izdavanje-stan-sarajevska",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 41 м², Сараевска, Савски-Венац",
+  "kind": "двухкомнатная квартира",
+  "price": 750,
+  "area": 41,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "savski-venac",
+  "location": "Сараевска",
+  "street": "",
+  "geo": {
+   "lat": 44.80367,
+   "lng": 20.45505
+  },
+  "facts": [
+   [
+    "Площадь",
+    "41 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "11-й из 11"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "домофон",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "лифт"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 41 м² в районе Сараевска (Савски-Венац, Белград). 11-й этаж из 11, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: интернет, домофон, кабельное ТВ, кондиционер, видеонаблюдение, лифт. Аренда 750 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se namešten i moderan stan – 41 m², poslednji sprat, zgrada sa liftom koji ide do 10-og sprata (Savski Venac, blizina Nemanjine). Stan ce biti useljiv polovinom decembra.  \n\nStruktura:  \n\nDnevni boravak\nSpavaća soba\nKuhinja sa trpezarijom\nKupatilo\nOstava\n\nKarakteristike:  \n\nStan kompletno renoviran (urađena i krovna izolacija)\nModeran nameštaj i uređaji: TV, klima, ugradna mašina za sudove, rerna, indukciona ploča, mikrotalasna, frižider, mašina za pranje i sušenje veša, štapni usisivač\nUredan i održavan ulaz, nov lift\nNiske režije\n\nLokacija:  \n\nBlizina Nemanjine, Slavije, Beograda na vodi, centra grada\nU zgradi: kafić, apoteka, pekara, frizerski salon, menjačnica\nU okolini: marketi (Idea, Maxi, DIS, Aman)\n\nUslovi:  \n\nDepozit: 1 mesečna zakupnina\nIzdaje vlasnik\n\nСдается меблированная современная квартира – 41 м², последний этаж, здание с лифтом до 10-го этажа (Савски Венац, рядом с улицей Немањина). Квартира будет готова к заселению в середине декабря.  \n\nСтруктура:  \n\nГостиная\nСпальня\nКухня со столовой\nВанная комната\nКладовая\n\nХарактеристики:  \n\nКвартира полностью отремонтирована (выполнена изоляция крыши)\nСовременная мебель и бытовая техника: телевизор, кондиционер, встроенная посудомоечная машина, духовка, индукционная плита, микроволновая печь, холодильник, стирально-сушильная машина, беспроводной пылесос\nЧистый и ухоженный подъезд, новый лифт\nНизкие коммунальные платежи\n\nРасположение:  \n\nРядом с улицей Немањина, площадью Славия, Белградом на воде, центром города\nВ здании: кафе, аптека, пекарня, парикмахерская, обмен валюты\nПоблизости: супермаркеты (Idea, Maxi, DIS, Aman)\n\nУсловия:  \n\nЗалог: 1 месяц аренды\nСдает собственник\n\nFurnished and modern apartment for rent – 41 m², top floor, building with an elevator that goes up to the 10th floor (Savski Venac, near Nemanjina Street). The apartment will be ready for occupancy in mid-December.    \n\nLayout:  \n\nLiving room\nBedroom\nKitchen with dining area\nBathroom\nStorage room\n\nFeatures:  \n\nFully renovated apartment (roof insulation also done)\nModern furniture and appliances: TV, air conditioning, built-in dishwasher, oven, induction cooktop, microwave, refrigerator, washer-dryer, stick vacuum cleaner\nNeat and well-maintained entrance, new elevator\nLow utility bills\n\nLocation:  \n\nNear Nemanjina Street, Slavija Square, Belgrade Waterfront, city center\nIn the building: café, pharmacy, bakery, hair salon, currency exchange\nNearby: supermarkets (Idea, Maxi, DIS, Aman)\n\nConditions:  \n\nDeposit: 1 month's rent\nDirect from owner",
+  "photos": 15,
+  "added": "2026-11-16",
+  "updated": "2026-11-16"
+ },
+ {
+  "id": "kp-197319938",
+  "slug": "kp-197319938-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 79 м², © ОпенСтреетМап цонтрибуторс, Вождовац",
+  "kind": "трёхкомнатная квартира",
+  "price": 850,
+  "area": 79,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "",
+  "geo": {
+   "lat": 44.76171,
+   "lng": 20.50284
+  },
+  "facts": [
+   [
+    "Площадь",
+    "79 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "2-й из 5"
+   ],
+   [
+    "Отопление",
+    "центральное, кондиционер, газовое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "домофон",
+   "терраса",
+   "кондиционер",
+   "видеонаблюдение",
+   "лифт"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 79 м² в районе © ОпенСтреетМап цонтрибуторс (Вождовац, Белград). 2-й этаж из 5, с мебелью, отопление центральное, кондиционер, газовое, дом современной постройки. Есть: можно въехать сразу, домофон, терраса, кондиционер, видеонаблюдение, лифт. Аренда 850 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se luksuzan, veoma svetao, topao i kompletno opremljen trosoban stan u Vojvode Vlahovića.\n\nProstran otvoren koncept sa spuštenim plafonima, LED rasvetom i klimom, povezana sa trpezarijom i potpuno opremljenom kuhinjom po meri i izlazom na terasu.\n\nSpavaći blok: Komforna spavaća soba sa bračnim krevetom, klima uredjajem i plakarom, ima izlaz na drugu terasu.\n\nManja soba (dečija).\n\nOpremljeno kupatilo sa kombinovanom mašinom za veš, ugradnim ormarićima i tuš kabinom.\nDva hodnika, u jednom se nalazi veliki ugradni plakar za maksimalnu iskoriscenost prostora.\n\nStan se izdaje na duži vremenski period i pogodan je za porodice.\n\nCena 850e plus depozit. Za dodatne informacije pozvati na broj \n\nBez posrednika",
+  "photos": 10,
+  "added": "2026-11-16",
+  "updated": "2026-11-16"
+ },
+ {
+  "id": "fz-6ad6258777efebb8590ec49e",
+  "slug": "fz-6ad6258777efebb8590ec49e-izdavanje-stan-dorcol",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 80 м², Дорчол, Старый город",
+  "kind": "трёхкомнатная квартира",
+  "price": 1200,
+  "area": 80,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "stari-grad",
+  "location": "Дорчол",
+  "street": "Тадеуша Кошчушка 88",
+  "geo": {
+   "lat": 44.82995,
+   "lng": 20.45936
+  },
+  "facts": [
+   [
+    "Площадь",
+    "80 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "терраса"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 80 м² в районе Дорчол (Старый город, Белград). С мебелью, отопление центральное. Есть: терраса. Аренда 1 200 € в месяц.",
+  "originalLang": "sr",
+  "original": "Trosoban stan u zgradi za izdavanje, Namešteno, Dorćol, 80 m2, na 6. spratu, ima lift. Stanje - Renovirano, Centralno, ima terasu, ima lođu, ima kupatilo, ima toalet. Ima parking mesto u dvorištu.",
+  "photos": 15,
+  "added": "2026-11-16",
+  "updated": "2026-11-16"
+ },
+ {
+  "id": "fz-6afadac599bd13fb4e03fc23",
+  "slug": "fz-6afadac599bd13fb4e03fc23-izdavanje-stan-vracar",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 80 м², Врачар",
+  "kind": "2,5-комнатная квартира",
+  "price": 1100,
+  "area": 80,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "vracar",
+  "location": "",
+  "street": "Врачар",
+  "geo": {
+   "lat": 44.79887,
+   "lng": 20.4747
+  },
+  "facts": [
+   [
+    "Площадь",
+    "80 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 80 м² в районе Врачар. С мебелью, отопление центральное. Аренда 1 100 € в месяц.",
+  "originalLang": "sr",
+  "original": "Dvoiposoban stan u zgradi za izdavanje, Namešteno, Vračar, 80 m2, na 1. spratu, ima lift. Stanje - luksuzno, Centralno, ima terasu, ima kupatilo.",
+  "photos": 7,
+  "added": "2026-11-16",
+  "updated": "2026-11-16"
+ },
+ {
+  "id": "fz-6afab3b22d12e2fcef032807",
+  "slug": "fz-6afab3b22d12e2fcef032807-izdavanje-stan-autokomanda",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 40 м², Аутокоманда, Вождовац",
+  "kind": "однокомнатная квартира",
+  "price": 430,
+  "area": 40,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Аутокоманда",
+  "street": "Аутокоманда",
+  "geo": {
+   "lat": 44.78676,
+   "lng": 20.4707
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся однокомнатная квартира площадью 40 м² в районе Аутокоманда (Вождовац, Белград). С мебелью, отопление центральное. Аренда 430 € в месяц.",
+  "originalLang": "sr",
+  "original": "Jednosoban stan u zgradi za izdavanje, Namešteno, Autokomanda, 40 m2, na 3. spratu. Stanje - Renovirano, Centralno.",
+  "photos": 8,
+  "added": "2026-11-16",
+  "updated": "2026-11-16"
+ },
+ {
+  "id": "fz-6305378984aaa92ece0c0f56",
+  "slug": "fz-6305378984aaa92ece0c0f56-izdavanje-stan-karaburma",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 45 м², Карабурма, Палилула",
+  "kind": "двухкомнатная квартира",
+  "price": 550,
+  "area": 45,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "Карабурма",
+  "street": "Карабурма",
+  "geo": {
+   "lat": 44.8093,
+   "lng": 20.51654
+  },
+  "facts": [
+   [
+    "Площадь",
+    "45 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся двухкомнатная квартира площадью 45 м² в районе Карабурма (Палилула, Белград). С мебелью, отопление центральное. Аренда 550 € в месяц.",
+  "originalLang": "sr",
+  "original": "Dvosoban stan u zgradi za izdavanje, Namešteno, Karaburma, 45 m2, na 5. spratu. Stanje - Novo, Centralno, ima terasu.",
+  "photos": 13,
+  "added": "2026-11-16",
+  "updated": "2026-11-16"
+ },
+ {
+  "id": "fz-68127e9bf27f58382d06e123",
+  "slug": "fz-68127e9bf27f58382d06e123-izdavanje-stan-centar",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 38 м², Центр, Звездара",
+  "kind": "1,5-комнатная квартира",
+  "price": 600,
+  "area": 38,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Центр",
+  "street": "Арильска 10",
+  "geo": {
+   "lat": 44.79182,
+   "lng": 20.51282
+  },
+  "facts": [
+   [
+    "Площадь",
+    "38 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 38 м² в районе Центр (Звездара, Белград). С мебелью, отопление автономное. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "Jednoiposoban stan u zgradi za izdavanje, Namešteno, Centar, 38 m2, na visokom prizemlju, ima lift. Stanje - Novo, Etažno, ima lođu, ima kupatilo, ima toalet.",
+  "photos": 9,
+  "added": "2026-11-16",
+  "updated": "2026-11-16"
+ },
+ {
+  "id": "ho-5425636677931",
+  "slug": "ho-5425636677931-izdavanje-stan-stari-merkator",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 48 м², Стари Меркатор, Новый Белград",
+  "kind": "1,5-комнатная квартира",
+  "price": 490,
+  "area": 48,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Стари Меркатор",
+  "street": "Генерала Жданова",
+  "geo": {
+   "lat": 44.83332,
+   "lng": 20.40394
+  },
+  "facts": [
+   [
+    "Площадь",
+    "48 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "6-й из 6"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 60 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "домофон",
+   "кондиционер",
+   "лифт",
+   "лоджия",
+   "парковка",
+   "подвал",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 48 м² в районе Стари Меркатор (Новый Белград, Белград). 6-й этаж из 6, с мебелью, отопление аккумуляционные печи, после ремонта, старый фонд. Есть: депозит, можно въехать сразу, домофон, кондиционер, лифт, лоджия, парковка, подвал, терраса, видеонаблюдение. Аренда 490 € в месяц.",
+  "originalLang": "sr",
+  "original": "ВЛАСНИК издаје комфоран стан у ул. Ген. Жданова код старог Меркатора, затворене површине 30m2 са две одвојене просторије, дневни и спаваћи део, са кухињом и купатилом, плус дивна велика наткривена тераса/лођа од 18m2 заштићена мрежицом од птица, са погледом на диван парк. Стан је реновиран, комплетно опремљен свим кућним апаратима, окречен и сређен, са грејањем на инвертер климу са WiFi-eм и ТА пећ. Зграда има лифт и видео надзор, слободан паркинг.\n Обавезан уговор и депозит, нема агенцијске провизије.",
+  "photos": 10,
+  "added": "2026-11-16",
+  "updated": "2026-11-16"
+ },
+ {
   "id": "ho-5425647815728",
   "slug": "ho-5425647815728-izdavanje-stan-hotel-jugoslavija",
   "deal": "rent",
@@ -53853,75 +54572,6 @@
   "originalLang": "sr",
   "original": "Informacije na tel. u vremenu od . Isključivo nepušači ibez kućnih ljubimaca.  Garsonjera se izdaje na duži period građanima Srbije. Prednost studentima, specijalizantima i zaposlenim licima. Obavezan depozit u visini zakupnine.",
   "photos": 14,
-  "added": "2026-10-26",
-  "updated": "2026-10-26"
- },
- {
-  "id": "ho-5425636677931",
-  "slug": "ho-5425636677931-izdavanje-stan-paviljoni",
-  "deal": "rent",
-  "type": "apartment",
-  "cat": "flat",
-  "title": "Аренда: 1,5-комнатная квартира, 30 м², Павильони, Новый Белград",
-  "kind": "1,5-комнатная квартира",
-  "price": 550,
-  "area": 30,
-  "rooms": 1.5,
-  "city": "Белград",
-  "district": "Новый Белград",
-  "districtSlug": "opstina-novi-beograd",
-  "location": "Павильони",
-  "street": "Генерала Жданова",
-  "geo": {
-   "lat": 44.8325,
-   "lng": 20.40363
-  },
-  "facts": [
-   [
-    "Площадь",
-    "30 м²"
-   ],
-   [
-    "Комнат",
-    "1,5"
-   ],
-   [
-    "Этаж",
-    "6-й из 6"
-   ],
-   [
-    "Отопление",
-    "аккумуляционные печи"
-   ],
-   [
-    "Мебель",
-    "с мебелью"
-   ],
-   [
-    "Состояние",
-    "после ремонта"
-   ],
-   [
-    "Дом",
-    "старый фонд"
-   ]
-  ],
-  "features": [
-   "домофон",
-   "кондиционер",
-   "лифт",
-   "лоджия",
-   "парковка",
-   "подвал",
-   "терраса",
-   "видеонаблюдение",
-   "депозит",
-   "можно въехать сразу"
-  ],
-  "text": "Сдаётся 1,5-комнатная квартира площадью 30 м² в районе Павильони (Новый Белград, Белград). 6-й этаж из 6, с мебелью, отопление аккумуляционные печи, после ремонта, старый фонд. Есть: домофон, кондиционер, лифт, лоджия, парковка, подвал, терраса, видеонаблюдение, депозит, можно въехать сразу. Аренда 550 € в месяц.",
-  "originalLang": "sr",
-  "original": "Власник издаје комфоран стан у ул. Ген. Жданова код старог Меркатора, површине 30m2 са две одвојене просторије, кухињом и купатилом, плус велика наткривена тераса/лођа од 18m2 са погледом на парк. Стан је реновиран, комплетно опремљен свим кућним апаратима, окречен и сређен, клима и ТА пећ. Од месечних режија поред кирије од 550е плаћа се само рачун за потрошену струју, остали рачуни за инфостан и одржавање зграде су обавеза власника. Обавезан депозит, нема агенцијске провизије.",
-  "photos": 10,
   "added": "2026-10-26",
   "updated": "2026-10-26"
  },
