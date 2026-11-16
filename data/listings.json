@@ -1,5 +1,67 @@
 [
  {
+  "id": "kp-197243295",
+  "slug": "kp-197243295-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: четырёхкомнатная квартира, 85 м², © ОпенСтреетМап цонтрибуторс, Новый Белград",
+  "kind": "четырёхкомнатная квартира",
+  "price": 690,
+  "area": 85,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "novi-beograd",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Ладжарска",
+  "geo": {
+   "lat": 44.80559,
+   "lng": 20.35315
+  },
+  "facts": [
+   [
+    "Площадь",
+    "85 м²"
+   ],
+   [
+    "Комнат",
+    "4"
+   ],
+   [
+    "Этаж",
+    "2-й из 2"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "кабельное ТВ"
+  ],
+  "text": "Сдаётся четырёхкомнатная квартира площадью 85 м² в районе © ОпенСтреетМап цонтрибуторс (Новый Белград, Белград). 2-й этаж из 2, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: можно въехать сразу, терраса, кабельное ТВ. Аренда 690 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem namešten stan od 85 kvadrata, koji se nalazi na drugom spratu porodične kuće. Stan je prostran, ima terasu i odmah je useljiv. Pogodan je za više osoba. Grejanje je centralno, putem radijatora. Mesečne režije iznose 100 evra.",
+  "photos": 7,
+  "added": "2026-11-16",
+  "updated": "2026-11-16"
+ },
+ {
   "id": "kp-197271594",
   "slug": "kp-197271594-izdavanje-stan-openstreetmap-contributors",
   "deal": "rent",
