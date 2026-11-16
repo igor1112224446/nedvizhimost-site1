@@ -1,5 +1,129 @@
 [
  {
+  "id": "ho-5425647992365",
+  "slug": "ho-5425647992365-prodaja-stan-blok-65",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: студия, 32.09 м², Блок 65, Новый Белград",
+  "kind": "студия",
+  "price": 155000,
+  "area": 32.09,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Блок 65",
+  "street": "Джорджа Станоевича",
+  "geo": {
+   "lat": 44.81097,
+   "lng": 20.39563
+  },
+  "facts": [
+   [
+    "Площадь",
+    "32.09 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "7-й из 10"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "видеонаблюдение",
+   "не последний этаж",
+   "можно въехать сразу",
+   "есть право собственности"
+  ],
+  "text": "Продаётся студия площадью 32.09 м² в районе Блок 65 (Новый Белград, Белград). 7-й этаж из 10, отопление центральное, люкс, дом современной постройки. Есть: кондиционер, лифт, парковка, видеонаблюдение, не последний этаж, можно въехать сразу, есть право собственности. Цена 155 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju odmah useljiva garsonjera u novoizgrađenom modernom bloku Airport Garden. \nNalazi se u Bloku 65, jednoj od najtraženijih novih mikro lokacija na Novom Beogradu.\n\nLokacija\nU neposrednoj blizini poslovnih blokova Airport City, West 65 i Belgrade Office Park. \nDobro povezan gradskim prevozom (linije 67, 68, 73, 76, 94, 95N, 610, 708, ADA2, 65, 18N, EKO1). Pored tržnih centara Roda (Mega Roda, Uradi sam, Decathlon...) i Delta City. \nNa 15 minuta vožnje do aerodroma. \n\nNekretnina\nStan je zdrav i svetao, sa velikim prozorima. Nalazi sa na 7. od 10 spratova, sa četiri lifta.\nUšuškan drugim stanovima sa svih strana. Orijentisan ka unutrašnjem tihom delu bloka, bez buke i saobraćaja.\nIzuzetan kvalitet gradnje, kakav se kod nas retko viđa. \nCentralno održavanje bloka (čistoće, zelenila). Recepcija na ulazu. Četiri lifta. \nVrhunski autonomni efikasni sistem grejanja i hlađenja (toplote pumpe), kojim se upravlja preko ekrana u stanu, ili preko interneta (mobilne aplikacije) daljinski. Grejanje zidno (bez radijatora) u dnevnoj sobi, odnosno podno u kuhinji i kupatilu. Hlađenje bez vidljivih klima jedinica.\nOdlična spoljna aluminijumska stolarija sa velikim prozorima i električnim daljinski upravljivim roletnama. Unutrašnja stolarija Bosal (uključujući i ulazna vrata).\nVentilisana fasada, kvalitetno kupatilo (Grohe, italijanska keramika), pregradni zidovi od blokova za dobru zvučnu izolaciju. \nObjekat opremljen instalacijama optičke mreže - sistem video nadzora, sistem kontrole pristupa, sistem zvučnog obaveštavanja.\nUz stan je obavezna kupovina i pripadajućeg parking mesta u kompleksu bloka (baš ispod prozora stana), po ceni od 24.700 EUR (dodatno na vrednost stana).\n\nNapomena\nStan prodaje vlasnik i nema agencijske provizije. Molim agencije i posrednike da se ne javljaju!",
+  "photos": 15,
+  "added": "2026-11-16",
+  "updated": "2026-11-16"
+ },
+ {
+  "id": "ho-5425647536386",
+  "slug": "ho-5425647536386-izdavanje-stan-jajinci",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 65 м², Яйинци, Вождовац",
+  "kind": "двухкомнатная квартира",
+  "price": 400,
+  "area": 65,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "Яйинци",
+  "street": "Старомайданска",
+  "geo": {
+   "lat": 44.72704,
+   "lng": 20.48371
+  },
+  "facts": [
+   [
+    "Площадь",
+    "65 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 50 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "терраса"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 65 м² в районе Яйинци (Вождовац, Белград). С мебелью, отопление автономное, в исходном состоянии, дом современной постройки. Есть: депозит, можно въехать сразу, терраса. Аренда 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se prostoran stan -65m² + velika terasa na opštini Voždovac, mesto Jajinci, ul. Staromajdanska broj 6. U pitanju je stan u kući, zasebaulaz.Stan se nalazi na prvom spratu kuce, prostoran i funkcionalan sa velikom terasom i odličnim rasporedom ostalih prostorija. \nStan se sastoji od 2 spavaće sobe, obe opremljenje krevetima i prostranim ormarima. Dnevna soba sa dva kreveta, kuhinje ( naše je dodati sto i stolice koje nemamo na slici trenutno ) , kupatila ( veš mašina ) i velika terasa . \nŠto se tiče grejanja , centralno grejanje koje je uračunato u cenu tokom zimske sezone. \n\nCENA - 400e + troškovi ( voda, struja i smeće ). Idealan za porodicu , takodje i za dve studentkinje . Odlicna povezanost sa gradskim prevozom , veliki broj autobuskih linija u neposrednoj blizini. Na 5km od Banjice. \nSAMO NA DUŽE!!!\nZa više informacija i dogovor oko gledanja stana javite se pozivom ma broj telefona , Radovan.",
+  "photos": 8,
+  "added": "2026-11-16",
+  "updated": "2026-11-16"
+ },
+ {
   "id": "ho-5425645304814",
   "slug": "ho-5425645304814-izdavanje-stan-borca",
   "deal": "rent",
