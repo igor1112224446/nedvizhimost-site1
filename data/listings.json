@@ -1,5 +1,72 @@
 [
  {
+  "id": "ho-5425643011105",
+  "slug": "ho-5425643011105-izdavanje-stan-karaburma",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 20 м², Карабурма, Палилула",
+  "kind": "студия",
+  "price": 250,
+  "area": 20,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Карабурма",
+  "street": "Друговачка",
+  "geo": {
+   "lat": 44.80548,
+   "lng": 20.51528
+  },
+  "facts": [
+   [
+    "Площадь",
+    "20 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "1-й из 1"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 50 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "подходит студентам",
+   "интернет"
+  ],
+  "text": "Сдаётся студия площадью 20 м² в районе Карабурма (Палилула, Белград). 1-й этаж из 1, с мебелью, отопление центральное, после ремонта, дом современной постройки. Есть: депозит, можно въехать сразу, подходит студентам, интернет. Аренда 250 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem manju nameštenu garsonjeru na Ćalijama-Karaburmi, studentu ili mlađoj zaposlenoj osobi (JEDNOJ)\nU garsonjeri NEMA veš mašina zbog nedostatka mesta u kupatilu\n\nObavezan depozit u visini jedne stanarine",
+  "photos": 7,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
   "id": "kp-197319367",
   "slug": "kp-197319367-izdavanje-stan-openstreetmap-contributors",
   "deal": "rent",
