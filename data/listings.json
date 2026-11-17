@@ -1,5 +1,196 @@
 [
  {
+  "id": "kp-197319367",
+  "slug": "kp-197319367-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 43 м², © ОпенСтреетМап цонтрибуторс, Чукарица",
+  "kind": "однокомнатная квартира",
+  "price": 400,
+  "area": 43,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "cukarica",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Радних Акция 67",
+  "geo": {
+   "lat": 44.72749,
+   "lng": 20.37481
+  },
+  "facts": [
+   [
+    "Площадь",
+    "43 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "3-й из 4"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "кондиционер",
+   "депозит"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 43 м² в районе © ОпенСтреетМап цонтрибуторс (Чукарица, Белград). 3-й этаж из 4, с мебелью, отопление центральное, дом современной постройки. Есть: можно въехать сразу, кондиционер, депозит. Аренда 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se stan na odličnoj lokaciji u Železniku! Stan se nalazi u blizini autobuske stanice (88,58,55,54,511,521,512), doma zdravlja, pošte, prodavnica (Idea, Lidl, Maxi, Aman. .) i svih sadržaja neophodnih za svakodnevni život. ? Odlična povezanost sa ostalim delovima grada i više linija gradskog prevoza. ✅ Mala mesečna režija ✅ Sve što je potrebno nalazi se u neposrednoj blizini ✅ Praktična i mirna lokacija za život Stan je novogradnja, i nalazi se na 3. spratu. Nema lift. Stan sadrži spavacu sobu, dnevnu sobu, hodnik, kupatilo, kuhinju sa trpezarijom. Za više informacija i dogovor oko gledanja stana, pozvati na telefon:   Mika Slobodan",
+  "photos": 7,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
+  "id": "kp-197318632",
+  "slug": "kp-197318632-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 53 м², © ОпенСтреетМап цонтрибуторс, Палилула",
+  "kind": "двухкомнатная квартира",
+  "price": 650,
+  "area": 53,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Булевар Деспота Стефана",
+  "geo": {
+   "lat": 44.81708,
+   "lng": 20.47475
+  },
+  "facts": [
+   [
+    "Площадь",
+    "53 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "7-й из 7"
+   ],
+   [
+    "Отопление",
+    "кондиционер, электрическое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "домофон",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "депозит"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 53 м² в районе © ОпенСтреетМап цонтрибуторс (Палилула, Белград). 7-й этаж из 7, с мебелью, отопление кондиционер, электрическое, в исходном состоянии, старый фонд. Есть: интернет, домофон, кабельное ТВ, кондиционер, лифт, депозит. Аренда 650 € в месяц.",
+  "originalLang": "sr",
+  "original": "Dvosoban stan od 53m2 u odličnom stanju, na poslednjem spratu održavane zgrade. Stan se nalazi u Bulevaru despota Stefana okrenut ka Dunavu i izdaje se namešten.  \n\nSlobodan od 1.11.2026.",
+  "photos": 9,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
+  "id": "kp-197321783",
+  "slug": "kp-197321783-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 40 м², © ОпенСтреетМап цонтрибуторс, Палилула",
+  "kind": "1,5-комнатная квартира",
+  "price": 700,
+  "area": 40,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Албанске Споменице 19",
+  "geo": {
+   "lat": 44.80941,
+   "lng": 20.48309
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "5-й из 14"
+   ],
+   [
+    "Отопление",
+    "центральное, кондиционер"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "подвал",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 40 м² в районе © ОпенСтреетМап цонтрибуторс (Палилула, Белград). 5-й этаж из 14, с мебелью, отопление центральное, кондиционер, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, домофон, подвал, кабельное ТВ, кондиционер, лифт, парковка, депозит. Аренда 700 € в месяц.",
+  "originalLang": "sr",
+  "original": "IZDAJE SE LUKSUZNO RENOVIRAN STAN – UGAO RUZVELTOVE / ALBANSKIH SPOMENICA, BEOGRAD\n\nIzdaje se prelep, potpuno renoviran i moderno opremljen stan, površine oko 40 m², na odličnoj lokaciji, na uglu Ruzveltove ulice i Albanskih spomenica, preko puta Novog groblja.\n\nStan se nalazi na petom spratu uredne stambene zgrade sa DVA LIFTA i parkingom. Sa prozora se pruža pogled na Ruzveltovu ulicu i tržni centar Zira.\n\nOPIS STANA:\n\nStan je kompletno renoviran, moderno uređen i opremljen novim nameštajem i belom tehnikom.\n\nSastoji se od:\n\n* Prostranog i svetlog dnevnog boravka\n* Odvojene spavaće sobe\n* Kuhinje sa novim elementima i belom tehnikom\n* Kupatila sa modernom tuš-kabinom i masažerima\n\nStan je kompletno namešten i spreman za useljenje.\n\nDODATNE POGODNOSTI:\n\n* Klima uređaj\n* Centralno grejanje\n* Dva televizora\n* Ugaona garnitura\n* Ležaj\n* Trpezarijski sto i stolice\n* Dva plakara\n* Nova bela tehnika\n* Hodnik sa cipelarnicima i civilukom sa dodatnim proatoeima za odlaganje\n(sve je na tac i \"sakriveno u zidu\")\n* Zgrada sa dva lifta\n* Parking\n* Odlična povezanost sa svim delovima grada\n\nLOKACIJA:\n\nJedna od veoma traženih lokacija u Beogradu, u neposrednoj blizini Ruzveltove ulice, tržnog centra Zira, Novog groblja, prodavnica, marketa, restorana i stanica gradskog prevoza.\n\nCENA: 700 € mesečno + troškovi\n\nDEPOZIT: U visini jedne mesečne zakupnine.\n\nStan je idealan za jednu osobu ili par koji traže moderan, lepo uređen i potpuno opremljen stan na odličnoj lokaciji.\n\nZa više informacija i dogovor oko gledanja stana, pozvati ili poslati poruku.",
+  "photos": 15,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
   "id": "kp-197343694",
   "slug": "kp-197343694-izdavanje-stan-openstreetmap-contributors",
   "deal": "rent",
