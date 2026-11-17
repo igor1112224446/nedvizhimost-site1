@@ -1,5 +1,119 @@
 [
  {
+  "id": "ho-5425648000234",
+  "slug": "ho-5425648000234-izdavanje-stan-altina",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 73 м², Алтина, Земун",
+  "kind": "трёхкомнатная квартира",
+  "price": 680,
+  "area": 73,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Алтина",
+  "street": "Павла Вуисича",
+  "geo": {
+   "lat": 44.85325,
+   "lng": 20.34693
+  },
+  "facts": [
+   [
+    "Площадь",
+    "73 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "1-й из 4"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "терраса",
+   "горячая вода",
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 73 м² в районе Алтина (Земун, Белград). 1-й этаж из 4, с мебелью, отопление автономное, люкс, дом современной постройки. Есть: интернет, кабельное ТВ, кондиционер, парковка, терраса, горячая вода, депозит, не последний этаж, можно въехать сразу. Аренда 680 € в месяц.",
+  "originalLang": "sr",
+  "original": "Trosoban stan na Altini od 73m2, full sredjen , parking ispred zgrade, 2 spavaće , dnevna sa trpezarijom, kupatilo,kuhinja , ostava, terasa. Izdaje se na duži vremenski period . Ne izdajemo strancima!\nIspred zgrade je prodavnica, autobuska, restoran.",
+  "photos": 11,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
+  "id": "fz-60a2573c49518d38cd722c38",
+  "slug": "fz-60a2573c49518d38cd722c38-izdavanje-stan-blok-11",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 67 м², Блок 11, Новый Белград",
+  "kind": "двухкомнатная квартира",
+  "price": 1000,
+  "area": 67,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "novi-beograd",
+  "location": "Блок 11",
+  "street": "Алексиначких Рудара 39",
+  "geo": {
+   "lat": 44.8268,
+   "lng": 20.4166
+  },
+  "facts": [
+   [
+    "Площадь",
+    "67 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся двухкомнатная квартира площадью 67 м² в районе Блок 11 (Новый Белград, Белград). С мебелью, отопление центральное. Аренда 1 000 € в месяц.",
+  "originalLang": "sr",
+  "original": "Dvosoban stan u zgradi za izdavanje, Namešteno, Blok 11, 67 m2, na 4. spratu, ima lift. Stanje - Novo, Centralno, ima lođu, ima kupatilo, ima toalet. Ima parking mesto. Ima garažno mesto u sklopu zgrade.",
+  "photos": 7,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
   "id": "ho-5425635802989",
   "slug": "ho-5425635802989-izdavanje-stan-kalemegdan",
   "deal": "rent",
