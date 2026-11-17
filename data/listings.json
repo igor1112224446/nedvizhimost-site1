@@ -1,5 +1,804 @@
 [
  {
+  "id": "ho-5425646575243",
+  "slug": "ho-5425646575243-izdavanje-stan-mali-mokri-lug",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 20 м², Мали Мокри Луг, Звездара",
+  "kind": "однокомнатная квартира",
+  "price": 500,
+  "area": 20,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Мали Мокри Луг",
+  "street": "Првомайска",
+  "geo": {
+   "lat": 44.78158,
+   "lng": 20.52027
+  },
+  "facts": [
+   [
+    "Площадь",
+    "20 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "приземный из 3"
+   ],
+   [
+    "Отопление",
+    "норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно с животными",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "домофон",
+   "интернет",
+   "кондиционер",
+   "парковка",
+   "подвал",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 20 м² в районе Мали Мокри Луг (Звездара, Белград). Приземный этаж из 3, с мебелью, отопление норвежские радиаторы, люкс, дом современной постройки. Есть: можно с животными, не последний этаж, можно въехать сразу, для некурящих, домофон, интернет, кондиционер, парковка, подвал, горячая вода, видеонаблюдение. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Mesečno izdavanje apartmana 500e bez depozita\n\nSvi troskovi uključeni u cenu. Voda, struja, internet.\nObezbeđeno parking mesto.\nU sklopu objekta recepcija koja radi 24/7 sa video nadzorom, room servis(zamena posteljine, peskira, toalete u kupatilu, pranje i susenje garderobe)",
+  "photos": 9,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
+  "id": "ho-5425647997239",
+  "slug": "ho-5425647997239-izdavanje-stan-blok-61",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 39 м², Блок 61, Новый Белград",
+  "kind": "1,5-комнатная квартира",
+  "price": 500,
+  "area": 39,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Блок 61",
+  "street": "Душана Вукасовича",
+  "geo": {
+   "lat": 44.80496,
+   "lng": 20.37217
+  },
+  "facts": [
+   [
+    "Площадь",
+    "39 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "4-й из 4"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно с животными",
+   "можно въехать сразу",
+   "домофон",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "терраса"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 39 м² в районе Блок 61 (Новый Белград, Белград). 4-й этаж из 4, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: депозит, можно с животными, можно въехать сразу, домофон, кондиционер, лифт, парковка, терраса. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se namešten stan na Novom Beogradu – 500 €\nIzdaje se kompletno namešten stan na Novom Beogradu, u Ulici Dušana Vukasovića. Stan se nalazi na 4. spratu uredne i održavane stambene zgrade sa liftom. \nStan se sastoji od: dnevne sobe sa trpezarijom; kuhinje; kupatila; dodatne, odvojene sobe; prostrane terase.\nStan je namešten i spreman za useljenje.\nU neposrednoj blizini zgrade dostupan je slobodan parking.\nCena zakupa: 500 € mesečno\nDepozit: U visini jedne mesečne zakupnine.\nZa više informacija i dogovor oko razgledanja: – Goran",
+  "photos": 8,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
+  "id": "ho-5425647996549",
+  "slug": "ho-5425647996549-izdavanje-stan-zarkovo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 27 м², Жарково, Чукарица",
+  "kind": "однокомнатная квартира",
+  "price": 350,
+  "area": 27,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "opstina-cukarica",
+  "location": "Жарково",
+  "street": "Лепосаве Вуйошевич",
+  "geo": {
+   "lat": 44.75404,
+   "lng": 20.41063
+  },
+  "facts": [
+   [
+    "Площадь",
+    "27 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "4-й из 5"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "терраса",
+   "депозит",
+   "не последний этаж"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 27 м² в районе Жарково (Чукарица, Белград). 4-й этаж из 5, с мебелью, отопление аккумуляционные печи, в исходном состоянии, старый фонд. Есть: интернет, кабельное ТВ, кондиционер, терраса, депозит, не последний этаж. Аренда 350 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem stan u Žarkovu (kod crkve) pogodan za samce u stambenoj zgradi veličine 27m2. Stan ima dnevnu sobu sa kuhinjom, kupatilom i terasom.\nOpremljen je u skladu sa slikama koje možete videti u oglasu. U blizini se nalazi autobuska stajališta ,manja pijaca, prodavnice i odlična autobuska konekcija. Grejanje je po izboru :TA ili klima\nU cenu stanarine uključeni su troškovi za kablovsku, internet i infostan. Struja se plaća po utrošku ( uz pripadajući račun od Elektrodistibucije) \nPrvih 3 meseca plaćanje kirije je unapred, nakon toga plaćanje je mesečno. Visina depozita je u visni jedne kirije.\nStan je useljiv od . Za više informacija pozvati",
+  "photos": 5,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
+  "id": "ho-5425647998312",
+  "slug": "ho-5425647998312-izdavanje-stan-kralja-milana",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 25 м², Краля Милана, Врачар",
+  "kind": "студия",
+  "price": 650,
+  "area": 25,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "opstina-vracar",
+  "location": "Краля Милана",
+  "street": "Краля Милана",
+  "geo": {
+   "lat": 44.80685,
+   "lng": 20.46434
+  },
+  "facts": [
+   [
+    "Площадь",
+    "25 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "2-й из 4"
+   ],
+   [
+    "Отопление",
+    "норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 100 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно с животными",
+   "не последний этаж",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся студия площадью 25 м² в районе Краля Милана (Врачар, Белград). 2-й этаж из 4, с мебелью, отопление норвежские радиаторы, после ремонта, старый фонд. Есть: депозит, можно с животными, не последний этаж, интернет, кабельное ТВ, кондиционер, горячая вода, видеонаблюдение. Аренда 650 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se stan u centru Beograda, Kralja Milana, preko puta Studentskog kulturnog centra, 25 m2, svetao, drugi sprat bez lifta, grejanje je na struju (norveški radijator i obična klima), dobro izolovan od buke (aluminijumski prozori), renoviran, bez terase. Zgrada je iz 30-tih godina, ulaz je uredan i održavan, ekskluzivan pogled.\n\nStudio se sastoji od jedne prostorije sa kuhinjom na samom ulazu i kupatilom, potpuno renoviran. Izdaje se kao stambeni ili kao poslovni prostor (moguće je ukloniti nepotrebni nameštaj - bračni krevet i dodati radne stolove po potrebi). Stan ima niske režijske troškove (infostan 1.750 dinara, kablovska SBB 5.000 dinara, struja po potrošnji). \n\nSlobodan je od 5. januara 2027. godine, PET friendly. \n\nCena 650 eura, mesecno plaćanje, ugovor na šest meseci ili godinu dana. Stan oglašava vlasnik.",
+  "photos": 12,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
+  "id": "fz-6afc39ded8fd1411e30a793d",
+  "slug": "fz-6afc39ded8fd1411e30a793d-izdavanje-stan-karaburma",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 25 м², Карабурма, Палилула",
+  "kind": "студия",
+  "price": 300,
+  "area": 25,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "Карабурма",
+  "street": "Стевана Дукича 5",
+  "geo": {
+   "lat": 44.81441,
+   "lng": 20.51717
+  },
+  "facts": [
+   [
+    "Площадь",
+    "25 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "кондиционер"
+  ],
+  "text": "Сдаётся студия площадью 25 м² в районе Карабурма (Палилула, Белград). С мебелью, отопление автономное. Есть: кондиционер. Аренда 300 € в месяц.",
+  "originalLang": "sr",
+  "original": "Garsonjera u zgradi za izdavanje, Namešteno, Karaburma, 25 m2. Stanje - Uobičajeno, Etažno, ima terasu, ima kupatilo.",
+  "photos": 7,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
+  "id": "ho-5425647996832",
+  "slug": "ho-5425647996832-izdavanje-stan-kanarevo-brdo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 30 м², Канарево брдо, Раковица",
+  "kind": "однокомнатная квартира",
+  "price": 400,
+  "area": 30,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Раковица",
+  "districtSlug": "opstina-rakovica",
+  "location": "Канарево брдо",
+  "street": "Вукасовичева",
+  "geo": {
+   "lat": 44.75421,
+   "lng": 20.45085
+  },
+  "facts": [
+   [
+    "Площадь",
+    "30 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "приземный из 4"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 30 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 30 м² в районе Канарево брдо (Раковица, Белград). Приземный этаж из 4, с мебелью, отопление автономное, в исходном состоянии, дом современной постройки. Есть: депозит, можно въехать сразу. Аренда 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "",
+  "photos": 8,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
+  "id": "fz-6afc27c1b7cf116c160aac16",
+  "slug": "fz-6afc27c1b7cf116c160aac16-izdavanje-stan-dedinje",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 73 м², Дедине, Савски-Венац",
+  "kind": "2,5-комнатная квартира",
+  "price": 900,
+  "area": 73,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "savski-venac",
+  "location": "Дедине",
+  "street": "Дедине",
+  "geo": {
+   "lat": 44.78485,
+   "lng": 20.46315
+  },
+  "facts": [
+   [
+    "Площадь",
+    "73 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Отопление",
+    "электрическое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "кондиционер"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 73 м² в районе Дедине (Савски-Венац, Белград). С мебелью, отопление электрическое. Есть: кондиционер. Аренда 900 € в месяц.",
+  "originalLang": "sr",
+  "original": "Dvoiposoban stan u kući za izdavanje, Namešteno, Dedinje, 73 m2, na 1. spratu. Stanje - Renovirano, Struja, ima terasu, ima kupatilo.",
+  "photos": 15,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
+  "id": "ho-5425647996536",
+  "slug": "ho-5425647996536-prodaja-stan-dedinje",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: трёхкомнатная квартира, 79 м², Дедине, Савски-Венац",
+  "kind": "трёхкомнатная квартира",
+  "price": 410800,
+  "area": 79,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "opstina-savski-venac",
+  "location": "Дедине",
+  "street": "Милоя Джака",
+  "geo": {
+   "lat": 44.76603,
+   "lng": 20.45765
+  },
+  "facts": [
+   [
+    "Площадь",
+    "79 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "3-й из 5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "можно въехать сразу",
+   "есть право собственности",
+   "гараж",
+   "домофон",
+   "кондиционер",
+   "лифт",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся трёхкомнатная квартира площадью 79 м² в районе Дедине (Савски-Венац, Белград). 3-й этаж из 5, отопление центральное, люкс, дом современной постройки. Есть: не последний этаж, можно въехать сразу, есть право собственности, гараж, домофон, кондиционер, лифт, терраса, горячая вода, видеонаблюдение. Цена 410 800 €.",
+  "originalLang": "sr",
+  "original": "LUKSUZNA NOVOGRADNJA NA DEDINJU – TROSOBAN STAN 79 m² \n\nNa jednoj od najprestižnijih stambenih lokacija u Beogradu, na Dedinju, u okviru savremenog stambenog objekta novogradnje, na prodaju je trosoban stan površine 79 m², smešten na trećem spratu.\n\nStan se prodaje prvom vlasniku i predstavlja odličnu priliku za kupovinu nove nekretnine koja objedinjuje kvalitetnu gradnju, savremena tehnička rešenja i funkcionalnu organizaciju prostora.\n\nZahvaljujući pažljivo osmišljenom rasporedu, stan pruža optimalnu iskorišćenost prostora, uz jasno definisane dnevne i spavaće zone, što ga čini pogodnim kako za porodični život, tako i za dugoročnu investiciju.\n\nStruktura stana\n\n* Ukupna površina: 79 m²\n* Sprat: 3.\n* Prostran dnevni boravak\n* Dve spavaće sobe\n* Dva kupatila\n* Terasa\n\nStan karakteriše visok standard završne obrade, uz pažljivo odabrane materijale i savremene sisteme koji obezbeđuju dugotrajnost i funkcionalnost.\n\n* Višeslojni parket u dnevnom boravku, spavaćim sobama i hodnicima\n* Aluminijumska spoljna stolarija sa roletnama na električni pogon\n* Sigurnosna ulazna vrata u boji hrasta\n* Unutrašnja vrata usklađena sa enterijerom\n* Kupatila opremljena sanitarijama renomiranih proizvođača\n* Walk-in tuš-kabine sa staklenim pregradama\n* Granitna keramika na podovima i zidovima kupatila\n* Ugradna rasveta u spuštenim plafonima\n* Modularna elektrogalanterija\n* Kvalitetna završna obrada zidova i plafona\n\nGrejanje, podno grejanje, klimatizacija i pametni sistemi\n\nStan je opremljen savremenim instalacijama koje omogućavaju efikasno upravljanje temperaturom, osvetljenjem i drugim funkcijama, uz visok nivo udobnosti i racionalnu potrošnju energije.\n\n* Centralno grejanje sa ugradjenim kalometrima\n* Podno grejanje u kupatilima\n* Multi-split sistem klimatizacije sa unutrašnjim jedinicama u dnevnoj i spavaćim sobama\n* Smart-home sistem sa mogućnošću upravljanja rasvetom, roletnama i pojedinim električnim uređajima\n* Senzori za detekciju dima i curenja vode\n* Pripremljene instalacije za internet, televiziju i telekomunikacione priključke\n\nGaražna mesta\n\nUz stan postoji mogućnost kupovine do 3 garažna mesta, što predstavlja dodatnu pogodnost i doprinosi svakodnevnom komforu stanovanja.\n\nOva nekretnina predstavlja spoj savremene arhitekture, kvalitetnih materijala i naprednih tehničkih rešenja, pružajući budućem vlasniku visok standard stanovanja u mirnom i prestižnom okruženju Dedinja.\n\nZa sve dodatne informacije o nekretnini, uslovima prodaje i organizaciji razgledanja, pozovite nas na broj telefona",
+  "photos": 15,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
+  "id": "ho-5425647454640",
+  "slug": "ho-5425647454640-izdavanje-stan-borca",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "house",
+  "title": "Аренда: 1,5-комнатная квартира, 40 м², Борча, Палилула",
+  "kind": "1,5-комнатная квартира",
+  "price": 380,
+  "area": 40,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Борча",
+  "street": "Братства и Единства 71",
+  "geo": {
+   "lat": 44.8823,
+   "lng": 20.45475
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "2-й из 4"
+   ],
+   [
+    "Отопление",
+    "норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 40 м² в районе Борча (Палилула, Белград). 2-й этаж из 4, с мебелью, отопление норвежские радиаторы, люкс, дом современной постройки. Есть: можно въехать сразу, домофон, интернет, кабельное ТВ, кондиционер. Аренда 380 € в месяц.",
+  "originalLang": "sr",
+  "original": "Kompletno namesten i ekonomican manji stan na vrlo lepoj lokaciji u Borci, u zgradi iznad kineske robne kuce Shangai. Nov namestaj: LCD TV, klima klasa A za grejanje i hladjenje sa malom potrosnjom struje, ves masina itd.\nStan ima lepu ugaonu garnituru i bracni krevet. Vrlo je topao i veoma lako se greje sa klimom koja trosi malo struje.\nOpticki Internet i KATV (odlican paket Supernove). Ukupni troskovi za KATV, Internet i Infostan su 2800din. Struja je koliko se potrosi. U cenu stana je ukljuceno kompletno odrzavanje elektricnih uredjaja ili majstora ukoliko se ukaze potreba.\nStan se nalazi na samoj stanici 96 i 85 i oko 100m od stanice 95. Useljiv 30.09 za nekoliko dana",
+  "photos": 15,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
+  "id": "ho-5425643305665",
+  "slug": "ho-5425643305665-izdavanje-stan-vukov-spomenik",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 37 м², Вуков Споменик, Звездара",
+  "kind": "однокомнатная квартира",
+  "price": 450,
+  "area": 37,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Вуков Споменик",
+  "street": "Захумска",
+  "geo": {
+   "lat": 44.80359,
+   "lng": 20.48266
+  },
+  "facts": [
+   [
+    "Площадь",
+    "37 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "3-й из 4"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "домофон",
+   "интернет",
+   "кондиционер"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 37 м² в районе Вуков Споменик (Звездара, Белград). 3-й этаж из 4, с мебелью, отопление центральное, старый фонд. Есть: домофон, интернет, кондиционер. Аренда 450 € в месяц.",
+  "originalLang": "sr",
+  "original": "Vlasnik izdaje stan kod Vukovog spomenika. Slobodan od 1.decembra.",
+  "photos": 8,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
+  "id": "ho-5425636473523",
+  "slug": "ho-5425636473523-izdavanje-stan-medakovic-2",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 30 м², Медакович 2, Вождовац",
+  "kind": "однокомнатная квартира",
+  "price": 400,
+  "area": 30,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "Медакович 2",
+  "street": "Ханибала Лучича",
+  "geo": {
+   "lat": 44.77267,
+   "lng": 20.49862
+  },
+  "facts": [
+   [
+    "Площадь",
+    "30 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "низкий приземный из 5"
+   ],
+   [
+    "Отопление",
+    "норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно с животными",
+   "не последний этаж",
+   "можно въехать сразу",
+   "подходит студентам",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "с садом",
+   "терраса"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 30 м² в районе Медакович 2 (Вождовац, Белград). Низкий приземный этаж из 5, с мебелью, отопление норвежские радиаторы, после ремонта, старый фонд. Есть: депозит, можно с животными, не последний этаж, можно въехать сразу, подходит студентам, интернет, кабельное ТВ, кондиционер, с садом, терраса. Аренда 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "Kompletno opremljen, odmah useljiv, tv, veš mašina, posudje, klima. Poseduje sofu na razvlačenje, ograđeno dvorište.\nInfostan uključen u cenu zakupa, niski mesečni troškovi. Stan se nalazi na 2 minuta od Lidla i prevoza, slobodan parking oko zgrade. Beli karton nažalost nije moguć.",
+  "photos": 15,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
+  "id": "ho-5425645222231",
+  "slug": "ho-5425645222231-izdavanje-stan-borca",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 20 м², Борча, Палилула",
+  "kind": "студия",
+  "price": 320,
+  "area": 20,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Борча",
+  "street": "Братства и Единства 85",
+  "geo": {
+   "lat": 44.88156,
+   "lng": 20.45394
+  },
+  "facts": [
+   [
+    "Площадь",
+    "20 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "2-й из 4"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "французский балкон",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер"
+  ],
+  "text": "Сдаётся студия площадью 20 м² в районе Борча (Палилула, Белград). 2-й этаж из 4, с мебелью, люкс, дом современной постройки. Есть: можно въехать сразу, французский балкон, домофон, интернет, кабельное ТВ, кондиционер. Аренда 320 € в месяц.",
+  "originalLang": "sr",
+  "original": "Nov kompletno namesten vrlo lep stan, u glavnoj ulici Bratstva i Jedinstva u samom centru Borce, u zgradi iznad kladionice Balkan Bet. Nov namestaj: LCD TV, klima klasa A za grejanje i hladjenje sa malom potrosnjom struje, ves masina, itd.\n\nStan je vrlo topao i lako se greje sa klimom koja trosi malo struje.\n\nOpticki internet i KATV (odlican paket Supernove). Ukupni troskovi za KATV, Internet i Infostan su 3000din. Struja je koliko se potrosi. U cenu stana je ukljuceno kompletno odrzavanje elektricnih uredjaja ili majstora ukoliko se ukaze potreba.\n\nStan se nalazi oko 50m od stanica 95, i 96 i 85. Useljiv odmah",
+  "photos": 11,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
+  "id": "fz-6afa9e6147fdd999830896c6",
+  "slug": "fz-6afa9e6147fdd999830896c6-izdavanje-stan-vukov-spomenik",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 73 м², Вуков Споменик, Звездара",
+  "kind": "2,5-комнатная квартира",
+  "price": 1400,
+  "area": 73,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Вуков Споменик",
+  "street": "Захумска 30",
+  "geo": {
+   "lat": 44.80332,
+   "lng": 20.48283
+  },
+  "facts": [
+   [
+    "Площадь",
+    "73 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Отопление",
+    "кондиционер"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "кондиционер"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 73 м² в районе Вуков Споменик (Звездара, Белград). С мебелью, отопление кондиционер. Есть: кондиционер. Аренда 1 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "Dvoiposoban stan u zgradi za izdavanje, Namešteno, Vukov Spomenik, 73 m2, na 6. spratu, ima lift. Stanje - Renovirano, Klima, ima kupatilo, ima toalet.",
+  "photos": 14,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
   "id": "kp-197335395",
   "slug": "kp-197335395-izdavanje-stan-openstreetmap-contributors",
   "deal": "rent",
@@ -54498,67 +55297,6 @@
   "originalLang": "sr",
   "original": "STEVANA SREMCA | LUKSUZAN PENTHOUSE | 180m² | 4 SPAVAĆE SOBE | 3 KUPATILA | SAUNA | ĐAKUZI | VELIKA TERASA | IZDAVANJE\n\nU ponudi je ekskluzivan luksuzan stan za izdavanje u jednoj od najprestižnijih ulica u centru Beograda – Stevana Sremca.\n\nStan površine 180m² nalazi se na 5. spratu i predstavlja idealan izbor za one koji traže vrhunski komfor, prostranost i privatnost.\n\nPosebnu vrednost ovoj nekretnini daje velika terasa sa lepim otvorenim pogledom, kao i privatna sauna i đakuzi, koji pružaju jedinstven osećaj luksuza i opuštanja.\n\nStruktura stana:\n\n- Prostran dnevni boravak sa trpezarijom\n\n- Moderna kuhinja\n\n- 4 spavaće sobe\n\n- 3 kupatila\n\n- Hodnik\n\n- Velika terasa\n\n- Sauna\n\n- Đakuzi\n\nPrednosti stana:\n\n Luksuzno opremljen i moderno uređen\n\n Velika terasa sa otvorenim pogledom\n\n Privatna sauna i đakuzi\n\n Izuzetno prostran i funkcionalan raspored\n\n Reprezentativna lokacija u centru grada\n\n U neposrednoj blizini restorana, kafića, škola, prodavnica i svih važnih sadržaja\n\nGaražno mesto dostupno uz doplatu od 100€ mesečno.\n\nOva nekretnina predstavlja retku priliku za zakup vrhunskog stana koji pruža luksuz, komfor i prestiž na jednoj od najboljih gradskih lokacija.\n\nZa više informacija i zakazivanje razgledanja kontaktirajte agenta.\n\n---\n\nSTEVANA SREMCA | LUXURY PENTHOUSE | 180m² | 4 BEDROOMS | 3 BATHROOMS | SAUNA | JACUZZI | LARGE TERRACE | FOR RENT\n\nAn exceptional luxury apartment is available for rent in Stevana Sremca Street, one of Belgrade's most prestigious city-center locations.\n\nOffering 180m² of elegant living space, this apartment is situated on the 5th floor and provides outstanding comfort, privacy, and luxury.\n\nA highlight of this remarkable property is its spacious terrace with beautiful open views, complemented by a private sauna and jacuzzi, creating a true private wellness retreat.\n\nLayout:\n\n- Spacious living room with dining area\n\n- Modern kitchen\n\n- 4 bedrooms\n\n- 3 bathrooms\n\n- Hallway\n\n- Large terrace\n\n- Private sauna\n\n- Jacuzzi\n\nProperty highlights:\n\n Fully furnished with luxury finishes\n\n Large terrace with beautiful open views\n\n Private sauna and jacuzzi\n\n Spacious and functional layout\n\n Prestigious city-center location\n\n Close to restaurants, cafés, shops, schools, and all essential amenities\n\nGarage parking space available for an additional €100 per month.\n\nFor more information or to schedule a viewing, please contact the agent.",
   "photos": 15,
-  "added": "2026-10-26",
-  "updated": "2026-10-26"
- },
- {
-  "id": "ho-5425645222231",
-  "slug": "ho-5425645222231-izdavanje-stan-borca",
-  "deal": "rent",
-  "type": "apartment",
-  "cat": "flat",
-  "title": "Аренда: студия, 20 м², Борча, Палилула",
-  "kind": "студия",
-  "price": 320,
-  "area": 20,
-  "rooms": 0.5,
-  "city": "Белград",
-  "district": "Палилула",
-  "districtSlug": "opstina-palilula",
-  "location": "Борча",
-  "street": "Братства и Единства 85",
-  "geo": {
-   "lat": 44.88156,
-   "lng": 20.45394
-  },
-  "facts": [
-   [
-    "Площадь",
-    "20 м²"
-   ],
-   [
-    "Комнат",
-    "студия"
-   ],
-   [
-    "Этаж",
-    "2-й из 4"
-   ],
-   [
-    "Мебель",
-    "с мебелью"
-   ],
-   [
-    "Состояние",
-    "люкс"
-   ],
-   [
-    "Дом",
-    "дом современной постройки"
-   ]
-  ],
-  "features": [
-   "можно въехать сразу",
-   "французский балкон",
-   "домофон",
-   "интернет",
-   "кабельное ТВ",
-   "кондиционер"
-  ],
-  "text": "Сдаётся студия площадью 20 м² в районе Борча (Палилула, Белград). 2-й этаж из 4, с мебелью, люкс, дом современной постройки. Есть: можно въехать сразу, французский балкон, домофон, интернет, кабельное ТВ, кондиционер. Аренда 320 € в месяц.",
-  "originalLang": "sr",
-  "original": "Nov kompletno namesten vrlo lep stan, u glavnoj ulici Bratstva i Jedinstva u samom centru Borce, u zgradi iznad kladionice Balkan Bet. Nov namestaj: LCD TV, klima klasa A za grejanje i hladjenje sa malom potrosnjom struje, ves masina, itd.\n\nStan je vrlo topao i lako se greje sa klimom koja trosi malo struje.\n\nOpticki internet i KATV (odlican paket Supernove). Ukupni troskovi za KATV, Internet i Infostan su 3000din. Struja je koliko se potrosi. U cenu stana je ukljuceno kompletno odrzavanje elektricnih uredjaja ili majstora ukoliko se ukaze potreba.\n\nStan se nalazi oko 50m od stanica 95, i 96 i 85. Useljiv odmah",
-  "photos": 11,
   "added": "2026-10-26",
   "updated": "2026-10-26"
  },
