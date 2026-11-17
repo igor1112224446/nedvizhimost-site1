@@ -1,5 +1,737 @@
 [
  {
+  "id": "ho-5425635802989",
+  "slug": "ho-5425635802989-izdavanje-stan-kalemegdan",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 48 м², Калемегдан, Старый город",
+  "kind": "двухкомнатная квартира",
+  "price": 700,
+  "area": 48,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "opstina-stari-grad",
+  "location": "Калемегдан",
+  "street": "Риге од Фере",
+  "geo": {
+   "lat": 44.82298,
+   "lng": 20.45602
+  },
+  "facts": [
+   [
+    "Площадь",
+    "48 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "6-й из 6"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 130 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 48 м² в районе Калемегдан (Старый город, Белград). 6-й этаж из 6, с мебелью, отопление центральное, люкс, дом современной постройки. Есть: депозит, можно въехать сразу, домофон, интернет, кабельное ТВ, кондиционер, лифт, видеонаблюдение. Аренда 700 € в месяц.",
+  "originalLang": "sr",
+  "original": "Odmah pored Kalemegdana, u mirnoj ulici, osuncan i svetao stan, lepo opremljen. Stan je funkcionalan sa prostranim dnevnim boravkom i odvojenom spavacom sobom. Izuzetno je mirno i tiho, nema nikakve buke a nalazite se u samom centru grada. Kalemegdan je na manje od 50m a na manje od 200m je Knez Mihajlova ulica. Kuhinja je potpuno opremljena sa masinom za pranje sudova a kupatilo je renovirano i opremljeno ves masinom. Kuhinja i trpezarija su odvojene od dnevnog boravka. Rezije su izuzetno niske imajuci u vidu da je ovo lux zona.",
+  "photos": 7,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
+  "id": "ho-5425647999532",
+  "slug": "ho-5425647999532-izdavanje-stan-cvetkova-pijaca",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 53 м², Цветкова пияца, Звездара",
+  "kind": "двухкомнатная квартира",
+  "price": 1500,
+  "area": 53,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Цветкова пияца",
+  "street": "Милана Ракича",
+  "geo": {
+   "lat": 44.7977,
+   "lng": 20.50007
+  },
+  "facts": [
+   [
+    "Площадь",
+    "53 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "7-й из 8"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 170 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 53 м² в районе Цветкова пияца (Звездара, Белград). 7-й этаж из 8, с мебелью, отопление центральное, люкс, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, домофон, интернет, кабельное ТВ, кондиционер, лифт, парковка, терраса, горячая вода, видеонаблюдение. Аренда 1 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Moderan, luksuzno opremljen stan koji slavi život, boje, udobnost i lepotu svakodnevnih trenutaka.\n\nNa Zvezdari nalazi se ovaj posebno uređen stan koji spaja savremeni dizajn, toplinu prirodnih materijala i neodoljivi šarm španskog životnog duha.\n\nInspirisan filozofijom Viva la Vida!, enterijer odiše energijom, optimizmom i pažljivo osmišljenim detaljima. Moderan stil, elegantne forme, drvo, nežni neutralni tonovi i upečatljivi koloristički akcenti stvaraju prostor koji istovremeno deluje luksuzno, sofisticirano i veoma prijatno za život.\n\nDnevni boravak sa trpezarijom osmišljen je kao centralno mesto okupljanja, opuštanja i uživanja. Posebnu pažnju privlači dizajnerska komoda, trpezarijski sto, elegantne tapacirane stolice i pažljivo odabrani dekorativni detalji. U dnevnom boravku dominiraju moderna plava TV komoda, udobna sofa i unikatni klub-stolovi koji prostoru daju karakter. Kombinacija drveta, tekstura i intenzivnih crvenih i plavih detalja unosi dozu mediteranske razigranosti i posebnog šarma.\n\nSpavaća soba predstavlja intimnu oazu mira. Topli tonovi drveta, ambijentalno osvetljenje, elegantne zavese i pažljivo odabrani detalji stvaraju atmosferu udobnosti i privatnosti – idealno mesto za odmor nakon dinamičnog dana.\n\nStan je pun prirodne svetlosti tokom celog dana, a poseban kvalitet pruža divan pogled na zelenilo Zvezdarske šume.\n\nKompletno je i pažljivo opremljen za dugoročni najam. Moderna kuhinja opremljena je svim neophodnim aparatima za udoban i funkcionalan svakodnevni život.\n\nLokacija – sve što vam je potrebno, na dohvat ruke.\n\nStan se nalazi na svega nekoliko koraka od živopisnog Bulevara kralja Aleksandra, u neposrednoj blizini prodavnica, kafića i restorana. U okolini su i legendarni Zvezdara teatar, Beo Shopping Center, kao i prelepa zvezdarska šuma sa čuvenom Opservatorijom.\n\nOdlična povezanost sa Bulevarom kralja Aleksandra i autoputem omogućava jednostavnu i brzu komunikaciju sa svim delovima grada.\n\nOvo nije samo stan za iznajmljivanje. Ovo je prostor za ljude koji cene estetiku, udobnost, kvalitet i male životne rituale. Za one koji žele da njihov dom bude više od mesta za boravak – mesto u kojem se lepo živi.\n\nViva la Vida! Jer život zaslužuje da se živi sa stilom.",
+  "photos": 11,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
+  "id": "ho-5425647998559",
+  "slug": "ho-5425647998559-prodaja-stan-borca",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: двухкомнатная квартира, 42 м², Борча, Палилула",
+  "kind": "двухкомнатная квартира",
+  "price": 107100,
+  "area": 42,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Борча",
+  "street": "Попова бара нова 14.",
+  "geo": {
+   "lat": 44.87802,
+   "lng": 20.46801
+  },
+  "facts": [
+   [
+    "Площадь",
+    "42 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "1-й из 3"
+   ],
+   [
+    "Отопление",
+    "тёплый пол"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "кондиционер",
+   "парковка",
+   "терраса",
+   "не последний этаж",
+   "можно въехать сразу",
+   "есть право собственности"
+  ],
+  "text": "Продаётся двухкомнатная квартира площадью 42 м² в районе Борча (Палилула, Белград). 1-й этаж из 3, отопление тёплый пол, люкс, дом современной постройки. Есть: кондиционер, парковка, терраса, не последний этаж, можно въехать сразу, есть право собственности. Цена 107 100 €.",
+  "originalLang": "sr",
+  "original": "Fantastična novogradnja u Borči – Direktno od investitora (bez provizije)\n\nStan 42m2 na prvom i drugom spratu sa terasom . \n\nPopust za keš kupce. \n\nCena parking mesta 5000 evra . \n\nZgrada je u završnoj fazi radova, useljiva odmah. \n\nSvi stanovi su uknjiženi. \n\nNova zgrada u Borči koja donosi visok standard modernog urbanog života. Smeštena na fantastičnoj lokaciji u ulici Popova bara nova 14. 2b, objekat izlazi direktno na Zrenjaninski put i udaljen je svega 50 metara od autobuske stanice. Zgrada se nalazi preko puta nove teretane Planet Gym i odmah pored budućeg hipermarketa Sunce, pružajući savršenu udobnost i dostupnost svih ključnih sadržaja. \nAman market udaljen 50 metara od zgrade. \n\nJedinstvena prilika za kupovinu manjih stanova optimalnog rasporeda i visoke funkcionalnosti! \n\nStanje objekta i kvalitet gradnje: \n\nZgrada je završena. Stanovi su izuzetno svetli, sa optimalnim rasporedom i visokim nivoom komfora. \n\nGradnja je izvedena od strane proverenog i pouzdanog investitora , a pri radu su korišćeni: \nPrvoklasni, pažljivo birani materijali\ntermo i zvučna izolacija\n\nKvalitetna pvc antracit stolarija , staklo 4 godišnja doba , sanitarija konzolna , tuš stena sa walk in kabinom . \nDetaljno osmišljena prostorna funkcionalnost. \n\nUdaljenost od autobuske stanice i Zrenjaninskog puta 50 metara. \n\nPrednosti za kupce: \n\nDirektna prodaja – kupovina direktno od investitora, bez agencijske provizije! \nPopust ukoliko ste keš kupac cena je 2400 e /m2 do kraja 2026 godine. \nCena stanova u potkrovlju 2000 e/m2 do kraja godine za keš kupce. \nDostupne kvadrature na PK : \n65m2 2.0 sa jednom spavaćom sobom bez terase \n69m2 3.0 sa dve spavaće sobe bez terase\n53m2 2.0 sa jednom spavaćom sobom i velikom prelepom terasom 9m2 i pogledom na Beograd. \n50m2 2.0 sa jednom spavaćom sobom bez terase. \n\nTrosobni 45 m2 sa dve spavace sobe ( 1. Sprat), dnevnom sobom i terasom. \n\nDostupna je garsonjera 32m2 na 1. I 2. spratu sa velikom terasom koju možete zastakliti i pretvoriti u sobu ili potrebama. \n\nPravna sigurnost: Stanovi su uknjiženi, uz mogućnost kupovine na stambeni kredit. Kompletan pravni nadzor, kao i izrada i overa kupoprodajnog ugovora su obezbeđeni. \n\nBroj katastarske parcele: 3002 KO Borča. \n\nOva lokacija savršeno kombinuje brz pristup gradu, blizinu aerodroma, te miran i kvalitetan ambijent za svakodnevni porodični život ili sigurnu investiciju za izdavanje. \n\nZa sve informacije slobodno\nPetar",
+  "photos": 11,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
+  "id": "ho-5425447805772",
+  "slug": "ho-5425447805772-izdavanje-stan-blok-19a",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 32 м², Блок 19a, Новый Белград",
+  "kind": "1,5-комнатная квартира",
+  "price": 450,
+  "area": 32,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Блок 19a",
+  "street": "Владимира Поповича",
+  "geo": {
+   "lat": 44.80549,
+   "lng": 20.43039
+  },
+  "facts": [
+   [
+    "Площадь",
+    "32 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "приземный из 10"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "подходит студентам",
+   "интернет",
+   "кабельное ТВ",
+   "парковка"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 32 м² в районе Блок 19a (Новый Белград, Белград). Приземный этаж из 10, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: депозит, можно въехать сразу, подходит студентам, интернет, кабельное ТВ, парковка. Аренда 450 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se jednoiposoban stan u bloku 19a kod Sava Centra na duži vremenski period (minimum godinu dana).\nIzuzetna lokacija, dobra povezanost sa svim značajnim lokacijama.\nStan je kompletno namešten (nov krevet, dušek, šporet). \nDepozit u visini jednog mesečnog zakupa obavezan.",
+  "photos": 14,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
+  "id": "ho-5425647732583",
+  "slug": "ho-5425647732583-prodaja-stan-senjak",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 5-комнатная квартира, 190 м², Сеняк, Савски-Венац",
+  "kind": "5-комнатная квартира",
+  "price": 874000,
+  "area": 190,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "opstina-savski-venac",
+  "location": "Сеняк",
+  "street": "Сенячка",
+  "geo": {
+   "lat": 44.79358,
+   "lng": 20.43944
+  },
+  "facts": [
+   [
+    "Площадь",
+    "190 м²"
+   ],
+   [
+    "Комнат",
+    "5"
+   ],
+   [
+    "Этаж",
+    "1-й из 5"
+   ]
+  ],
+  "features": [
+   "есть право собственности",
+   "гараж",
+   "лифт",
+   "парковка",
+   "терраса"
+  ],
+  "text": "Продаётся 5-комнатная квартира площадью 190 м² в районе Сеняк (Савски-Венац, Белград). 1-й этаж из 5. Есть: есть право собственности, гараж, лифт, парковка, терраса. Цена 874 000 €.",
+  "originalLang": "sr",
+  "original": "U centralnom i najlepšem delu prestižnog Senjaka, okružen zelenilom i tišinom, nalazi se ovaj impozantan, dvostrano orijentisan 5.0 stan koji odiše otmenošću, šarmom i duhom prave umetničke rezidencije. Smešten je na prvom spratu uredno održavane zgrade iz osamdesetih godina, poznate po stabilnoj gradnji, privatnosti i finom komšiluku koji čuva kulturu stanovanja. Sama nekretnina prostire se na 170 m² uknjižene površine (realno preko 190 m²) i odlikuje se izvanrednim rasporedom sa dva zasebna ulaza, što pruža neslućene mogućnosti za udoban porodični život ili kombinaciju stambenog i radnog prostora. Srce stana čini raskošni dnevni boravak od čak 60 m² – preplavljen svetlošću, oplemenjen hrastovim parketom i stvaran za okupljanja i umetnička nadahnuća. Iz njega se izlazi na prostranu terasu od 20 m² koja se proteže duž celog stana. Odvojena trpezarija i zasebna kuhinja sa dve ostave vode na posebnu zastakljenu lođu uokvirenu zelenilom, nalik na malu staklenu baštu – savršen, intimni kutak za jutarnju kafu, čitanje uz čaj i spora, mirna jutra. Spavaći blok pruža potpunu privatnost i obuhvata četiri sobe: tri prostrane i svetle, i jednu manju radnu sobu sa sopstvenim kupatilom. Preostale dve sobe dele prostrano kupatilo, dok treća velika soba ima direktan izlaz na glavnu terasu. Stan ukupno ima tri kupatila i centralno grejanje. Uz stan se prodaje i samostalna garaža od 23 m² sa vodom i grejanjem, uz doplatu od 60.000 EUR. Ovo je dom posebne energije – stvoren za one koji tragaju za autentičnim prostorom sa karakterom i širinom na najlepšoj lokaciji. Uknjižen, bez tereta.",
+  "photos": 15,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
+  "id": "ho-5425647996897",
+  "slug": "ho-5425647996897-izdavanje-stan-zarkovo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 40 м², Жарково, Чукарица",
+  "kind": "двухкомнатная квартира",
+  "price": 500,
+  "area": 40,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "opstina-cukarica",
+  "location": "Жарково",
+  "street": "Репишка",
+  "geo": {
+   "lat": 44.76161,
+   "lng": 20.41662
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "приземный из 8"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 70 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "кондиционер",
+   "лифт",
+   "парковка"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 40 м² в районе Жарково (Чукарица, Белград). Приземный этаж из 8, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу, кондиционер, лифт, парковка. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem stan od 40 kvm u centru Žarkova ,kod Vera.Stan je kompletno renoviran i lux opremljen. Ozbiljnim i pedantnim stanarima na duži vremenski period . Depozit obavezan u visini 2 kirije.",
+  "photos": 9,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
+  "id": "ho-5425647999424",
+  "slug": "ho-5425647999424-prodaja-stan-karaburma",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: двухкомнатная квартира, 62 м², Карабурма, Палилула",
+  "kind": "двухкомнатная квартира",
+  "price": 149900,
+  "area": 62,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Карабурма",
+  "street": "Марияне Грегоран",
+  "geo": {
+   "lat": 44.81331,
+   "lng": 20.50744
+  },
+  "facts": [
+   [
+    "Площадь",
+    "62 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "2-й из 4"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "можно въехать сразу",
+   "есть право собственности",
+   "гараж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лоджия",
+   "подвал",
+   "терраса"
+  ],
+  "text": "Продаётся двухкомнатная квартира площадью 62 м² в районе Карабурма (Палилула, Белград). 2-й этаж из 4, отопление аккумуляционные печи, после ремонта, старый фонд. Есть: не последний этаж, можно въехать сразу, есть право собственности, гараж, домофон, интернет, кабельное ТВ, кондиционер, лоджия, подвал, терраса. Цена 149 900 €.",
+  "originalLang": "sr",
+  "original": "Svetao i komforan dvosoban stan (62m²) , knjižen na 54 m²\n\nOdličan, klasičan dvosoban stan površine 62m2, pozicioniran na drugom spratu od četiri sprata\nStan je prostran i svetao. sa terase se gleda na početak Zvezdarske šume\nOsnovne informacije:\nKvadratura: 62m² (uknjiženo 1/1 na 54m²) \nSpratnost: drugi sprat od ukupno 4 (nema lift).\nGrejanje je na TA peći ili inverter klime. Klime su nove, TA peći redovno održavane.\nGodina izgradnje: 1961/2. (kvalitetna gradnja, Komgrap gradio za svoje radnike\nDodatno: Kablovska TV, interfon, uveden optički internet\nBudućim vlasnicima na raspolaganju ostaju kompletni kuhinjski elementi, TA peći, Inverter klime \nStan se nalazi na odličnoj poziciji koja nudi savršenu povezanost sa svim delovima grada i neophodnom infrastrukturom za porodičan život:\nSamo 150m do stanica 16, 23 i 25\nZa porodice: U neposrednoj blizini nalaze se osnovna škola, vrtić, nekoliko banaka, dva Maksija. \nCena važi uz kupovinu dve garaže u neposrednoj blizini. Cena garaža je 45.000 € za obe.\nBez garaža Cena je 160.000",
+  "photos": 6,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
+  "id": "ho-5425647999423",
+  "slug": "ho-5425647999423-izdavanje-stan-konjarnik",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 48 м², Конярник, Вождовац",
+  "kind": "двухкомнатная квартира",
+  "price": 500,
+  "area": 48,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "Конярник",
+  "street": "Устаничка",
+  "geo": {
+   "lat": 44.7816,
+   "lng": 20.50939
+  },
+  "facts": [
+   [
+    "Площадь",
+    "48 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "1-й из 10"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "частично меблирована"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 180 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "подходит студентам",
+   "домофон",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "лоджия",
+   "подвал",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 48 м² в районе Конярник (Вождовац, Белград). 1-й этаж из 10, частично меблирована, отопление центральное, после ремонта, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, подходит студентам, домофон, кабельное ТВ, кондиционер, лифт, лоджия, подвал, горячая вода, видеонаблюдение. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem dvosoban stan od 48 kvadrata na Konjarniku u blizini okretnice autobusa 17 i 31. Stan je na prvom spratu stambene zgrade,svetao,topao i cist, ima centralno grejanje, uvedena je optika, polu namesten ( kuhinja, spavaca soba,kupatilo ). Ima zastakljenu lodju i nalazi se u mirnom kraju okruzen zelenilom u blizini obdanista, mnostva radnji, poste, pijace, trznog centra BEO ... Cena zakupa je 500 evra i depozit u visini mesecne kirije. Vlasnik Ivana ( bez posrednika)",
+  "photos": 13,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
+  "id": "ho-5425644542297",
+  "slug": "ho-5425644542297-izdavanje-stan-banovo-brdo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 60 м², Баново брдо, Чукарица",
+  "kind": "трёхкомнатная квартира",
+  "price": 1000,
+  "area": 60,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "opstina-cukarica",
+  "location": "Баново брдо",
+  "street": "Жарка Вуковича Пуцара",
+  "geo": {
+   "lat": 44.77748,
+   "lng": 20.41712
+  },
+  "facts": [
+   [
+    "Площадь",
+    "60 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "3-й из 4"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 60 м² в районе Баново брдо (Чукарица, Белград). 3-й этаж из 4, с мебелью, отопление центральное, люкс, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу, домофон, интернет, кабельное ТВ, кондиционер, видеонаблюдение. Аренда 1 000 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se LUX komforan renoviran stan na Banovom brdu . \nRenoviran sa najluksuznijim detaljima. \nU samom parku, u blizuni skole",
+  "photos": 13,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
+  "id": "ho-5425647999020",
+  "slug": "ho-5425647999020-izdavanje-stan-karadjordjev-trg",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 50 м², Караджорджев трг, Земун",
+  "kind": "1,5-комнатная квартира",
+  "price": 800,
+  "area": 50,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Караджорджев трг",
+  "street": "Капетана Радича Петровича",
+  "geo": {
+   "lat": 44.83712,
+   "lng": 20.41555
+  },
+  "facts": [
+   [
+    "Площадь",
+    "50 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "4-й из 4"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 50 € в месяц"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "мансарда",
+   "домофон",
+   "кондиционер",
+   "подвал",
+   "терраса",
+   "горячая вода"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 50 м² в районе Караджорджев трг (Земун, Белград). 4-й этаж из 4, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: можно въехать сразу, мансарда, домофон, кондиционер, подвал, терраса, горячая вода. Аренда 800 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se komforan i potpuno namešten dvosoban stan površine 50 m² na izuzetnoj lokaciji, u neposrednoj blizini Dunava i Zemunskog keja.\nStan se nalazi na 4. spratu uredne i održavane zgrade (bez lifta). Pažljivo je projektovan od strane arhitekte, tako da je svaki kvadrat maksimalno iskorišćen. Poseduje odvojen radni kutak u dnevnom boravku, što ga čini idealnim i za rad od kuće.\nStruktura i oprema:\n• Raspored: ulazni hodnik, dnevni boravak sa trpezarijom, odvojena kuhinja, spavaća soba, kupatilo i terasa.\n• Nameštaj: kompletno opremljen modernim i očuvanim nameštajem i tehnikom, spreman za useljenje.\n• Grejanje i hlađenje: centralno grejanje i dve inverter/klima jedinice (u dnevnoj i spavaćoj sobi).\n• Dodatno: pripadajući podrum i mogućnost parkiranja u dvorištu zgrade.\nOdlična povezanost sa svim delovima grada, uz blizinu reke, šetališta, prodavnica, kafića i restorana.",
+  "photos": 15,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
+  "id": "ho-5425647996880",
+  "slug": "ho-5425647996880-prodaja-stan-blok-21",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: двухкомнатная квартира, 55 м², Блок 21, Новый Белград",
+  "kind": "двухкомнатная квартира",
+  "price": 275000,
+  "area": 55,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Блок 21",
+  "street": "Булевар Зорана Дйиндйица",
+  "geo": {
+   "lat": 44.81268,
+   "lng": 20.43083
+  },
+  "facts": [
+   [
+    "Площадь",
+    "55 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "7-й из 11"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "есть право собственности",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "лоджия",
+   "терраса"
+  ],
+  "text": "Продаётся двухкомнатная квартира площадью 55 м² в районе Блок 21 (Новый Белград, Белград). 7-й этаж из 11, отопление центральное, люкс, старый фонд. Есть: не последний этаж, есть право собственности, домофон, интернет, кабельное ТВ, кондиционер, лифт, лоджия, терраса. Цена 275 000 €.",
+  "originalLang": "sr",
+  "original": "U Bloku 21, jednom od najatraktivnijih i najbolje pozicioniranih novobeogradskih blokova, prodaje se kompletno renoviran, moderno i sa ukusom uređen dvosoban stan, ukupne površine 55 m² (52 m² + 3 m² lođe).\nStan se nalazi na 7. spratu jedanaestospratnice sa liftom i centralnim grejanjem.\nRenoviranje je upravo završeno i obuhvatilo je kompletnu zamenu elektro i vodovodnih instalacija, kao i temeljno uređenje enterijera, uz posebnu pažnju posvećenu kvalitetu materijala, funkcionalnosti i estetici prostora.\nStan se prodaje sa kompletno opremljenom kuhinjom i svim kuhinjskim uređajima, kuhinjskim ostrvom, ormarima i značajnim delom ostalog nameštaja.\nEnterijer je pažljivo osmišljen kako bi se maksimalno iskoristio prostor i stvorio prijatan, skladan i savremen ambijent.\nIzuzetna lokacija predstavlja jednu od najvećih prednosti ove nekretnine.\nBlok 21 nalazi se u neposrednoj blizini reke, Savskog i Dunavskog keja, tržnog centra Ušće, kao i brojnih sadržaja neophodnih za kvalitetan svakodnevni život.\nIstovremeno, odlična saobraćajna povezanost omogućava jednostavan pristup svim delovima grada, dok je centar Beograda udaljen svega jednu stanicu gradskim prevozom.\nRetka prilika za kupovinu potpuno obnovljenog i pažljivo uređenog stana na jednoj od najpoželjnijih lokacija Novog Beograda.",
+  "photos": 15,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
   "id": "kp-195557649",
   "slug": "kp-195557649-izdavanje-stan-openstreetmap-contributors",
   "deal": "rent",
