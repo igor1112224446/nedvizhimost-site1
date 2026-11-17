@@ -1,5 +1,68 @@
 [
  {
+  "id": "kp-197343694",
+  "slug": "kp-197343694-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 100 м², © ОпенСтреетМап цонтрибуторс, Звездара",
+  "kind": "трёхкомнатная квартира",
+  "price": 600,
+  "area": 100,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Николе Доксата 32",
+  "geo": {
+   "lat": 44.79878,
+   "lng": 20.52013
+  },
+  "facts": [
+   [
+    "Площадь",
+    "100 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "4-й из 5"
+   ],
+   [
+    "Отопление",
+    "электрическое, аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "кабельное ТВ"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 100 м² в районе © ОпенСтреетМап цонтрибуторс (Звездара, Белград). 4-й этаж из 5, с мебелью, отопление электрическое, аккумуляционные печи, в исходном состоянии, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, кабельное ТВ. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem namesten dupleks na 4. spratu bez  lifta. Grejanje je je na struju(TA pec). Stan ima dva kupatila, veliki dnevni boravak i dve spavace sobe. Poseduje 2 LCD televizora masinu za sudove kao i masinu za ves. Infostan je oko 5000 a internet i kablovska 3500 din. U blizini je i autobusko stajaliste (27).",
+  "photos": 6,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
   "id": "ho-5425646575243",
   "slug": "ho-5425646575243-izdavanje-stan-mali-mokri-lug",
   "deal": "rent",
@@ -795,6 +858,84 @@
   "originalLang": "sr",
   "original": "Dvoiposoban stan u zgradi za izdavanje, Namešteno, Vukov Spomenik, 73 m2, na 6. spratu, ima lift. Stanje - Renovirano, Klima, ima kupatilo, ima toalet.",
   "photos": 14,
+  "added": "2026-11-17",
+  "updated": "2026-11-17"
+ },
+ {
+  "id": "ho-5425635931436",
+  "slug": "ho-5425635931436-izdavanje-stan-krunska",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 5-комнатная квартира, 150 м², Крунска, Врачар",
+  "kind": "5-комнатная квартира",
+  "price": 2500,
+  "area": 150,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "opstina-vracar",
+  "location": "Крунска",
+  "street": "Проте Матее",
+  "geo": {
+   "lat": 44.80491,
+   "lng": 20.47025
+  },
+  "facts": [
+   [
+    "Площадь",
+    "150 м²"
+   ],
+   [
+    "Комнат",
+    "5"
+   ],
+   [
+    "Этаж",
+    "2-й из 4"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 350 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "салонная планировка",
+   "французский балкон",
+   "гараж",
+   "домофон",
+   "интернет",
+   "камин",
+   "кабельное ТВ",
+   "кондиционер",
+   "подвал",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся 5-комнатная квартира площадью 150 м² в районе Крунска (Врачар, Белград). 2-й этаж из 4, с мебелью, отопление центральное, люкс, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу, салонная планировка, французский балкон, гараж, домофон, интернет, камин, кабельное ТВ, кондиционер, подвал, терраса, горячая вода, видеонаблюдение. Аренда 2 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "U najlepsem delu Vracara, centar grada, u Prote Mateje, u mirnoj ulici , mirnoj zgradi, predivan luksuzan stan, sa video nadzorom, kablovskom, interfonom i garazom.\n\n5 soba, dva ulaza, bosal sigurnosna vrata, terasa koja je zastakljena, dva kupatila sa kadom i tus kabinom.\n\nKamin, klime, kristalni lusteri.\n\nFrancuski stil, retko u ponudi.\n\nOkrečen, odmah useljiv. \n\nIdealan za porodice, u najblizoj blizini vrtici, osnovne i srednje skole, pijaca, park Tasajdan, prodavnice apoteke..",
+  "photos": 15,
   "added": "2026-11-17",
   "updated": "2026-11-17"
  },
