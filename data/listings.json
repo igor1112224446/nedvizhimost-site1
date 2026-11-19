@@ -1,5 +1,697 @@
 [
  {
+  "id": "ho-5425646240746",
+  "slug": "ho-5425646240746-izdavanje-stan-vidikovac",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 35 м², Видиковац, Раковица",
+  "kind": "двухкомнатная квартира",
+  "price": 350,
+  "area": 35,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Раковица",
+  "districtSlug": "opstina-rakovica",
+  "location": "Видиковац",
+  "street": "Сретена Младеновича Мике",
+  "geo": {
+   "lat": 44.73406,
+   "lng": 20.42267
+  },
+  "facts": [
+   [
+    "Площадь",
+    "35 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "4-й из 4"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 50 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "подходит студентам",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 35 м² в районе Видиковац (Раковица, Белград). 4-й этаж из 4, с мебелью, отопление аккумуляционные печи, старый фонд. Есть: депозит, можно въехать сразу, подходит студентам, домофон, интернет, кабельное ТВ, кондиционер, парковка. Аренда 350 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se stan u Sretena Mladenovića Mike 34, na 4. spratu, bez lifta.\nSastoji se od dnevne sobe, trpezarije sa kuhinjom, odvojene spavaće sobe, ostave i kupatila.\n\nStan je namešten, opremljen, okrečen, čist, sa TA grejanjem, klimom, internetom, TV-om i svim potrebnim aparatima (frižider, šporet, veš mašina). Mali mesečni troškovi.\n\nMirno okruženje sa puno zelenila, ispod Lidla i autobuske stanice (linije 23, 53, 56, 59, 89, 504, 534, ADA1, E2). U blizini su pošta, apoteke, prodavnice, a ispred zgrade ima slobodnog parkinga.\nStan se izdaje na najmanje 6 meseci uz depozit u visini mesečne kirije. Useljiv od 12.12.26. \n\nAleksandar",
+  "photos": 14,
+  "added": "2026-11-19",
+  "updated": "2026-11-19"
+ },
+ {
+  "id": "fz-6afe071e19fb3b471a0ed152",
+  "slug": "fz-6afe071e19fb3b471a0ed152-izdavanje-stan-mirijevo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 60 м², Мириево, Звездара",
+  "kind": "двухкомнатная квартира",
+  "price": 450,
+  "area": 60,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Мириево",
+  "street": "Самюела Бекета 5",
+  "geo": {
+   "lat": 44.79031,
+   "lng": 20.53953
+  },
+  "facts": [
+   [
+    "Площадь",
+    "60 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся двухкомнатная квартира площадью 60 м² в районе Мириево (Звездара, Белград). С мебелью, отопление центральное. Аренда 450 € в месяц.",
+  "originalLang": "sr",
+  "original": "Dvosoban stan u zgradi za izdavanje, Namešteno, Mirijevo, 60 m2, na 4. spratu, ima lift. Stanje - Novo, Centralno, ima terasu, ima kupatilo, ima toalet.",
+  "photos": 14,
+  "added": "2026-11-19",
+  "updated": "2026-11-19"
+ },
+ {
+  "id": "ho-5425647114902",
+  "slug": "ho-5425647114902-prodaja-stan-resnik",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: двухкомнатная квартира, 59 м², Ресник, Раковица",
+  "kind": "двухкомнатная квартира",
+  "price": 100000,
+  "area": 59,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Раковица",
+  "districtSlug": "opstina-rakovica",
+  "location": "Ресник",
+  "street": "Едварда Грига",
+  "geo": {
+   "lat": 44.71175,
+   "lng": 20.46245
+  },
+  "facts": [
+   [
+    "Площадь",
+    "59 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "приземный из 4"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "можно въехать сразу",
+   "есть право собственности",
+   "домофон",
+   "интернет",
+   "терраса",
+   "горячая вода"
+  ],
+  "text": "Продаётся двухкомнатная квартира площадью 59 м² в районе Ресник (Раковица, Белград). Приземный этаж из 4, отопление центральное, после ремонта, старый фонд. Есть: не последний этаж, можно въехать сразу, есть право собственности, домофон, интернет, терраса, горячая вода. Цена 100 000 €.",
+  "originalLang": "sr",
+  "original": "Uknjižen stan u Resniku, Edvarda Griga 8, stan ima 59m2 sa lepom terasom u porodicnom naselju. U blizini se nalaze dom zdravlja, dva vrtica, osnovna skola, Maxi, Univerexport, apoteka, autobuska stanica 94 (Resnik - Novi Beograd), 506 i 47 (povezuje Resnik sa centrom, Slavija)Jezero Pariguz se nalazi na 10ak minuta.",
+  "photos": 14,
+  "added": "2026-11-19",
+  "updated": "2026-11-19"
+ },
+ {
+  "id": "ho-5425647580940",
+  "slug": "ho-5425647580940-izdavanje-stan-batajnica",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 108 м², Батайница, Земун",
+  "kind": "однокомнатная квартира",
+  "price": 10,
+  "area": 108,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Батайница",
+  "street": "Владислава Качанског",
+  "geo": {
+   "lat": 44.89305,
+   "lng": 20.25885
+  },
+  "facts": [
+   [
+    "Площадь",
+    "108 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "1-й из 2"
+   ],
+   [
+    "Отопление",
+    "тёплый пол"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 1 € в месяц"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "домофон",
+   "интернет",
+   "кондиционер",
+   "лоджия",
+   "парковка",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 108 м² в районе Батайница (Земун, Белград). 1-й этаж из 2, с мебелью, отопление тёплый пол, в исходном состоянии, дом современной постройки. Есть: можно въехать сразу, домофон, интернет, кондиционер, лоджия, парковка, терраса, горячая вода, видеонаблюдение. Аренда 10 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaju se dva potpuno odvojena stana,povrsine 54m2 i 43 m2sa terasama ,prvenstveno kompanijama za smestaj stranih i domaćih radnika-radnica.Kapacitet do 15 radnika .Lokacija :Batajnica -Sangaj (Vladislava Kacanskog br 9)\nAutobuskoj stajalište na 800\nm od objekta -linija 703 ,702 itd…stanica za voz takodje u blizini..\nStanovi su pogodni za firme koje traze praktican i povoljan smestaj za svoje zaposlene,sa podnim grejanjem i klimama…\nOpremljenost stanova bice prilagodjena potrebama i broju radnika ,u skladu sa dogovorom sa zainteresovanom kompanijom.\nMoguć dogovor oko uslova ,opreme i nacina koriscenja…Mogucnost dugorocnog zakupa,(jedan zakupac za oba stana),kompletno opremanje pre useljenja prema potrebama zakupca…\nParking,internet,klima,podno grejanje,ves masina,kuhinja…\nU koliko ste kompanija ili poslodavac kome je potreban smestaj za radnike,pozovite nas da zajedno dogovorimo kapacitet,opremanje i uslove zakupa.\nZa vise informacija,dogovor i ponudu prema potrebama vase kompanije: \nMoguce izdavanje i porodicama dva stana su u pitanju",
+  "photos": 14,
+  "added": "2026-11-19",
+  "updated": "2026-11-19"
+ },
+ {
+  "id": "ho-5425648007434",
+  "slug": "ho-5425648007434-izdavanje-stan-centar",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 35 м², Центр, Раковица",
+  "kind": "двухкомнатная квартира",
+  "price": 450,
+  "area": 35,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Раковица",
+  "districtSlug": "opstina-rakovica",
+  "location": "Центр",
+  "street": "Станка Пауновича Велька",
+  "geo": {
+   "lat": 44.74378,
+   "lng": 20.45134
+  },
+  "facts": [
+   [
+    "Площадь",
+    "35 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "2-й из 9"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 60 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно с животными",
+   "не последний этаж",
+   "можно въехать сразу",
+   "интернет",
+   "парковка"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 35 м² в районе Центр (Раковица, Белград). 2-й этаж из 9, отопление центральное, в исходном состоянии, старый фонд. Есть: депозит, можно с животными, не последний этаж, можно въехать сразу, интернет, парковка. Аренда 450 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem stan u Rakovici.Odmah useljiv.\nStan je opremljen.\nDozvoljeni kucni ljubimci\nKontak:",
+  "photos": 10,
+  "added": "2026-11-19",
+  "updated": "2026-11-19"
+ },
+ {
+  "id": "fz-69807c05094efdfe2900ebfb",
+  "slug": "fz-69807c05094efdfe2900ebfb-prodaja-stan-ledine",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: трёхкомнатная квартира, 70 м², Ледине, Новый Белград",
+  "kind": "трёхкомнатная квартира",
+  "price": 150500,
+  "area": 70,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "novi-beograd",
+  "location": "Ледине",
+  "street": "Ледине",
+  "geo": {
+   "lat": 44.80452,
+   "lng": 20.33786
+  },
+  "facts": [
+   [
+    "Площадь",
+    "70 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Отопление",
+    "норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся трёхкомнатная квартира площадью 70 м² в районе Ледине (Новый Белград, Белград). Без мебели, отопление норвежские радиаторы. Цена 150 500 €.",
+  "originalLang": "sr",
+  "original": "Trosoban stan u zgradi za prodaju, uknjižen, Ledine, 70 m2, na prizemlju. Stanje - Novo, Norveški radijatori, ima terasu, ima kupatilo. Ima parking mesto javni parking van zone.",
+  "photos": 15,
+  "added": "2026-11-19",
+  "updated": "2026-11-19"
+ },
+ {
+  "id": "fz-6afec5d5e8807dbfde01c976",
+  "slug": "fz-6afec5d5e8807dbfde01c976-izdavanje-stan-cukaricka-padina",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 30 м², Чукаричка Падина, Чукарица",
+  "kind": "однокомнатная квартира",
+  "price": 300,
+  "area": 30,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "cukarica",
+  "location": "Чукаричка Падина",
+  "street": "Бранка Цветковича",
+  "geo": {
+   "lat": 44.75842,
+   "lng": 20.40733
+  },
+  "facts": [
+   [
+    "Площадь",
+    "30 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся однокомнатная квартира площадью 30 м² в районе Чукаричка Падина (Чукарица, Белград). С мебелью, отопление газовое. Аренда 300 € в месяц.",
+  "originalLang": "sr",
+  "original": "Jednosoban stan u zgradi za izdavanje, Namešteno, Čukarička Padina, 30 m2, na 2. spratu. Stanje - Renovirano, Gas, ima kupatilo.",
+  "photos": 8,
+  "added": "2026-11-19",
+  "updated": "2026-11-19"
+ },
+ {
+  "id": "fz-6afec763d5c56580b70a4e35",
+  "slug": "fz-6afec763d5c56580b70a4e35-izdavanje-stan-kalenic-pijaca",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 39 м², Каленич пияца, Врачар",
+  "kind": "двухкомнатная квартира",
+  "price": 550,
+  "area": 39,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "vracar",
+  "location": "Каленич пияца",
+  "street": "Синджеличева 25",
+  "geo": {
+   "lat": 44.8013,
+   "lng": 20.47769
+  },
+  "facts": [
+   [
+    "Площадь",
+    "39 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся двухкомнатная квартира площадью 39 м² в районе Каленич пияца (Врачар, Белград). Без мебели, отопление центральное. Аренда 550 € в месяц.",
+  "originalLang": "sr",
+  "original": "Dvosoban stan u zgradi za izdavanje, Prazno, Kalenić pijaca, 39 m2, ima lift. Centralno, ima terasu, ima kupatilo.",
+  "photos": 10,
+  "added": "2026-11-19",
+  "updated": "2026-11-19"
+ },
+ {
+  "id": "ho-5425648007419",
+  "slug": "ho-5425648007419-izdavanje-stan-julino-brdo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 36 м², Юлино брдо, Чукарица",
+  "kind": "однокомнатная квартира",
+  "price": 300,
+  "area": 36,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "opstina-cukarica",
+  "location": "Юлино брдо",
+  "street": "Юрице Рибара",
+  "geo": {
+   "lat": 44.76528,
+   "lng": 20.41133
+  },
+  "facts": [
+   [
+    "Площадь",
+    "36 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "полуподвал из 2"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 36 м² в районе Юлино брдо (Чукарица, Белград). Полуподвал этаж из 2, с мебелью, отопление аккумуляционные печи, в исходном состоянии, дом современной постройки. Есть: можно въехать сразу. Аренда 300 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem namesten jednosoban stan na Julinom Brdu u kući sa zasebnim ulazom. Polusuteren (ukopan 1m). Novogradnja,nema vlage. Zimi topao,leti hladan. Ima spavaću sobu,kuhinju sa dnevnim boravkom,hodnik i kupatilo. Miran kraj. Troskovi grejanja, odnosno struje su mali zbog dobre izolacije. Po želji kablovska+internet. Ozbiljnim stanarima na duži period. 300e mesecno.Depozit u visini jedne stanarine.",
+  "photos": 6,
+  "added": "2026-11-19",
+  "updated": "2026-11-19"
+ },
+ {
+  "id": "ho-5425647517845",
+  "slug": "ho-5425647517845-prodaja-stan-autokomanda",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 3,5-комнатная квартира, 95 м², Аутокоманда, Вождовац",
+  "kind": "3,5-комнатная квартира",
+  "price": 314000,
+  "area": 95,
+  "rooms": 3.5,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "Аутокоманда",
+  "street": "Войводе Степе",
+  "geo": {
+   "lat": 44.78446,
+   "lng": 20.46926
+  },
+  "facts": [
+   [
+    "Площадь",
+    "95 м²"
+   ],
+   [
+    "Комнат",
+    "3,5"
+   ],
+   [
+    "Этаж",
+    "4-й из 6"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "можно въехать сразу",
+   "есть право собственности",
+   "гараж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "лоджия",
+   "подвал",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся 3,5-комнатная квартира площадью 95 м² в районе Аутокоманда (Вождовац, Белград). 4-й этаж из 6, отопление центральное, в исходном состоянии, дом современной постройки. Есть: не последний этаж, можно въехать сразу, есть право собственности, гараж, домофон, интернет, кабельное ТВ, кондиционер, лифт, лоджия, подвал, видеонаблюдение. Цена 314 000 €.",
+  "originalLang": "sr",
+  "original": "VLASNIK PRODAJE PROSTRAN, SVETAO I FUNKCIONALAN 3,5-SOBAN STAN NA JEDNOJ OD NAJTRAŽENIJIH LOKACIJA.\nKupci treba da se jave vlasniku na priloženi telefon za svako obaveštenje.\nLokacija: Voždovac, ul. Vojvode Stepe, izuzetno kvalitetna novogradnja.\nStruktura: 3,5-soban komforan porodični stan na unutrašnjoj strani zgrade - nije ulični stan.\nKvadratura: 86 m2 uknjiženo po Rešenju (stvarna korisna površina 93–95 m2 sa lođama i ostavom).\nGrejanje: CG u zgradi koja ima savršenu termičku funkcionalnost.\nSpratnost: 4/6, i ima lift.\nVlasništvo: Direktno od vlasnika 1/1 preko ovlašćenog advokata, uredna dokumentacija, prodaja za KEŠ ili pretežno keš KUPCE.\nRaspored: Veliki i komforan dnevni boravak, odvojena kuhinja sa pripadajućom i veoma praktičnom kuhinjskom ostavom, tri spavaće sobe, kupatilo i toalet.\nLođe: Dve velike, kvalitetno ustakljene lođe koje stanu daju dodatni prostor (stvarnih 95m2), pružajući odličnu toplotnu i zvučnu izolaciju.\nStanje: Odlično održavano i bez ikakvih potrebnih ulaganja, odmah je useljiva za KEš kupce\nStan se prodaje potpuno opremljen – ključ u ruke, sa svim skupocenim nameštajem, ugrađenim američkim plakarima sa kliznim vratima, premium belom tehnikom (Bosch, Ariston, Samsung, Marles, LG TV) od kojih su mnogi novi, zatim Inverter klima opremom i ostalim neophodnim kućnim uređajima koji su takođe uračunati u cenu. To omogućava budućim vlasnicima da se usele bez dodatnih većih ulaganja, po sistemu \"Ključ u ruke\".\nStan je trostrano orijentisan, zahvaljujući čemu je tokom celog dana ispunjen prirodnim svetlom i pruža prijatan osećaj prostora i komfora, uknjižen je, funkcionalno odlično organizovan i odmah useljiv za Keš kupce.\nUz stan se prodaje i fizički ograđen garažni boks (nije obično parking mesto) u zajedničkoj podzemnoj garaži u podrumu iste zgrade (jedan od ukupno 41 garažnih boksova).\n- Boks je kompletno ograđen i poseduje sopstvena vrata na zaključavanje (bezbedno za vozilo i odlaganje stvari).\n- Za garažu postoji savršeno uredna, kompletna i originalna istorijska dokumentacija u dva primerka, overena kod javnog beležnika sa unetom Clausula Intabulandi, što garantuje brz i čist prenos vanknjižnog vlasništva direktno na kupca. Garaža se prodaje za 24.000 evra i isključivo zajedno sa stanom. Rokovi za overu glavnog ugovora i isplatu su fiksni i brzi.\nStan je odličan izbor za porodicu ili kupca koji traži komforan stan velike kvadrature na jednoj od najtraženijih lokacija u Beogradu, uz dodatnu pogodnost posedovanja privatne garaže u ulici V. Stepe gde nema dovoljno parking mesta na trotoarima ni vikendom.\nAutokomanda | Vojvode Stepe | 95 m² | Garaža + ostava | 338.000 evra",
+  "photos": 12,
+  "added": "2026-11-19",
+  "updated": "2026-11-19"
+ },
+ {
+  "id": "ho-5425645788383",
+  "slug": "ho-5425645788383-izdavanje-stan-altina",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 33 м², Алтина, Земун",
+  "kind": "однокомнатная квартира",
+  "price": 400,
+  "area": 33,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Алтина",
+  "street": "Угриновацки пут 31-део",
+  "geo": {
+   "lat": 44.85826,
+   "lng": 20.34993
+  },
+  "facts": [
+   [
+    "Площадь",
+    "33 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "2-й из 3"
+   ],
+   [
+    "Отопление",
+    "тёплый пол"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "подходит студентам",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "горячая вода"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 33 м² в районе Алтина (Земун, Белград). 2-й этаж из 3, с мебелью, отопление тёплый пол, в исходном состоянии, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, подходит студентам, интернет, кабельное ТВ, кондиционер, парковка, горячая вода. Аренда 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "U cenu stana uračunati svi troškovi, struja voda internet kablovska grejanje... obavezan depozit u visini jedne kirije... bez kućnih ljubimaca",
+  "photos": 6,
+  "added": "2026-11-19",
+  "updated": "2026-11-19"
+ },
+ {
+  "id": "fz-69732518b36b0443750ef306",
+  "slug": "fz-69732518b36b0443750ef306-izdavanje-stan-medakovic-3",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 35 м², Медакович 3, Звездара",
+  "kind": "студия",
+  "price": 300,
+  "area": 35,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Медакович 3",
+  "street": "Войводе Влаховича /",
+  "geo": {
+   "lat": 44.76019,
+   "lng": 20.50641
+  },
+  "facts": [
+   [
+    "Площадь",
+    "35 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся студия площадью 35 м² в районе Медакович 3 (Звездара, Белград). С мебелью, отопление автономное. Аренда 300 € в месяц.",
+  "originalLang": "sr",
+  "original": "Garsonjera u zgradi za izdavanje, Namešteno, Medaković 3, 35 m2, na 1. spratu, ima lift. Etažno, ima terasu, ima kupatilo.",
+  "photos": 4,
+  "added": "2026-11-19",
+  "updated": "2026-11-19"
+ },
+ {
   "id": "ho-5425648004776",
   "slug": "ho-5425648004776-izdavanje-stan-slavija",
   "deal": "rent",
