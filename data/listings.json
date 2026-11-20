@@ -1,5 +1,715 @@
 [
  {
+  "id": "ho-5425647066114",
+  "slug": "ho-5425647066114-izdavanje-stan-borca",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 20 м², Борча, Палилула",
+  "kind": "студия",
+  "price": 270,
+  "area": 20,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Борча",
+  "street": "Ранка Милица 32",
+  "geo": {
+   "lat": 44.88358,
+   "lng": 20.45138
+  },
+  "facts": [
+   [
+    "Площадь",
+    "20 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "1-й из 3"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся студия площадью 20 м² в районе Борча (Палилула, Белград). 1-й этаж из 3, с мебелью, люкс, дом современной постройки. Есть: можно въехать сразу, домофон, интернет, кабельное ТВ, кондиционер, парковка, видеонаблюдение. Аренда 270 € в месяц.",
+  "originalLang": "sr",
+  "original": "Kompletno namesten i ekonomican manji stan na vrlo lepoj lokaciji u Borci, u ulici Ranka Miljica lepa stambena ulica 2min od samog centra Borce. Nov namestaj: LCD TV, klima klasa A za grejanje i hladjenje sa malom potrosnjom struje, ves masina, itd.\n\nVrlo je topao i veoma lako se greje sa klimom koja trosi malo struje.\n\nOpticki Internet i KATV (odlican paket Supernove). Ukupni troskovi za KATV, Internet i Infostan su 2800din. Struja je koliko se potrosi. U cenu stana je ukljuceno kompletno odrzavanje elektricnih uredjaja ili majstora ukoliko se ukaze potreba.\n\nStan se nalazi oko 100m stanica 95, 96 i 85. Useljiv odmah",
+  "photos": 14,
+  "added": "2026-11-20",
+  "updated": "2026-11-20"
+ },
+ {
+  "id": "ho-5425644222954",
+  "slug": "ho-5425644222954-izdavanje-stan-studentski-trg",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 32 м², Студентски трг, Старый город",
+  "kind": "1,5-комнатная квартира",
+  "price": 650,
+  "area": 32,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "opstina-stari-grad",
+  "location": "Студентски трг",
+  "street": "Змая од Ночая",
+  "geo": {
+   "lat": 44.82091,
+   "lng": 20.45669
+  },
+  "facts": [
+   [
+    "Площадь",
+    "32 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "5-й из 6"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "салонная планировка",
+   "для некурящих",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "терраса",
+   "горячая вода"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 32 м² в районе Студентски трг (Старый город, Белград). 5-й этаж из 6, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу, салонная планировка, для некурящих, домофон, интернет, кабельное ТВ, кондиционер, лифт, терраса, горячая вода. Аренда 650 € в месяц.",
+  "originalLang": "sr",
+  "original": "The owner is letting a 1-bedroom refurbished apartment be fully furnished with everything you need. The ceiling height is 3.2m, quiet and spacious at the top location in town just below the pedestrian street and next to medieval Kalemegdan park. \nThe owner to the tenant rental without a middleman- agent and no commission. \n\nVlasnik izdaje renoviran salonac u starogradnji. Visina plafona 3.2m. Stan kompletno opremljen i renoviran u strogom centru a mirna lokacija. \nIzdaje se iskljucivo bez agenata i provizije.",
+  "photos": 5,
+  "added": "2026-11-20",
+  "updated": "2026-11-20"
+ },
+ {
+  "id": "ho-5425648013668",
+  "slug": "ho-5425648013668-izdavanje-stan-bele-vode",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 30 м², Беле воде, Чукарица",
+  "kind": "1,5-комнатная квартира",
+  "price": 400,
+  "area": 30,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "opstina-cukarica",
+  "location": "Беле воде",
+  "street": "Беле воде",
+  "geo": {
+   "lat": 44.75081,
+   "lng": 20.40266
+  },
+  "facts": [
+   [
+    "Площадь",
+    "30 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "приземный из 2"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 30 м² в районе Беле воде (Чукарица, Белград). Приземный этаж из 2, с мебелью, отопление газовое, люкс, дом современной постройки. Есть: можно въехать сразу. Аренда 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stan za izdavanje kompletno opremljen sa izdvojenom spavacom sobom. Svetao i udoban za 2 osobe. Useljiv od 30. Novembra.",
+  "photos": 5,
+  "added": "2026-11-20",
+  "updated": "2026-11-20"
+ },
+ {
+  "id": "fz-6afffcd449f97111a706eda7",
+  "slug": "fz-6afffcd449f97111a706eda7-prodaja-stan-mladenovac-mesto",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 1,5-комнатная квартира, 36 м², Младеновац (mesto), Младеновац",
+  "kind": "1,5-комнатная квартира",
+  "price": 53800,
+  "area": 36,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Младеновац",
+  "districtSlug": "mladenovac",
+  "location": "Младеновац (mesto)",
+  "street": "Михаила Миловановича 64",
+  "geo": {
+   "lat": 44.4412,
+   "lng": 20.70274
+  },
+  "facts": [
+   [
+    "Площадь",
+    "36 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся 1,5-комнатная квартира площадью 36 м² в районе Младеновац (mesto) (Младеновац, Белград). Отопление аккумуляционные печи. Цена 53 800 €.",
+  "originalLang": "sr",
+  "original": "Jednoiposoban stan u zgradi za prodaju, uknjižen, Mladenovac (mesto), 36 m2, na niskom prizemlju. Stanje - Uobičajeno, TA peć, ima kupatilo, ima toalet.",
+  "photos": 5,
+  "added": "2026-11-20",
+  "updated": "2026-11-20"
+ },
+ {
+  "id": "fz-6afed3980bf1e96f6a02f2f0",
+  "slug": "fz-6afed3980bf1e96f6a02f2f0-prodaja-stan-dedinje",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: двухкомнатная квартира, 65 м², Дедине, Савски-Венац",
+  "kind": "двухкомнатная квартира",
+  "price": 315000,
+  "area": 65,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "savski-venac",
+  "location": "Дедине",
+  "street": "Лютице Богдана",
+  "geo": {
+   "lat": 44.78326,
+   "lng": 20.46298
+  },
+  "facts": [
+   [
+    "Площадь",
+    "65 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "6-й из 12"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся двухкомнатная квартира площадью 65 м² в районе Дедине (Савски-Венац, Белград). 6-й этаж из 12, с мебелью, отопление центральное. Цена 315 000 €.",
+  "originalLang": "sr",
+  "original": "Dvosoban stan u zgradi za prodaju, uknjižen, Dedinje, 65 m2, na 6. spratu, ima lift. Stanje - luksuzno, Centralno, ima lođu, ima kupatilo.",
+  "photos": 15,
+  "added": "2026-11-20",
+  "updated": "2026-11-20"
+ },
+ {
+  "id": "fz-6b002c615c67c6322b08e2ba",
+  "slug": "fz-6b002c615c67c6322b08e2ba-prodaja-stan-dedinje",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 5-комнатная квартира, 140 м², Дедине, Савски-Венац",
+  "kind": "5-комнатная квартира",
+  "price": 696000,
+  "area": 140,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "savski-venac",
+  "location": "Дедине",
+  "street": "Милоя Джака 15A",
+  "geo": {
+   "lat": 44.76507,
+   "lng": 20.45805
+  },
+  "facts": [
+   [
+    "Площадь",
+    "140 м²"
+   ],
+   [
+    "Комнат",
+    "5"
+   ],
+   [
+    "Этаж",
+    "3-й из 4"
+   ],
+   [
+    "Отопление",
+    "газовое, электрическое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся 5-комнатная квартира площадью 140 м² в районе Дедине (Савски-Венац, Белград). 3-й этаж из 4, с мебелью, отопление газовое, электрическое. Цена 696 000 €.",
+  "originalLang": "sr",
+  "original": "Petosoban stan dupleks za prodaju, uknjižen, Dedinje, 140 m2, na 3. spratu. Stanje - luksuzno, Gas, ima terasu, ima kupatilo. Ima parking mesto u dvorištu.",
+  "photos": 12,
+  "added": "2026-11-20",
+  "updated": "2026-11-20"
+ },
+ {
+  "id": "ho-5425647796334",
+  "slug": "ho-5425647796334-prodaja-stan-stara-bezanija",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: двухкомнатная квартира, 56 м², Стара Бежания, Новый Белград",
+  "kind": "двухкомнатная квартира",
+  "price": 205000,
+  "area": 56,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Стара Бежания",
+  "street": "Земунска",
+  "geo": {
+   "lat": 44.81153,
+   "lng": 20.38438
+  },
+  "facts": [
+   [
+    "Площадь",
+    "56 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "2-й из 4"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "можно въехать сразу",
+   "есть право собственности",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "подвал",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся двухкомнатная квартира площадью 56 м² в районе Стара Бежания (Новый Белград, Белград). 2-й этаж из 4, отопление аккумуляционные печи, после ремонта, старый фонд. Есть: не последний этаж, можно въехать сразу, есть право собственности, домофон, интернет, кабельное ТВ, кондиционер, подвал, видеонаблюдение. Цена 205 000 €.",
+  "originalLang": "sr",
+  "original": "Dvosoban stan na uglu Zemunske i Gandijeve ulice, preko puta Lidla. Drugi sprat jugoistocne orjentacije i veoma svetao stan. Odlicna saobracajna veza sa gradom. Vrtic i skola u blizini. Dosta parking mesta.",
+  "photos": 9,
+  "added": "2026-11-20",
+  "updated": "2026-11-20"
+ },
+ {
+  "id": "ho-5425647830011",
+  "slug": "ho-5425647830011-prodaja-stan-dusanovac",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 3,5-комнатная квартира, 120 м², Душановац, Вождовац",
+  "kind": "3,5-комнатная квартира",
+  "price": 350000,
+  "area": 120,
+  "rooms": 3.5,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "Душановац",
+  "street": "Лазара Аврамовича",
+  "geo": {
+   "lat": 44.78007,
+   "lng": 20.48567
+  },
+  "facts": [
+   [
+    "Площадь",
+    "120 м²"
+   ],
+   [
+    "Комнат",
+    "3,5"
+   ],
+   [
+    "Этаж",
+    "4-й из 5"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "гараж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение",
+   "энергопаспорт",
+   "не последний этаж",
+   "есть право собственности"
+  ],
+  "text": "Продаётся 3,5-комнатная квартира площадью 120 м² в районе Душановац (Вождовац, Белград). 4-й этаж из 5, люкс, дом современной постройки. Есть: гараж, домофон, интернет, кабельное ТВ, кондиционер, лифт, терраса, горячая вода, видеонаблюдение, энергопаспорт, не последний этаж, есть право собственности. Цена 350 000 €.",
+  "originalLang": "sr",
+  "original": "Stan od 120 m² SA VELIKOM TERASOM I POGLEDOM — DVA GARAŽNA MESTA GRATIS!\nCena stana je 350.000 €, a uz stan dobijate DVA GARAŽNA MESTA GRATIS, ukupne vrednosti oko 40.000 €! Stan se kupuje od fizičkog lica, bez dodatnog obračuna PDV-a na navedenu cenu, što ovu ponudu čini dodatno privlačnom.\nNa odličnoj lokaciji ispod tržnog centra Stadion, na četvrtom spratu, nalazi se prostran porodični stan od 120 m². Iz stana se pruža prelep pogled ka Novom Beogradu, Hramu Svetog Save i Beogradu na vodi, a jednim delom i ka autoputu.\nPosebnu draž ovom domu daje velika, dugačka terasa — prostor za jutarnju kafu, odmor i druženje uz pogled na grad.\nRaspored obuhvata veliki dnevni boravak sa trpezarijom, odvojenu kuhinju, tri spavaće sobe, kupatilo, vešernicu i zaseban WC. Komfor zajedničkog prostora i tri odvojene spavaće sobe pružaju prostor i privatnost za celu porodicu.\nNa kvalitetu se nije štedelo — vakuum stolarija i vrata, toplotna pumpa i fan-coil uređaji, prvoklasni parket, keramika i sanitarije. Materijali i oprema pažljivo su birani za udobnost, trajnost i prijatan boravak.\nProstran stan, velika terasa, prelep pogled i dva garažna mesta bez doplate — objedinjeni u ponudi za 350.000 €.\nUseljenje krajem marta 2027\nMoguća je zamena za bolji automobil i doplata\nZakažite razgledanje i doživite prednosti ovog porodičnog doma uživo!",
+  "photos": 3,
+  "added": "2026-11-20",
+  "updated": "2026-11-20"
+ },
+ {
+  "id": "ho-5425647826612",
+  "slug": "ho-5425647826612-prodaja-stan-dusanovac",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 1,5-комнатная квартира, 56.04 м², Душановац, Вождовац",
+  "kind": "1,5-комнатная квартира",
+  "price": 160000,
+  "area": 56.04,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "Душановац",
+  "street": "Лазара Аврамовича",
+  "geo": {
+   "lat": 44.7801,
+   "lng": 20.48569
+  },
+  "facts": [
+   [
+    "Площадь",
+    "56.04 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "приземный из 5"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "гараж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "с садом",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение",
+   "не последний этаж",
+   "есть право собственности"
+  ],
+  "text": "Продаётся 1,5-комнатная квартира площадью 56.04 м² в районе Душановац (Вождовац, Белград). Приземный этаж из 5, люкс, дом современной постройки. Есть: гараж, домофон, интернет, кабельное ТВ, кондиционер, лифт, с садом, терраса, горячая вода, видеонаблюдение, не последний этаж, есть право собственности. Цена 160 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju stan površine 56,04 m², sa prostranom terasom od 25 m² koja se dobija gratis uz stan.\nFunkcionalan raspored obuhvata dnevni boravak sa trpezarijom, odvojenu kuhinju, spavaću sobu, kupatilo i ulazni hodnik.\nPosebnu vrednost daje velika terasa sa izlazom iz dnevnog boravka — prostor za jutarnju kafu, porodični ručak i odmor na otvorenom.\nStan ima podno grejanje u svim prostorijama, sa toplotnom pumpom, kao i stakla sa efektom ogledala koja, obezbeđuju privatnost i u večernjim satima.\nUkupno 81,04 m² prostora za život i uživanje, uz plaćanje samo 56,04 m² stana.\nUseljenje krajem marta 2027 god.\nCena stana: 160.000 EUR.\nProdaja direktno od vlasnika. Na kupoprodajnu cenu ne obračunava se PDV.\nMogućnost kupovine garažnog mesta po ceni od 15.000 EUR.",
+  "photos": 3,
+  "added": "2026-11-20",
+  "updated": "2026-11-20"
+ },
+ {
+  "id": "ho-5425646592938",
+  "slug": "ho-5425646592938-izdavanje-stan-jajinci",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 3,5-комнатная квартира, 70 м², Яйинци, Вождовац",
+  "kind": "3,5-комнатная квартира",
+  "price": 600,
+  "area": 70,
+  "rooms": 3.5,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "Яйинци",
+  "street": "Булевар J.N.A.",
+  "geo": {
+   "lat": 44.73338,
+   "lng": 20.48398
+  },
+  "facts": [
+   [
+    "Площадь",
+    "70 м²"
+   ],
+   [
+    "Комнат",
+    "3,5"
+   ],
+   [
+    "Этаж",
+    "2-й из 6"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение",
+   "депозит",
+   "можно въехать сразу",
+   "для некурящих",
+   "подходит студентам"
+  ],
+  "text": "Сдаётся 3,5-комнатная квартира площадью 70 м² в районе Яйинци (Вождовац, Белград). 2-й этаж из 6, с мебелью, отопление автономное, люкс, дом современной постройки. Есть: домофон, интернет, кабельное ТВ, кондиционер, лифт, парковка, терраса, горячая вода, видеонаблюдение, депозит, можно въехать сразу, для некурящих, подходит студентам. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "Luksuzni novi stanovi – Jajinci | Mir, priroda, odlična povezanost\n\nIzdajem nove luksuzne stanove, nameštene i nenameštene, u mirnom i zelenom okruženju, u neposrednoj blizini Spomen-parka Jajinci. Zgrada je uvučena 30 m od Bulevara, što obezbeđuje potpun mir i privatnost, a istovremeno odličnu povezanost sa svim delovima grada. \nStanovi i zgrada su građeni od kvalitetnih materijala, a namešteni stanovi su moderno i luksuzno opremljeni, sa potpuno novim nameštajem i belom tehnikom. \nNa par koraka nalaze se supermarket Idea i brojne autobuske linije, što dodatno doprinosi odličnoj povezanosti i lakoj dostupnosti. \n\nKvadrature: 41, 42, 44, 46, 52, 53, 60, 63, 66 i 70 m² \nCene kirije: \nDnevni boravak, hodnik, kuhinja, trpezarija, kupatilo,terasa i jedna spavaća soba 400e. Sa dve spavaće 500e i sa tri spavaće 600e\n\n Svaki stan ima terasu\n Mir i priroda\n Odlična povezanost\n Uselljivo odmah",
+  "photos": 15,
+  "added": "2026-11-20",
+  "updated": "2026-11-20"
+ },
+ {
+  "id": "ho-5425648012880",
+  "slug": "ho-5425648012880-izdavanje-stan-paviljoni",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 30 м², Павильони, Новый Белград",
+  "kind": "однокомнатная квартира",
+  "price": 500,
+  "area": 30,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Павильони",
+  "street": "Радоя Дакича",
+  "geo": {
+   "lat": 44.8316,
+   "lng": 20.40152
+  },
+  "facts": [
+   [
+    "Площадь",
+    "30 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "2-й из 6"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 50 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "для некурящих",
+   "домофон",
+   "интернет",
+   "кондиционер",
+   "парковка"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 30 м² в районе Павильони (Новый Белград, Белград). 2-й этаж из 6, с мебелью, отопление автономное, после ремонта, старый фонд. Есть: депозит, не последний этаж, для некурящих, домофон, интернет, кондиционер, парковка. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Odlična garsonjera za izdavanje na duži vremenski period (slobodna je od 01. decembra). Veoma udobna i zaštićena od gradske buke. Kućni ljubimci nisu dozvoljeni. Režijski troškovi su veoma niski.",
+  "photos": 6,
+  "added": "2026-11-20",
+  "updated": "2026-11-20"
+ },
+ {
+  "id": "fz-6b0016c33dab9f78a909f4e9",
+  "slug": "fz-6b0016c33dab9f78a909f4e9-izdavanje-stan-pravni-fakultet-vracar",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 49 м², Правни факултет - Врачар, Врачар",
+  "kind": "трёхкомнатная квартира",
+  "price": 1000,
+  "area": 49,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "vracar",
+  "location": "Правни факултет - Врачар",
+  "street": "Правни факултет - Врачар",
+  "geo": null,
+  "facts": [
+   [
+    "Площадь",
+    "49 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся трёхкомнатная квартира площадью 49 м² в районе Правни факултет - Врачар (Врачар, Белград). С мебелью, отопление центральное. Аренда 1 000 € в месяц.",
+  "originalLang": "sr",
+  "original": "Trosoban stan u zgradi za izdavanje, Namešteno, Pravni fakultet - Vračar, 49 m2, u suterenu, ima lift. Stanje - Renovirano, Centralno, ima kupatilo, ima toalet.",
+  "photos": 13,
+  "added": "2026-11-20",
+  "updated": "2026-11-20"
+ },
+ {
   "id": "ho-5425648012859",
   "slug": "ho-5425648012859-prodaja-stan-centar",
   "deal": "sale",
