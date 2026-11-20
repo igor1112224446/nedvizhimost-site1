@@ -777,6 +777,257 @@
   "updated": "2026-11-19"
  },
  {
+  "id": "kp-197405828",
+  "slug": "kp-197405828-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 55 м², © ОпенСтреетМап цонтрибуторс, Чукарица",
+  "kind": "2,5-комнатная квартира",
+  "price": 500,
+  "area": 55,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "cukarica",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Даринке Радович",
+  "geo": {
+   "lat": 44.7316,
+   "lng": 20.37486
+  },
+  "facts": [
+   [
+    "Площадь",
+    "55 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "высокий приземный из 6"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "домофон",
+   "французский балкон",
+   "лифт",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 55 м² в районе © ОпенСтреетМап цонтрибуторс (Чукарица, Белград). Высокий приземный этаж из 6, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: можно въехать сразу, домофон, французский балкон, лифт, парковка, депозит. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "IZDAJE SE TROSOBAN STAN U ŽELEZNIKU – ODLIČNA LOKACIJA\n\nIzdaje se kompletno renoviran, prostran trosoban stan u Železniku, na izuzetnoj lokaciji, u visokom prizemlju stambene zgrade.\n\nStan odlikuju tri velike, potpuno odvojene i funkcionalno raspoređene sobe, centralno grejanje, prijatan, svetao prostor.\n\nNalazi se na svega nekoliko koraka od okretnice autobusa 88, 58 u mirnom okruženju, okružen parkovima i zelenilom.\n\nU neposrednoj blizini nalaze se Maxi, Lidl, pošta, vrtić, škola, kao i svi drugi sadržaji neophodni za udoban svakodnevni život.\n\nStan se izdaje na duži vremenski period, isključivo ozbiljnim, odgovornim i urednim zakupcima, isključivo bez kućnih ljubimaca.\n\nOdlična prilika za sve koji traže komforan, renoviran stan na mirnoj i dobro povezanoj lokaciji.\n\nZa više informacija i dogovor oko razgledanja, pozvati putem telefona.",
+  "photos": 15,
+  "added": "2026-11-19",
+  "updated": "2026-11-19"
+ },
+ {
+  "id": "kp-197402705",
+  "slug": "kp-197402705-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 40 м², © ОпенСтреетМап цонтрибуторс, Старый город",
+  "kind": "двухкомнатная квартира",
+  "price": 700,
+  "area": 40,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "stari-grad",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Сенянина Иве 10",
+  "geo": {
+   "lat": 44.82095,
+   "lng": 20.46938
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "4-й из 4"
+   ],
+   [
+    "Отопление",
+    "тёплый пол"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кондиционер",
+   "депозит"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 40 м² в районе © ОпенСтреетМап цонтрибуторс (Старый город, Белград). 4-й этаж из 4, с мебелью, отопление тёплый пол, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, домофон, терраса, кондиционер, депозит. Аренда 700 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se stan od 40 kvadrata u ulici Senjanina Ive 10, na 10 minuta hoda od Trga republike i prekoputa Sportske gimnazije. Nalazi se na 4. spratu zgrade bez lifta, koja ima lepo uređeno unutrašnje dvorište.\n\nStan ima dve manje sobe, dnevni boravak sa trpezarijom, kupatilo, uvučenu ostavu sa stepenicama i terasu.\n\nPotpuno je opremljen belom tehnikom: šporet, frižider, mašina za sudove, aparat za kafu, mikrotalasna, veš-mašina, mašina za sušenje veša, smart TV, inverter klima i odvlaživač vazduha.\n\nU jednoj sobi je bračni krevet (200x140), a po potrebi se u obe sobe mogu ubaciti singl kreveti. Grejanje je etažno na struju (podno sa zasebnim kotlom ispred stana) i na inverter klimu, koja je dovoljna za veći deo godine.\n\nCena: 700 € mesečno.\n\nZa više informacija i dogovor oko obilaska, pozovite na",
+  "photos": 15,
+  "added": "2026-11-19",
+  "updated": "2026-11-19"
+ },
+ {
+  "id": "kp-197398342",
+  "slug": "kp-197398342-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 84 м², © ОпенСтреетМап цонтрибуторс, Звездара",
+  "kind": "однокомнатная квартира",
+  "price": 1000,
+  "area": 84,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Мириевски Булевар",
+  "geo": {
+   "lat": 44.79821,
+   "lng": 20.52794
+  },
+  "facts": [
+   [
+    "Площадь",
+    "84 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "4-й из 4"
+   ],
+   [
+    "Отопление",
+    "кондиционер, электрическое, норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся однокомнатная квартира площадью 84 м² в районе © ОпенСтреетМап цонтрибуторс (Звездара, Белград). 4-й этаж из 4, с мебелью, отопление кондиционер, электрическое, норвежские радиаторы, дом современной постройки. Аренда 1 000 € в месяц.",
+  "originalLang": "sr",
+  "original": "Iznajmljuje se specifican luskuzan stan sa pogledom na Zvezdarsku sumu, najvisa pozicija u naselju pa je privatnost na visokom nivou, stan poseduje dva privatna parking mesta.\n\nKupatilo dole, wc gore velika spavaca sa garderoberom, zid u staklu a iza njega se nalazi velika terasa, poseduje jos jednu manju dole.\n\nMogucnost postavljanja video nadzora izvucene su instalacije na sve bitne pozicije",
+  "photos": 15,
+  "added": "2026-11-19",
+  "updated": "2026-11-19"
+ },
+ {
+  "id": "kp-197396072",
+  "slug": "kp-197396072-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 36 м², © ОпенСтреетМап цонтрибуторс, Старый город",
+  "kind": "студия",
+  "price": 550,
+  "area": 36,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "stari-grad",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Светозара Милетича",
+  "geo": {
+   "lat": 44.82583,
+   "lng": 20.46154
+  },
+  "facts": [
+   [
+    "Площадь",
+    "36 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "2-й из 6"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "депозит"
+  ],
+  "text": "Сдаётся студия площадью 36 м² в районе © ОпенСтреетМап цонтрибуторс (Старый город, Белград). 2-й этаж из 6, с мебелью, отопление центральное, в исходном состоянии, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, кондиционер, лифт, депозит. Аренда 550 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem garsonjeru na Dorćolu 30+6m2 terasa, novogradnja, 2 sprat, lift, interfon, CG, KATV, internet, telefon, ALu stolarija, klima, bela tehnika, potpuno namešten(nov TV i frizider u odnosu na slike). Kuhinja je odvojena. Stan je kod Fakulteta Savremenih Umetnosti i Novog Dorcola, 15-ak minuta hoda od trga Republike.  \n\n550eur + depozit 550eur\n\nVLASNIK",
+  "photos": 9,
+  "added": "2026-11-19",
+  "updated": "2026-11-19"
+ },
+ {
   "id": "kp-197394952",
   "slug": "kp-197394952-izdavanje-stan-openstreetmap-contributors",
   "deal": "rent",
