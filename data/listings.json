@@ -1,5 +1,59 @@
 [
  {
+  "id": "kp-197436286",
+  "slug": "kp-197436286-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: четырёхкомнатная квартира, 120 м², © ОпенСтреетМап цонтрибуторс, Раковица",
+  "kind": "четырёхкомнатная квартира",
+  "price": 800,
+  "area": 120,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Раковица",
+  "districtSlug": "rakovica",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Кнежевачка",
+  "geo": {
+   "lat": 44.7346,
+   "lng": 20.42713
+  },
+  "facts": [
+   [
+    "Площадь",
+    "120 м²"
+   ],
+   [
+    "Комнат",
+    "4"
+   ],
+   [
+    "Этаж",
+    "2-й"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "кабельное ТВ",
+   "двухуровневая",
+   "кондиционер",
+   "депозит"
+  ],
+  "text": "Сдаётся четырёхкомнатная квартира площадью 120 м² в районе © ОпенСтреетМап цонтрибуторс (Раковица, Белград). 2-й этаж, с мебелью. Есть: можно въехать сразу, интернет, терраса, кабельное ТВ, двухуровневая, кондиционер, депозит. Аренда 800 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajemo svetao i prostran stan od 120 m2 u Knezevackoj ulici u Rakovici, na drugom spratu (bez lifta). Idealan za porodicu ili za zakupce kojima je potrebno vise odvojenog prostora.\n\nDonja etaza: dnevni boravak, trpezarija, kuhinja, kupatilo i terasa.\n\nGornja etaza: tri sobe, kupatilo i manja terasa, kao i zatvorena terasa, idealna za susenje vesa. Ceo gornji deo zatvara se vratima, iako je sa donjim delom povezan stepenicama.\n\nStan ima ukupno tri terase - dve otvorene i jednu zatvorenu.\n\nOpremljenost: dve klime i masina za pranje vesa, kuhinja, kreveti. Stara garnitura je uklonjena, a u trpezariji su postavljene nove stolice.\n\nUpravo okrečeno i potpuno očišćeno\n\nLokacija: u blizini su skola, prodavnice i stanica gradskog prevoza.\n\nDepozit: jedna mesecna zakupnina.\n\nZa razgledanje i dodatne informacije\n*Spacious 120 m2 duplex apartment with 3 terraces and 2 A/C units, Rakovica - 800 EUR*\n\nFor rent: a bright, spacious 120 m2 apartment on Knezevacka street in Rakovica, located on the second floor (no elevator). Ideal for a family or tenants who need plenty of separate space.\n\nLower level: living room, dining area, kitchen, bathroom and a terrace.\n\nUpper level: three bedrooms, a bathroom, a smaller terrace, and an enclosed terrace that is perfect for drying laundry. The entire upper level can be closed off with a door, while still connected to the lower level by a staircase.\n\nThe apartment has three terraces in total - two open and one enclosed.\n\nEquipment: two air conditioners and a washing machine, kitchen, beds. The old sofa set has been removed and new chairs have been added to the dining area.\n\nPainting is currently in progress and will be finished within 10 days, so you will move into a freshly painted apartment evethough pictures are older.\n\nLocation: close to a school, shops and a public transport stop.\n\nDeposit: one month's rent.\n\nFor viewing and more information, please call:",
+  "photos": 15,
+  "added": "2026-11-20",
+  "updated": "2026-11-20"
+ },
+ {
   "id": "ho-5425647142164",
   "slug": "ho-5425647142164-izdavanje-stan-crveni-krst",
   "deal": "rent",
