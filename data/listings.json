@@ -1,5 +1,143 @@
 [
  {
+  "id": "ho-5425648012859",
+  "slug": "ho-5425648012859-prodaja-stan-centar",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: трёхкомнатная квартира, 80 м², Центр, Старый город",
+  "kind": "трёхкомнатная квартира",
+  "price": 450000,
+  "area": 80,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "opstina-stari-grad",
+  "location": "Центр",
+  "street": "Господар Йованова",
+  "geo": {
+   "lat": 44.81997,
+   "lng": 20.46239
+  },
+  "facts": [
+   [
+    "Площадь",
+    "80 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "4-й из 6"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "лифт",
+   "лоджия",
+   "подвал",
+   "терраса",
+   "не последний этаж",
+   "есть право собственности"
+  ],
+  "text": "Продаётся трёхкомнатная квартира площадью 80 м² в районе Центр (Старый город, Белград). 4-й этаж из 6, отопление центральное, дом современной постройки. Есть: лифт, лоджия, подвал, терраса, не последний этаж, есть право собственности. Цена 450 000 €.",
+  "originalLang": "sr",
+  "original": "-Premium lokacija, najlepši deo Gospodar Jovanove bliže Trgu Republike\n-Odlična zgrada iz 2011., pikovana fasada, reprezentativan ulaz - retkost\n-Sprat 4 od 6., apsolutni mir i tišina, dvostrano orijentisan, veoma svetao, odlično centralno grejanje \n-3 sobe, kuhinja, kupatilo sa toaletom, još jedan toalet, ostava, 2 terase i lođa, podrum- bez mane\n-Uknjižen na 73m2, sa terasama 80m2, uredna dokumentacija\nProdaje VLASNIK- nema provizije",
+  "photos": 12,
+  "added": "2026-11-20",
+  "updated": "2026-11-20"
+ },
+ {
+  "id": "ho-5425645522482",
+  "slug": "ho-5425645522482-izdavanje-stan-denkova-basta",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 44 м², Денкова башта, Звездара",
+  "kind": "1,5-комнатная квартира",
+  "price": 600,
+  "area": 44,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Денкова башта",
+  "street": "Топаловичева",
+  "geo": {
+   "lat": 44.78984,
+   "lng": 20.50022
+  },
+  "facts": [
+   [
+    "Площадь",
+    "44 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "3-й из 4"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 100 € в месяц"
+   ]
+  ],
+  "features": [
+   "французский балкон",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "лоджия",
+   "парковка",
+   "подвал",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение",
+   "депозит",
+   "можно с животными",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "подходит студентам"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 44 м² в районе Денкова башта (Звездара, Белград). 3-й этаж из 4, с мебелью, отопление центральное, люкс, старый фонд. Есть: французский балкон, домофон, интернет, кабельное ТВ, кондиционер, лифт, лоджия, парковка, подвал, терраса, горячая вода, видеонаблюдение, депозит, можно с животными, не последний этаж, можно въехать сразу, для некурящих, подходит студентам. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem stan potpuno namesten sa svim uredjajima 44 m2, Denkova Basta, kod Beo Shopping Center kod stadiona Sindjelic. Topaloviceva 2. Zasebna soba. \n\nSprat 3/4 nije potkrovlje i ima lift. \n\nPotpuno renoviran stan, sa novim stvarima, terasa zastakljena, koja se otvara. \n\nIspred zgrade veliki parking, koji se ne placa. \n\nGrejanje centralno, klima, tv.\n\nStan je slobodan od 31 Decembra i moze se pogledati ranije po dogovoru.",
+  "photos": 7,
+  "added": "2026-11-20",
+  "updated": "2026-11-20"
+ },
+ {
   "id": "kp-197343876",
   "slug": "kp-197343876-izdavanje-stan-openstreetmap-contributors",
   "deal": "rent",
