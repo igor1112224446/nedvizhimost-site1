@@ -1,5 +1,55 @@
 [
  {
+  "id": "fz-6aa2645899b020371e07acd7",
+  "slug": "fz-6aa2645899b020371e07acd7-prodaja-stan-resavska",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: четырёхкомнатная квартира, 74 м², Ресавска, Врачар",
+  "kind": "четырёхкомнатная квартира",
+  "price": 458800,
+  "area": 74,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "vracar",
+  "location": "Ресавска",
+  "street": "Ресавска",
+  "geo": {
+   "lat": 44.80827,
+   "lng": 20.46652
+  },
+  "facts": [
+   [
+    "Площадь",
+    "74 м²"
+   ],
+   [
+    "Комнат",
+    "4"
+   ],
+   [
+    "Этаж",
+    "1-й из 7"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся четырёхкомнатная квартира площадью 74 м² в районе Ресавска (Врачар, Белград). 1-й этаж из 7, без мебели, отопление центральное. Цена 458 800 €.",
+  "originalLang": "sr",
+  "original": "Četvorosoban stan u zgradi za prodaju, uknjižen, Resavska, 74 m2, na 1. spratu, ima lift. Stanje - Renovirano, Centralno, ima terasu, ima kupatilo.",
+  "photos": 6,
+  "added": "2026-11-20",
+  "updated": "2026-11-20"
+ },
+ {
   "id": "ho-5425647066114",
   "slug": "ho-5425647066114-izdavanje-stan-borca",
   "deal": "rent",
