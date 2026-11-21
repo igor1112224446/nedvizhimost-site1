@@ -1,5 +1,73 @@
 [
  {
+  "id": "ho-5425648017915",
+  "slug": "ho-5425648017915-izdavanje-stan-petlovo-brdo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 80 м², Петлово брдо, Раковица",
+  "kind": "трёхкомнатная квартира",
+  "price": 700,
+  "area": 80,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Раковица",
+  "districtSlug": "opstina-rakovica",
+  "location": "Петлово брдо",
+  "street": "Хаблова 5",
+  "geo": {
+   "lat": 44.71689,
+   "lng": 20.42395
+  },
+  "facts": [
+   [
+    "Площадь",
+    "80 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "приземный из 5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "терраса",
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 80 м² в районе Петлово брдо (Раковица, Белград). Приземный этаж из 5, с мебелью, отопление центральное, в исходном состоянии, дом современной постройки. Есть: кабельное ТВ, кондиционер, лифт, парковка, терраса, депозит, не последний этаж, можно въехать сразу, для некурящих. Аренда 700 € в месяц.",
+  "originalLang": "sr",
+  "original": "Leopo organizovan stan sa dve velike spavaće sobe,velikim dnevnim boravkom,posebno izdvojenom kuhinjom sa trpezarijom,velikim kupatilom,velikom terasom.Stan je opremljen sa novim stvarima i belom tehnikom pod garancijom. Grejnje , infostan i parking mesto ušlo u cenu zakupa,.agarejanje je uljučeno 24h.Zgrada ima lift,čista i dobro održavana,okruzena zelenilom. Depzit u visini zakupa.Pored zakupa plaća se elekrtična energija po potrošnji.\nPlaćanje je mesečno.Najkraći rok stanovanja je 12 meseci.Nije dozoljeno držanje u stanu zivotinja.Stan je useljiv",
+  "photos": 13,
+  "added": "2026-11-21",
+  "updated": "2026-11-21"
+ },
+ {
   "id": "ho-5425648018420",
   "slug": "ho-5425648018420-izdavanje-stan-save-kovacevica",
   "deal": "rent",
