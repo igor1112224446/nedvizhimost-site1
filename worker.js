@@ -10,7 +10,7 @@ async function tg(env, method, body) {
   return j;
 }
 
-async function submit(request, env) {
+async function submit(request, env, ctx) {
   if (request.method !== 'POST') return json({ error: 'Метод не поддерживается' }, 405);
   if (!env.TG_TOKEN || !env.TG_CHAT) return json({ error: 'приём заявок ещё не настроен' }, 500);
   let fd;
@@ -40,6 +40,11 @@ async function submit(request, env) {
     line('Собственник', g('name')), line('Телефон', g('phone')), line('Связь', g('messenger')),
   ].filter((x) => x !== '').join('\n').replace(/\n{3,}/g, '\n\n').slice(0, 4000);
 
+  crmIngest(env, ctx, {
+    kind: 'owner', name: g('name'), phone: g('phone'), via: g('messenger'),
+    title: `${sale ? 'Продажа' : 'Аренда'}: ${[g('type'), g('rooms') && `${g('rooms')} комн.`, g('area') && `${g('area')} м²`, g('district'), g('price') && `${g('price')} €`].filter(Boolean).join(', ')}`,
+    wish: text.replace(/<[^>]+>/g, '').slice(0, 3500),
+  });
   const photos = fd.getAll('photos').filter((f) => f && typeof f === 'object' && f.size > 0 && f.size < 10e6 && /^image\//.test(f.type)).slice(0, 10);
   try {
     const m = new FormData();
@@ -66,10 +71,10 @@ async function submit(request, env) {
 }
 
 // Заявки клиентов: запись на просмотр и подбор. Уходят в TG_LEADS (например, личный чат @Rentch_srb), иначе в TG_CHAT.
-async function lead(request, env) {
+async function lead(request, env, ctx) {
   if (request.method !== 'POST') return json({ error: 'Метод не поддерживается' }, 405);
   const chat = env.TG_LEADS || env.TG_CHAT;
-  if (!env.TG_TOKEN || !chat) return json({ error: 'приём заявок ещё не настроен' }, 500);
+  if ((!env.TG_TOKEN || !chat) && !crmOn(env)) return json({ error: 'приём заявок ещё не настроен' }, 500);
   let fd;
   try { fd = await request.formData(); } catch (e) { return json({ error: 'неверные данные формы' }, 400); }
   if (String(fd.get('website') || '').trim()) return json({ ok: true });
@@ -89,6 +94,13 @@ async function lead(request, env) {
     line('Телефон', g('phone')),
     line('Ответить в', g('via')),
   ].filter(Boolean).join('\n');
+  crmIngest(env, ctx, {
+    kind: viewing ? 'viewing' : service ? 'service' : 'match',
+    name: g('name'), phone: g('phone'), via: g('via'),
+    wish: viewing ? '' : g('wish'), title: viewing ? [g('title'), g('price')].filter(Boolean).join(', ') : service ? g('service') : '',
+    url: g('url'),
+  });
+  if (!env.TG_TOKEN || !chat) return json({ ok: true });
   try {
     const m = new FormData();
     m.append('chat_id', chat);
@@ -100,6 +112,79 @@ async function lead(request, env) {
     return json({ error: 'сервер не смог передать заявку' }, 502);
   }
   return json({ ok: true });
+}
+
+// ---------- CRM: закрытый раздел /crm/ ----------
+// Переменные в Cloudflare (Settings → Variables and Secrets): CRM_LOGIN, CRM_PASSWORD, CRM_SECRET (тот же, что у робота).
+// Заявки хранятся в базе облачного робота (CRM_API, по умолчанию halo-probe), worker сайта только передаёт их.
+const CRM_API_DEFAULT = 'https://halo-probe.azarov-igor-9212.workers.dev';
+const crmOn = (env) => !!(env.CRM_SECRET && env.CRM_LOGIN && env.CRM_PASSWORD);
+const crmBase = (env) => String(env.CRM_API || CRM_API_DEFAULT).replace(/\/+$/, '');
+function crmIngest(env, ctx, lead) {
+  if (!crmOn(env)) return;
+  const p = fetch(`${crmBase(env)}/crm/ingest`, {
+    method: 'POST', headers: { 'content-type': 'application/json', 'x-crm-key': env.CRM_SECRET },
+    body: JSON.stringify({ lead: { ...lead, data: { source: 'site', at: Date.now() } } }),
+  }).catch(() => {});
+  if (ctx?.waitUntil) ctx.waitUntil(p);
+}
+const enc = new TextEncoder();
+async function hmac(key, msg) {
+  const k = await crypto.subtle.importKey('raw', enc.encode(key), { name: 'HMAC', hash: 'SHA-256' }, false, ['sign']);
+  return [...new Uint8Array(await crypto.subtle.sign('HMAC', k, enc.encode(msg)))].map((b) => b.toString(16).padStart(2, '0')).join('');
+}
+const sessionKey = (env) => `${env.CRM_SECRET}|${env.CRM_LOGIN}|${env.CRM_PASSWORD}`;
+const CRM_DAYS = 30;
+async function crmAuthed(request, env) {
+  const c = (request.headers.get('cookie') || '').match(/(?:^|;\s*)crm=([^;]+)/);
+  if (!c) return false;
+  const [exp, sig] = decodeURIComponent(c[1]).split('.');
+  if (!exp || !sig || Number(exp) < Date.now()) return false;
+  return sig === await hmac(sessionKey(env), exp);
+}
+const crmHeaders = { 'x-robots-tag': 'noindex, nofollow', 'cache-control': 'no-store' };
+function withHeaders(res, extra) {
+  const r = new Response(res.body, res);
+  for (const [k, v] of Object.entries(extra)) r.headers.set(k, v);
+  return r;
+}
+const redirect = (to, cookie) => new Response(null, { status: 303, headers: { location: to, ...crmHeaders, ...(cookie ? { 'set-cookie': cookie } : {}) } });
+async function crm(request, env, url) {
+  const p = url.pathname;
+  const asset = (path) => env.ASSETS.fetch(new Request(`${url.origin}${path}`, request)).then((r) => withHeaders(r, crmHeaders));
+  if (!crmOn(env)) {
+    return new Response('CRM ещё не настроена: добавьте переменные CRM_LOGIN, CRM_PASSWORD и CRM_SECRET в настройках Worker сайта.', { status: 503, headers: { 'content-type': 'text/plain; charset=utf-8', ...crmHeaders } });
+  }
+  if (p === '/crm/login' || p === '/crm/login/') {
+    if (request.method === 'POST') {
+      const fd = await request.formData().catch(() => null);
+      const login = String(fd?.get('login') || '').trim();
+      const pass = String(fd?.get('password') || '');
+      // сравниваем подписи, а не строки: время ответа не зависит от того, сколько символов совпало
+      const ok = (await hmac(env.CRM_SECRET, login + '\n' + pass)) === (await hmac(env.CRM_SECRET, env.CRM_LOGIN + '\n' + env.CRM_PASSWORD));
+      if (!ok) { await new Promise((r) => setTimeout(r, 800)); return redirect('/crm/login/?error=1'); }
+      const exp = String(Date.now() + CRM_DAYS * 864e5);
+      const cookie = `crm=${encodeURIComponent(exp + '.' + await hmac(sessionKey(env), exp))}; Path=/crm; Max-Age=${CRM_DAYS * 86400}; HttpOnly; Secure; SameSite=Lax`;
+      return redirect('/crm/', cookie);
+    }
+    return asset('/crm/login.html');
+  }
+  if (p === '/crm/logout') return redirect('/crm/login/', 'crm=; Path=/crm; Max-Age=0; HttpOnly; Secure; SameSite=Lax');
+  if (p === '/crm/crm.css' || p === '/crm/logo.png') return asset(p);
+  if (!(await crmAuthed(request, env))) {
+    if (p.startsWith('/crm/api/')) return json({ error: 'войдите заново' }, 401);
+    return redirect('/crm/login/');
+  }
+  if (p.startsWith('/crm/api/')) {
+    const r = await fetch(`${crmBase(env)}/crm/${p.slice('/crm/api/'.length)}`, {
+      method: request.method,
+      headers: { 'content-type': 'application/json', 'x-crm-key': env.CRM_SECRET },
+      body: request.method === 'POST' ? await request.text() : undefined,
+    }).catch((e) => json({ error: 'база заявок недоступна: ' + e.message }, 502));
+    return withHeaders(r, crmHeaders);
+  }
+  if (p === '/crm' || p === '/crm/') return asset('/crm/index.html');
+  return asset(p);
 }
 
 // Основной домен. Технический адрес *.workers.dev и www перенаправляются сюда навсегда (301).
@@ -121,15 +206,16 @@ async function objectRedirect(request, env, url) {
 }
 
 export default {
-  async fetch(request, env) {
+  async fetch(request, env, ctx) {
     const url = new URL(request.url);
     const host = env.CANONICAL_HOST || CANONICAL_HOST;
     const read = request.method === 'GET' || request.method === 'HEAD';
     if (read && url.hostname !== host && (url.hostname.endsWith('.workers.dev') || url.hostname === `www.${host}`)) {
       return Response.redirect(`https://${host}${url.pathname}${url.search}`, 301);
     }
-    if (url.pathname === '/api/submit') return submit(request, env);
-    if (url.pathname === '/api/lead') return lead(request, env);
+    if (url.pathname === '/crm' || url.pathname.startsWith('/crm/')) return crm(request, env, url);
+    if (url.pathname === '/api/submit') return submit(request, env, ctx);
+    if (url.pathname === '/api/lead') return lead(request, env, ctx);
     const res = await env.ASSETS.fetch(request);
     if (res.status === 404 && read) return (await objectRedirect(request, env, url)) || res;
     return res;

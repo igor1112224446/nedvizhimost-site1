@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Вход в CRM · Maxis Group</title>
+<link rel="icon" href="/assets/favicon.png">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap">
+<link rel="stylesheet" href="/crm/crm.css">
+</head>
+<body class="login-page">
+<main class="login">
+  <img src="/assets/maxis-logo-navy.png" alt="Maxis Group" class="login-logo" width="180" height="48">
+  <h1>Вход в CRM</h1>
+  <p class="err" id="err" hidden role="alert">Неверный логин или пароль</p>
+  <form method="post" action="/crm/login/">
+    <label class="fld"><span>Логин</span><input name="login" autocomplete="username" required autofocus></label>
+    <label class="fld"><span>Пароль</span><input name="password" type="password" autocomplete="current-password" required></label>
+    <button class="btn btn-primary btn-wide" type="submit">Войти</button>
+  </form>
+</main>
+<script>if (/error=1/.test(location.search)) document.getElementById('err').hidden = false;</script>
+</body>
+</html>

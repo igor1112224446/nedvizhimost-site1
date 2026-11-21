@@ -1270,7 +1270,17 @@ ${sitemap.flatMap((u) => [
 `);
 // Карта «номер объекта → адрес страницы»: worker.js по ней перенаправляет (301) старые и изменившиеся адреса
 write('obekt-map.json', JSON.stringify(Object.fromEntries(LISTINGS.map((l) => [l.id, l.slug]))));
-write('robots.txt', `User-agent: *\nAllow: /\nDisallow: /izbrannoe/\n${SITE.url ? `Sitemap: ${SITE.url}/sitemap.xml\n` : ''}`);
+// CRM (/crm/, закрыт логином в worker.js): страницы из папки crm/ и база объектов для поиска
+if (fs.existsSync(path.join(ROOT, 'crm'))) fs.cpSync(path.join(ROOT, 'crm'), path.join(OUT, 'crm'), { recursive: true });
+write('crm/objects.json', JSON.stringify({
+  site: { url: SITE.url, phone: SITE.phone, tg: SITE.tg, whatsapp: SITE.whatsapp, brand: BRAND },
+  items: LISTINGS.map((l) => ({
+    id: l.id, slug: l.slug, deal: l.deal, type: l.type, cat: l.cat, title: String(l.title || '').replace(/,?\s*©[^,]*/g, ''), kind: l.kind, price: l.price, area: l.area, rooms: l.rooms,
+    district: l.district, location: /©|openstreetmap|опенстреетмап/i.test(l.location || '') ? '' : l.location, street: l.street,
+    facts: l.facts, features: l.features, text: l.text, photos: Math.min(l.photos || 0, 15), added: l.added,
+  })),
+}));
+write('robots.txt', `User-agent: *\nAllow: /\nDisallow: /izbrannoe/\nDisallow: /crm/\n${SITE.url ? `Sitemap: ${SITE.url}/sitemap.xml\n` : ''}`);
 write('llms.txt', `# ${SITE.name}
 
 > Каталог квартир и домов в Белграде (Сербия) для аренды и покупки, объекты от собственников, описания на русском языке. Агентство помогает русскоязычным клиентам с подбором жилья, просмотрами, белым картоном, регистрацией, банковским счётом и ВНЖ.

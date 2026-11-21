@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>CRM · Maxis Group</title>
+<link rel="icon" href="/assets/favicon.png">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap">
+<link rel="stylesheet" href="/crm/crm.css">
+</head>
+<body>
+<header class="top">
+  <a href="/crm/" class="brand"><img src="/assets/maxis-icon-navy.png" alt="" width="32" height="32"><span>Maxis CRM</span></a>
+  <nav class="tabs" role="tablist">
+    <button role="tab" data-tab="leads" aria-selected="true">Заявки <span class="count" id="newCount" hidden></span></button>
+    <button role="tab" data-tab="search" aria-selected="false">Поиск<span class="long"> объектов</span></button>
+  </nav>
+  <div class="top-actions">
+    <button class="btn btn-ghost" id="openSettings" type="button">Реквизиты</button>
+    <a class="btn btn-ghost" href="/crm/logout">Выйти</a>
+  </div>
+</header>
+
+<main>
+  <section id="tab-leads" class="pane">
+    <div class="bar">
+      <input type="search" id="leadFilter" class="input" placeholder="Поиск по имени, телефону, тексту заявки" aria-label="Поиск по заявкам">
+      <button class="btn btn-primary" id="addLead" type="button">Добавить заявку</button>
+    </div>
+    <p class="note" id="leadsMsg" role="status"></p>
+    <div class="board" id="board"></div>
+  </section>
+
+  <section id="tab-search" class="pane" hidden>
+    <form class="ai" id="aiForm">
+      <label for="aiQuery" class="ai-label">Опишите, что ищет клиент</label>
+      <div class="ai-row">
+        <input id="aiQuery" class="input input-lg" autocomplete="off" placeholder="Найди квартиру в районе Врачар до 1000 евро и от 50 метров">
+        <button class="btn btn-primary btn-lg" type="submit">Найти</button>
+      </div>
+      <div class="ai-for" id="aiFor" hidden></div>
+      <div class="chips" id="chips"></div>
+      <p class="note" id="searchMsg" role="status"></p>
+    </form>
+    <div class="results" id="results"></div>
+  </section>
+</main>
+
+<!-- карточка заявки -->
+<div class="drawer" id="drawer" hidden>
+  <div class="drawer-bg" data-close></div>
+  <aside class="drawer-panel" role="dialog" aria-modal="true" aria-labelledby="dTitle">
+    <div class="drawer-head">
+      <h2 id="dTitle">Заявка</h2>
+      <button class="icon-btn" data-close aria-label="Закрыть">✕</button>
+    </div>
+    <form id="leadForm" class="drawer-body">
+      <div class="grid2">
+        <label class="fld"><span>Имя</span><input name="name"></label>
+        <label class="fld"><span>Телефон</span><input name="phone" inputmode="tel"></label>
+        <label class="fld"><span>Связь</span>
+          <select name="via"><option value="">не указано</option><option value="wa">WhatsApp</option><option value="tg">Telegram</option><option value="call">Звонок</option></select>
+        </label>
+        <label class="fld"><span>Этап</span><select name="status"></select></label>
+      </div>
+      <div class="contact-row" id="dContacts"></div>
+      <label class="fld"><span>Объект или услуга</span><input name="title"></label>
+      <label class="fld"><span>Что ищет</span><textarea name="wish" rows="3"></textarea></label>
+      <label class="fld"><span>Заметки</span><textarea name="notes" rows="4" placeholder="Бюджет, сроки, договорённости"></textarea></label>
+      <div id="dLink"></div>
+      <div id="dSent"></div>
+      <p class="meta" id="dMeta"></p>
+      <div class="drawer-actions">
+        <button class="btn btn-primary" type="submit">Сохранить</button>
+        <button class="btn" type="button" id="dMatch">Подобрать объекты</button>
+        <button class="btn btn-danger" type="button" id="dDelete">Удалить</button>
+      </div>
+    </form>
+  </aside>
+</div>
+
+<!-- отправка объекта клиенту -->
+<div class="modal" id="sendModal" hidden>
+  <div class="drawer-bg" data-close></div>
+  <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="sTitle">
+    <div class="drawer-head">
+      <h2 id="sTitle">Отправить клиенту</h2>
+      <button class="icon-btn" data-close aria-label="Закрыть">✕</button>
+    </div>
+    <div class="drawer-body">
+      <div class="grid2">
+        <label class="fld"><span>Клиент из заявок</span><select id="sLead"><option value="">выберите или впишите ниже</option></select></label>
+        <label class="fld"><span>Телефон или @username в Telegram</span><input id="sTo" placeholder="+381 6… или @username"></label>
+      </div>
+      <label class="fld"><span>Текст сообщения</span><textarea id="sText" rows="14"></textarea></label>
+      <div class="send-photos" id="sPhotos"></div>
+      <div class="send-actions">
+        <button class="btn btn-wa" type="button" id="sWa">WhatsApp</button>
+        <button class="btn btn-tg" type="button" id="sTg">Telegram</button>
+        <button class="btn btn-primary" type="button" id="sShare" hidden>Отправить с фото</button>
+        <button class="btn" type="button" id="sCopy">Скопировать текст</button>
+        <button class="btn" type="button" id="sDownload">Скачать фото</button>
+      </div>
+      <p class="note" id="sMsg" role="status"></p>
+      <p class="meta">WhatsApp и Telegram откроются с готовым текстом и ссылкой на страницу объекта, где есть все фото. Кнопка «Отправить с фото» прикладывает сами снимки: на телефоне выберите WhatsApp или Telegram и клиента.</p>
+    </div>
+  </div>
+</div>
+
+<!-- реквизиты -->
+<div class="modal" id="settingsModal" hidden>
+  <div class="drawer-bg" data-close></div>
+  <div class="modal-panel modal-sm" role="dialog" aria-modal="true" aria-labelledby="rTitle">
+    <div class="drawer-head">
+      <h2 id="rTitle">Ваши реквизиты</h2>
+      <button class="icon-btn" data-close aria-label="Закрыть">✕</button>
+    </div>
+    <form class="drawer-body" id="settingsForm">
+      <label class="fld"><span>Подпись в конце каждого сообщения клиенту</span><textarea name="signature" rows="8"></textarea></label>
+      <label class="fld"><span>Приветствие в начале</span><input name="greeting" placeholder="Здравствуйте, {имя}! Подобрали для вас вариант:"></label>
+      <p class="meta">{имя} заменится на имя клиента из заявки. Реквизиты общие для всех, кто входит в CRM.</p>
+      <div class="drawer-actions"><button class="btn btn-primary" type="submit">Сохранить</button></div>
+    </form>
+  </div>
+</div>
+
+<div class="toast" id="toast" role="status" hidden></div>
+<script src="/crm/crm.js" type="module"></script>
+</body>
+</html>
