@@ -1,5 +1,53 @@
 [
  {
+  "id": "fz-6b01858e9d13aaa8200ed398",
+  "slug": "fz-6b01858e9d13aaa8200ed398-izdavanje-stan-petlovo-brdo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 30 м², Петлово Брдо, Раковица",
+  "kind": "студия",
+  "price": 300,
+  "area": 30,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Раковица",
+  "districtSlug": "rakovica",
+  "location": "Петлово Брдо",
+  "street": "Чайничка 28",
+  "geo": {
+   "lat": 44.72426,
+   "lng": 20.42651
+  },
+  "facts": [
+   [
+    "Площадь",
+    "30 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "кондиционер"
+  ],
+  "text": "Сдаётся студия площадью 30 м² в районе Петлово Брдо (Раковица, Белград). С мебелью, отопление автономное. Есть: кондиционер. Аренда 300 € в месяц.",
+  "originalLang": "sr",
+  "original": "Garsonjera u zgradi za izdavanje, Namešteno, Petlovo Brdo, 30 m2. Stanje - Novo, Etažno, ima terasu, ima kupatilo.",
+  "photos": 15,
+  "added": "2026-11-21",
+  "updated": "2026-11-21"
+ },
+ {
   "id": "ho-5425648017527",
   "slug": "ho-5425648017527-izdavanje-stan-save-kovacevica",
   "deal": "rent",
