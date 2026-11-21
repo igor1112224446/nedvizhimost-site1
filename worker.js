@@ -151,7 +151,15 @@ function withHeaders(res, extra) {
 const redirect = (to, cookie) => new Response(null, { status: 303, headers: { location: to, ...crmHeaders, ...(cookie ? { 'set-cookie': cookie } : {}) } });
 async function crm(request, env, url) {
   const p = url.pathname;
-  const asset = (path) => env.ASSETS.fetch(new Request(`${url.origin}${path}`, request)).then((r) => withHeaders(r, crmHeaders));
+  // Хостинг сам переадресует /x.html → /x и /x/index.html → /x/. Внутри worker переадресацию проходим сами,
+  // иначе браузер получает её и снова приходит сюда (бесконечный круг)
+  const asset = async (path) => {
+    let r = await env.ASSETS.fetch(new Request(`${url.origin}${path}`, { method: 'GET', headers: request.headers }));
+    for (let i = 0; i < 3 && r.status >= 300 && r.status < 400 && r.headers.get('location'); i++) {
+      r = await env.ASSETS.fetch(new Request(new URL(r.headers.get('location'), url.origin), { method: 'GET', headers: request.headers }));
+    }
+    return withHeaders(r, crmHeaders);
+  };
   if (!crmOn(env)) {
     return new Response('CRM ещё не настроена: добавьте переменные CRM_LOGIN, CRM_PASSWORD и CRM_SECRET в настройках Worker сайта.', { status: 503, headers: { 'content-type': 'text/plain; charset=utf-8', ...crmHeaders } });
   }
@@ -167,7 +175,7 @@ async function crm(request, env, url) {
       const cookie = `crm=${encodeURIComponent(exp + '.' + await hmac(sessionKey(env), exp))}; Path=/crm; Max-Age=${CRM_DAYS * 86400}; HttpOnly; Secure; SameSite=Lax`;
       return redirect('/crm/', cookie);
     }
-    return asset('/crm/login.html');
+    return asset('/crm/login');
   }
   if (p === '/crm/logout') return redirect('/crm/login/', 'crm=; Path=/crm; Max-Age=0; HttpOnly; Secure; SameSite=Lax');
   if (p === '/crm/crm.css' || p === '/crm/logo.png') return asset(p);
@@ -183,7 +191,7 @@ async function crm(request, env, url) {
     }).catch((e) => json({ error: 'база заявок недоступна: ' + e.message }, 502));
     return withHeaders(r, crmHeaders);
   }
-  if (p === '/crm' || p === '/crm/') return asset('/crm/index.html');
+  if (p === '/crm' || p === '/crm/') return asset('/crm/');
   return asset(p);
 }
 
