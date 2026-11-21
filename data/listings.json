@@ -1,5 +1,191 @@
 [
  {
+  "id": "fz-646776e924b3b3f8d907ea89",
+  "slug": "fz-646776e924b3b3f8d907ea89-izdavanje-stan-karaburma",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 45 м², Карабурма, Палилула",
+  "kind": "однокомнатная квартира",
+  "price": 450,
+  "area": 45,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "Карабурма",
+  "street": "Драгослава Срейовича 72",
+  "geo": {
+   "lat": 44.8018,
+   "lng": 20.523
+  },
+  "facts": [
+   [
+    "Площадь",
+    "45 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся однокомнатная квартира площадью 45 м² в районе Карабурма (Палилула, Белград). С мебелью, отопление аккумуляционные печи. Аренда 450 € в месяц.",
+  "originalLang": "sr",
+  "original": "Jednosoban stan u zgradi za izdavanje, Namešteno, Karaburma, 45 m2, na 3. spratu. Stanje - Dobro stanje, TA peć, ima terasu, ima kupatilo, ima toalet.",
+  "photos": 15,
+  "added": "2026-11-21",
+  "updated": "2026-11-21"
+ },
+ {
+  "id": "fz-68b9a127e1706ad6840387a3",
+  "slug": "fz-68b9a127e1706ad6840387a3-izdavanje-stan-batajnica",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 35 м², Батайница, Земун",
+  "kind": "студия",
+  "price": 150,
+  "area": 35,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "Батайница",
+  "street": "Батайница",
+  "geo": {
+   "lat": 44.89626,
+   "lng": 20.26596
+  },
+  "facts": [
+   [
+    "Площадь",
+    "35 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Отопление",
+    "кондиционер"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "кондиционер"
+  ],
+  "text": "Сдаётся студия площадью 35 м² в районе Батайница (Земун, Белград). С мебелью, отопление кондиционер. Есть: кондиционер. Аренда 150 € в месяц.",
+  "originalLang": "sr",
+  "original": "Garsonjera u zgradi za izdavanje, Namešteno, Batajnica, 35 m2, na 1. spratu. Stanje - Novo, Klima, ima kupatilo. Ima parking mesto u dvorištu.",
+  "photos": 5,
+  "added": "2026-11-21",
+  "updated": "2026-11-21"
+ },
+ {
+  "id": "fz-6b005ac65acb996d2506920e",
+  "slug": "fz-6b005ac65acb996d2506920e-izdavanje-stan-uciteljsko-naselje",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 65 м², Учительско Населе, Звездара",
+  "kind": "трёхкомнатная квартира",
+  "price": 850,
+  "area": 65,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Учительско Населе",
+  "street": "Пае Йовановича 10",
+  "geo": {
+   "lat": 44.78895,
+   "lng": 20.51007
+  },
+  "facts": [
+   [
+    "Площадь",
+    "65 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся трёхкомнатная квартира площадью 65 м² в районе Учительско Населе (Звездара, Белград). С мебелью, отопление центральное. Аренда 850 € в месяц.",
+  "originalLang": "sr",
+  "original": "Trosoban stan u zgradi za izdavanje, Namešteno, Učiteljsko Naselje, 65 m2, na 2. spratu. Stanje - Novo, Centralno, ima terasu, ima kupatilo. Ima parking mesto u dvorištu.",
+  "photos": 15,
+  "added": "2026-11-21",
+  "updated": "2026-11-21"
+ },
+ {
+  "id": "fz-6a9eb716ee70b4af440e9c83",
+  "slug": "fz-6a9eb716ee70b4af440e9c83-izdavanje-stan-dorcol",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 48 м², Дорчол, Старый город",
+  "kind": "двухкомнатная квартира",
+  "price": 800,
+  "area": 48,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "stari-grad",
+  "location": "Дорчол",
+  "street": "Доситеева 10",
+  "geo": {
+   "lat": 44.81832,
+   "lng": 20.46265
+  },
+  "facts": [
+   [
+    "Площадь",
+    "48 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Отопление",
+    "электрическое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся двухкомнатная квартира площадью 48 м² в районе Дорчол (Старый город, Белград). С мебелью, отопление электрическое. Аренда 800 € в месяц.",
+  "originalLang": "sr",
+  "original": "Dvosoban stan u zgradi za izdavanje, Namešteno, Dorćol, 48 m2, na 4. spratu. Stanje - Renovirano, Struja, ima terasu, ima kupatilo.",
+  "photos": 14,
+  "added": "2026-11-21",
+  "updated": "2026-11-21"
+ },
+ {
   "id": "fz-6b01858e9d13aaa8200ed398",
   "slug": "fz-6b01858e9d13aaa8200ed398-izdavanje-stan-petlovo-brdo",
   "deal": "rent",
