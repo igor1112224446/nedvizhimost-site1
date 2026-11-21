@@ -1,5 +1,67 @@
 [
  {
+  "id": "ho-5425648018420",
+  "slug": "ho-5425648018420-izdavanje-stan-save-kovacevica",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 30 м², Саве Ковачевича, Земун",
+  "kind": "1,5-комнатная квартира",
+  "price": 550,
+  "area": 30,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Саве Ковачевича",
+  "street": "Пионирска",
+  "geo": {
+   "lat": 44.84433,
+   "lng": 20.39849
+  },
+  "facts": [
+   [
+    "Площадь",
+    "30 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "терраса"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 30 м² в районе Саве Ковачевича (Земун, Белград). С мебелью, отопление центральное, люкс, дом современной постройки. Есть: депозит, домофон, интернет, кабельное ТВ, кондиционер, парковка, терраса. Аренда 550 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem funkcionalan, kompletno opremljen stan od 30 m², u urednoj, novijoj zgradi. Pažljivo organizovan prostor sa izdvojenom zonom za spavanje.\nOdlična lokacija, u blizini pijace, Maxija, raznih prodavnica i autobuske stanice.\nCentralno grejanje i obezbeđen parking u dvorištu zgrade.\nDepozit u visini mesečne kirije. \nVlasnik",
+  "photos": 10,
+  "added": "2026-11-21",
+  "updated": "2026-11-21"
+ },
+ {
   "id": "ho-5425648018209",
   "slug": "ho-5425648018209-prodaja-stan-blok-67-belvil",
   "deal": "sale",
