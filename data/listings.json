@@ -1,5 +1,66 @@
 [
  {
+  "id": "ho-5425648018209",
+  "slug": "ho-5425648018209-prodaja-stan-blok-67-belvil",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: трёхкомнатная квартира, 60 м², Блок 67 (Belvil), Новый Белград",
+  "kind": "трёхкомнатная квартира",
+  "price": 298000,
+  "area": 60,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Блок 67 (Belvil)",
+  "street": "Булевар Црвене Армие",
+  "geo": {
+   "lat": 44.80717,
+   "lng": 20.40566
+  },
+  "facts": [
+   [
+    "Площадь",
+    "60 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "8-й из 13"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "можно въехать сразу",
+   "есть право собственности",
+   "кондиционер",
+   "лифт",
+   "лоджия"
+  ],
+  "text": "Продаётся трёхкомнатная квартира площадью 60 м² в районе Блок 67 (Belvil) (Новый Белград, Белград). 8-й этаж из 13, отопление центральное, люкс, старый фонд. Есть: не последний этаж, можно въехать сразу, есть право собственности, кондиционер, лифт, лоджия. Цена 298 000 €.",
+  "originalLang": "sr",
+  "original": "Stan se nalazi u naselju Belville, u mirnom i urednom okruženju sa puno zelenila i dobrom infrastrukturom. Smešten je na osmom spratu zgrade od ukupno 13 spratova. Stan je luksuzno opremljen i veoma funkcionalan. Ima dnevnu sobu, dve spavaće sobe, odvojenu kuhinju, kupatilo i terasu sa prelepim pogledom. Ugradni plakari pružaju dovoljno prostora za odlaganje, a dve klime obezbeđuju komfor tokom cele godine. Zgrada je redovno održavana i ima dva lifta, a okruženje je tiho i prijatno za život. U neposrednoj blizini je trim staza, Delta City, mnostvo salona, kafica i restorana. \nStan je bez ulaganja i spreman za useljenje.",
+  "photos": 12,
+  "added": "2026-11-21",
+  "updated": "2026-11-21"
+ },
+ {
   "id": "kp-197447345",
   "slug": "kp-197447345-izdavanje-stan-openstreetmap-contributors",
   "deal": "rent",
