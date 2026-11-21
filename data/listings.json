@@ -1,5 +1,133 @@
 [
  {
+  "id": "ho-5425648017541",
+  "slug": "ho-5425648017541-izdavanje-stan-gornji-grad",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 51 м², Горни град, Земун",
+  "kind": "двухкомнатная квартира",
+  "price": 700,
+  "area": 51,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Горни град",
+  "street": "Шумадийска",
+  "geo": {
+   "lat": 44.85473,
+   "lng": 20.38257
+  },
+  "facts": [
+   [
+    "Площадь",
+    "51 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "2-й из 7"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "для некурящих",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "терраса"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 51 м² в районе Горни град (Земун, Белград). 2-й этаж из 7, с мебелью, отопление центральное, дом современной постройки. Есть: депозит, не последний этаж, для некурящих, интернет, кабельное ТВ, кондиционер, лифт, терраса. Аренда 700 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se dvosoban stan površine 51m2 u naselju Zemunske kapije u Zemunu. Stan je komforan, ima odvojenu spavaću sobu i veliku terasu. Uslovi iznajmljivanja su po mogućnosti na duži vremenski period, za parove ili porodice, za nepušače i bez kućnih ljubimaca, uz obavezan depozit u visini jedne mesečne kirije. Stan je useljiv od .",
+  "photos": 9,
+  "added": "2026-11-21",
+  "updated": "2026-11-21"
+ },
+ {
+  "id": "ho-5425647098402",
+  "slug": "ho-5425647098402-izdavanje-stan-dorcol",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: четырёхкомнатная квартира, 112 м², Дорчол, Старый город",
+  "kind": "четырёхкомнатная квартира",
+  "price": 2200,
+  "area": 112,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "opstina-stari-grad",
+  "location": "Дорчол",
+  "street": "Деспота Джурджа",
+  "geo": {
+   "lat": 44.82597,
+   "lng": 20.46001
+  },
+  "facts": [
+   [
+    "Площадь",
+    "112 м²"
+   ],
+   [
+    "Комнат",
+    "4"
+   ],
+   [
+    "Этаж",
+    "2-й"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "гараж",
+   "домофон",
+   "кондиционер",
+   "парковка",
+   "подвал",
+   "терраса",
+   "горячая вода"
+  ],
+  "text": "Сдаётся четырёхкомнатная квартира площадью 112 м² в районе Дорчол (Старый город, Белград). 2-й этаж, с мебелью, в исходном состоянии, дом современной постройки. Есть: не последний этаж, можно въехать сразу, для некурящих, гараж, домофон, кондиционер, парковка, подвал, терраса, горячая вода. Аренда 2 200 € в месяц.",
+  "originalLang": "sr",
+  "original": "Ekskluzivan porodični stan od 112 m², smešten u mirnom i atraktivnom delu Dorćola, idealan za udoban porodični život.\nStan je potpuno nov, moderno opremljen i spreman za odmah useljenje. Sastoji se od tri prostrane spavaće sobe, od kojih je jedna master soba sa sopstvenim kupatilom, dok stan ukupno poseduje dva elegantno uređena kupatila.\nPosebnu vrednost ovom stanu daje prostrana i svetla dnevna soba povezana sa savremeno opremljenom kuhinjom i trpezarijskim delom, stvarajući savršen prostor za porodična okupljanja i svakodnevni užitak.\nPostoji mogućnost iznajmljivanja garažnog mesta, kao i zasebne ostave od 10 m² za odlaganje stvari, uz doplatu.\nRetka prilika za život u jednom od najpoželjnijih delova grada.",
+  "photos": 15,
+  "added": "2026-11-21",
+  "updated": "2026-11-21"
+ },
+ {
   "id": "fz-646776e924b3b3f8d907ea89",
   "slug": "fz-646776e924b3b3f8d907ea89-izdavanje-stan-karaburma",
   "deal": "rent",
