@@ -1,5 +1,717 @@
 [
  {
+  "id": "ho-5425648022192",
+  "slug": "ho-5425648022192-izdavanje-stan-saobracajni-fakultet",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 50 м², Саобрачайни факултет, Вождовац",
+  "kind": "двухкомнатная квартира",
+  "price": 750,
+  "area": 50,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "Саобрачайни факултет",
+  "street": "Войводе Степе",
+  "geo": {
+   "lat": 44.76623,
+   "lng": 20.4819
+  },
+  "facts": [
+   [
+    "Площадь",
+    "50 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "2-й из 14"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 130 € в месяц"
+   ]
+  ],
+  "features": [
+   "гараж",
+   "домофон",
+   "интернет",
+   "лифт",
+   "терраса",
+   "видеонаблюдение",
+   "депозит",
+   "не последний этаж",
+   "для некурящих"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 50 м² в районе Саобрачайни факултет (Вождовац, Белград). 2-й этаж из 14, с мебелью, отопление центральное, люкс, дом современной постройки. Есть: гараж, домофон, интернет, лифт, терраса, видеонаблюдение, депозит, не последний этаж, для некурящих. Аренда 750 € в месяц.",
+  "originalLang": "sr",
+  "original": "Nov, lux, tih i svetao 2.0 stan, potpuno i sa ukusom opremljen modernim nameštajem i kvalitetnom tehnikom i uređajima (TV, klima, frižider, šporet,veš mašina pranje i sušenje, sudo mašina) , escajgom, tanjirima, kuhinjskim aparatima…\nSastoji se od komotne dnevne sobe povezane sa trpezarijom i kuhinjom, spavaće sobe sa garderoberima ,kupatila, ulaznog hodnika i terase.\nOdlično saobraćajno povezan, brz pristup na velike bulevare, autoput. Veliki broj linija javnog prevoza u okruženju(autobus, tramvaj, trolejbus).\nNeposredna blizina Lidla, Idea, DiS, škole, vrtića, Saodraćajnog fakulteta, Fon, Više elektrotehničke škole, na pešačkoj udajenosti od TC Banjica, SC Banjica, pijace..\nMali mesečni troškovi režija, grejanje po potrošnji.\nIsključivo nepušačima i bez kućnih ljubimaca. Useljiv 05.12.\nKondominijum sa sopstvenim dvorištem, obezbeđebje je 24/7.\nOpciono garažno mesto 100eur.\nNew, lux, quiet and bright 2.0 apartment, completely and tastefully equipped with modern furniture and quality appliances and appliances (TV, air conditioner, refrigerator, stove, washing machine, washer and dryer, dishwasher), cutlery, plates, kitchen appliances...\nIt consists of a comfortable living room connected to the dining room and kitchen, a bedroom with wardrobes, a bathroom, an entrance hall and a terrace.\nExcellent traffic connection, quick access to major boulevards, highway. A large number of public transport lines in the area (bus, tram, trolleybus).\nIn the immediate vicinity of Lidl, Idea, DiS, schools, kindergartens, the Co-operation Faculty, Fon, Higher Electrical Engineering School, within walking distance of TC Banjica, SC Banjica, the market...\nLow monthly utility costs, heating according to consumption.\nExclusively for non-smokers and no pets. Available 05.12.\nCondominium with its own yard, security 24/7.\nOptional garage space 100eur.",
+  "photos": 13,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "ho-5425646540737",
+  "slug": "ho-5425646540737-prodaja-stan-stara-bezanija",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: двухкомнатная квартира, 39 м², Стара Бежания, Новый Белград",
+  "kind": "двухкомнатная квартира",
+  "price": 106000,
+  "area": 39,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Стара Бежания",
+  "street": "Алексе Дундича",
+  "geo": {
+   "lat": 44.80928,
+   "lng": 20.37052
+  },
+  "facts": [
+   [
+    "Площадь",
+    "39 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "полуподвал из 1"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "можно въехать сразу"
+  ],
+  "text": "Продаётся двухкомнатная квартира площадью 39 м² в районе Стара Бежания (Новый Белград, Белград). Полуподвал этаж из 1, отопление автономное, после ремонта, старый фонд. Есть: не последний этаж, можно въехать сразу. Цена 106 000 €.",
+  "originalLang": "sr",
+  "original": "Потпуно реновиран стан, укључујући водо и електро инсталације, подове, спољну и унутрашњу столарију, изолациу технику, електронику и намештај. Састоји се од две собе, купатила, кухиње, предсобља и дегажмана. Тространо оријентисан, са прозорима на југу и северу. Засебан улаз у кући у мирном делу Старе Бежаније.",
+  "photos": 14,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "ho-5425645292031",
+  "slug": "ho-5425645292031-izdavanje-stan-borca",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 40 м², Борча, Палилула",
+  "kind": "1,5-комнатная квартира",
+  "price": 400,
+  "area": 40,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Борча",
+  "street": "Братства и Единства 71",
+  "geo": {
+   "lat": 44.88236,
+   "lng": 20.45482
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "2-й из 4"
+   ],
+   [
+    "Отопление",
+    "норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 40 м² в районе Борча (Палилула, Белград). 2-й этаж из 4, с мебелью, отопление норвежские радиаторы, люкс, дом современной постройки. Есть: можно въехать сразу, домофон, интернет, кабельное ТВ, кондиционер, терраса, видеонаблюдение. Аренда 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "Kompletno namesten i ekonomican stan sa dve sobe na vrlo lepoj lokaciji u Borci, u zgradi u ulici Bratstva i Jedinstva, u zgradi iznad kineske robne kuce Shangai, samom centru Borce. Nov namestaj: LCD TV, klima klasa A za grejanje i hladjenje sa malom potrosnjom struje, ves masina itd.\n\nStan ima lepu ugaonu garnituru i bracni krevet. Vrlo je topao i veoma lako se greje sa klimom koja trosi malo struje.\n\nOpticki Internet i KATV (odlican paket Supernove). Ukupni troskovi za KATV, Internet i Infostan su 2500din. Struja je koliko se potrosi. U cenu stana je ukljuceno kompletno odrzavanje elektricnih uredjaja ili majstora ukoliko se ukaze potreba.\n\nStan se nalazi oko 100m od stanice 95, i na samoj stanici 96 i 85. Useljiv odmah",
+  "photos": 15,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "ho-5425648018006",
+  "slug": "ho-5425648018006-izdavanje-stan-prvomajska",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 3,5-комнатная квартира, 70 м², Првомайска, Земун",
+  "kind": "3,5-комнатная квартира",
+  "price": 720,
+  "area": 70,
+  "rooms": 3.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Првомайска",
+  "street": "Првомайска",
+  "geo": {
+   "lat": 44.84257,
+   "lng": 20.38886
+  },
+  "facts": [
+   [
+    "Площадь",
+    "70 м²"
+   ],
+   [
+    "Комнат",
+    "3,5"
+   ],
+   [
+    "Этаж",
+    "19-й из 22"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 180 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "домофон",
+   "интернет",
+   "кондиционер",
+   "лифт",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся 3,5-комнатная квартира площадью 70 м² в районе Првомайска (Земун, Белград). 19-й этаж из 22, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу, домофон, интернет, кондиционер, лифт, терраса, горячая вода, видеонаблюдение. Аренда 720 € в месяц.",
+  "originalLang": "sr",
+  "original": "",
+  "photos": 9,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "fz-6b02ac549760d3a7e702da5c",
+  "slug": "fz-6b02ac549760d3a7e702da5c-izdavanje-stan-zemun-polje",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 35 м², Земун Поле, Земун",
+  "kind": "1,5-комнатная квартира",
+  "price": 300,
+  "area": 35,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "Земун Поле",
+  "street": "Елия Финция 22A",
+  "geo": {
+   "lat": 44.87375,
+   "lng": 20.32939
+  },
+  "facts": [
+   [
+    "Площадь",
+    "35 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Отопление",
+    "электрическое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "кондиционер"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 35 м² в районе Земун Поле (Земун, Белград). С мебелью, отопление электрическое. Есть: кондиционер. Аренда 300 € в месяц.",
+  "originalLang": "sr",
+  "original": "Jednoiposoban stan u zgradi za izdavanje, Namešteno, Zemun Polje, 35 m2, na 3. spratu. Stanje - Novo, Struja, ima kupatilo, ima toalet.",
+  "photos": 9,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "fz-6ac0f5b1049756477e0ee829",
+  "slug": "fz-6ac0f5b1049756477e0ee829-prodaja-stan-krnjaca",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 1,5-комнатная квартира, 39 м², Крняча, Палилула",
+  "kind": "1,5-комнатная квартира",
+  "price": 73000,
+  "area": 39,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "Крняча",
+  "street": "Сутеска Блок 6C",
+  "geo": {
+   "lat": 44.85102,
+   "lng": 20.46671
+  },
+  "facts": [
+   [
+    "Площадь",
+    "39 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "2-й из 3"
+   ],
+   [
+    "Отопление",
+    "автономное, электрическое, кондиционер, аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "частично меблирована"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся 1,5-комнатная квартира площадью 39 м² в районе Крняча (Палилула, Белград). 2-й этаж из 3, частично меблирована, отопление автономное, электрическое, кондиционер, аккумуляционные печи. Цена 73 000 €.",
+  "originalLang": "sr",
+  "original": "Jednoiposoban stan u zgradi za prodaju, u procesu uknjižavanja, Krnjača, 39 m2, na 2. spratu. Stanje - Uobičajeno, Etažno, ima terasu, ima kupatilo.",
+  "photos": 11,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "fz-6a7780557e5ad5b36604e179",
+  "slug": "fz-6a7780557e5ad5b36604e179-prodaja-stan-usce",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: однокомнатная квартира, 29 м², Ушче, Новый Белград",
+  "kind": "однокомнатная квартира",
+  "price": 145000,
+  "area": 29,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "novi-beograd",
+  "location": "Ушче",
+  "street": "Булевар Михайла Пупина",
+  "geo": {
+   "lat": 44.81817,
+   "lng": 20.42659
+  },
+  "facts": [
+   [
+    "Площадь",
+    "29 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "5-й из 5"
+   ],
+   [
+    "Отопление",
+    "центральное, кондиционер"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся однокомнатная квартира площадью 29 м² в районе Ушче (Новый Белград, Белград). 5-й этаж из 5, с мебелью, отопление центральное, кондиционер. Цена 145 000 €.",
+  "originalLang": "sr",
+  "original": "Jednosoban stan u zgradi za prodaju, uknjižen, Ušće, 29 m2, na 5. spratu. Stanje - Renovirano, Centralno, ima terasu, ima kupatilo.",
+  "photos": 15,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "fz-6a778a760a569f0b55040f1a",
+  "slug": "fz-6a778a760a569f0b55040f1a-prodaja-stan-sarajevska",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: однокомнатная квартира, 33 м², Сараевска, Савски-Венац",
+  "kind": "однокомнатная квартира",
+  "price": 115000,
+  "area": 33,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "savski-venac",
+  "location": "Сараевска",
+  "street": "Сараевска",
+  "geo": {
+   "lat": 44.8026,
+   "lng": 20.45382
+  },
+  "facts": [
+   [
+    "Площадь",
+    "33 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи, электрическое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся однокомнатная квартира площадью 33 м² в районе Сараевска (Савски-Венац, Белград). С мебелью, отопление аккумуляционные печи, электрическое. Цена 115 000 €.",
+  "originalLang": "sr",
+  "original": "Jednosoban stan u dvorištu za prodaju, uknjižen, Sarajevska, 33 m2. Stanje - Renovirano, TA peć, ima kupatilo.",
+  "photos": 7,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "fz-6b01c83375cb936f9809cc85",
+  "slug": "fz-6b01c83375cb936f9809cc85-izdavanje-stan-lekino-brdo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 55 м², Лекино Брдо, Вождовац",
+  "kind": "2,5-комнатная квартира",
+  "price": 850,
+  "area": 55,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Лекино Брдо",
+  "street": "Тетовска 36",
+  "geo": {
+   "lat": 44.78964,
+   "lng": 20.483
+  },
+  "facts": [
+   [
+    "Площадь",
+    "55 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 55 м² в районе Лекино Брдо (Вождовац, Белград). С мебелью, отопление автономное. Аренда 850 € в месяц.",
+  "originalLang": "sr",
+  "original": "Dvoiposoban stan u zgradi za izdavanje, Namešteno, Lekino Brdo, 55 m2, na 3. spratu, ima lift. Stanje - Uobičajeno, Etažno, ima terasu, ima kupatilo. Ima parking mesto. Ima garažno mesto u sklopu zgrade.",
+  "photos": 10,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "ho-5425648017989",
+  "slug": "ho-5425648017989-prodaja-stan-plavi-horizonti",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: двухкомнатная квартира, 62 м², Плави хоризонти, Земун",
+  "kind": "двухкомнатная квартира",
+  "price": 148800,
+  "area": 62,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Плави хоризонти",
+  "street": "Курирска",
+  "geo": {
+   "lat": 44.85918,
+   "lng": 20.32749
+  },
+  "facts": [
+   [
+    "Площадь",
+    "62 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "1-й из 2"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "гараж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся двухкомнатная квартира площадью 62 м² в районе Плави хоризонти (Земун, Белград). 1-й этаж из 2, отопление автономное, люкс, дом современной постройки. Есть: гараж, домофон, интернет, кабельное ТВ, кондиционер, парковка, терраса, видеонаблюдение. Цена 148 800 €.",
+  "originalLang": "sr",
+  "original": "Direktno od investitora i bez provizije na prodaju trosoban stana površine 63m2 lociran u vrhunskoj novogradnji iz 2026-e godine. Stan se nalazi na visokom prizemlju objekta i ističe se praktičnim i pravim porodičnim rasporedom kao i komforom.\n\nZgrada je de facto pozicionirana na samoj granici izmedju Plavih Horizonata i Zemun polja tako da se do nje jednostavno i brzo dolazi i sa Novosadskog i sa Zagrebackog auto-puta.\n\nU neposrednoj blizini objekta su supermarket, kafić sa igraonicom, spa sa bazenom, autobuska stanica linija 708 i 709 GSP-a kao i stanica Beovoza. Tržni centri Zemun park, Zmaj, Metro, BN Bos, Kvantaška pijaca…do aerodroma Nikola Tesla treba 10 min, do Beogradske Arene takodje 10 min....\n\nPored fenomenalnog rasporeda, stan i samu zgradu odlikuje izuzetan kvalitet gradnje i ugradjenih zavrsnih materijala i opreme. Demit 12-ica fasada (Austrotherm) obogaćena klinkerima, sestokomorna Rehau pvc stolarija, granitna keramika prve klase, fenkojl (klimatizacioni) uredjaji, sigurnosna kasa brava vrata, klasičan hrastov parket premium klase, bogato opremljena kupatila, kvalitetno i ukusno uredjeni hodnici, senzorska led rasveta, video nadzor, su nesto sto izmedju ostalog izdvajamo i nudimo nasim kupcima...\n\nStanarima je opciono uz doplatu dostupno i mesto na spoljasnjem parkingu zgrade kao i u garazi iste.\n\nU neposrednoj blizini objekta su supermarket i autobuska stanica linija 708 i 709 GSP-a kao i stanica Beovoza.\n\nGrejanje je geotermalno, putem toplotne pumpe (voda-voda) koja dolazi u kombinaciji sa fenkojl klimatizacionim uredjajima (zimi greju, leti hlade) sto predstavlja ubedljivo najrentabilniji vid što zimi grejanja a leti hladjenja (svega 30-ak evra na mesečnom nivou za grejanje i 15-ak za hladjenje za navedenu kvadraturu). \n\nCena za predmetni stan od 63m2 iznosi 2400e plus PDV po m2 na koji kupci prvog stana imaju pravo povrata. \n\nProdaja se vrši direktno od investitora, odnosno kupac ne placa proviziju.\n\nSamo keš kupci za sada.\n\nZa sve dodatne informacije i eventualno zakazivanje termina za posetu objektu pozov",
+  "photos": 3,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "ho-5425648017992",
+  "slug": "ho-5425648017992-izdavanje-stan-borca",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 36 м², Борча, Палилула",
+  "kind": "1,5-комнатная квартира",
+  "price": 480,
+  "area": 36,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Борча",
+  "street": "Трг Ослободеня 12/A",
+  "geo": {
+   "lat": 44.87285,
+   "lng": 20.4565
+  },
+  "facts": [
+   [
+    "Площадь",
+    "36 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "3-й из 4"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 36 м² в районе Борча (Палилула, Белград). 3-й этаж из 4, с мебелью, отопление автономное, в исходном состоянии, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, домофон, интернет, кабельное ТВ, кондиционер, терраса, горячая вода, видеонаблюдение. Аренда 480 € в месяц.",
+  "originalLang": "sr",
+  "original": "Miran porodican kraj. Preko puta je osnovna skola Stevan Sremac, skolsko igraliste. \nBlizina vrtica , autobuska stanica 104, okretnica 95,96,85 na 700m.\nMaxi, SUP, posta, pumpa, menjacnica,pekara, zdrava hrana sve sto je potrebno nalazi se u kraju.\nVeci gradski parking ispred zgrade.Idealno za porodicu sa decom, bracne parove.",
+  "photos": 15,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "ho-5425648017579",
+  "slug": "ho-5425648017579-izdavanje-stan-mirijevo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 60 м², Мириево, Звездара",
+  "kind": "двухкомнатная квартира",
+  "price": 500,
+  "area": 60,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Мириево",
+  "street": "Бранка Чопича",
+  "geo": {
+   "lat": 44.78733,
+   "lng": 20.53824
+  },
+  "facts": [
+   [
+    "Площадь",
+    "60 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "1-й из 5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 120 € в месяц"
+   ]
+  ],
+  "features": [
+   "гараж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "терраса",
+   "депозит"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 60 м² в районе Мириево (Звездара, Белград). 1-й этаж из 5, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: гараж, домофон, интернет, кабельное ТВ, кондиционер, лифт, терраса, депозит. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Odlican stan, potpuno namesten u mirnom delu Mirijeva.",
+  "photos": 12,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
   "id": "ho-5425648017541",
   "slug": "ho-5425648017541-izdavanje-stan-gornji-grad",
   "deal": "rent",
