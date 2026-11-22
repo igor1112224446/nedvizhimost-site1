@@ -18,7 +18,7 @@ const read = (p, d) => { try { return JSON.parse(fs.readFileSync(path.join(ROOT,
 const SITE = {
   name: 'Недвижимость Сербии: покупка и аренда',
   url: '',
-  tg: 'Rentch_srb',
+  tg: 'rentch_service',
   phone: '+381 61 215 98 64',
   whatsapp: '+381612159864',
   channel: 'rentch_serbia',

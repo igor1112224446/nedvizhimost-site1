@@ -70,7 +70,7 @@ async function submit(request, env, ctx) {
   return json({ ok: true });
 }
 
-// Заявки клиентов: запись на просмотр и подбор. Уходят в TG_LEADS (например, личный чат @Rentch_srb), иначе в TG_CHAT.
+// Заявки клиентов: запись на просмотр и подбор. Уходят в TG_LEADS (например, личный чат @rentch_service), иначе в TG_CHAT.
 async function lead(request, env, ctx) {
   if (request.method !== 'POST') return json({ error: 'Метод не поддерживается' }, 405);
   const chat = env.TG_LEADS || env.TG_CHAT;
