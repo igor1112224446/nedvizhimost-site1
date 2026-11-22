@@ -1,5 +1,50 @@
 [
  {
+  "id": "og-03-4014974",
+  "slug": "og-03-4014974-izdavanje-stan-bele-vode",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 45 м², Беле воде, Чукарица",
+  "kind": "двухкомнатная квартира",
+  "price": 400,
+  "area": 45,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "cukarica",
+  "location": "Беле воде",
+  "street": "Здравка Йовановича",
+  "geo": null,
+  "facts": [
+   [
+    "Площадь",
+    "45 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "2-й"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ]
+  ],
+  "features": [
+   "терраса"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 45 м² в районе Беле воде (Чукарица, Белград). 2-й этаж, без мебели. Есть: терраса. Аренда 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "🏡 IZDAJE SE DVOSOBAN STAN – BELE VODE, 45 m²\n\n💶 Cena: 400 € mesečno\n\nIzdaje se svetao, prazan, sveže okrečen dvosoban stan površine 45 m², na drugom spratu stambene zgrade, na odličnoj lokaciji u naselju Bele Vode, u neposrednoj blizini stanice gradskog prevoza.\n\nStan se sastoji od:\n\nDve sobe\n Kuhinje sa kuhinjskim elementima\n Novog, renoviranog kupatila\n Dve terase\n✅ PVC stolarija\n\n✅ Trostrano orijentisan, svetao i prozračan\n\n✅ Sveže okrečen\n\n✅ Renovirano kupatilo\n\n✅ Grejanje na TA peć\n\n✅ Dobra lokacija i povezanost sa ostatkom grada\n\nStan se izdaje nenamеšten, sa kuhinjskim elementima, bez bele tehnike.\n\n📞\nZa više informacija i dogovor oko razgledanja, pozvati nakon 17 časova.",
+  "photos": 10,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
   "id": "kp-173805130",
   "slug": "kp-173805130-izdavanje-kuca-openstreetmap-contributors",
   "deal": "rent",
