@@ -712,6 +712,222 @@
   "updated": "2026-11-22"
  },
  {
+  "id": "ho-5425647848433",
+  "slug": "ho-5425647848433-izdavanje-stan-mirijevo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 30 м², Мириево, Звездара",
+  "kind": "1,5-комнатная квартира",
+  "price": 450,
+  "area": 30,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Мириево",
+  "street": "Арилячка",
+  "geo": {
+   "lat": 44.78486,
+   "lng": 20.53111
+  },
+  "facts": [
+   [
+    "Площадь",
+    "30 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "1-й из 3"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 50 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "подходит студентам",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 30 м² в районе Мириево (Звездара, Белград). 1-й этаж из 3, с мебелью, отопление автономное, в исходном состоянии, дом современной постройки. Есть: депозит, не последний этаж, подходит студентам, домофон, интернет, кабельное ТВ, кондиционер, парковка, терраса, горячая вода, видеонаблюдение. Аренда 450 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se potpuno namešten i funkcionalan jednoiposoban stan od 30 m², sa odvojenom spavaćom sobom. Stan je spreman za useljenje od 1. decembra 2026. godine.\nNalazi se na svega 150 metara od marketa i autobuskog stajališta linija 20 i 79. Brzi optički internet (300 Mbps) uključen je u cenu zakupa.\nGrejanje je etažno, na električni kotao, uz ekonomičnu potrošnju. Mesečni troškovi su niski: održavanje zgrade iznosi oko 1.100 RSD, Infostan takođe oko 1.100 RSD, dok se električna energija plaća prema potrošnji.\nStan je idealan za jednu osobu ili par. Prilikom useljenja obavezan je depozit u visini jedne mesečne kirije.\nZa dodatne informacije i dogovor oko razgledanja stana",
+  "photos": 14,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "ho-5425643372156",
+  "slug": "ho-5425643372156-izdavanje-stan-kluz",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 50 м², Клуз, Звездара",
+  "kind": "двухкомнатная квартира",
+  "price": 450,
+  "area": 50,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Клуз",
+  "street": "зивка давидовица, 31",
+  "geo": {
+   "lat": 44.79073,
+   "lng": 20.5117
+  },
+  "facts": [
+   [
+    "Площадь",
+    "50 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "1-й из 1"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "подходит студентам",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "терраса"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 50 м² в районе Клуз (Звездара, Белград). 1-й этаж из 1, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: депозит, можно въехать сразу, подходит студентам, домофон, интернет, кабельное ТВ, кондиционер, терраса. Аренда 450 € в месяц.",
+  "originalLang": "sr",
+  "original": "Rezije se ne placaju\n\nIzdaje se iskljucivo devojkama\n\nZa vise informacije pozovite na",
+  "photos": 8,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "ho-5425648017568",
+  "slug": "ho-5425648017568-izdavanje-stan-zemunske-kapije",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 35 м², Земунске капие, Земун",
+  "kind": "однокомнатная квартира",
+  "price": 500,
+  "area": 35,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Земунске капие",
+  "street": "Шумадийска",
+  "geo": {
+   "lat": 44.85604,
+   "lng": 20.38242
+  },
+  "facts": [
+   [
+    "Площадь",
+    "35 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "5-й из 7"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 120 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "домофон",
+   "интернет",
+   "камин",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 35 м² в районе Земунске капие (Земун, Белград). 5-й этаж из 7, с мебелью, отопление центральное, люкс, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, домофон, интернет, камин, кабельное ТВ, кондиционер, лифт, терраса, видеонаблюдение. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Zemunske kapije – Moderan i svetao jednosoban stan, 35m²\nIzdaje se funkcionalan i izuzetno svetao jednosoban stan površine 35m² u modernom stambeno-poslovnom kompleksu Zemunske kapije.\nStan je odlično organizovan, sa maksimalno iskorišćenim prostorom i obiljem prirodne svetlosti tokom celog dana.\nOsnovne karakteristike:\nLokacija: Zemunske kapije, Zemun\nPovršina: 35m²\nStruktura: Jednosoban (dnevni boravak sa kuhinjom i trpezarijom, kupatilo, terasa/lođa)\nOsvetljenost: Izuzetno svetao, sa velikim prozorskim površinama\nDodatne pogodnosti:\nKvalitetna novogradnja sa video nadzorom i uredno održavanim ulazom\nU sklopu kompleksa nalaze se prodavnice, kafići, apoteke, dečija igrališta i svi sadržaji potrebni za udoban svakodnevni život\nOdlična povezanost sa svim delovima grada i brz izlaz na autoput\nStan je idealan za samce ili parove koji traže mirno, bezbedno i moderno okruženje.",
+  "photos": 9,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
   "id": "ho-5425648017541",
   "slug": "ho-5425648017541-izdavanje-stan-gornji-grad",
   "deal": "rent",
