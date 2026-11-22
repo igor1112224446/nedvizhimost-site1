@@ -67,7 +67,7 @@
   "text": "Сдаётся 5-комнатная квартира площадью 140 м² в районе © ОпенСтреетМап цонтрибуторс (Звездара, Белград). 6-й этаж из 7, с мебелью, отопление центральное, после ремонта, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, терраса, подвал, кабельное ТВ, двухуровневая, кондиционер, видеонаблюдение, лифт, парковка, гараж, депозит. Аренда 1 600 € в месяц.",
   "originalLang": "sr",
   "original": "Izvrstan stan za zivot ili biznis",
-  "photos": 11,
+  "photos": 14,
   "added": "2026-11-22",
   "updated": "2026-11-22"
  },
@@ -1619,6 +1619,75 @@
   "text": "Сдаётся однокомнатная квартира площадью 25 м² в районе Црвени крст (Врачар, Белград). Полуподвал этаж из 3, с мебелью, отопление норвежские радиаторы, после ремонта, старый фонд. Есть: кабельное ТВ, кондиционер, горячая вода, депозит, можно въехать сразу. Аренда 300 € в месяц.",
   "originalLang": "sr",
   "original": "Apartman 25 m2 Renoviran, suv , izolovan, ima prozor gleda na ulicu, opremljen, topao, grejanje i hladjenje na klimu. Ušuškan \nUlaz na posebnu kapiju, koja se zaključava\nMiran. \nIzdaje se od 1 decembra \nZa JEDNU OSOBU",
+  "photos": 9,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "ho-5425648024878",
+  "slug": "ho-5425648024878-izdavanje-stan-mirijevo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 40 м², Мириево, Звездара",
+  "kind": "1,5-комнатная квартира",
+  "price": 360,
+  "area": 40,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Мириево",
+  "street": "Драголюба Ристича",
+  "geo": {
+   "lat": 44.79249,
+   "lng": 20.52146
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "2-й из 4"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 40 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "кондиционер",
+   "терраса"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 40 м² в районе Мириево (Звездара, Белград). 2-й этаж из 4, с мебелью, отопление автономное, в исходном состоянии, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, кондиционер, терраса. Аренда 360 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se potpuno namešten i funkcionalan jednoiposoban stan od 40m2, sa odvojenom spavaćom sobom. Stan je odmah useljiv.Nalazi se na sve 150m od autobuskog stajališta linija 46, 27, 27e. Sedam minuta laganog hoda do Bulevara. Stan je veoma svetao, dvostrano orjentisan i kompletno namešten (šporet, frižider,veš mašina, klima uredjaj..). Grejanje je etažno, na električni kotao uz ekonomičnu potrošnju. Depozit je u iznosu mesečne kirije.",
   "photos": 9,
   "added": "2026-11-22",
   "updated": "2026-11-22"
