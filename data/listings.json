@@ -1,5 +1,525 @@
 [
  {
+  "id": "kp-197479921",
+  "slug": "kp-197479921-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 42 м², © ОпенСтреетМап цонтрибуторс, Чукарица",
+  "kind": "двухкомнатная квартира",
+  "price": 650,
+  "area": 42,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "cukarica",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Паштровичева",
+  "geo": {
+   "lat": 44.7866,
+   "lng": 20.41933
+  },
+  "facts": [
+   [
+    "Площадь",
+    "42 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "5-й из 8"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "домофон",
+   "терраса",
+   "кондиционер",
+   "энергопаспорт",
+   "видеонаблюдение",
+   "лифт",
+   "доступ для колясок",
+   "гараж",
+   "депозит"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 42 м² в районе © ОпенСтреетМап цонтрибуторс (Чукарица, Белград). 5-й этаж из 8, с мебелью, отопление автономное, дом современной постройки. Есть: можно въехать сразу, домофон, терраса, кондиционер, энергопаспорт, видеонаблюдение, лифт, доступ для колясок, гараж, депозит. Аренда 650 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se potpuno nov, moderno opremljen dvosoban stan od 42 m² na Banovom brdu, u neposrednoj blizini Ada Mall-a.\n\nStan se sastoji od dnevne sobe sa kuhinjom, odvojene spavaće sobe, kupatila i manje terase.\n\nNalazi se na 5. spratu (od ukupno 8 ) u novogradnji, preko puta Hipodroma, na odličnoj lokaciji u blizini Ade Ciganlije i svih neophodnih sadržaja.\n\nStan do sada nije bio useljavan i izdaje se potpuno namešten i opremljen. Sav nameštaj i bela tehnika su novi, uključujući krevet i dušek. Stan poseduje i kompletno kuhinjsko posuđe i sve što je potrebno za udoban svakodnevni život.\n\n* Pogodan za maksimalno dve osobe\n\n* Mogućnost iznajmljivanja parking mesta u podzemnoj garaži zgrade\n\nCena zakupa: 650 € mesečno.",
+  "photos": 9,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "kp-196043182",
+  "slug": "kp-196043182-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 3,5-комнатная квартира, 70 м², © ОпенСтреетМап цонтрибуторс, Земун",
+  "kind": "3,5-комнатная квартира",
+  "price": 720,
+  "area": 70,
+  "rooms": 3.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "",
+  "geo": {
+   "lat": 44.84178,
+   "lng": 20.38671
+  },
+  "facts": [
+   [
+    "Площадь",
+    "70 м²"
+   ],
+   [
+    "Комнат",
+    "3,5"
+   ],
+   [
+    "Этаж",
+    "19-й из 22"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "доступ для колясок"
+  ],
+  "text": "Сдаётся 3,5-комнатная квартира площадью 70 м² в районе © ОпенСтреетМап цонтрибуторс (Земун, Белград). 19-й этаж из 22, с мебелью, отопление центральное, старый фонд. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, кондиционер, лифт, доступ для колясок. Аренда 720 € в месяц.",
+  "originalLang": "sr",
+  "original": "IZDAJE SE PROSTRAN I SVETAO STAN U ZEMUNU – PRVOMAJSKA\n\nIzdaje se prostran, svetao i funkcionalan stan od 70 m² u Prvomajskoj ulici u Zemunu.  \n\nStan je namešten, odličnog rasporeda i spreman za useljenje.  Soliter u kome se stan nalazi ima tri lifta i pokrivenost kamerama. Ispred zgrade je veliki parking.  \n\nSastoji se od:  \n• dnevne sobe\n• trpezarije\n• kuhinje\n• spavaće sobe\n• dodatne sobe koja može služiti kao dečija, gostinska ili radna\n• dodatnog radnog kutka\n• kupatila sa kadom\n• odvojenog WC-a\n• hodnika\n• prostrane terase\n• ostave\n\nStan se nalazi na dobro povezanoj lokaciji u Zemunu, sa svim sadržajima potrebnim za svakodnevni život u neposrednoj blizini.  \n\nIzdaje se na duži period, minimum godinu dana.  \n\nCena: 720 € mesečno + troškovi\n\nZa dodatne informacije i dogovor oko gledanja stana, pošaljite poruku ili pozovite na navedeni broj telefona.",
+  "photos": 10,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "kp-196272779",
+  "slug": "kp-196272779-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 62 м², © ОпенСтреетМап цонтрибуторс, Земун",
+  "kind": "2,5-комнатная квартира",
+  "price": 630,
+  "area": 62,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Двадесетдругог Октобра 8A",
+  "geo": {
+   "lat": 44.83812,
+   "lng": 20.41516
+  },
+  "facts": [
+   [
+    "Площадь",
+    "62 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "2-й из 6"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "кондиционер",
+   "лоджия",
+   "лифт"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 62 м² в районе © ОпенСтреетМап цонтрибуторс (Земун, Белград). 2-й этаж из 6, с мебелью, отопление центральное, старый фонд. Есть: можно въехать сразу, интернет, домофон, кондиционер, лоджия, лифт. Аренда 630 € в месяц.",
+  "originalLang": "sr",
+  "original": "IZDAVANJE – ZEMUN, 22. OKTOBRA | 62 m² | LIFT | LOĐA | 630 €\n\nIzdaje se kompletno namešten i opremljen stan od 62 m², na odličnoj lokaciji u samom centru Zemuna, u ulici 22. oktobra, na svega 5 minuta hoda od Zemunskog keja.  \n\nStan se nalazi na 2. spratu zgrade sa liftom i odlikuje se veoma funkcionalnim rasporedom, sa više zasebnih celina koje omogućavaju udoban život, rad od kuće i dovoljno prostora za odlaganje.  \n\nStruktura i opremljenost:  \n\nDnevna soba sa kaučem**\nSpavaća soba sa bračnim krevetom\nKuhinja sa trpezarijskim delom\nDodatni prostor pogodan za rad od kuće ili veću trpezariju\nZatvorena lođa\nKupatilo\nZasebna prostorija za veš-mašinu\nOstava\nHodnik sa ugradnim plakarima\n\n**Kauč u dnevnoj sobi nije dovoljno dugačak za spavanje i ne razvlači se\n\nStan je uredan, održavan, potpuno namešten i spreman za useljenje.  \n\nLokacija je jedna od njegovih najvećih prednosti. U neposrednoj blizini nalaze se Zemunski kej, šetalište, restorani, kafići, prodavnice, škole, vrtići, pijaca i sadržaji potrebni za svakodnevni život. Lokacija je jako dobro povezana sa ostalim delovima Beograda.  \n\nStan je pogodan za pojedince, parove ili porodice, kao i za zakupce kojima je važna mogućnost rada od kuće.  \n\nCena: 630 € mesečno + 170€ (prosek režijskih troškova u prethodnih 12 meseci - infostan, struja i optički internet brzine 400Mbit/S).  \n\nMinimalni period zakupa: 12 meseci.  \n\nZa dodatne informacije i dogovor oko razgledanja, kontakt putem poruka ili telefona.",
+  "photos": 15,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "kp-197493393",
+  "slug": "kp-197493393-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 53 м², © ОпенСтреетМап цонтрибуторс, Палилула",
+  "kind": "двухкомнатная квартира",
+  "price": 650,
+  "area": 53,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Булевар Деспота Стефана",
+  "geo": {
+   "lat": 44.81708,
+   "lng": 20.47475
+  },
+  "facts": [
+   [
+    "Площадь",
+    "53 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "7-й из 7"
+   ],
+   [
+    "Отопление",
+    "кондиционер, электрическое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "домофон",
+   "кабельное ТВ",
+   "кондиционер",
+   "депозит"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 53 м² в районе © ОпенСтреетМап цонтрибуторс (Палилула, Белград). 7-й этаж из 7, с мебелью, отопление кондиционер, электрическое, в исходном состоянии, старый фонд. Есть: интернет, домофон, кабельное ТВ, кондиционер, депозит. Аренда 650 € в месяц.",
+  "originalLang": "sr",
+  "original": "Dvosoban stan od 53m2 u odličnom stanju, na poslednjem spratu održavane zgrade. Stan se nalazi u Bulevaru despota Stefana okrenut ka Dunavu i izdaje se namešten.  \n\nSlobodan od 1.12.2026.",
+  "photos": 9,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "kp-197497781",
+  "slug": "kp-197497781-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 50 м², © ОпенСтреетМап цонтрибуторс, Новый Белград",
+  "kind": "двухкомнатная квартира",
+  "price": 650,
+  "area": 50,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "novi-beograd",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Юрия Гагарина",
+  "geo": {
+   "lat": 44.79926,
+   "lng": 20.37409
+  },
+  "facts": [
+   [
+    "Площадь",
+    "50 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "приземный"
+   ],
+   [
+    "Отопление",
+    "центральное, кондиционер"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ]
+  ],
+  "features": [
+   "домофон",
+   "терраса",
+   "кондиционер",
+   "депозит"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 50 м² в районе © ОпенСтреетМап цонтрибуторс (Новый Белград, Белград). Приземный этаж, с мебелью, отопление центральное, кондиционер, после ремонта. Есть: домофон, терраса, кондиционер, депозит. Аренда 650 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se namešten stan 50 m² – TOP lokacija, Blok 61 (Jurija Gagarina)\n\nIzdaje se kompletno namešten, funkcionalan i prijatan stan od 50 m² na odličnoj lokaciji u Bloku 61 (ulica Jurija Gagarina), u mirnom i uređenom kraju Novog Beograda. Stan krasi nov nameštaj, slobodan je od 1.12. , a izdaje ga direktno vlasnik.   \n\nRaspored prostorija:  \n\n Dnevna soba: prostrana i ugodna, sa novom rasklopivom Simpo ugaonom garniturom (pogodnom za dve osobe) i direktnim izlazom u dvorište.   \n\n Spavaća soba: manja soba sa krevetom (širine oko 90 cm) i dva plakara (jedan sa ogledalom na kliznim vratima), opremljena novim nameštajem.   \n\n Kuhinja i zastakljena lođa: kuhinja ima izlaz na lođu zatvorenu PVC stolarijom, odakle se dalje izlazi u dvorište i prostor sa nadstrešnicom.   \n\nZgrada, grejanje i troškovi:  \n\n Uredna zgrada sa interfonom, okružena zelenilom i dvorišnim delom sa nadstrešnicom.   \n\n PVC stolarija i klima uređaj.   \n\n Centralno grejanje.   \n\n Infostan oko 6.000 RSD (sa uključenim grejanjem).   \n\nLokacija i kraj:  \n\nTop lokacija u blokovima — savršena kombinacija mirnog kutka sa dvorištem i nadstrešnicom, a opet svega nekoliko koraka od svega što treba svakodnevno: marketa, pekara, prodavnica, kafića, šetališta i odličnih linija gradskog prevoza.   \n\n Cena: 650€ mesečno\n\n Slobodan od: 1.12.   \n\n Kontakt: Branka 060*0765047",
+  "photos": 12,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "ho-5425648024068",
+  "slug": "ho-5425648024068-izdavanje-stan-bezanijska-kosa-3",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 40 м², Бежанийска коса 3, Новый Белград",
+  "kind": "однокомнатная квартира",
+  "price": 400,
+  "area": 40,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Бежанийска коса 3",
+  "street": "Неде Спасоевич",
+  "geo": {
+   "lat": 44.81319,
+   "lng": 20.36998
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "2-й из 4"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 60 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "домофон",
+   "интернет",
+   "кондиционер",
+   "лифт",
+   "терраса",
+   "горячая вода"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 40 м² в районе Бежанийска коса 3 (Новый Белград, Белград). 2-й этаж из 4, с мебелью, отопление центральное, после ремонта, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, домофон, интернет, кондиционер, лифт, терраса, горячая вода. Аренда 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajemo lep stan na Bezanijskoj kosi od 40 kvadrata.\nNije sto je nas, ali stvarno je lep, topao zimi, ususkan, sa terasom i lepim svetlom. Ima bas zgodnu ostavu, samo za pozeleti. \n\nMozemo se oko svega dogovoriti. Do sada smo imali stanare koji su duze ostajali, tako da smo lagani za dogovor.\nTrazimo depozit u visini jedne kirije. \nJavite se da pogledate",
+  "photos": 10,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "ho-5425635812924",
+  "slug": "ho-5425635812924-izdavanje-stan-borca",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 3,5-комнатная квартира, 80 м², Борча, Палилула",
+  "kind": "3,5-комнатная квартира",
+  "price": 550,
+  "area": 80,
+  "rooms": 3.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Борча",
+  "street": "Езевицка 1",
+  "geo": {
+   "lat": 44.88742,
+   "lng": 20.46422
+  },
+  "facts": [
+   [
+    "Площадь",
+    "80 м²"
+   ],
+   [
+    "Комнат",
+    "3,5"
+   ],
+   [
+    "Этаж",
+    "приземный из 3"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "для некурящих",
+   "гараж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лоджия",
+   "парковка",
+   "с садом",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся 3,5-комнатная квартира площадью 80 м² в районе Борча (Палилула, Белград). Приземный этаж из 3, с мебелью, отопление центральное, люкс, дом современной постройки. Есть: депозит, можно въехать сразу, для некурящих, гараж, домофон, интернет, кабельное ТВ, кондиционер, лоджия, парковка, с садом, терраса, горячая вода, видеонаблюдение. Аренда 550 € в месяц.",
+  "originalLang": "sr",
+  "original": "Nov lux namesten stan povrsine 80m2 sastoji se od 2 spavace sobe, predsoblje, kuhinja i trpezarija, dnevna soba, kupatilo, terasa 9m2 ; nalazi se u Borci na 300m od trznog centra Shopi i 100m od Zrenjaninskog puta ;\n\nprizemlje zgrade sa upotrebom dvorista i garaze ( dodatno se placa 100e mesecno garazno mesto) cena 550e ( depozit obavezan 550e ) + racuni +grejanje u zimskom periodu nije ukljuceno u cenu zakupa \n( varijanta na pelet ili na struju inverter klime ) \n\n iskljucivo uz ugovor na 6 meseci ili 12 meseci perioda, bez kucnih ljubimaca bilo kakve vrste, stan poseduje dve inverter klime; video nadzor; alarm; podno i cg grejanje( daljinsko na pelet ) ; svaka soba sa TV ; djakuzi\n\nkada +tus kabina; Bosh tehnika komplet u stanu; elektro roletne;medijapan kuhinja ( ves i sudo masina; mikrotalasna , ploca za kuvanje i rerna ; frizider; kuvalo ) medijapan ormari sa led svetlima unutra; interfon;\n\ninternet; kablovska ; maksimalno 4 osobe mogu ziveti u stanu.\nStan je komplet novo okrecen ; namestaj dubinski opran i ocisceno sve komplet.",
+  "photos": 15,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "ho-5425647718441",
+  "slug": "ho-5425647718441-prodaja-stan-fontana",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 2,5-комнатная квартира, 73 м², Фонтана, Новый Белград",
+  "kind": "2,5-комнатная квартира",
+  "price": 289999,
+  "area": 73,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Фонтана",
+  "street": "Народних хероя",
+  "geo": {
+   "lat": 44.82499,
+   "lng": 20.40747
+  },
+  "facts": [
+   [
+    "Площадь",
+    "73 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "3-й из 9"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "можно въехать сразу",
+   "есть право собственности",
+   "домофон",
+   "кондиционер",
+   "лифт",
+   "лоджия",
+   "подвал"
+  ],
+  "text": "Продаётся 2,5-комнатная квартира площадью 73 м² в районе Фонтана (Новый Белград, Белград). 3-й этаж из 9, отопление центральное, после ремонта, старый фонд. Есть: не последний этаж, можно въехать сразу, есть право собственности, домофон, кондиционер, лифт, лоджия, подвал. Цена 289 999 €.",
+  "originalLang": "sr",
+  "original": "Dvoiposoban stan 73 m² sa lođom, Fontana – renoviran, namešten, pogled na park\n\nProdaje se renoviran i kompletno namešten dvoiposoban stan od 73 m² (sa lođom), na jednoj od najtraženijih lokacija na Novom Beogradu, u prvoj zgradi do Fontane i Mekdonaldsa, u ulici Narodnih heroja.\n\nStan je na 3. spratu zgrade sa liftom. Zgrada je solidne stare gradnje i pripada prvim blokovima Novog Beograda. Stan je okrenut ka zapadu i gleda na park, pa je svetao tokom popodneva, a ispred prozora su mir i zelenilo.\n\nRASPORED\nDugačak hodnik spaja dve velike sobe, dnevni boravak i spavaću sobu, a iz njega se ulazi u malu sobu, kupatilo i kuhinju. Tako su dnevni i noćni deo stana jasno odvojeni. Iz dnevnog boravka se izlazi na lođu. Stanu pripada i ostava na istom spratu, odmah pored ulaznih vrata.\n\nOPREMLJENOST\n- renovirano kupatilo sa tuš-kabinom i renovirana kuhinja\n- nove pločice u hodniku, parket u sobama\n- kuhinja sa elementima, LED rasvetom, šporetom, frižiderom i mašinom za veš\n- dva klima-uređaja (dnevni boravak i spavaća soba)\n- centralno grejanje, interfon, sigurnosna vrata, roletne\n- stan se prodaje kompletno namešten, spreman za život\n\nLOKACIJA\n- stanice gradskog prevoza ka centru grada na nekoliko minuta hoda\n- prodavnice, kafići, restorani i sav prateći sadržaj u neposrednoj blizini\n- osnovne i srednje škole i vrtići u okolini\n- okruženje sa parkovima i puno zelenila\n- besplatan parking svuda oko zgrade\n\nZA ONE KOJI KUPUJU RADI ULAGANJA\nStan je trenutno izdat porodici koja u njemu živi duži niz godina. Deca im idu u školu u ovom kraju, pa su zainteresovani da nastave zakup i sa novim vlasnikom. Stan može da donosi prihod od prvog dana.\n\nStan je uknjižen.",
+  "photos": 15,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
   "id": "ho-5425648022192",
   "slug": "ho-5425648022192-izdavanje-stan-saobracajni-fakultet",
   "deal": "rent",
@@ -52204,67 +52724,6 @@
   "updated": "2026-10-26"
  },
  {
-  "id": "kp-196272779",
-  "slug": "kp-196272779-izdavanje-stan-zemun",
-  "deal": "rent",
-  "type": "apartment",
-  "cat": "flat",
-  "title": "Аренда: 2,5-комнатная квартира, 62 м², Земун",
-  "kind": "2,5-комнатная квартира",
-  "price": 750,
-  "area": 62,
-  "rooms": 2.5,
-  "city": "Белград",
-  "district": "Земун",
-  "districtSlug": "zemun",
-  "location": "",
-  "street": "22. Октобра 8A",
-  "geo": {
-   "lat": 44.83807,
-   "lng": 20.41522
-  },
-  "facts": [
-   [
-    "Площадь",
-    "62 м²"
-   ],
-   [
-    "Комнат",
-    "2,5"
-   ],
-   [
-    "Этаж",
-    "2-й из 6"
-   ],
-   [
-    "Отопление",
-    "центральное"
-   ],
-   [
-    "Мебель",
-    "с мебелью"
-   ],
-   [
-    "Дом",
-    "старый фонд"
-   ]
-  ],
-  "features": [
-   "можно въехать сразу",
-   "интернет",
-   "домофон",
-   "кондиционер",
-   "лоджия",
-   "лифт"
-  ],
-  "text": "Сдаётся 2,5-комнатная квартира площадью 62 м² в районе Земун. 2-й этаж из 6, с мебелью, отопление центральное, старый фонд. Есть: можно въехать сразу, интернет, домофон, кондиционер, лоджия, лифт. Аренда 750 € в месяц.",
-  "originalLang": "sr",
-  "original": "IZDAVANJE – ZEMUN, 22. OKTOBRA | 62 m² | LIFT | LOĐA | 750 €\n\nIzdaje se kompletno namešten i opremljen stan od 62 m², na odličnoj lokaciji u samom centru Zemuna, u ulici 22. oktobra, na svega 5 minuta hoda od Zemunskog keja.\n\nStan se nalazi na 2. spratu zgrade sa liftom i odlikuje se veoma funkcionalnim rasporedom, sa više zasebnih celina koje omogućavaju udoban život, rad od kuće i dovoljno prostora za odlaganje.\n\nStruktura i opremljenost:\n\nDnevna soba\nSpavaća soba sa bračnim krevetom\nKuhinja sa trpezarijskim delom\nDodatni prostor pogodan za rad od kuće ili veću trpezariju\nZatvorena lođa\nKupatilo\nZasebna prostorija za veš-mašinu\nOstava\nHodnik sa ugradnim plakarima\n\nStan je uredan, održavan, potpuno namešten i spreman za useljenje.\n\nLokacija je jedna od njegovih najvećih prednosti. U neposrednoj blizini nalaze se Zemunski kej, šetalište, restorani, kafići, prodavnice, škole, vrtići, pijaca i sadržaji potrebni za svakodnevni život. Lokacija je jako dobro povezana sa ostalim delovima Beograda.\n\nStan je pogodan za pojedince, parove ili porodice, kao i za zakupce kojima je važna mogućnost rada od kuće.\n\nCena: 750 € mesečno + režijski troškovi.\n\nMinimalni period zakupa: 12 meseci.\n\nZa dodatne informacije i dogovor oko razgledanja, kontakt putem poruka ili telefona.",
-  "photos": 15,
-  "added": "2026-10-26",
-  "updated": "2026-10-26"
- },
- {
   "id": "kp-196484761",
   "slug": "kp-196484761-izdavanje-stan-krunska",
   "deal": "rent",
@@ -52706,69 +53165,6 @@
   "originalLang": "sr",
   "original": "Stan se nalazi na dobroj lokaciji u blizini autobuskog stajalista 531 i prodavnice. Grejanje je na klimu 18 midea inverter. Stan ima zaseban ulaz i izdaje se na duzi vremenski period. Slobodan od 1.11.2026.",
   "photos": 7,
-  "added": "2026-10-26",
-  "updated": "2026-10-26"
- },
- {
-  "id": "kp-196043182",
-  "slug": "kp-196043182-izdavanje-stan-zemun",
-  "deal": "rent",
-  "type": "apartment",
-  "cat": "flat",
-  "title": "Аренда: 3,5-комнатная квартира, 70 м², Земун",
-  "kind": "3,5-комнатная квартира",
-  "price": 850,
-  "area": 70,
-  "rooms": 3.5,
-  "city": "Белград",
-  "district": "Земун",
-  "districtSlug": "zemun",
-  "location": "",
-  "street": "",
-  "geo": {
-   "lat": 44.84178,
-   "lng": 20.38671
-  },
-  "facts": [
-   [
-    "Площадь",
-    "70 м²"
-   ],
-   [
-    "Комнат",
-    "3,5"
-   ],
-   [
-    "Этаж",
-    "19-й из 22"
-   ],
-   [
-    "Отопление",
-    "центральное"
-   ],
-   [
-    "Мебель",
-    "с мебелью"
-   ],
-   [
-    "Дом",
-    "старый фонд"
-   ]
-  ],
-  "features": [
-   "можно въехать сразу",
-   "интернет",
-   "домофон",
-   "терраса",
-   "кабельное ТВ",
-   "кондиционер",
-   "лифт",
-   "доступ для колясок"
-  ],
-  "text": "Сдаётся 3,5-комнатная квартира площадью 70 м² в районе Земун. 19-й этаж из 22, с мебелью, отопление центральное, старый фонд. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, кондиционер, лифт, доступ для колясок. Аренда 850 € в месяц.",
-  "originalLang": "sr",
-  "original": "IZDAJE SE PROSTRAN I SVETAO STAN U ZEMUNU – PRVOMAJSKA\n\nIzdaje se prostran, svetao i funkcionalan stan od 70 m² u Prvomajskoj ulici u Zemunu.  \n\nStan je namešten, odličnog rasporeda i spreman za useljenje.  Soliter u kome se stan nalazi ima tri lifta i pokrivenost kamerama. Ispred zgrade je veliki parking.  \n\nSastoji se od:  \n• dnevne sobe\n• trpezarije\n• kuhinje\n• spavaće sobe\n• dodatne sobe koja može služiti kao dečija, gostinska ili radna\n• dodatnog radnog kutka\n• kupatila sa kadom\n• odvojenog WC-a\n• hodnika\n• prostrane terase\n• ostave\n\nStan se nalazi na dobro povezanoj lokaciji u Zemunu, sa svim sadržajima potrebnim za svakodnevni život u neposrednoj blizini.  \n\nIzdaje se na duži period, minimum godinu dana.  \n\nCena: 850 € mesečno + troškovi\n\nZa dodatne informacije i dogovor oko gledanja stana, pošaljite poruku ili pozovite na navedeni broj telefona.",
-  "photos": 10,
   "added": "2026-10-26",
   "updated": "2026-10-26"
  },
