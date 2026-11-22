@@ -1,5 +1,136 @@
 [
  {
+  "id": "kp-197464023",
+  "slug": "kp-197464023-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 65 м², © ОпенСтреетМап цонтрибуторс, Звездара",
+  "kind": "трёхкомнатная квартира",
+  "price": 690,
+  "area": 65,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "",
+  "geo": {
+   "lat": 44.79818,
+   "lng": 20.52611
+  },
+  "facts": [
+   [
+    "Площадь",
+    "65 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "1-й из 3"
+   ],
+   [
+    "Отопление",
+    "кондиционер, тёплый пол"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "лифт",
+   "парковка",
+   "гараж",
+   "депозит"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 65 м² в районе © ОпенСтреетМап цонтрибуторс (Звездара, Белград). 1-й этаж из 3, с мебелью, отопление кондиционер, тёплый пол, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, кондиционер, видеонаблюдение, лифт, парковка, гараж, депозит. Аренда 690 € в месяц.",
+  "originalLang": "sr",
+  "original": "Luksuzna novogradnja u najlepšoj zgradi u Mirjevu pored osnovne škole Pavle Savić. Neuseljavano, niko nije živeo do sada. U sirokoj slepoj ulici sa dosta parkinga. Odmah pored škola, policijska stanica, prodavnice, blizu pijace, vrtica, gradskog prevoza.",
+  "photos": 15,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "kp-197466489",
+  "slug": "kp-197466489-izdavanje-stan-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 61 м², © ОпенСтреетМап цонтрибуторс, Младеновац",
+  "kind": "2,5-комнатная квартира",
+  "price": 400,
+  "area": 61,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Младеновац",
+  "districtSlug": "mladenovac",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "",
+  "geo": {
+   "lat": 44.44479,
+   "lng": 20.68994
+  },
+  "facts": [
+   [
+    "Площадь",
+    "61 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "1-й из 5"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "домофон",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "видеонаблюдение",
+   "лифт",
+   "гараж",
+   "депозит"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 61 м² в районе © ОпенСтреетМап цонтрибуторс (Младеновац, Белград). 1-й этаж из 5, с мебелью, отопление газовое, дом современной постройки. Есть: можно въехать сразу, интернет, домофон, терраса, кабельное ТВ, кондиционер, видеонаблюдение, лифт, гараж, депозит. Аренда 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "2.5 stan na 1. spratu u novogradnji u ulici Kralja Petra Prvog 64 u Mladenovcu, u kompleksu Slavija koncept. Stan je lepo i moderno sređen, potpuno opremljen nameštajem i belom tehnikom, a gleda na tržni centar Mladenovac i Lidl prodavnicu.    \n\nPoseduje dve spavaće sobe, komforan dnevni boravak, kuhinju, veliko kupatilo i poseban, praktičan prostor za sušaru i veš mašinu, kao i ostavu i terasu. Grejanje je na gas, a od dodatne opreme stan ima klimu, internet, kablovsku TV i interfon. Uz stan ide i garaža, dok sama zgrada ima lift i video nadzor.\n\nNa oko 7-8 minuta laganog hoda nalazi se sam centar Mladenovca, dok su gimnazija, osnovna škola i crkva na oko 5 minuta peške. U neposrednoj blizini dostupni su brojni marketi, prodavnice, apoteke, banke, pošta, kafići, restorani, parkovi i stajališta gradskog prevoza.\n\nStan je odmah useljiv i izdaje se bez kućnih ljubimaca. Depozit u visini jedne mesečne kirije je obavezan.\n\nZa vise informacija pozvati:064*171*3197",
+  "photos": 15,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
   "id": "kp-197479921",
   "slug": "kp-197479921-izdavanje-stan-openstreetmap-contributors",
   "deal": "rent",
