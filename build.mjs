@@ -939,7 +939,7 @@ for (const l of LISTINGS) {
 </div>
 ${similar.length + more.length ? `<section class="block"><div class="wrap"><div class="block-head"><h2>${similar.length ? `Ещё в районе ${esc(l.district)}` : 'Похожие объекты'}</h2></div><div class="cards cards-grid">${[...similar, ...more].map((x) => card(x)).join('')}</div></div></section>` : ''}
 <div class="mobile-cta"><span class="mobile-price">${price(l.price)}${l.price ? `<small>${d.per}</small>` : ''}</span><button class="btn btn-dark" type="button" data-open-viewing>Записаться</button></div>
-<dialog class="modal" data-viewing aria-labelledby="vw-title">
+<dialog class="modal" data-viewing data-tg="${esc(SITE.tg)}" aria-labelledby="vw-title">
   <form class="modal-form" data-viewing-form>
     <button class="modal-close" type="button" data-close-viewing aria-label="Закрыть">×</button>
     <h2 id="vw-title">Записаться на просмотр</h2>

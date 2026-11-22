@@ -572,6 +572,21 @@
     const r = await fetch('/api/lead', { method: 'POST', body: fd });
     const j = await r.json().catch(() => ({}));
     if (!r.ok || !j.ok) throw new Error(j.error || 'не удалось отправить');
+    return j;
+  }
+  // После заявки — кнопка в Telegram с готовым сообщением и номером заявки: ассистент сразу ответит по объекту
+  function tgAfter(box, tgUser, ref, about) {
+    if (!box || !tgUser || !ref) return;
+    const text = T(`Здравствуйте! Оставил(а) заявку на сайте, № ${ref}.${about ? ` ${about}` : ''}`, `Hello! I left a request on your website, № ${ref}.${about ? ` ${about}` : ''}`);
+    const a = document.createElement('a');
+    a.className = 'btn btn-dark btn-wide tg-after';
+    a.href = `https://t.me/${tgUser}?text=${encodeURIComponent(text)}`;
+    a.target = '_blank';
+    a.rel = 'noopener';
+    a.dataset.tgText = text;
+    a.textContent = T('Получить ответ в Telegram сейчас', 'Get a reply on Telegram now');
+    box.querySelector('.tg-after')?.remove();
+    box.appendChild(a);
   }
   $$('[data-lead]').forEach((form) => {
     const t0 = Date.now();
@@ -592,8 +607,9 @@
       btn.disabled = true;
       note.textContent = T('Отправляю…', 'Sending…');
       try {
-        await postLead(fd);
+        const j = await postLead(fd);
         note.textContent = T('Спасибо! Заявка у агента, ответим в ближайшее время.', 'Thank you! Your request is with an agent; we will reply shortly.');
+        if (via !== 'wa') tgAfter(note.parentElement, form.dataset.tg, j.ref, f.wish.value.trim() ? T(`Ищу: ${f.wish.value.trim()}`, `Looking for: ${f.wish.value.trim()}`) : '');
         form.reset();
       } catch (err) {
         // запасной путь: открыть мессенджер с готовым текстом
@@ -631,8 +647,9 @@
       btn.disabled = true;
       note.textContent = T('Отправляю…', 'Sending…');
       try {
-        await postLead(fd);
+        const j = await postLead(fd);
         note.textContent = T('Спасибо! Заявка принята, специалист свяжется с вами в ближайшее время.', 'Thank you! Your request has been received; a specialist will contact you shortly.');
+        if (via === 'tg') tgAfter(note.parentElement, form.dataset.tg, j.ref, service ? T(`Нужна консультация: ${service}`, `I need a consultation: ${service}`) : '');
         form.reset();
       } catch (err) {
         const text = EN ? `Hello! My name is ${f.name.value.trim()}, phone ${f.phone.value.trim()}. I need a consultation: ${service}.${f.comment.value.trim() ? ` ${f.comment.value.trim()}` : ''}` : `Здравствуйте! Меня зовут ${f.name.value.trim()}, телефон ${f.phone.value.trim()}. Нужна консультация: ${service}.${f.comment.value.trim() ? ` ${f.comment.value.trim()}` : ''}`;
@@ -665,8 +682,9 @@
       const btn = form.querySelector('button[type="submit"]');
       btn.disabled = true; note.classList.remove('err'); note.textContent = T('Отправляю…', 'Sending…');
       try {
-        await postLead(new FormData(form));
+        const j = await postLead(new FormData(form));
         form.hidden = true; done.hidden = false;
+        tgAfter(done, vw.dataset.tg, j.ref, form.elements.title.value);
       } catch (err) {
         note.classList.add('err');
         note.textContent = T(`Не получилось отправить: ${err.message}. Напишите нам в WhatsApp или Telegram, кнопки на странице.`, `Could not send: ${err.message}. Please message us on WhatsApp or Telegram using the buttons on the page.`);

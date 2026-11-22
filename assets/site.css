@@ -757,3 +757,7 @@ p { margin: 0; }
 .lang-sw:hover { border-color: currentColor; }
 .has-hero .hdr:not(.is-solid):not(:hover):not(:focus-within) .lang-sw { border-color: rgba(255,255,255,.5); }
 @media (max-width: 720px) { .lang-sw { min-width: 34px; height: 34px; } }
+
+/* кнопка Telegram после отправки заявки */
+.tg-after { background: #2481cc; border-color: #2481cc; color: #fff; margin-top: 4px; }
+.tg-after:hover { background: #1f6fb0; border-color: #1f6fb0; }

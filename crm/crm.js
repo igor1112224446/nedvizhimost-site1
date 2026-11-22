@@ -7,7 +7,7 @@ const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '
 const STATUSES = [
   ['new', 'Новые'], ['work', 'В работе'], ['offer', 'Отправлены варианты'], ['viewing', 'Показ'], ['deal', 'Сделка'], ['lost', 'Отказ'],
 ];
-const KIND = { viewing: 'Запись на просмотр', match: 'Подбор', service: 'Услуга', owner: 'Собственник', manual: 'Вручную' };
+const KIND = { viewing: 'Запись на просмотр', match: 'Подбор', service: 'Услуга', owner: 'Собственник', manual: 'Вручную', tg: 'Telegram' };
 const VIA = { wa: 'WhatsApp', tg: 'Telegram', call: 'Звонок' };
 
 let leads = [];
@@ -96,7 +96,7 @@ function renderBoard() {
   });
 }
 function cardHtml(l) {
-  const text = l.title || l.wish || l.notes || '';
+  const text = l.title || l.wish || (l.data?.chat || []).filter((m) => m.role === 'user').pop()?.text || l.notes || '';
   const sent = (l.data?.sent || []).length;
   return `<article class="card" draggable="true" data-id="${l.id}">
     <div class="card-top"><span class="tag tag-${esc(l.kind)}">${esc(KIND[l.kind] || 'Заявка')}</span><span class="card-time">${ago(l.created)}</span></div>
@@ -148,6 +148,11 @@ function openLead(id) {
   $('#dLink').innerHTML = l.url ? `<a href="${esc(l.url)}" target="_blank" rel="noopener">Открыть объект на сайте</a>` : '';
   const sent = l.data?.sent || [];
   $('#dSent').innerHTML = sent.length ? `<div class="sent-list"><h3>Отправленные объекты</h3>${sent.slice().reverse().map((s) => `<div>${new Date(s.at).toLocaleDateString('ru-RU')} · ${esc(VIA[s.via] || s.via)} · <a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a></div>`).join('')}</div>` : '';
+  const chat = l.data?.chat || [];
+  const who = { user: l.name || 'Клиент', assistant: 'ИИ', manager: 'Вы' };
+  $('#dChat').innerHTML = chat.length ? `<div class="chat"><div class="chat-head"><h3>Переписка в Telegram${l.data?.tg?.username ? ` · <a href="https://t.me/${esc(l.data.tg.username)}" target="_blank" rel="noopener">@${esc(l.data.tg.username)}</a>` : ''}</h3>${l.data?.aiPaused ? '<button class="btn btn-sm" type="button" id="dResume">Вернуть ИИ в диалог</button>' : '<span class="meta">ИИ отвечает</span>'}</div>${chat.map((m) => `<div class="msg msg-${esc(m.role)}"><span>${esc(who[m.role] || m.role)}</span>${esc(m.text)}</div>`).join('')}</div>` : '';
+  const rb = $('#dResume');
+  if (rb) rb.onclick = async () => { try { await api('tgresume', { id: l.id }); toast('ИИ снова отвечает в этом чате'); closeAll(); loadLeads(); } catch (e) { toast(e.message); } };
   $('#dMeta').textContent = id ? `Создана ${new Date(l.created).toLocaleString('ru-RU')}${l.data?.source === 'site' ? ', с сайта' : ''}` : '';
   $('#dDelete').hidden = !id;
   $('#dMatch').hidden = !id;

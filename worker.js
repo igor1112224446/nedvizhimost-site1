@@ -94,13 +94,16 @@ async function lead(request, env, ctx) {
     line('Телефон', g('phone')),
     line('Ответить в', g('via')),
   ].filter(Boolean).join('\n');
+  // номер заявки: клиент отправляет его в Telegram, и ИИ-ассистент понимает, о каком объекте речь
+  const ref = Array.from(crypto.getRandomValues(new Uint8Array(6)), (b) => 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789'[b % 32]).join('');
   crmIngest(env, ctx, {
+    ref,
     kind: viewing ? 'viewing' : service ? 'service' : 'match',
     name: g('name'), phone: g('phone'), via: g('via'),
     wish: viewing ? '' : g('wish'), title: viewing ? [g('title'), g('price')].filter(Boolean).join(', ') : service ? g('service') : '',
     url: g('url'),
   });
-  if (!env.TG_TOKEN || !chat) return json({ ok: true });
+  if (!env.TG_TOKEN || !chat) return json({ ok: true, ref: crmOn(env) ? ref : '' });
   try {
     const m = new FormData();
     m.append('chat_id', chat);
@@ -111,7 +114,7 @@ async function lead(request, env, ctx) {
   } catch (e) {
     return json({ error: 'сервер не смог передать заявку' }, 502);
   }
-  return json({ ok: true });
+  return json({ ok: true, ref: crmOn(env) ? ref : '' });
 }
 
 // ---------- CRM: закрытый раздел /crm/ ----------
@@ -124,7 +127,7 @@ function crmIngest(env, ctx, lead) {
   if (!crmOn(env)) return;
   const p = fetch(`${crmBase(env)}/crm/ingest`, {
     method: 'POST', headers: { 'content-type': 'application/json', 'x-crm-key': env.CRM_SECRET },
-    body: JSON.stringify({ lead: { ...lead, data: { source: 'site', at: Date.now() } } }),
+    body: JSON.stringify({ lead: { ...lead, ref: undefined, data: { source: 'site', at: Date.now(), ...(lead.ref ? { ref: lead.ref } : {}) } } }),
   }).catch(() => {});
   if (ctx?.waitUntil) ctx.waitUntil(p);
 }
@@ -179,6 +182,8 @@ async function crm(request, env, url) {
   }
   if (p === '/crm/logout') return redirect('/crm/login/', 'crm=; Path=/crm; Max-Age=0; HttpOnly; Secure; SameSite=Lax');
   if (p === '/crm/crm.css' || p === '/crm/logo.png') return asset(p);
+  // база объектов для ИИ-ассистента робота: по общему ключу, без входа
+  if (p === '/crm/objects.json' && request.headers.get('x-crm-key') === env.CRM_SECRET) return asset(p);
   if (!(await crmAuthed(request, env))) {
     if (p.startsWith('/crm/api/')) return json({ error: 'войдите заново' }, 401);
     return redirect('/crm/login/');

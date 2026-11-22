@@ -91,6 +91,7 @@ main { padding: 20px; }
 .tag-match { background: #eef6ea; color: #2c6b1f; }
 .tag-owner { background: #fbf0e2; color: #8a4b08; }
 .tag-service { background: #f1ecf8; color: #5b3a8c; }
+.tag-tg { background: #e3f0fa; color: #1d6aa5; }
 .card-time { font-size: 12px; color: var(--muted); }
 .card-name { font-weight: 600; }
 .card-phone { font-size: 14px; color: var(--ink-2); }
@@ -111,6 +112,15 @@ main { padding: 20px; }
 .contact-row { display: flex; flex-wrap: wrap; gap: 8px; }
 .sent-list { display: flex; flex-direction: column; gap: 4px; font-size: 14px; }
 .sent-list h3 { font-size: 13px; color: var(--muted); font-weight: 500; }
+
+/* переписка */
+.chat { display: flex; flex-direction: column; gap: 6px; max-height: 420px; overflow-y: auto; padding: 10px; background: var(--soft); border-radius: 10px; }
+.chat-head { display: flex; align-items: center; justify-content: space-between; gap: 8px; position: sticky; top: -10px; background: var(--soft); padding: 4px 0; }
+.chat-head h3 { font-size: 13px; color: var(--muted); font-weight: 500; }
+.msg { max-width: 88%; padding: 7px 10px; border-radius: 10px; font-size: 14px; white-space: pre-wrap; word-break: break-word; background: var(--bg); align-self: flex-start; }
+.msg span { display: block; font-size: 11px; color: var(--muted); margin-bottom: 2px; }
+.msg-assistant, .msg-manager { align-self: flex-end; background: #e3eef5; }
+.msg-manager { background: #e9f3e4; }
 
 /* поиск */
 .ai { max-width: 1100px; margin: 0 auto 18px; display: flex; flex-direction: column; gap: 10px; }
