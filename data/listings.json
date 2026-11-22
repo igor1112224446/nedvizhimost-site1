@@ -889,6 +889,741 @@
   "updated": "2026-11-22"
  },
  {
+  "id": "fz-6b03547983fceedf0e010705",
+  "slug": "fz-6b03547983fceedf0e010705-izdavanje-stan-dimitrija-tucovica",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 65 м², Димитрия Туцовича, Звездара",
+  "kind": "2,5-комнатная квартира",
+  "price": 750,
+  "area": 65,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Димитрия Туцовича",
+  "street": "Анте Богичевича 5",
+  "geo": {
+   "lat": 44.79967,
+   "lng": 20.4985
+  },
+  "facts": [
+   [
+    "Площадь",
+    "65 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Отопление",
+    "кондиционер"
+   ],
+   [
+    "Мебель",
+    "частично меблирована"
+   ]
+  ],
+  "features": [
+   "кондиционер"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 65 м² в районе Димитрия Туцовича (Звездара, Белград). Частично меблирована, отопление кондиционер. Есть: кондиционер. Аренда 750 € в месяц.",
+  "originalLang": "sr",
+  "original": "Dvoiposoban stan u zgradi za izdavanje, Polunamešteno, Dimitrija Tucovića, 65 m2, na 2. spratu, ima lift. Stanje - Novo, Klima, ima kupatilo, ima toalet. Ima garažno mesto u sklopu zgrade.",
+  "photos": 15,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "ho-5425648025195",
+  "slug": "ho-5425648025195-izdavanje-stan-medakovic-3",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 32 м², Медакович 3, Вождовац",
+  "kind": "студия",
+  "price": 400,
+  "area": 32,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "Медакович 3",
+  "street": "Светозара Радойцица 82v",
+  "geo": {
+   "lat": 44.77125,
+   "lng": 20.51206
+  },
+  "facts": [
+   [
+    "Площадь",
+    "32 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "высокий приземный из 3"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 100 € в месяц"
+   ]
+  ],
+  "features": [
+   "домофон",
+   "интернет",
+   "кондиционер",
+   "парковка",
+   "терраса",
+   "депозит",
+   "можно въехать сразу"
+  ],
+  "text": "Сдаётся студия площадью 32 м² в районе Медакович 3 (Вождовац, Белград). Высокий приземный этаж из 3, с мебелью, отопление аккумуляционные печи, после ремонта, дом современной постройки. Есть: домофон, интернет, кондиционер, парковка, терраса, депозит, можно въехать сразу. Аренда 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se garsonjera 32m2 na okretnici 18. i 29. u blizini su pijaca Maxi, Shop&go, Lidl, u blizini se nalaze Beo shoping centar i Tc stadion, grejanje na inverter klimu, ispred zgrade veliki slobodan parking.",
+  "photos": 7,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "ho-5425648022428",
+  "slug": "ho-5425648022428-izdavanje-stan-ledine",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 47 м², Ледине, Новый Белград",
+  "kind": "1,5-комнатная квартира",
+  "price": 580,
+  "area": 47,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Ледине",
+  "street": "Войводжанска",
+  "geo": {
+   "lat": 44.79927,
+   "lng": 20.3322
+  },
+  "facts": [
+   [
+    "Площадь",
+    "47 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "1-й из 2"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 50 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 47 м² в районе Ледине (Новый Белград, Белград). 1-й этаж из 2, с мебелью, отопление автономное, люкс, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, домофон, интернет, кабельное ТВ, кондиционер, парковка, терраса, видеонаблюдение. Аренда 580 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stan funkcionalno namešten i potpuno opremljen sa novim stvarima. Odmah useljiv. Obezbeđeno parking mesto.",
+  "photos": 8,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "ho-5425648025381",
+  "slug": "ho-5425648025381-izdavanje-stan-kaludjerica",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 60 м², Калуджерица, Гроцка",
+  "kind": "2,5-комнатная квартира",
+  "price": 600,
+  "area": 60,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Гроцка",
+  "districtSlug": "opstina-grocka",
+  "location": "Калуджерица",
+  "street": "Патриярха Павла",
+  "geo": {
+   "lat": 44.76309,
+   "lng": 20.55254
+  },
+  "facts": [
+   [
+    "Площадь",
+    "60 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "2-й из 4"
+   ],
+   [
+    "Отопление",
+    "мраморные радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "домофон",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 60 м² в районе Калуджерица (Гроцка, Белград). 2-й этаж из 4, с мебелью, отопление мраморные радиаторы, люкс, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, домофон, кабельное ТВ, кондиционер, лифт, парковка, терраса, видеонаблюдение. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se kompletno namešten stan sa novom belom tehnikom i novim nameštajem, nikad do sad useljavan. Stan se nalazi na drugom spratu nove zgrade sa liftom. Veoma svetao sa funkcionalnim rasporedom. Poseduje dve spavaće sobe, kupatilo, kuhinju, trepezariju i dnevnu sobu, prostranu terasu i veliko predsoblje. Zgrada se nalazi u centralnom delu naselja Kaluđerica u blizini pijace i marketa, kao i osnovne škole i državnih i privatnih vrtića. Pogodan za porodice kao i za studente. Kućni ljubimci nisu dozvoljeni. Depozit u visini jedne kirije.",
+  "photos": 15,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "ho-5425648022232",
+  "slug": "ho-5425648022232-izdavanje-stan-surcin-mesto",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 59 м², Сурчин (mesto), Сурчин",
+  "kind": "двухкомнатная квартира",
+  "price": 470,
+  "area": 59,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Сурчин",
+  "districtSlug": "opstina-surcin",
+  "location": "Сурчин (mesto)",
+  "street": "Джорджа Янича",
+  "geo": {
+   "lat": 44.79924,
+   "lng": 20.27796
+  },
+  "facts": [
+   [
+    "Площадь",
+    "59 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "приземный из 2"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 50 € в месяц"
+   ]
+  ],
+  "features": [
+   "кондиционер",
+   "парковка",
+   "терраса",
+   "видеонаблюдение",
+   "депозит",
+   "можно с животными",
+   "не последний этаж",
+   "можно въехать сразу"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 59 м² в районе Сурчин (mesto) (Сурчин, Белград). Приземный этаж из 2, с мебелью, после ремонта, дом современной постройки. Есть: кондиционер, парковка, терраса, видеонаблюдение, депозит, можно с животными, не последний этаж, можно въехать сразу. Аренда 470 € в месяц.",
+  "originalLang": "sr",
+  "original": "Renoviran stan, dve spavace sobe,nova kuhinja i nov nameštaj komletno, parking ispred u mirnom delu Surčina. Depozit u visini jedne kirije. Idealno za porodične ljude.",
+  "photos": 8,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "ho-5425648025189",
+  "slug": "ho-5425648025189-izdavanje-stan-visnjicka-banja",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 46 м², Вишничка Баня, Палилула",
+  "kind": "двухкомнатная квартира",
+  "price": 600,
+  "area": 46,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Вишничка Баня",
+  "street": "Сланачки пут",
+  "geo": {
+   "lat": 44.81333,
+   "lng": 20.53624
+  },
+  "facts": [
+   [
+    "Площадь",
+    "46 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "4-й из 5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "депозит",
+   "можно с животными",
+   "не последний этаж"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 46 м² в районе Вишничка Баня (Палилула, Белград). 4-й этаж из 5, с мебелью, отопление центральное, люкс, дом современной постройки. Есть: интернет, депозит, можно с животными, не последний этаж. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "",
+  "photos": 9,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "fz-68486baac3f1223443016c47",
+  "slug": "fz-68486baac3f1223443016c47-izdavanje-stan-dorcol",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 52 м², Дорчол, Старый город",
+  "kind": "двухкомнатная квартира",
+  "price": 500,
+  "area": 52,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "stari-grad",
+  "location": "Дорчол",
+  "street": "Херцега Степана 10",
+  "geo": {
+   "lat": 44.82173,
+   "lng": 20.47082
+  },
+  "facts": [
+   [
+    "Площадь",
+    "52 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся двухкомнатная квартира площадью 52 м² в районе Дорчол (Старый город, Белград). С мебелью, отопление центральное. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Dvosoban stan u zgradi za izdavanje, Namešteno, Dorćol, 52 m2, na 4. spratu, ima lift. Stanje - Uobičajeno, Centralno, ima terasu.",
+  "photos": 13,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "ho-5425648025179",
+  "slug": "ho-5425648025179-prodaja-stan-ledine",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: двухкомнатная квартира, 61 м², Ледине, Сурчин",
+  "kind": "двухкомнатная квартира",
+  "price": 134200,
+  "area": 61,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Сурчин",
+  "districtSlug": "opstina-surcin",
+  "location": "Ледине",
+  "street": "Каймакчаланска",
+  "geo": {
+   "lat": 44.79984,
+   "lng": 20.31623
+  },
+  "facts": [
+   [
+    "Площадь",
+    "61 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Отопление",
+    "тёплый пол"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "кондиционер",
+   "парковка",
+   "терраса"
+  ],
+  "text": "Продаётся двухкомнатная квартира площадью 61 м² в районе Ледине (Сурчин, Белград). Отопление тёплый пол, люкс, дом современной постройки. Есть: кондиционер, парковка, терраса. Цена 134 200 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju stanovi 25m2,4m2 i -61m2 u na Ledinama blizini novog bulevara prema aerodromu. idealni za zivot i investiciju, na dobroj lokaciji. \n\nVrhunski kvalitet izgradnje. \n\nCena 2200 eur/m2\n\nVlasnik",
+  "photos": 11,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "og-03-4015017",
+  "slug": "og-03-4015017-izdavanje-stan-banjica",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 67 м², Баница, Вождовац",
+  "kind": "трёхкомнатная квартира",
+  "price": 650,
+  "area": 67,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "vozdovac",
+  "location": "Баница",
+  "street": "Паунова",
+  "geo": null,
+  "facts": [
+   [
+    "Площадь",
+    "67 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "8-й"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "терраса",
+   "лифт",
+   "интернет",
+   "кондиционер"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 67 м² в районе Баница (Вождовац, Белград). 8-й этаж, с мебелью. Есть: терраса, лифт, интернет, кондиционер. Аренда 650 € в месяц.",
+  "originalLang": "sr",
+  "original": "Srbija-Grad Beograd-Banjica-Paunova\n\nStan za izdavanje, 67m2-Voždovac, Banjica\n\nTrosoban stan na osmom spratu zgrade sa liftom. Sastoji se  od potpuno opremljene kuhinje, trpezarije, prostrane dnevne sobe, dve udobne spavaće sobe, kupatila, toaleta, predsoblja i terase. Stan je izuzetno topao i svetao, pružajući prijatnu atmosferu tokom čitavog dana. Grejanje je  daljinsko. Lokacijski dobro povezan sa gradom u blizini trolejbuske, tramvajske i autobuske linije. Blizina osnovne škole, vrtića, pošte, MAXI-a, LIDL-a. Kućni ljubimci nisu dozvoljeni.\n\n \n\nKvadratura, 67m2\n\nSobe: 3\n\nGrejanje: daljinsko,\n\nKlima: DA",
+  "photos": 10,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "ho-5425645525148",
+  "slug": "ho-5425645525148-izdavanje-stan-severni-bulevar",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 56 м², Северни булевар, Звездара",
+  "kind": "трёхкомнатная квартира",
+  "price": 500,
+  "area": 56,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Северни булевар",
+  "street": "Северни булевар",
+  "geo": {
+   "lat": 44.80621,
+   "lng": 20.49406
+  },
+  "facts": [
+   [
+    "Площадь",
+    "56 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "2-й из 4"
+   ],
+   [
+    "Отопление",
+    "аккумуляционные печи"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 75 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "кондиционер"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 56 м² в районе Северни булевар (Звездара, Белград). 2-й этаж из 4, с мебелью, отопление аккумуляционные печи, в исходном состоянии, старый фонд. Есть: депозит, можно въехать сразу, кондиционер. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Komforan stan u mirnom kraju. Stan je delimično renoviran i potpuno opremljen. U spavaćoj sobi je bračni krevet, u dnevnom boravku kauč i trosed (oba na rasklapanje) , u radnoj / dečijoj sobi je dvosed na rasklapanje. Autobuske stanice 65, 66, 74 i 27N su preko puta zgrade. U blizini je nekoliko prodavnica, ambulanta, apoteka, osnovna škola, srednja medicinska škola, zubotehnička škola i Tehnoart škola.",
+  "photos": 15,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "ho-5425648025077",
+  "slug": "ho-5425648025077-prodaja-stan-ugrinovacka",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: однокомнатная квартира, 53.4 м², Угриновачка, Земун",
+  "kind": "однокомнатная квартира",
+  "price": 180000,
+  "area": 53.4,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Угриновачка",
+  "street": "Угриновачка",
+  "geo": {
+   "lat": 44.84991,
+   "lng": 20.38816
+  },
+  "facts": [
+   [
+    "Площадь",
+    "53.4 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "2-й из 5"
+   ],
+   [
+    "Отопление",
+    "тёплый пол"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "можно въехать сразу",
+   "есть право собственности",
+   "домофон",
+   "кондиционер",
+   "лифт",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся однокомнатная квартира площадью 53.4 м² в районе Угриновачка (Земун, Белград). 2-й этаж из 5, отопление тёплый пол, в исходном состоянии, дом современной постройки. Есть: не последний этаж, можно въехать сразу, есть право собственности, домофон, кондиционер, лифт, терраса, видеонаблюдение. Цена 180 000 €.",
+  "originalLang": "sr",
+  "original": "Stan u Zemunu Ugrinovacka br124 iznad restorana Time Story drugi sprat gleda na Ugrinovacku i Alasku ulicu",
+  "photos": 10,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "ho-5425648022418",
+  "slug": "ho-5425648022418-izdavanje-stan-crveni-krst",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 25 м², Црвени крст, Врачар",
+  "kind": "однокомнатная квартира",
+  "price": 300,
+  "area": 25,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "opstina-vracar",
+  "location": "Црвени крст",
+  "street": "Тимочка",
+  "geo": {
+   "lat": 44.7961,
+   "lng": 20.48561
+  },
+  "facts": [
+   [
+    "Площадь",
+    "25 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "полуподвал из 3"
+   ],
+   [
+    "Отопление",
+    "норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 70 € в месяц"
+   ]
+  ],
+  "features": [
+   "кабельное ТВ",
+   "кондиционер",
+   "горячая вода",
+   "депозит",
+   "можно въехать сразу"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 25 м² в районе Црвени крст (Врачар, Белград). Полуподвал этаж из 3, с мебелью, отопление норвежские радиаторы, после ремонта, старый фонд. Есть: кабельное ТВ, кондиционер, горячая вода, депозит, можно въехать сразу. Аренда 300 € в месяц.",
+  "originalLang": "sr",
+  "original": "Apartman 25 m2 Renoviran, suv , izolovan, ima prozor gleda na ulicu, opremljen, topao, grejanje i hladjenje na klimu. Ušuškan \nUlaz na posebnu kapiju, koja se zaključava\nMiran. \nIzdaje se od 1 decembra \nZa JEDNU OSOBU",
+  "photos": 9,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
   "id": "ho-5425645048107",
   "slug": "ho-5425645048107-izdavanje-stan-bajlonijeva-pijaca",
   "deal": "rent",
