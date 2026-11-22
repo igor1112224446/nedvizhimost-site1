@@ -1,5 +1,278 @@
 [
  {
+  "id": "kp-173805130",
+  "slug": "kp-173805130-izdavanje-kuca-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "house",
+  "cat": "house",
+  "title": "Аренда: дом, 100 м², © ОпенСтреетМап цонтрибуторс, Бараево",
+  "kind": "дом",
+  "price": 115,
+  "area": 100,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Бараево",
+  "districtSlug": "barajevo",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "",
+  "geo": {
+   "lat": 44.58092,
+   "lng": 20.41576
+  },
+  "facts": [
+   [
+    "Площадь",
+    "100 м²"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "можно с животными"
+  ],
+  "text": "Сдаётся дом площадью 100 м² в районе © ОпенСтреетМап цонтрибуторс (Бараево, Белград). Есть: интернет, терраса, кабельное ТВ, кондиционер, парковка, можно с животными. Аренда 115 € в месяц.",
+  "originalLang": "sr",
+  "original": "Vila Rosa – Vaše idealno mesto za odmor, opuštanje i sve vrste proslava nadomak Beograda. Samo 30 minuta vožnje od centra, u mirnom delu Barajeva, ova prelepa vila predstavlja oazu mira i komfora, prilagođenu za porodice, prijatelje, kao i za poslovne događaje poput seminara i radionica.\n\nOčekuje Vas prostrani bazen dimenzija 8x4 metra, sa slanom vodom, okružen plažnim delom sa ležaljkama, suncobranima i tušem za potpuni užitak tokom letnjih dana. Vila Rosa nudi i prostranu terasu s prelepim pogledom, dva letnjikovca, od kojih je jedan natkriven i opremljen plinskom pečurkom – idealan za sve vremenske uslove.\n\nU gornjem delu vile nalazi se udoban smeštaj sa francuskim ležajem, trosedom na razvlačenje, velikim dnevnim boravkom sa četvorosedom i dvosedom na razvlačenje, opremljenom kuhinjom i kupatilom, čineći prostor savršenim za boravak većih grupa što daje mogućnost za noćenje do - 9 osoba. Gostima je na raspolaganju i letnja kuhinja sa svim potrebnim elementima, roštilj, sač i kotlić, što olakšava pripremu i uživanje u tradicionalnim specijalitetima.\n\nZa dodatnu zabavu i rekreaciju, u dvorištu vile nalaze se igralište za mini fudbal, trambolina, kao i stolovi za bilijar i stoni fudbal. Ozvučenje i projektor su uključeni u cenu, omogućavajući kvalitetnu zabavu i profesionalnu atmosferu po potrebi.\n\nVila Rosa nudi i dodatne usluge poput keteringa, usluga konobara, dekoracije prostora, kao i profesionalnog fotografisanja, kako bi svaki događaj bio organizovan bez stresa i upotpunjen posebnim trenucima. Parking prostor je besplatan i obezbeđen za sve goste.\n\nDobrodošli u Vilu Rosa , Vaš kutak mira, komfora i radosti, spreman da Vaše posebne trenutke učini zaista nezaboravnim.\n\n \n\nCenovnik od .  \n\n \n\nNajam objekta sa noćenjem radnim danima (ponedeljak - četvrtak) - do 2 osobe - 115€\n\nNajam objekta sa noćenjem radnim danima (ponedeljak - četvrtak) - do 4 osobe - 165€\n\nNajam objekta sa noćenjem radnim danima (ponedeljak - četvrtak) - do 6 osoba - 215€\n\nNajam objekta sa noćenjem radnim danima (ponedeljak - četvrtak) - do 8 osoba - 265€\n\nNajam objekta sa noćenjem vikend danima (petak - nedelja) - do 2 osobe - 140€\n\nNajam objekta sa noćenjem vikend danima (petak - nedelja) - do 4 osobe - 190€\n\nNajam objekta sa noćenjem vikend danima (petak - nedelja) - do 6 osoba - 240€\n\nNajam objekta sa noćenjem vikend danima (petak - nedelja) - do 8 osoba - 290€\n\nNajam objekta za veći broj gostiju - na upit\n\nPopust za 2 + noćenja - 20%  \n\n \n\nCenovnik - dnevni najam ( 13h - 22h ) od .  \n\n \n\nDo 10 osoba - radnim danima (ponedeljak - četvrtak) - 315€\n\nDo 10 osoba - vikend danima (petak - nedelja) - 440€\n\nDo 20 osoba - radnim danima (ponedeljak - četvrtak) - 440€\n\nDo 20 osoba - vikend danima (petak - nedelja) - 565€\n\nDo 30 osoba - radnim danima ponedeljak - četvrtak - 565€\n\nDo 30 osoba - vikend danima  (petak - nedelja) - 690€\n\nDo 40 osoba - radnim danima (ponedeljak - četvrtak) - 690€\n\nDo 40 osoba - vikend danima  (petak - nedelja) - 815€  \n\n \n\nCenovnik - najam sa noćenje",
+  "photos": 15,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "kp-190000049",
+  "slug": "kp-190000049-izdavanje-kuca-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "house",
+  "cat": "house",
+  "title": "Аренда: дом, 150 м², © ОпенСтреетМап цонтрибуторс, Земун",
+  "kind": "дом",
+  "price": 899,
+  "area": 150,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Йована Бошковича",
+  "geo": {
+   "lat": 44.84898,
+   "lng": 20.33868
+  },
+  "facts": [
+   [
+    "Площадь",
+    "150 м²"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся дом площадью 150 м² в районе © ОпенСтреетМап цонтрибуторс (Земун, Белград). С мебелью, отопление центральное, в исходном состоянии, старый фонд. Есть: можно въехать сразу, интернет, терраса, кабельное ТВ, кондиционер, парковка, депозит. Аренда 899 € в месяц.",
+  "originalLang": "sr",
+  "original": "IZDAJEM stan SLOBODNO OD 20. novembra 2026.  \n\n u kući za 6 osoba ili za kancelarije na duži period!  \n\nSLOBODNO OD 20. novembra 2026.  \n\nEXTRA POVOLJNO! Po osobi 5 EUR dnevno, na duži period!  \n\nIDEALNO ZA SMEŠTAJ RADNIKA, KAO I ZA KANCELARIJSKI PROSTOR!  \n\nIzdajem stan na spratu porodične kuće 150 kvm, tri spavaće sobe, kuhinja sa trpezarijom, hodnik, prostrano kupatilo, terasa.   Pogodno za 6-8 osoba.  \n\nSvi troškovi zakupa uračunati u cenu:  \n\nGrejanje\n\nHlađenje\n\nStruja\n\nInternet i kablovska tv\n\nInfostan\n\nVoda\n\nBesplatan parking za tri vozila.  \n\nIzvanredna lokacija, u krugu od dva kilometra sledeće: auto-put Beograd-Novi Sad i Beograd-Zagreb, Aerodrom, Expo, industrijska zona, kvantaš, tržni centri Metro, Crafter, TC Zmaj, Kineski tržni centar, Đak, Famis, Diplon, Roda, Tempo, Lesnina, Cash&Carry MEGA, TC Zemun Park, market Sunce, Glavna železnička stanica Zemun.  \n\nPreko puta kuće lokalna prodavnica.  \n\nGradske autobuske linije 708 i 709, beovoz - za 12 minuta na Slaviji, voz Soko 30 minuta do Novog Sada.",
+  "photos": 6,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "kp-196557378",
+  "slug": "kp-196557378-izdavanje-kuca-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "house",
+  "cat": "house",
+  "title": "Аренда: дом, 180 м², © ОпенСтреетМап цонтрибуторс, Бараево",
+  "kind": "дом",
+  "price": 600,
+  "area": 180,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Бараево",
+  "districtSlug": "barajevo",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Ибарски Пут",
+  "geo": {
+   "lat": 44.62566,
+   "lng": 20.37354
+  },
+  "facts": [
+   [
+    "Площадь",
+    "180 м²"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "частично меблирован"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "кабельное ТВ",
+   "видеонаблюдение",
+   "парковка",
+   "можно с животными",
+   "депозит"
+  ],
+  "text": "Сдаётся дом площадью 180 м² в районе © ОпенСтреетМап цонтрибуторс (Бараево, Белград). Частично меблирован, отопление центральное, после ремонта, старый фонд. Есть: можно въехать сразу, интернет, терраса, кабельное ТВ, видеонаблюдение, парковка, можно с животными, депозит. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "Na izdavanje prizemlje objekta velicine 180 kvadrata, funkcionalna u potpunosti. Na samom ulazu u kucu je ostava, veliki dnevni boravak iz dva dela, kuhinja u sklopu dnevnog boravka, 3 odvojene spavace sobe, kupatilo. Pogodna kako za stanovanje tako i za posao, obzirom da se nalazi odmah uz magistralu. Mogucnost zakupa i dela garaze koja se nalazi u sklopu kuce od stotinak kvadrata.",
+  "photos": 10,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "kp-197447885",
+  "slug": "kp-197447885-izdavanje-kuca-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "house",
+  "cat": "house",
+  "title": "Аренда: дом, 280 м², © ОпенСтреетМап цонтрибуторс, Сопот",
+  "kind": "дом",
+  "price": 900,
+  "area": 280,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Сопот",
+  "districtSlug": "sopot",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "",
+  "geo": {
+   "lat": 44.57286,
+   "lng": 20.56078
+  },
+  "facts": [
+   [
+    "Площадь",
+    "280 м²"
+   ],
+   [
+    "Отопление",
+    "кондиционер, автономное, электрическое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "подвал",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "можно с животными",
+   "депозит"
+  ],
+  "text": "Сдаётся дом площадью 280 м² в районе © ОпенСтреетМап цонтрибуторс (Сопот, Белград). С мебелью, отопление кондиционер, автономное, электрическое, после ремонта, дом современной постройки. Есть: можно въехать сразу, интернет, терраса, подвал, кабельное ТВ, кондиционер, парковка, можно с животными, депозит. Аренда 900 € в месяц.",
+  "originalLang": "sr",
+  "original": "Kompletno nameštena kuća od 280m2 i 10 ari placa\n\nOdlična lokacija na kilometar od centra Ralje\n\nPrevoz ispred kuće i za Beograd i lokalni \n\nEG na najmoderniji kotao na struju razvučeno po celoj kući plus najnovije i najmodernije Hisense klime 18 i 24\n\nOptika, jaka trofazna struja, gradska voda\n\n5 spavaćih soba, 2 dnevne sobe, 4 kupatila, 2 ostave, terasa, trem\n\nU prizemlju kompletno opremljen frizerski salon koji je u ovoj ceni ( ne izdaje se posebno nego sa kućom )\n\nIzdaje se na duže, ugovor obavezan, plaćanje mesečno plus na početku 2 depozita",
+  "photos": 15,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "kp-197449098",
+  "slug": "kp-197449098-izdavanje-kuca-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "house",
+  "cat": "house",
+  "title": "Аренда: дом, 120 м², © ОпенСтреетМап цонтрибуторс, Звездара",
+  "kind": "дом",
+  "price": 130,
+  "area": 120,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "Пере Вельковича 10",
+  "geo": {
+   "lat": 44.79309,
+   "lng": 20.52948
+  },
+  "facts": [
+   [
+    "Площадь",
+    "120 м²"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер"
+  ],
+  "text": "Сдаётся дом площадью 120 м² в районе © ОпенСтреетМап цонтрибуторс (Звездара, Белград). С мебелью, отопление центральное, после ремонта, дом современной постройки. Есть: можно въехать сразу, интернет, кабельное ТВ, кондиционер. Аренда 130 € в месяц.",
+  "originalLang": "sr",
+  "original": "Smestaj za 16 radnika , struja , voda , internet,   sve ukljuceno u cenu, na duzi vremenski period.  \n\nU sklopu objekta ima veliko dvoriste gde se mogu parkirati skuteri i bicikli.  \n\nSamo ozbiljni na duzi vremenski period.  \n\nCena povoljna.",
+  "photos": 10,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
   "id": "ho-5425648022404",
   "slug": "ho-5425648022404-izdavanje-stan-batajnica",
   "deal": "rent",
