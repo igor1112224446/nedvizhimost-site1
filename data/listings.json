@@ -1,5 +1,69 @@
 [
  {
+  "id": "ho-5425645048107",
+  "slug": "ho-5425645048107-izdavanje-stan-bajlonijeva-pijaca",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 28 м², Байлониева пияца, Старый город",
+  "kind": "студия",
+  "price": 400,
+  "area": 28,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "opstina-stari-grad",
+  "location": "Байлониева пияца",
+  "street": "Шантичева",
+  "geo": {
+   "lat": 44.81917,
+   "lng": 20.47077
+  },
+  "facts": [
+   [
+    "Площадь",
+    "28 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "1-й из 4"
+   ],
+   [
+    "Отопление",
+    "норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "для некурящих",
+   "домофон",
+   "кондиционер"
+  ],
+  "text": "Сдаётся студия площадью 28 м² в районе Байлониева пияца (Старый город, Белград). 1-й этаж из 4, с мебелью, отопление норвежские радиаторы, после ремонта, старый фонд. Есть: депозит, можно въехать сразу, для некурящих, домофон, кондиционер. Аренда 400 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem garsonjeru 28m2 u centru grada, kod pijace Skadarlija. Prvi sprat. \n\nNalazi se u blizini Banije, biroa rada, lilly-ja, Lidla.\nNa 2 minuta hoda je od: Bajlonijeve pijace, Skadarlije, Novog Dorćola.\nNa 10 min hoda je od Knez Mihajlove ulice, Silosa, Dorćol placa\nStan ima veš mašinu, frižider, televizor, čajnu kihinju, dva ormana i klik-klak trosed. Mogući dogovori oko nameštaja.\nGrejanje je na struju: klima i norveski radijator.\n\nVisina kirije je 400e, plus obavezan depozit u visini jedne kirije.\nPlaćanje mesečno.",
+  "photos": 7,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
   "id": "kp-196727075",
   "slug": "kp-196727075-izdavanje-kuca-openstreetmap-contributors",
   "deal": "rent",
