@@ -1,5 +1,161 @@
 [
  {
+  "id": "kp-196727075",
+  "slug": "kp-196727075-izdavanje-kuca-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "house",
+  "cat": "house",
+  "title": "Аренда: дом, 220 м², © ОпенСтреетМап цонтрибуторс, Земун",
+  "kind": "дом",
+  "price": 1500,
+  "area": 220,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "zemun",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "",
+  "geo": {
+   "lat": 44.84987,
+   "lng": 20.3695
+  },
+  "facts": [
+   [
+    "Площадь",
+    "220 м²"
+   ],
+   [
+    "Отопление",
+    "кондиционер, электрическое"
+   ],
+   [
+    "Мебель",
+    "частично меблирован"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "терраса",
+   "подвал",
+   "кондиционер",
+   "парковка",
+   "гараж",
+   "депозит"
+  ],
+  "text": "Сдаётся дом площадью 220 м² в районе © ОпенСтреетМап цонтрибуторс (Земун, Белград). Частично меблирован, отопление кондиционер, электрическое, старый фонд. Есть: можно въехать сразу, терраса, подвал, кондиционер, парковка, гараж, депозит. Аренда 1 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se prostrana i komforna porodična kuća na Altini (Zemun), ukupne površine 220 m². Kuća je zbog svog rasporeda i strukture savršena za dve porodice (npr. povezane porodice, rođake) koje žele da žive zajedno, a da zadrže potpunu privatnost i nezavisnost.\nIzdaje se prostrana i komforna porodična kuća na Altini (Zemun), ukupne površine 220 m². Kuća je zbog svog rasporeda i strukture savršena za dve porodice (npr. povezane porodice, rođake) koje žele da žive zajedno, a da zadrže potpunu privatnost i nezavisnost. Kuća je povezana unutrašnjim stepenicama i podeljena na dve identične stambene jedinice od po 110 m² (prizemlje i sprat).\nStruktura i raspored po etažama (prizemlje i sprat):\n• 6 zasebnih spavaćih soba (3 u prizemlju + 3 na spratu)\n• 2 prostrana dnevna boravka (po jedan na svakoj etaži)\n• 2 kompletno opremljene kuhinje i 2 kupatila (mogućnost ubacivanja veš mašine po dogovoru)\nGlavne prednosti nekretnine:\n• Odvojeni računi za struju: Kuća poseduje dva zasebna brojila (strujomera), tako da svaka etaža potpuno nezavisno plaća svoju potrošnju.\n• Vrhunska klimatizacija: Ukupno 8 klima uređaja – svaka prostorija u kući (sve sobe i dnevni boravci) ima svoju klimu.\n• Dvorište i garaža: Dvorište je potpuno ograđeno, bezbedno za decu i idealno za odmor. Na raspolaganju je garaža (dimenzija 3.5x5m) koja služi kao ostava/podrum za odlaganje stvari.\n• Grejanje: Razveden sistem sa aluminijumskim radijatorima. Prizemlje koristi peć na pelet, dok se sprat greje na elektro-kotao (preko svog strujomera).\nUslovi izdavanja:\n• Kuća se izdaje na duži vremenski period ozbiljnim stanarima.\n• Kućni ljubimci nisu dozvoljeni.\n• Obavezan depozit u visini jednej mesečne kirije.\nCena: 1.500 € / mesečno (fiksno, odnosno 750 € po porodici)\nIzdaje se prostrana i komforna porodična kuća na Altini (Zemun), ukupne površine 240 m². Kuća je zbog svog rasporeda i strukture savršena za dve porodice (npr. povezane porodice, rođake) koje žele da žive zajedno, a da zadrže potpunu privatnost i nezavisnost. Za vise informacija pozovite na wocap+4917676982345",
+  "photos": 15,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "kp-197196295",
+  "slug": "kp-197196295-izdavanje-kuca-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "house",
+  "cat": "house",
+  "title": "Аренда: дом, 200 м², © ОпенСтреетМап цонтрибуторс, Палилула",
+  "kind": "дом",
+  "price": 2000,
+  "area": 200,
+  "rooms": 5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "",
+  "geo": {
+   "lat": 44.84483,
+   "lng": 20.48853
+  },
+  "facts": [
+   [
+    "Площадь",
+    "200 м²"
+   ],
+   [
+    "Отопление",
+    "электрическое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "кондиционер",
+   "депозит"
+  ],
+  "text": "Сдаётся дом площадью 200 м² в районе © ОпенСтреетМап цонтрибуторс (Палилула, Белград). С мебелью, отопление электрическое. Есть: можно въехать сразу, кондиционер, депозит. Аренда 2 000 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem nameštenu kuću za radnike, kapacitet 20 kreveta.",
+  "photos": 3,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
+  "id": "kp-197038221",
+  "slug": "kp-197038221-izdavanje-kuca-openstreetmap-contributors",
+  "deal": "rent",
+  "type": "house",
+  "cat": "house",
+  "title": "Аренда: дом, 104 м², © ОпенСтреетМап цонтрибуторс, Сурчин",
+  "kind": "дом",
+  "price": 150,
+  "area": 104,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Сурчин",
+  "districtSlug": "surcin",
+  "location": "© ОпенСтреетМап цонтрибуторс",
+  "street": "",
+  "geo": {
+   "lat": 44.82762,
+   "lng": 20.22284
+  },
+  "facts": [
+   [
+    "Площадь",
+    "104 м²"
+   ],
+   [
+    "Отопление",
+    "кондиционер"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка"
+  ],
+  "text": "Сдаётся дом площадью 104 м² в районе © ОпенСтреетМап цонтрибуторс (Сурчин, Белград). С мебелью, отопление кондиционер, после ремонта, дом современной постройки. Есть: можно въехать сразу, интернет, кабельное ТВ, кондиционер, парковка. Аренда 150 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem smestaj za radnike 3 odvojene stambene jedinice, ukupno 25 lezajeva , renovirano, potpuno namesteno, dve tus kabine , wc, internet, kablovska , parking.",
+  "photos": 15,
+  "added": "2026-11-22",
+  "updated": "2026-11-22"
+ },
+ {
   "id": "kp-197463536",
   "slug": "kp-197463536-izdavanje-stan-openstreetmap-contributors",
   "deal": "rent",
