@@ -1,5 +1,51 @@
 [
  {
+  "id": "fz-6b04079f263e56eb04043c5b",
+  "slug": "fz-6b04079f263e56eb04043c5b-izdavanje-stan-beograd-na-vodi",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 56 м², Београд на води, Савски-Венац",
+  "kind": "двухкомнатная квартира",
+  "price": 1600,
+  "area": 56,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "savski-venac",
+  "location": "Београд на води",
+  "street": "Кралице Драге Обренович 1",
+  "geo": {
+   "lat": 44.80872,
+   "lng": 20.45274
+  },
+  "facts": [
+   [
+    "Площадь",
+    "56 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся двухкомнатная квартира площадью 56 м² в районе Београд на води (Савски-Венац, Белград). С мебелью, отопление центральное. Аренда 1 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "Dvosoban stan u zgradi za izdavanje, Namešteno, Beograd na vodi, 56 m2, na 8. spratu, ima lift. Stanje - Novo, Centralno, ima terasu, ima kupatilo. Ima parking mesto.",
+  "photos": 14,
+  "added": "2026-11-23",
+  "updated": "2026-11-23"
+ },
+ {
   "id": "ho-5425648027025",
   "slug": "ho-5425648027025-prodaja-stan-karaburma",
   "deal": "sale",
