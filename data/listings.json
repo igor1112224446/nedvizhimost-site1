@@ -1,5 +1,120 @@
 [
  {
+  "id": "fz-6aeb6506aaac5280ee0505a8",
+  "slug": "fz-6aeb6506aaac5280ee0505a8-izdavanje-stan-borca",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 38 м², Борча, Палилула",
+  "kind": "1,5-комнатная квартира",
+  "price": 350,
+  "area": 38,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "Борча",
+  "street": "Борча",
+  "geo": {
+   "lat": 44.88593,
+   "lng": 20.45533
+  },
+  "facts": [
+   [
+    "Площадь",
+    "38 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Отопление",
+    "кондиционер"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "кондиционер"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 38 м² в районе Борча (Палилула, Белград). С мебелью, отопление кондиционер. Есть: кондиционер. Аренда 350 € в месяц.",
+  "originalLang": "sr",
+  "original": "Jednoiposoban stan u zgradi za izdavanje, Namešteno, Borča, 38 m2. Stanje - Novo, Klima, ima terasu, ima kupatilo, ima toalet. Ima garažno mesto u sklopu zgrade.",
+  "photos": 13,
+  "added": "2026-11-23",
+  "updated": "2026-11-23"
+ },
+ {
+  "id": "ho-5425648017998",
+  "slug": "ho-5425648017998-izdavanje-stan-zarkovo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 25 м², Жарково, Чукарица",
+  "kind": "студия",
+  "price": 350,
+  "area": 25,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "opstina-cukarica",
+  "location": "Жарково",
+  "street": "Солунских бораца",
+  "geo": {
+   "lat": 44.7543,
+   "lng": 20.4148
+  },
+  "facts": [
+   [
+    "Площадь",
+    "25 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "3-й из 4"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 60 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "кондиционер",
+   "лоджия"
+  ],
+  "text": "Сдаётся студия площадью 25 м² в районе Жарково (Чукарица, Белград). 3-й этаж из 4, с мебелью, отопление центральное, в исходном состоянии, дом современной постройки. Есть: депозит, не последний этаж, кондиционер, лоджия. Аренда 350 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem namešten stan u zgadi ozbiljnoj osobi na duži period.Troškovi:\n- INFOSTAN oko 3100 din.\n- EPS shodno potrošnji.\n- Održavanje zgrade 1040 din.\nDepozit obavezan",
+  "photos": 8,
+  "added": "2026-11-23",
+  "updated": "2026-11-23"
+ },
+ {
   "id": "ho-5425645119849",
   "slug": "ho-5425645119849-izdavanje-stan-stari-merkator",
   "deal": "rent",
