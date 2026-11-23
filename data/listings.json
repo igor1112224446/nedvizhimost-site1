@@ -1,5 +1,152 @@
 [
  {
+  "id": "ho-5425648027414",
+  "slug": "ho-5425648027414-izdavanje-stan-mirijevo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 50 м², Мириево, Звездара",
+  "kind": "двухкомнатная квартира",
+  "price": 700,
+  "area": 50,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Мириево",
+  "street": "Витинска 1",
+  "geo": {
+   "lat": 44.78544,
+   "lng": 20.52645
+  },
+  "facts": [
+   [
+    "Площадь",
+    "50 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "высокий приземный из 3"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 120 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно с животными",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "подходит студентам",
+   "гараж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "лифт",
+   "парковка",
+   "подвал",
+   "с садом",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 50 м² в районе Мириево (Звездара, Белград). Высокий приземный этаж из 3, с мебелью, люкс, дом современной постройки. Есть: депозит, можно с животными, не последний этаж, можно въехать сразу, для некурящих, подходит студентам, гараж, домофон, интернет, кабельное ТВ, лифт, парковка, подвал, с садом, терраса, видеонаблюдение. Аренда 700 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se prelep, potpuno nov i moderno opremljen stan, sa novim nameštajem i svim potrebnim uređajima. Stan je spreman za useljenje, bez ikakvih dodatnih ulaganja.Nalazi se na visokom prizemlju, u mirnom okruženju, okružen zelenilom, što pruža prijatnu atmosferu, mir i privatnost.\nStan poseduje lepu terasu, idealnu za uživanje i opuštanje.\nOPREMA I POGODNOSTI:\n Potpuno nov nameštaj\n Kompletno opremljena kuhinja\n Mašina za sudove\n Svi neophodni kućni uređaji\n Terasa\n Visoko prizemlje\n Lepo uređeno okruženje puno zelenila\n Garažno parking mesto uključeno u cenu zakupa!\nPosebna pogodnost je što su garažno mesto i kompletna oprema uključeni u cenu, bez dodatnih troškova.\nStan je idealan za one koji traže moderan, udoban i kvalitetan životni prostor.\nSve je novo, uređeno sa pažnjom i spremno za prve stanare!\nZa više informacija i dogovor oko gledanja stana, kontaktirati putem telefona ili poruke",
+  "photos": 15,
+  "added": "2026-11-23",
+  "updated": "2026-11-23"
+ },
+ {
+  "id": "ho-5425648027911",
+  "slug": "ho-5425648027911-izdavanje-stan-banjica",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 40 м², Баница, Вождовац",
+  "kind": "двухкомнатная квартира",
+  "price": 450,
+  "area": 40,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "Баница",
+  "street": "Др Изабеле Хатон 005",
+  "geo": {
+   "lat": 44.75584,
+   "lng": 20.48479
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "высокий приземный из 1"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 80 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно с животными",
+   "можно въехать сразу",
+   "подходит студентам",
+   "кондиционер",
+   "парковка",
+   "с садом",
+   "терраса",
+   "горячая вода"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 40 м² в районе Баница (Вождовац, Белград). Высокий приземный этаж из 1, с мебелью, отопление автономное, после ремонта, старый фонд. Есть: депозит, можно с животными, можно въехать сразу, подходит студентам, кондиционер, парковка, с садом, терраса, горячая вода. Аренда 450 € в месяц.",
+  "originalLang": "sr",
+  "original": "BANJICA – Namešten stan 40 m², ograđeno dvorište, parking, PET FRIENDLY – 450 €\n\nDirektno od vlasnika izdaje se svetao i prijatan, namešten stan površine 40 m² na Banjici, u porodičnoj kući podeljenoj na dve zasebne stambene jedinice.\n\nStan ima sopstveni ulaz sa zajedničke natkrivene terase.\n\nRaspored i oprema:\n\n- Odvojena spavaća soba sa bračnim krevetom i ormarom\n- Dnevni boravak sa televizorom i trpezarijskim delom\n- Opremljena kuhinja sa frižiderom, pločom za kuvanje, rernom i veš-mašinom\n- Kupatilo\n- PVC stolarija\n- Nova inverter klima je kupljena, montaža planirana pre useljenja\n\nDodatne pogodnosti:\n\n- Potpuno ograđeno, zeleno dvorište iz kojeg psi ne mogu samostalno izaći na ulicu\n- Dvorište na zajedničko korišćenje\n- Natkrivena zajednička terasa\n- Privatno parking mesto ispred dvorišta, rezervisano za zakupca\n- Zaseban ulaz u stan\n- Pogled na zelenilo\n- PET FRIENDLY – kućni ljubimci su dobrodošli! \n\nU drugoj stambenoj jedinici živi vlasnikova sestra sa dva druželjubiva psa. Dvorište je zajedničko, pa je poželjno da zakupci vole životinje i da se njihovi ljubimci dobro slažu sa drugim psima.\n\nStan je pogodan za jednu osobu ili par koji žele udoban dom, zelenilo i pogodnosti života u kući.\n\nMesečna kirija: 450 €\n\nDepozit: 450 €\n\nBez agencijske provizije.\n\nZa dodatne informacije i dogovor oko razgledanja, kontaktirajte vlasnika.\nNa viber ili whatsapp na hr broj : 00385958832642 ili 00385955395314",
+  "photos": 14,
+  "added": "2026-11-23",
+  "updated": "2026-11-23"
+ },
+ {
   "id": "fz-6aeb6506aaac5280ee0505a8",
   "slug": "fz-6aeb6506aaac5280ee0505a8-izdavanje-stan-borca",
   "deal": "rent",
