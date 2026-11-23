@@ -1,5 +1,64 @@
 [
  {
+  "id": "ho-5425648027025",
+  "slug": "ho-5425648027025-prodaja-stan-karaburma",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: двухкомнатная квартира, 38 м², Карабурма, Палилула",
+  "kind": "двухкомнатная квартира",
+  "price": 138000,
+  "area": 38,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Карабурма",
+  "street": "Хусинских рудара",
+  "geo": {
+   "lat": 44.81491,
+   "lng": 20.5184
+  },
+  "facts": [
+   [
+    "Площадь",
+    "38 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "1-й из 4"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "можно въехать сразу",
+   "есть право собственности",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "подвал",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся двухкомнатная квартира площадью 38 м² в районе Карабурма (Палилула, Белград). 1-й этаж из 4, люкс. Есть: не последний этаж, можно въехать сразу, есть право собственности, домофон, интернет, кабельное ТВ, кондиционер, парковка, подвал, терраса, горячая вода, видеонаблюдение. Цена 138 000 €.",
+  "originalLang": "sr",
+  "original": "Nije potrebno nikakvo dodatno oglašavanje preko agencija, ukoliko imate kupca vašeg internog možete me kontaktirati.\n\nLuksuzan, dvosoban, kompletno renoviran stan na Karaburmi. Ulaz je okrečen i lepo održavan a na zgradi je urađena fasada. Ukupna kvadratura stana je 38 kvadrata (36 kvadrata unutrašnja površina + 2 kvadrata terasa) kao i zaseban ograđen podrum od 6 kvadrata.\n\nStan poseduje spavaću sobu, prostrani dnevni boravak sa kuhinjom, terasu, kupatilo, predsoblje kao i podrum. Nalazi se u mirnom delu Husinskih Rudara, u blizini stare okretnice i pijace. U neposrednoj blizini se nalazi par škola, gradski prevoz kao i mnogobrojne prodavnice.\n\nNove elektro i vodovodne instalacije, PVC stolarija, osvetljenje, parket, nova sobna vrata, nova keramika, nove sanitarije, zidovi i plafoni su išmirglani, izgletovani i okrečeni. U stanu su urađene zidne tehnike kao i spušteni plafoni.\n\nVlasnik",
+  "photos": 15,
+  "added": "2026-11-23",
+  "updated": "2026-11-23"
+ },
+ {
   "id": "ho-5425648028111",
   "slug": "ho-5425648028111-izdavanje-stan-blok-44-tc-piramida",
   "deal": "rent",
