@@ -1,5 +1,72 @@
 [
  {
+  "id": "ho-5425644320851",
+  "slug": "ho-5425644320851-izdavanje-stan-plavi-horizonti",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "house",
+  "title": "Аренда: 1,5-комнатная квартира, 65 м², Плави хоризонти, Земун",
+  "kind": "1,5-комнатная квартира",
+  "price": 600,
+  "area": 65,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Плави хоризонти",
+  "street": "Николая Салтикова",
+  "geo": {
+   "lat": 44.84737,
+   "lng": 20.34458
+  },
+  "facts": [
+   [
+    "Площадь",
+    "65 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "приземный из 1"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "терраса",
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 65 м² в районе Плави хоризонти (Земун, Белград). Приземный этаж из 1, с мебелью, отопление центральное, в исходном состоянии, дом современной постройки. Есть: интернет, кабельное ТВ, кондиционер, парковка, терраса, депозит, не последний этаж, можно въехать сразу. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "U cenu grejanje i jedno parking mesto. Odmah useljiv. Minimum 12 mes..\nTip nekretnine - Prezemlje u porodićnoj kući\n\nStanje objekta - Odlićno. Namešteno, CG grejanje na pelet, bojler u kupatilu kombinovan i povezan sa grejanjem\nBeograd - Opština Zemun - Na mirnoj lokaciji, a u isto vreme blizu glavnih saobraćajnica (autoput). Naselje Plavi horizonti je odlično pozicionirano na 10 minuta od centra Zemuna, Novog Beodrada i Aerodroma. Naselje ima 2 avtobuske linije i stanicu BGVoza\nMesečne režije struja po potrošni(ima kontrolni sat), voda po pola Ostalo - Terasa, Inverter klima, Parking\nPrezemlje u porodićnoj kući sa ograđenim dvorištem, odmah useljivo. Stan je skroz opremljen sa ostavom, ima usisivać - poseduje kompletirano predsoblje; kompletirano kupatilo - sa mašinom za veš, kompletiran dnevni boravak - televizor, ima kablovska i internet, sa inverter klimom, spavaća soba sa ulazom u garderobu - ima dva kreveta i ormar u garderobi, kompletiranu kuhinju - šporet sa ravnom pločom, aspirator, frižider, sto sa stolicama, sa izlazom na terasu sa stolom i stolicami",
+  "photos": 14,
+  "added": "2026-11-23",
+  "updated": "2026-11-23"
+ },
+ {
   "id": "fz-6b04079f263e56eb04043c5b",
   "slug": "fz-6b04079f263e56eb04043c5b-izdavanje-stan-beograd-na-vodi",
   "deal": "rent",
