@@ -1,5 +1,72 @@
 [
  {
+  "id": "ho-5425648028111",
+  "slug": "ho-5425648028111-izdavanje-stan-blok-44-tc-piramida",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 84 м², Блок 44 (TC Piramida), Новый Белград",
+  "kind": "трёхкомнатная квартира",
+  "price": 1000,
+  "area": 84,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Блок 44 (TC Piramida)",
+  "street": "Гандиева",
+  "geo": {
+   "lat": 44.80181,
+   "lng": 20.38864
+  },
+  "facts": [
+   [
+    "Площадь",
+    "84 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "приземный из 7"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 150 € в месяц"
+   ]
+  ],
+  "features": [
+   "домофон",
+   "интернет",
+   "кондиционер",
+   "терраса"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 84 м² в районе Блок 44 (TC Piramida) (Новый Белград, Белград). Приземный этаж из 7, с мебелью, отопление центральное, люкс, старый фонд. Есть: домофон, интернет, кондиционер, терраса. Аренда 1 000 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se renoviran, namešten stan, sastoji se od dnevne sobe, 2 spavace, kuhinje, trpezarije i terase. Stan je u prizemlju iznad nivoa zenlje, obeznedjen resetkama. Kompletno namesten novim namestajem.",
+  "photos": 8,
+  "added": "2026-11-23",
+  "updated": "2026-11-23"
+ },
+ {
   "id": "ho-5425648027414",
   "slug": "ho-5425648027414-izdavanje-stan-mirijevo",
   "deal": "rent",
