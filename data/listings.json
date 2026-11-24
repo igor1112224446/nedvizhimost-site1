@@ -728,6 +728,212 @@
   "updated": "2026-11-24"
  },
  {
+  "id": "ho-5425648022375",
+  "slug": "ho-5425648022375-izdavanje-stan-sarajevska",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 50 м², Сараевска, Савски-Венац",
+  "kind": "двухкомнатная квартира",
+  "price": 900,
+  "area": 50,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "opstina-savski-venac",
+  "location": "Сараевска",
+  "street": "Сараевска",
+  "geo": {
+   "lat": 44.80465,
+   "lng": 20.45622
+  },
+  "facts": [
+   [
+    "Площадь",
+    "50 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "5-й из 9"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "интернет",
+   "кондиционер",
+   "лифт"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 50 м² в районе Сараевска (Савски-Венац, Белград). 5-й этаж из 9, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу, интернет, кондиционер, лифт. Аренда 900 € в месяц.",
+  "originalLang": "sr",
+  "original": "Agencije mogu od svojih klijenata da naplate proviziju.\n\nIzdaje se stan u Sarajevskoj 14, površine 48 m², na 5. spratu.\n\n Cena: 900 € mesečno.\n\nMogućnost izrade belog kartona i prijave boravka za strance.\n\n Kontakt: Miloš\n\nСдаётся квартира по адресу Sarajevska 14, площадью 48 м², на 5-м этаже.\n\n Цена: 900 € в месяц.\n\nВозможно оформление белого картона и регистрация иностранных граждан по месту пребывания.\n\n Контакт: Милош",
+  "photos": 14,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "ho-5425648027444",
+  "slug": "ho-5425648027444-prodaja-stan-blok-38",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 4,5-комнатная квартира, 89 м², Блок 38, Новый Белград",
+  "kind": "4,5-комнатная квартира",
+  "price": 335000,
+  "area": 89,
+  "rooms": 4.5,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Блок 38",
+  "street": "Булевар Милутина Миланковича",
+  "geo": {
+   "lat": 44.8163,
+   "lng": 20.4034
+  },
+  "facts": [
+   [
+    "Площадь",
+    "89 м²"
+   ],
+   [
+    "Комнат",
+    "4,5"
+   ],
+   [
+    "Этаж",
+    "3-й из 17"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "гараж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "лоджия",
+   "парковка",
+   "подвал",
+   "видеонаблюдение",
+   "не последний этаж",
+   "есть право собственности"
+  ],
+  "text": "Продаётся 4,5-комнатная квартира площадью 89 м² в районе Блок 38 (Новый Белград, Белград). 3-й этаж из 17, отопление центральное, после ремонта, старый фонд. Есть: гараж, домофон, интернет, кабельное ТВ, кондиционер, лифт, лоджия, парковка, подвал, видеонаблюдение, не последний этаж, есть право собственности. Цена 335 000 €.",
+  "originalLang": "sr",
+  "original": "Na prodaju izuzetno funkcionalan, kompletno renoviran petosoban stan, idealan za veću porodicu.\n\nStan je temeljno adaptiran: zamenjene su sve instalacije, kompletna stolarija, prozori, unutrašnja i ulazna vrata i uređena dva nova kupatila. Novim rasporedom dobijen je petosoban stan sa jasno odvojenim dnevnim i spavaćim delom.\n\nRaspored: prostran dnevni boravak sa trpezarijom i kuhinjom, tri spavaće sobe + jedna master spavaća soba, i dva kupatila.\n\nStan je južno orijentisan, izuzetno svetao, odlično zaštićen od spoljne buke i veoma topao tokom zime.\n\nPovršina: 89 m² stvarno izmereno, 86 m² uknjiženo (razlika je posledica ranijeg načina obračuna lođe, koja se knjižila sa polovinom površine).\n\nZgrada poseduje čak 5 liftova, a ispred se nalazi besplatan parking. Stanu pripada i podrumska prostorija.\n\nLokacija idealna za porodicu! U samom bloku nalaze se vrtić, osnovna škola koja radi isključivo u prepodnevnoj smeni, prodavnice, bankomat, kafići i restorani. Okruženje obiluje zelenilom, parkovima i dečjim igralištima.\n\nDodatna mogućnost: kupovina zatvorene, suve i uknjižene garaže od 13 m² u Bloku 28, udaljene svega 500 m od stana. Cena garaže na upit.\n\nПродаётся светлая, просторная и функциональная квартира, идеально подходящая для большой семьи.\n\nПроведён капитальный ремонт: полностью заменены все коммуникации, окна, межкомнатные и входная двери, обновлены два санузла. Благодаря перепланировке квартира стала пятикомнатной, с отдельной спальной зоной.\n\nПланировка: гостиная с обеденной зоной и кухней, три спальни + отдельная мастер-спальня, два санузла.\n\nЮжная ориентация обеспечивает много естественного света. Квартира хорошо защищена от уличного шума и очень тёплая зимой.\n\nПлощадь: фактически 89 м², по документам 86 м² (разница связана с тем, что ранее площадь лоджии учитывалась наполовину).\n\nВ доме 5 лифтов, перед зданием бесплатная парковка. К квартире прилагается подвальное помещение.\n\nИдеальное место для семьи! В квартале находятся детский сад, школа с занятиями только в первую смену, магазины, банкомат, кафе и рестораны. Много зелени, парков и детских площадок.\n\nДополнительно: можно приобрести отдельный закрытый, сухой и зарегистрированный гараж площадью 13 м² в Блоке 28, всего в 500 м от квартиры. Цена по запросу.",
+  "photos": 14,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "ho-5425648022663",
+  "slug": "ho-5425648022663-izdavanje-stan-mirijevo",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 25 м², Мириево, Звездара",
+  "kind": "студия",
+  "price": 280,
+  "area": 25,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Мириево",
+  "street": "Милича од Мачве",
+  "geo": {
+   "lat": 44.78407,
+   "lng": 20.54435
+  },
+  "facts": [
+   [
+    "Площадь",
+    "25 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Этаж",
+    "1-й из 5"
+   ],
+   [
+    "Отопление",
+    "норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 80 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся студия площадью 25 м² в районе Мириево (Звездара, Белград). 1-й этаж из 5, с мебелью, отопление норвежские радиаторы, в исходном состоянии, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, домофон, интернет, кабельное ТВ, кондиционер, лифт, терраса, видеонаблюдение. Аренда 280 € в месяц.",
+  "originalLang": "sr",
+  "original": "Garsonjera, svetla, prostrana, nameštena, kompletno opremljena, dobro izolovana i ekonomična pri grejanju i hladjenju, sa terasom i panoramskim pogledom na zelenilo i Mirijevo. Iznajmljivanje poželjno na duže. Depozit 200 e.",
+  "photos": 8,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
   "id": "ho-5425644320851",
   "slug": "ho-5425644320851-izdavanje-stan-plavi-horizonti",
   "deal": "rent",
