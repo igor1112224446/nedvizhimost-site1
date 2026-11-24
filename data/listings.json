@@ -1,5 +1,73 @@
 [
  {
+  "id": "kp-196625453",
+  "slug": "kp-196625453-izdavanje-stan-juzni-bulevar",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 60 м², Южни булевар, Врачар",
+  "kind": "2,5-комнатная квартира",
+  "price": 950,
+  "area": 60,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "vracar",
+  "location": "Южни булевар",
+  "street": "Шуматовачка 145",
+  "geo": {
+   "lat": 44.79379,
+   "lng": 20.48519
+  },
+  "facts": [
+   [
+    "Площадь",
+    "60 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "1-й из 4"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "интернет",
+   "терраса",
+   "кабельное ТВ",
+   "кондиционер",
+   "энергопаспорт",
+   "лифт",
+   "парковка",
+   "депозит"
+  ],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 60 м² в районе Южни булевар (Врачар, Белград). 1-й этаж из 4, с мебелью, отопление центральное, в исходном состоянии, дом современной постройки. Есть: можно въехать сразу, интернет, терраса, кабельное ТВ, кондиционер, энергопаспорт, лифт, парковка, депозит. Аренда 950 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem stan na Vracaru\n\nZgrada novije gradnje\n\nStan je opremljen i odmah spreman za useljenje\n\nGrejanje je po utrosku \n\nBlizina autoputa, marketi sportsku centar i teretana\n\nZa vise informacija pozvati\n\nVlasnik",
+  "photos": 15,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
   "id": "fz-6b05d384a75cf16c3f0a4563",
   "slug": "fz-6b05d384a75cf16c3f0a4563-izdavanje-stan-kosmaj",
   "deal": "rent",
@@ -1500,6 +1568,650 @@
   "originalLang": "sr",
   "original": "Prodajemo svetao, dvostrano orijentisan stan na prvom spratu u ulici Branka Cvetkovića, u blizini vrtića, osnovne škole i autobuske stanice.\n\nKupovina i dokumentacija\n\nZa zgradu je dobijeno rešenje, a upis stana kao posebnog dela je u toku po zakonu „Svoj na svome“.\n\nKako se prethodni kupac pokazao neozbiljnim, advokat je već pripremio predugovor. Predugovor se može overiti kod javnog beležnika nakon pregleda dokumentacije.\n\nPredugovorom se obavezujemo da sprovedemo sve potrebne korake koji su do nas za završetak postupka, koji očekujemo u narednih nekoliko meseci. Rok, naše obaveze, dinamika plaćanja i uslovi za zaključenje kupoprodajnog ugovora biće jasno navedeni u predugovoru, uključujući i šta se dešava ako se postupak produži.\n\nProdaja je direktno od vlasnika. Plaćanje je iz sopstvenih sredstava kupca, uplatom na račun prodavca. Kupovina putem stambenog kredita trenutno nije moguća.\n\nRaspored i prednosti stana\n\nDnevni deo je odvojen od spavaćeg, a zahvaljujući dvostranoj orijentaciji stan ima dosta prirodnog svetla tokom celog dana.\n\n* Dnevna soba sa trpezarijom i kuhinjom ima izlaz na veću terasu, sa mogućnošću proširenja.\n* Dve spavaće sobe, od kojih veća ima izlaz na svoju terasu.\n* Zaseban špajz, hodnik i kupatilo.\n\nStan je kompletno renoviran pre sedam godina. Zamenjene su instalacije i cevi, a kupatilo je urađeno iznova, sa hidroizolacijom. Spoljna izolacija urađena je pre četiri godine. Prošle godine postavljeno je novo uzemljenje zgrade i betoniran je prilaz.\n\nSamostalno grejanje i topla voda su na gas, uz plaćanje po potrošnji. U najhladnijim mesecima grejanje iznosi oko 8.000 dinara mesečno. Ugrađen je nov Bosch kotao sa pet godina garancije.\n\nKuhinja i ugradni elementi su uključeni u cenu. Deo nameštaja može ostati po dogovoru.\n\nZa više informacija i dogovor oko razgledanja, javite nam se direktno.\n\n⸻\n\nПродаём светлую квартиру площадью 55 м² в Жарково, Белград, на улице Бранка Цветковича. В квартире две спальни, две террасы, гостиная с кухней и столовой, отдельная кладовая и индивидуальное газовое отопление. Квартира расположена на первом этаже над уровнем входа. Кухня и встроенная мебель входят в стоимость.\n\nПродажа напрямую от собственника. Решение по зданию получено, регистрация квартиры ещё в процессе. Юрист подготовил предварительный договор, который можно нотариально удостоверить после проверки документов. Оплата собственными средствами банковским переводом. Покупка в ипотеку пока невозможна.",
   "photos": 15,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "ho-5425648030304",
+  "slug": "ho-5425648030304-izdavanje-stan-blok-65",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 68 м², Блок 65, Новый Белград",
+  "kind": "двухкомнатная квартира",
+  "price": 1300,
+  "area": 68,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Блок 65",
+  "street": "Омладинских бригада",
+  "geo": {
+   "lat": 44.81181,
+   "lng": 20.4019
+  },
+  "facts": [
+   [
+    "Площадь",
+    "68 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "2-й"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "можно въехать сразу",
+   "гараж",
+   "терраса"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 68 м² в районе Блок 65 (Новый Белград, Белград). 2-й этаж, с мебелью, люкс, дом современной постройки. Есть: не последний этаж, можно въехать сразу, гараж, терраса. Аренда 1 300 € в месяц.",
+  "originalLang": "sr",
+  "original": "West 65 – Luksuzan, moderno opremljen stan od 68 m² sa garažnim mestom\n\nIzdaje se moderno opremljen i potpuno namešten stan površine 68 m², smešten u prestižnom stambeno-poslovnom kompleksu West 65, na Novom Beogradu.\n\nStan se nalazi na drugom spratu i odlikuje se funkcionalnim rasporedom, prostranim dnevnim boravkom, trpezarijom i kuhinjom, kao i udobnim i lepo uređenim enterijerom.\n\nStruktura i opremljenost:\n\n* Površina: 68 m²\n* Sprat: 2.\n* Dve sobe\n* Prostran dnevni boravak sa sofom na razvlačenje\n* Potpuno namešten i opremljen stan\n* Garažno mesto\n\nWest 65 pruža visok nivo komfora, sigurnosti i praktičnosti, uz brojne sadržaje u neposrednoj blizini, uključujući prodavnice, restorane i druge uslužne sadržaje.\n\nCena zakupa: 1.300 EUR mesečno.",
+  "photos": 8,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "ho-5425646193952",
+  "slug": "ho-5425646193952-prodaja-stan-banjica",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: двухкомнатная квартира, 40 м², Баница, Вождовац",
+  "kind": "двухкомнатная квартира",
+  "price": 155000,
+  "area": 40,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "Баница",
+  "street": "Милорада Мишковича",
+  "geo": {
+   "lat": 44.75195,
+   "lng": 20.47793
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "высокий приземный из 4"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "можно въехать сразу",
+   "есть право собственности",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "с садом",
+   "терраса",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся двухкомнатная квартира площадью 40 м² в районе Баница (Вождовац, Белград). Высокий приземный этаж из 4, отопление автономное, люкс, дом современной постройки. Есть: не последний этаж, можно въехать сразу, есть право собственности, домофон, интернет, кабельное ТВ, кондиционер, лифт, парковка, с садом, терраса, видеонаблюдение. Цена 155 000 €.",
+  "originalLang": "sr",
+  "original": "Lux stan sa dvoristem od 74 m2 koje pripada vlasniku stana . Savrsen stan sa lux kuhinjom ,americki klizni plakar 3.5 m u staklu ,u kupatilu podno grejanje . Dvoriste sa zelenom povrsinom i delom u plocicama neklizajucim povrsine 74 m2 sa video nadzorom i prskalicama za travu ,sistemom za navodnjavanje kap po kap . Sve je savrseno uredjeno,samo da se uselite . Ovo je cena bez nameštaja ,za cenu sa namestajem možemo se dogovoriti . Sve informacije na broj",
+  "photos": 15,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "ho-5425644173849",
+  "slug": "ho-5425644173849-izdavanje-stan-hotel-jugoslavija",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 62 м², Хотел Югославия, Новый Белград",
+  "kind": "двухкомнатная квартира",
+  "price": 900,
+  "area": 62,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Хотел Югославия",
+  "street": "Грамшиева",
+  "geo": {
+   "lat": 44.82978,
+   "lng": 20.41527
+  },
+  "facts": [
+   [
+    "Площадь",
+    "62 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "5-й из 5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 100 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "лоджия",
+   "парковка",
+   "с садом"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 62 м² в районе Хотел Югославия (Новый Белград, Белград). 5-й этаж из 5, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: депозит, можно въехать сразу, домофон, интернет, кабельное ТВ, кондиционер, лифт, лоджия, парковка, с садом. Аренда 900 € в месяц.",
+  "originalLang": "sr",
+  "original": "Lep, svetao ,komforan i renoviran dvosobni stan u kockici u mirnom zelenom okruženju kod teniskih terena, kod hotela Jugoslavija.U neposrednoj blizini škola, vrtići, dom zdravlja, apoteke, restorani ,parkovi,teretane i Dunavski kej.Potpuno opremljen sa svim velikim i malim kućnim aparatima.Depozit jedna mesečna rata,plaćanje mesečno.",
+  "photos": 15,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "ho-5425648030282",
+  "slug": "ho-5425648030282-izdavanje-stan-autokomanda",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 40 м², Аутокоманда, Вождовац",
+  "kind": "двухкомнатная квартира",
+  "price": 800,
+  "area": 40,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "Аутокоманда",
+  "street": "Даниелова",
+  "geo": {
+   "lat": 44.78292,
+   "lng": 20.47856
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "высокий приземный из 3"
+   ],
+   [
+    "Отопление",
+    "норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 130 € в месяц"
+   ]
+  ],
+  "features": [
+   "можно въехать сразу",
+   "гараж",
+   "домофон",
+   "интернет",
+   "лифт",
+   "с садом",
+   "терраса"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 40 м² в районе Аутокоманда (Вождовац, Белград). Высокий приземный этаж из 3, с мебелью, отопление норвежские радиаторы, люкс, дом современной постройки. Есть: можно въехать сразу, гараж, домофон, интернет, лифт, с садом, терраса. Аренда 800 € в месяц.",
+  "originalLang": "sr",
+  "original": "Ponuda obuhvata predivan stan pun svetla u srcu Dušanovca, idealan za udoban život. Ovaj osvetljeni kutak nudi prostranu terasu od 25 kvadrata, koja je u stvari sopstveno dvorište. Stan je već opremljen nameštajem I svim potrebnim tehničkim uređajima, omogućavajući vam da odmah uživate u udobnosti I funkcionalnosti.\nSmešten je u novoj zgradi na Dušanovcu, gde su vam svi bitni sadržaji na dohvat ruke – autobuska stanica, škola, vrtić, pijaca, fakultet, autokomanda I autoput. Ova lokacija nudi izvanrednu povezanost sa svim delovima grada, pružajući vam praktičnost i brz pristup svim životnim potrebama.\nSam stan je veoma funkcionalan, raspoređen na način koji omogućava maksimalnu iskoristivost prostora. Sastoji se od prostrane dnevne sobe sa kuhinjom I trpezarijom, udobne spavaće sobe i kupatila. Takođe, niske režijske troškove, koji će vam omogućiti da uživate u komforu bez nepotrebnog opterećenja.\nUz sve to, dobijate i garažno mesto, koje je već uračunato u cenu stana.",
+  "photos": 8,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "ho-5425648030089",
+  "slug": "ho-5425648030089-izdavanje-stan-dorcol",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 47 м², Дорчол, Старый город",
+  "kind": "двухкомнатная квартира",
+  "price": 900,
+  "area": 47,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Старый город",
+  "districtSlug": "opstina-stari-grad",
+  "location": "Дорчол",
+  "street": "Дубровачка",
+  "geo": {
+   "lat": 44.82436,
+   "lng": 20.46106
+  },
+  "facts": [
+   [
+    "Площадь",
+    "47 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "4-й из 6"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "лоджия"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 47 м² в районе Дорчол (Старый город, Белград). 4-й этаж из 6, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: не последний этаж, лоджия. Аренда 900 € в месяц.",
+  "originalLang": "sr",
+  "original": "Svetao stan u dobro održavanoj predratnoj zgradi sa prelepim ulaznim holom. Istočno je orijentisan, dobro lociran u blizini Knez Mihailove, Kalemegdana i linijskog parka.",
+  "photos": 15,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "ho-5425642580977",
+  "slug": "ho-5425642580977-izdavanje-stan-tasmajdan",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 37 м², Ташмайдан, Палилула",
+  "kind": "однокомнатная квартира",
+  "price": 500,
+  "area": 37,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Ташмайдан",
+  "street": "Кралице Марие",
+  "geo": {
+   "lat": 44.80663,
+   "lng": 20.47805
+  },
+  "facts": [
+   [
+    "Площадь",
+    "37 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "8-й из 8"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 100 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "мансарда",
+   "подходит студентам",
+   "кондиционер",
+   "лифт",
+   "терраса"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 37 м² в районе Ташмайдан (Палилула, Белград). 8-й этаж из 8, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: депозит, мансарда, подходит студентам, кондиционер, лифт, терраса. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem jednosoban stan na duže vreme. Stan je renoviran i sređen pre dve godine i tada je kupljen nov nameštaj - frižider, šporet, veš mašina, kreveti/kaučevi. \n \nLokacija stana je sjajna a stan ima odličnu, veliku terasu koja gleda na dvorište (miran stan).\n\nStan je na osmom spratu (lift ide do sedmog sprata).\n\nMesečna cena iznajmljivanja stana je 500Eur, prvo plaćanje je tri meseca unapred + depozit (jedna kirija). Nakon toga je mesečno plaćanje. Za slučaj plaćanja godinu dana unapred, mogućnost korekcije cene.\nStan je useljiv od 10. decembra 2026. \n\nGledanje moguće radnim danom posle podne ili vikendom.",
+  "photos": 12,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "fz-66e7fab096258b89d1080058",
+  "slug": "fz-66e7fab096258b89d1080058-izdavanje-stan-tasmajdan",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 37 м², Ташмайдан, Палилула",
+  "kind": "однокомнатная квартира",
+  "price": 500,
+  "area": 37,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "Ташмайдан",
+  "street": "Кралице Марие 12",
+  "geo": {
+   "lat": 44.80841,
+   "lng": 20.47613
+  },
+  "facts": [
+   [
+    "Площадь",
+    "37 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся однокомнатная квартира площадью 37 м² в районе Ташмайдан (Палилула, Белград). С мебелью, отопление центральное. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Jednosoban stan u zgradi za izdavanje, Namešteno, Tašmajdan, 37 m2, na 8. spratu, ima lift. Stanje - Renovirano, Centralno, ima terasu, ima kupatilo, ima toalet.",
+  "photos": 12,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "og-03-4015760",
+  "slug": "og-03-4015760-izdavanje-stan-tasmajdan",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "commercial",
+  "title": "Аренда: трёхкомнатная квартира, 80 м², Ташмайдан, Палилула",
+  "kind": "трёхкомнатная квартира",
+  "price": 850,
+  "area": 80,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "palilula",
+  "location": "Ташмайдан",
+  "street": "27 марта",
+  "geo": null,
+  "facts": [
+   [
+    "Площадь",
+    "80 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "высокий приземный"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "терраса",
+   "лифт",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 80 м² в районе Ташмайдан (Палилула, Белград). Высокий приземный этаж, с мебелью. Есть: терраса, лифт, интернет, кабельное ТВ, кондиционер. Аренда 850 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se renoviran i funkcionalan poslovni prostor površine 80 m², u ulici 27. marta, na odličnoj lokaciji u centru Beograda, u neposrednoj blizini Tašmajdana i Palilulske pijace.\n\nProstor se nalazi u visokom prizemlju uredne stambene zgrade sa liftom i već je korišćen kao poslovni prostor.\n\nTrosoban raspored sa više odvojenih prostorija omogućava organizaciju kancelarija, radnih celina i prostora za sastanke.\n\nKARAKTERISTIKE PROSTORA:\n\n Površina: 80 m²\n\n \n \n Trosoban raspored\n\n \n \n Visoko prizemlje\n\n \n \n Renoviran 2026. godine\n\n \n \n Dve klima jedinice\n\n \n \n Centralno grejanje\n\n \n \n PVC stolarija\n\n \n \n Rešetke na prozorima\n\n \n \n Video-nadzor\n\n \n \n Rampa za pristup osobama sa invaliditetom\n\n \n \n Kupatilo i zaseban WC\n\n \n \n Terasa\n\n \n \n Visina plafona 2,8 m\n\n \n \n Lift u zgradi\n\n \n \n Interfon\n\n \n \n Polunamešten\n\n \nPOGODAN ZA:\n\n Advokatske i pravne kancelarije\n\n \n \n Knjigovodstvene agencije\n\n \n \n IT i softverske kompanije\n\n \n \n Konsultantske i projektne biroе\n\n \n \n Predstavništva i sedišta kompanija\n\n \n \n Administrativne kancelarije\n\n \n \n Različite uslužne delatnosti\n\n \nODLIČNA LOKACIJA – SVE NA DOHVAT RUKE\n\nU neposrednom okruženju nalaze se Tašmajdanski park, Palilulska pijaca, Pravni fakultet, Mašinski fakultet, Bulevar kralja Aleksandra, Takovska ulica, Narodna skupština, Glavna pošta, banke, restorani, kafići i brojni drugi sadržaji.\n\nODLIČNA SAOBRAĆAJNA POVEZANOST\n\nBlizina autobuskih i tramvajskih stajališta omogućava jednostavan dolazak iz različitih delova grada. U blizini su i Vukov spomenik i BG voz.\n\nTrg Republike, Terazije i ostali sadržaji centra Beograda nalaze se na kratkoj udaljenosti.\n\nUSLOVI ZAKUPA:\n\n Mesečna zakupnina: 850 €\n\n \n \n Depozit: 850 €\n\n \n \n Minimalni period zakupa: 12 meseci\n\n \n \n Zakupnina se plaća mesečno\n\n \n \n Komunalni troškovi se plaćaju posebno\n\n \nProstor se izdaje isključivo za poslovnu namenu.\n\nOdličan izbor za firme i preduzetnike kojima je potreban funkcionalan poslovni prostor na atraktivnoj centralnoj lokaciji.\n\nZa dodatne informacije i dogovor oko razgledanja, kontaktirati putem telefona ili poruke.",
+  "photos": 9,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "fz-6b04091397da83df0405653b",
+  "slug": "fz-6b04091397da83df0405653b-prodaja-stan-mirijevo",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 2,5-комнатная квартира, 53 м², Мириево, Звездара",
+  "kind": "2,5-комнатная квартира",
+  "price": 160000,
+  "area": 53,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Мириево",
+  "street": "Радета Марковича",
+  "geo": {
+   "lat": 44.80136,
+   "lng": 20.52229
+  },
+  "facts": [
+   [
+    "Площадь",
+    "53 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "3-й из 3"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Мебель",
+    "частично меблирована"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся 2,5-комнатная квартира площадью 53 м² в районе Мириево (Звездара, Белград). 3-й этаж из 3, частично меблирована, отопление автономное. Цена 160 000 €.",
+  "originalLang": "sr",
+  "original": "Dvoiposoban stan u zgradi za prodaju, uknjižen, Mirijevo, 53 m2, na 3. spratu. Stanje - Novo, Etažno, ima kupatilo, ima toalet.",
+  "photos": 15,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "fz-690205ba8e5793474b03c893",
+  "slug": "fz-690205ba8e5793474b03c893-prodaja-stan-obrenovac",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: трёхкомнатная квартира, 100 м², Обреновац, Обреновац",
+  "kind": "трёхкомнатная квартира",
+  "price": 155000,
+  "area": 100,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Обреновац",
+  "districtSlug": "obrenovac",
+  "location": "Обреновац",
+  "street": "Обреновац",
+  "geo": {
+   "lat": 44.65696,
+   "lng": 20.21086
+  },
+  "facts": [
+   [
+    "Площадь",
+    "100 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "3-й из 3"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "частично меблирована"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся трёхкомнатная квартира площадью 100 м² в районе Обреновац. 3-й этаж из 3, частично меблирована, отопление центральное. Цена 155 000 €.",
+  "originalLang": "sr",
+  "original": "Trosoban stan u zgradi za prodaju, uknjižen, Obrenovac, 100 m2, na 3. spratu. Stanje - Renovirano, Centralno, ima kupatilo, ima toalet.",
+  "photos": 9,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "fz-6b03e88a5e0aca9edf07f719",
+  "slug": "fz-6b03e88a5e0aca9edf07f719-prodaja-stan-mirijevo",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 1,5-комнатная квартира, 42 м², Мириево, Звездара",
+  "kind": "1,5-комнатная квартира",
+  "price": 126000,
+  "area": 42,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Мириево",
+  "street": "Руди Чаявеца 43",
+  "geo": {
+   "lat": 44.79139,
+   "lng": 20.54572
+  },
+  "facts": [
+   [
+    "Площадь",
+    "42 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "4-й из 4"
+   ],
+   [
+    "Отопление",
+    "кондиционер, норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "без мебели"
+   ]
+  ],
+  "features": [],
+  "text": "Продаётся 1,5-комнатная квартира площадью 42 м² в районе Мириево (Звездара, Белград). 4-й этаж из 4, без мебели, отопление кондиционер, норвежские радиаторы. Цена 126 000 €.",
+  "originalLang": "sr",
+  "original": "Jednoiposoban stan u zgradi za prodaju, uknjižen, Mirijevo, 42 m2, na 4. spratu. Stanje - Novo, Klima, ima terasu, ima kupatilo. Ima parking mesto u dvorištu.",
+  "photos": 11,
   "added": "2026-11-24",
   "updated": "2026-11-24"
  },
