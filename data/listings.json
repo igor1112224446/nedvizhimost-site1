@@ -1,5 +1,733 @@
 [
  {
+  "id": "ho-5425645400531",
+  "slug": "ho-5425645400531-izdavanje-stan-trosarina",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 42 м², Трошарина, Вождовац",
+  "kind": "двухкомнатная квартира",
+  "price": 750,
+  "area": 42,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "Трошарина",
+  "street": "Войводе Степе 391",
+  "geo": {
+   "lat": 44.75822,
+   "lng": 20.48648
+  },
+  "facts": [
+   [
+    "Площадь",
+    "42 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "1-й из 8"
+   ],
+   [
+    "Отопление",
+    "тёплый пол"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "кондиционер",
+   "лифт",
+   "терраса"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 42 м² в районе Трошарина (Вождовац, Белград). 1-й этаж из 8, с мебелью, отопление тёплый пол, люкс, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, кондиционер, лифт, терраса. Аренда 750 € в месяц.",
+  "originalLang": "sr",
+  "original": "Luksuzno opremljen nov dvosoban stan u novoizgradjenom stambeno poslovnom objektu SQUARE 2, koji poseduje lift i video nadzor. Stan sadrži opremljenu spavaću sobu (krevet, duseci ,jastuci, plakari), dnevnu sobu sa garniturom na izvlačenje, tv, kompletno opremljenu kuhinju ( frižider sa zamrzivačem, mašinu za pranje sudova, indukciona ploče, rerna,) kompleno opremljeno kupatilo sa ves masinom, terasu predsoblje sa ugradnim plakarima, inverter klimu , sigurnosna vrata.Direktno od vlasnika , bez provizije",
+  "photos": 5,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "ho-5425648030040",
+  "slug": "ho-5425648030040-izdavanje-stan-surcin-mesto",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 60 м², Сурчин (mesto), Сурчин",
+  "kind": "двухкомнатная квартира",
+  "price": 500,
+  "area": 60,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Сурчин",
+  "districtSlug": "opstina-surcin",
+  "location": "Сурчин (mesto)",
+  "street": "Войводянска",
+  "geo": {
+   "lat": 44.79206,
+   "lng": 20.27729
+  },
+  "facts": [
+   [
+    "Площадь",
+    "60 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "1-й из 2"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 80 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "горячая вода"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 60 м² в районе Сурчин (mesto) (Сурчин, Белград). 1-й этаж из 2, с мебелью, отопление газовое, люкс, дом современной постройки. Есть: депозит, не последний этаж, интернет, кабельное ТВ, кондиционер, парковка, горячая вода. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stan na 200 m od Lidla, blizu autobuske stanice. Grejanje na gas. Spavaca soba , dnevna, trpezarija, kuhinja, kupatilo, wc.",
+  "photos": 1,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "ho-5425645126949",
+  "slug": "ho-5425645126949-izdavanje-stan-crveni-krst",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 53 м², Црвени крст, Врачар",
+  "kind": "двухкомнатная квартира",
+  "price": 1350,
+  "area": 53,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "opstina-vracar",
+  "location": "Црвени крст",
+  "street": "Сазонова",
+  "geo": {
+   "lat": 44.79381,
+   "lng": 20.48967
+  },
+  "facts": [
+   [
+    "Площадь",
+    "53 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "1-й из 4"
+   ],
+   [
+    "Отопление",
+    "тёплый пол"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 100 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно с животными",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "гараж",
+   "домофон",
+   "интернет",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 53 м² в районе Црвени крст (Врачар, Белград). 1-й этаж из 4, с мебелью, отопление тёплый пол, люкс, дом современной постройки. Есть: депозит, можно с животными, не последний этаж, можно въехать сразу, для некурящих, гараж, домофон, интернет, кондиционер, лифт, парковка, терраса, горячая вода, видеонаблюдение. Аренда 1 350 € в месяц.",
+  "originalLang": "sr",
+  "original": "Stan se nalazi u Novoj zgradi, koja je useljena pre godinu dana, dvostrano je orjentisan i ima dosta prorodne svetlosti. Sastoji se od, dnevne sobe sa otvorenom kuhinjom, kupatila ,odvojene vesernice, spavace sobe koja ima izlaz na Balkon potpuno je opremljen. Molim vas za gledanje kontaktirajte me iskljucivo putem wa.Stan je dostupan krajem Decembra.",
+  "photos": 15,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "ho-5425645536045",
+  "slug": "ho-5425645536045-izdavanje-stan-pregrevica",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 40 м², Прегревица, Земун",
+  "kind": "двухкомнатная квартира",
+  "price": 600,
+  "area": 40,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Прегревица",
+  "street": "Прегревица",
+  "geo": {
+   "lat": 44.8586,
+   "lng": 20.38366
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "для некурящих",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 40 м² в районе Прегревица (Земун, Белград). С мебелью. Есть: депозит, для некурящих, интернет, кабельное ТВ, кондиционер, парковка. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem namešten stan u Pregrevici (između KPA i VZŠ). U cenu uračunati svi režijski troškovi (struja, voda, grejanje, internet i kablovska televizija). Obezbeđen parking. Stan je useljiv od .",
+  "photos": 9,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "ho-5425648029329",
+  "slug": "ho-5425648029329-prodaja-stan-gornji-grad",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: 1,5-комнатная квартира, 39 м², Горни град, Земун",
+  "kind": "1,5-комнатная квартира",
+  "price": 117000,
+  "area": 39,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Горни град",
+  "street": "Раде Кончара",
+  "geo": {
+   "lat": 44.8461,
+   "lng": 20.38599
+  },
+  "facts": [
+   [
+    "Площадь",
+    "39 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "5-й из 5"
+   ],
+   [
+    "Отопление",
+    "автономное"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "гараж",
+   "домофон",
+   "интернет",
+   "кондиционер",
+   "лифт",
+   "лоджия",
+   "парковка",
+   "подвал",
+   "с садом",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение"
+  ],
+  "text": "Продаётся 1,5-комнатная квартира площадью 39 м² в районе Горни град (Земун, Белград). 5-й этаж из 5, отопление автономное, люкс, дом современной постройки. Есть: гараж, домофон, интернет, кондиционер, лифт, лоджия, парковка, подвал, с садом, терраса, горячая вода, видеонаблюдение. Цена 117 000 €.",
+  "originalLang": "sr",
+  "original": "Početak novog luksusnog stambenog projekta u ulici Rade Končara 22 u Zemunu( u blizini škole, galvnih autobuskih stanica, vrtić...) \nTrenutno se na objektu rade rezervacije u iznosu od 5.000,00 EUR \nStrukture su različite u rasponu od 39m2 do 70m2\nMogućnost kupovine garažnih parking mesta ( normalnih, klackalica) \nDIREKTNA PRODAJA STANOVA U IZGRADNJI BROJ VLASNIKA",
+  "photos": 9,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "ho-5425648026305",
+  "slug": "ho-5425648026305-izdavanje-stan-karadjordjev-trg",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 52 м², Караджорджев трг, Земун",
+  "kind": "двухкомнатная квартира",
+  "price": 700,
+  "area": 52,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Караджорджев трг",
+  "street": "Караджорджев трг",
+  "geo": {
+   "lat": 44.83714,
+   "lng": 20.41732
+  },
+  "facts": [
+   [
+    "Площадь",
+    "52 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "6-й из 14"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 166 € в месяц"
+   ]
+  ],
+  "features": [
+   "домофон",
+   "интернет",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "горячая вода",
+   "видеонаблюдение",
+   "депозит",
+   "можно с животными",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 52 м² в районе Караджорджев трг (Земун, Белград). 6-й этаж из 14, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: домофон, интернет, кондиционер, лифт, парковка, горячая вода, видеонаблюдение, депозит, можно с животными, не последний этаж, можно въехать сразу, для некурящих. Аренда 700 € в месяц.",
+  "originalLang": "sr",
+  "original": "Two-room apartment on Karađorđev Trg, 52 square meters, featuring a living room, a bedroom, a combined kitchen and dining area, a small bathroom, and a hallway connecting all rooms. The apartment is fully equipped and furnished, ready for immediate move-in. It has central heating supplied by a nearby heating plant. Monthly utility costs—covering electricity, the \"Infostan\" bill (which includes heating), internet with a landline (no TV service), and building maintenance—total approximately 20,000 dinars, with the Infostan portion accounting for about 12,000 dinars. Fiber-optic internet is available, with LAN ports wired throughout the apartment. There is a Smart TV in the living room. A washing machine is located in the bathroom, and a tumble dryer is in the kitchen. The windows feature high-quality PVC frames and insect screens. The apartment offers a view of the city. Riverside immediately by the entrance. Parking is available at the base of the building and is open to all. The building has an elevator (accessible from the raised ground floor). A security deposit equal to one month's rent is required. Payment is to be made directly to the owner. Offered by the owner.\n\nDvosoban stan na Karađorđevom trgu, 52 kvadrata, dnevna soba, spavaća soba, kuhinja i trpezarija zajedno, malo kupatilo i hodnik koji sve spaja. Stan opremljen i namešten za useljavanje. Centralno grejanje iz obližnje toplane. Mesečni računi struja, infostan preko kojeg se plaća grejanje, internet sa fiksnim telefonom bez televizije, održavanje zgrade. Mesečni računi ukupno oko 20 hiljada dinara, gde je infostan oko 12 hiljada dinara. Optički internet sa LAN utičnicama razvedenim po stanu. SMART TV u dnevnoj sobi. Mašina za pranje veša u kupatilu i mašina za sušenje veša u kuhinji. Prozori sa kvalitetnom PVC stolarijom i komarnicima. Pogled okrenut ka gradu. Kej odmah do ulaza. Automobilski parking u podnožju zgrade i otvoren za sve. Lift je na visokom prizemlju. Depozit u visini mesečne kirije. Plaćanje na ruke. Vlasnik.",
+  "photos": 11,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "fz-6b041c1ca0c1787a7607c026",
+  "slug": "fz-6b041c1ca0c1787a7607c026-izdavanje-stan-zeleni-venac",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 97 м², Зелени Венац, Савски-Венац",
+  "kind": "трёхкомнатная квартира",
+  "price": 1000,
+  "area": 97,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "savski-venac",
+  "location": "Зелени Венац",
+  "street": "Црногорска 1",
+  "geo": {
+   "lat": 44.81421,
+   "lng": 20.45249
+  },
+  "facts": [
+   [
+    "Площадь",
+    "97 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Отопление",
+    "тёплый пол"
+   ]
+  ],
+  "features": [
+   "кондиционер"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 97 м² в районе Зелени Венац (Савски-Венац, Белград). Отопление тёплый пол. Есть: кондиционер. Аренда 1 000 € в месяц.",
+  "originalLang": "sr",
+  "original": "Trosoban stan u zgradi za izdavanje, Zeleni Venac, 97 m2, na 1. spratu. Stanje - Novo, Podno.",
+  "photos": 15,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "fz-62ebf548dcdb27e1590801c7",
+  "slug": "fz-62ebf548dcdb27e1590801c7-izdavanje-stan-karadjordjev-park",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 40 м², Караджорджев парк, Врачар",
+  "kind": "двухкомнатная квартира",
+  "price": 800,
+  "area": 40,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "vracar",
+  "location": "Караджорджев парк",
+  "street": "Булевар Ослободженя 53",
+  "geo": {
+   "lat": 44.793,
+   "lng": 20.4667
+  },
+  "facts": [
+   [
+    "Площадь",
+    "40 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся двухкомнатная квартира площадью 40 м² в районе Караджорджев парк (Врачар, Белград). С мебелью, отопление центральное. Аренда 800 € в месяц.",
+  "originalLang": "sr",
+  "original": "Dvosoban stan u zgradi za izdavanje, Namešteno, Karađorđev park, 40 m2, na 2. spratu, ima lift. Stanje - Renovirano, Centralno, ima lođu, ima kupatilo.",
+  "photos": 14,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "ho-5425648028714",
+  "slug": "ho-5425648028714-izdavanje-stan-severni-bulevar",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 55 м², Северни булевар, Звездара",
+  "kind": "трёхкомнатная квартира",
+  "price": 600,
+  "area": 55,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Северни булевар",
+  "street": "Велька Дугошевича",
+  "geo": {
+   "lat": 44.80567,
+   "lng": 20.49461
+  },
+  "facts": [
+   [
+    "Площадь",
+    "55 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "1-й из 5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно с животными",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "подходит студентам",
+   "французский балкон",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "терраса"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 55 м² в районе Северни булевар (Звездара, Белград). 1-й этаж из 5, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: депозит, можно с животными, не последний этаж, можно въехать сразу, для некурящих, подходит студентам, французский балкон, домофон, интернет, кабельное ТВ, кондиционер, терраса. Аренда 600 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se renoviran, funkcionalan stan od 55 m² na Zvezdari, u ulici Veljka Dugoševića, u neposrednoj blizini Zvezdarske šume i Severnog bulevara.\nStan se nalazi na prvom spratu uredne i mirne stambene zgrade. Sastoji se od odvojene kuhinje, dnevne sobe i dve spavaće sobe. Renoviran je (instalacije, parket, PVC prozori), a svi kućni aparati i bela tehnika su novi. Kreveti se obezbeđuju prema dogovoru, u skladu s potrebama zakupaca (bračni ili pojedinačni). Centralno grejanje se plaća po utrošku, a stan je topao tokom cele zime.\nOdlična povezanost gradskim prevozom (linije 65, 74 i 66). U blizini su prodavnice, apoteke, Vukov spomenik i tehnički fakulteti.\nIzdaje se na duži period ozbiljnim zakupcima (parovima, zaposlenima ili studentima). Obavezan depozit u visini jedne mesečne kirije. Kućni ljubimci – po dogovoru.",
+  "photos": 9,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "fz-6b0420f63ad40a88910ef0ab",
+  "slug": "fz-6b0420f63ad40a88910ef0ab-izdavanje-stan-centar",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 63 м², Центр, Звездара",
+  "kind": "2,5-комнатная квартира",
+  "price": 850,
+  "area": 63,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Центр",
+  "street": "Руджера Бошковича 20",
+  "geo": {
+   "lat": 44.78912,
+   "lng": 20.51434
+  },
+  "facts": [
+   [
+    "Площадь",
+    "63 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 63 м² в районе Центр (Звездара, Белград). С мебелью, отопление центральное. Аренда 850 € в месяц.",
+  "originalLang": "sr",
+  "original": "Dvoiposoban stan u zgradi za izdavanje, Namešteno, Centar, 63 m2, na 3. spratu, ima lift. Stanje - Novo, Centralno, ima terasu, ima kupatilo, ima toalet. Ima parking mesto. Ima garažno mesto u sklopu zgrade.",
+  "photos": 12,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "ho-5425648027045",
+  "slug": "ho-5425648027045-prodaja-stan-bezanijska-kosa-1",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: двухкомнатная квартира, 85 м², Бежанийска коса 1, Новый Белград",
+  "kind": "двухкомнатная квартира",
+  "price": 229500,
+  "area": 85,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Новый Белград",
+  "districtSlug": "opstina-novi-beograd",
+  "location": "Бежанийска коса 1",
+  "street": "Виктора Новака",
+  "geo": {
+   "lat": 44.81418,
+   "lng": 20.37144
+  },
+  "facts": [
+   [
+    "Площадь",
+    "85 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "4-й из 4"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ]
+  ],
+  "features": [
+   "есть право собственности",
+   "кондиционер",
+   "лифт",
+   "лоджия",
+   "подвал",
+   "терраса"
+  ],
+  "text": "Продаётся двухкомнатная квартира площадью 85 м² в районе Бежанийска коса 1 (Новый Белград, Белград). 4-й этаж из 4, отопление центральное. Есть: есть право собственности, кондиционер, лифт, лоджия, подвал, терраса. Цена 229 500 €.",
+  "originalLang": "sr",
+  "original": "Prodaje se kompletno renobiran stan na Bežanijskoj kosi, u mirnom i uređenom okruženju sa odličnom povezanošću i blizinom auto-puta. U neposrednoj blizini su škola, vrtić, pijaca, prodavnice i autobuske stanice. Stan ima 85 m², sa terasama a uknjižen je na 74m². Stan je dvosoban ali je adaptibilan u trosoban. Dvostrano je orijentisan, svetao i funkcionalnog rasporeda. Odličan izbor za porodični život ili kao investicija.",
+  "photos": 13,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "ho-5425646049798",
+  "slug": "ho-5425646049798-izdavanje-stan-zemun-backa",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 57 м², Земун Бачка, Земун",
+  "kind": "двухкомнатная квартира",
+  "price": 500,
+  "area": 57,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Земун Бачка",
+  "street": "Сремских бораца",
+  "geo": {
+   "lat": 44.84854,
+   "lng": 20.38061
+  },
+  "facts": [
+   [
+    "Площадь",
+    "57 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "1-й из 2"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ],
+   [
+    "Коммунальные",
+    "около 100 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "для некурящих",
+   "домофон",
+   "кабельное ТВ",
+   "кондиционер"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 57 м² в районе Земун Бачка (Земун, Белград). 1-й этаж из 2, с мебелью, после ремонта, дом современной постройки. Есть: депозит, можно въехать сразу, для некурящих, домофон, кабельное ТВ, кондиционер. Аренда 500 € в месяц.",
+  "originalLang": "sr",
+  "original": "Dvosoban stan potpuno renoviran u zgradi iz 2005. godine.\nPrijatan, ušuškan, svetao, u mirnom ambijentu, zaklonjen od saobraćajne gužve, u neposrednoj blizini velike Idee, škole, apoteke, doma zdravlja i parkova. Odlično povezan sa svim delovima grada. \nNova kuhinja, ugrađena nova sigurnosna vrata i krovni prozor. Novi su šporet, inverter klima, smart tv, veš mašina. Nov kompletan nameštaj, dušek sa memorijskom penom za udoban san, ugaona garnitura obložena memorijskom penom Prostorije: prostrana dnevna soba, spavaća soba, kuhinja sa trpezarijom, kupatilo, toalet i hodnik.",
+  "photos": 15,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
   "id": "ho-5425644320851",
   "slug": "ho-5425644320851-izdavanje-stan-plavi-horizonti",
   "deal": "rent",
