@@ -756,6 +756,754 @@
   "updated": "2026-11-24"
  },
  {
+  "id": "og-03-4016337",
+  "slug": "og-03-4016337-izdavanje-stan-juzni-bulevar",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: студия, 24 м², Южни Булевар, Врачар",
+  "kind": "студия",
+  "price": 350,
+  "area": 24,
+  "rooms": 0.5,
+  "city": "Белград",
+  "district": "Врачар",
+  "districtSlug": "vracar",
+  "location": "Южни Булевар",
+  "street": "Симе Игуманова",
+  "geo": null,
+  "facts": [
+   [
+    "Площадь",
+    "24 м²"
+   ],
+   [
+    "Комнат",
+    "студия"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [
+   "лифт",
+   "кондиционер"
+  ],
+  "text": "Сдаётся студия площадью 24 м² в районе Южни Булевар (Врачар, Белград). С мебелью. Есть: лифт, кондиционер. Аренда 350 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem garsonjeru na Vracaru u ulici Sime Igumanova u nivou ispod hrama, namestenu sa cg i klimom. Zgrada je pristojno odrzavana i ima lift.\n\nAko zelite da je pogledate, molim vas pozovite me direktno na telefon svaki dan posle podne ili posaljite sms poruku.",
+  "photos": 7,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "fz-6b05578bd02d1cb7880fda00",
+  "slug": "fz-6b05578bd02d1cb7880fda00-izdavanje-stan-vojvode-vlahovica-zvezdara",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 2,5-комнатная квартира, 60 м², Войводе Влаховича Звездара, Звездара",
+  "kind": "2,5-комнатная квартира",
+  "price": 800,
+  "area": 60,
+  "rooms": 2.5,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Войводе Влаховича Звездара",
+  "street": "Милована Видаковича 13",
+  "geo": {
+   "lat": 44.76246,
+   "lng": 20.50707
+  },
+  "facts": [
+   [
+    "Площадь",
+    "60 м²"
+   ],
+   [
+    "Комнат",
+    "2,5"
+   ],
+   [
+    "Этаж",
+    "4-й из 4"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся 2,5-комнатная квартира площадью 60 м² в районе Войводе Влаховича Звездара (Звездара, Белград). 4-й этаж из 4, с мебелью, отопление газовое. Аренда 800 € в месяц.",
+  "originalLang": "sr",
+  "original": "Dvoiposoban stan u zgradi za izdavanje, Namešteno, Vojvode Vlahovića Zvezdara, 60 m2, na 4. spratu. Stanje - Renovirano, Gas, ima terasu, ima kupatilo. Ima parking mesto u dvorištu.",
+  "photos": 15,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "fz-68b7e7bdc437b2dd1e0bd5f5",
+  "slug": "fz-68b7e7bdc437b2dd1e0bd5f5-izdavanje-stan-lion",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 83 м², Лион, Звездара",
+  "kind": "трёхкомнатная квартира",
+  "price": 750,
+  "area": 83,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "zvezdara",
+  "location": "Лион",
+  "street": "Лион",
+  "geo": {
+   "lat": 44.79705,
+   "lng": 20.50153
+  },
+  "facts": [
+   [
+    "Площадь",
+    "83 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ]
+  ],
+  "features": [],
+  "text": "Сдаётся трёхкомнатная квартира площадью 83 м² в районе Лион (Звездара, Белград). С мебелью, отопление центральное. Аренда 750 € в месяц.",
+  "originalLang": "sr",
+  "original": "Trosoban stan u zgradi za izdavanje, Namešteno, Lion, 83 m2, na prizemlju. Centralno, ima kupatilo.",
+  "photos": 12,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "ho-5425648034369",
+  "slug": "ho-5425648034369-izdavanje-stan-brace-jerkovic",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 24 м², Браче Еркович, Вождовац",
+  "kind": "однокомнатная квартира",
+  "price": 300,
+  "area": 24,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Вождовац",
+  "districtSlug": "opstina-vozdovac",
+  "location": "Браче Еркович",
+  "street": "Пива Караматиевича",
+  "geo": {
+   "lat": 44.76743,
+   "lng": 20.49352
+  },
+  "facts": [
+   [
+    "Площадь",
+    "24 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "4-й из 4"
+   ],
+   [
+    "Отопление",
+    "мраморные радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 40 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "кондиционер",
+   "терраса"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 24 м² в районе Браче Еркович (Вождовац, Белград). 4-й этаж из 4, с мебелью, отопление мраморные радиаторы, после ремонта, старый фонд. Есть: депозит, можно въехать сразу, кондиционер, терраса. Аренда 300 € в месяц.",
+  "originalLang": "sr",
+  "original": "Garsonjera se nalazi na četvrtom spratu zgrade u naselju Braće Jerokovića ,ulica Pive Karamatijevica. Površine 24 m2. Grejanje mermoterm ploča, poseduje klima uređaj, terasu (zastakljenu). Stan je renoviran neposredno pre davanja oglasa, okrečeno je, stavljena nova ulazna vrata, kupljen nov orman. \nZa osobe koje voze kola, ispred zgrade se nalazi veliki parking koji koriste stanari dve okolne zgrade i na kome uvek ima mesta za parkiranje. \nZa sve dodatne informacije i zakazivanje gledanja stana pozvati : \nSvakog radnog dana pre 16 časova na broj , a posle 16 časova zvati na broj .",
+  "photos": 12,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "ho-5425643546308",
+  "slug": "ho-5425643546308-izdavanje-stan-krnjaca",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: трёхкомнатная квартира, 46 м², Крняча, Палилула",
+  "kind": "трёхкомнатная квартира",
+  "price": 450,
+  "area": 46,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Крняча",
+  "street": "Партизански блок улица 1.",
+  "geo": {
+   "lat": 44.84338,
+   "lng": 20.484
+  },
+  "facts": [
+   [
+    "Площадь",
+    "46 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "2-й из 4"
+   ],
+   [
+    "Отопление",
+    "норвежские радиаторы"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "домофон",
+   "интернет",
+   "камин",
+   "кабельное ТВ",
+   "кондиционер",
+   "терраса",
+   "видеонаблюдение",
+   "депозит",
+   "не последний этаж",
+   "для некурящих",
+   "подходит студентам"
+  ],
+  "text": "Сдаётся трёхкомнатная квартира площадью 46 м² в районе Крняча (Палилула, Белград). 2-й этаж из 4, с мебелью, отопление норвежские радиаторы, люкс, дом современной постройки. Есть: домофон, интернет, камин, кабельное ТВ, кондиционер, терраса, видеонаблюдение, депозит, не последний этаж, для некурящих, подходит студентам. Аренда 450 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem namesten stan na najboljoj lokaciji u Krnjaci, u zgradi staroj 4 godine kod Metroa.Stan se greje i hladi pomocu inverter klima uredjaja i norveskih radijatora,poseduje dve spavace sobe i dnevni boravak sa malom kuhinjom.STANJE SLOBODAN OD 1.1.2027!!!",
+  "photos": 6,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "ho-5425648032983",
+  "slug": "ho-5425648032983-izdavanje-stan-senjak",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: четырёхкомнатная квартира, 149 м², Сеняк, Савски-Венац",
+  "kind": "четырёхкомнатная квартира",
+  "price": 2200,
+  "area": 149,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "opstina-savski-venac",
+  "location": "Сеняк",
+  "street": "Войислава Вучковича",
+  "geo": {
+   "lat": 44.79197,
+   "lng": 20.43921
+  },
+  "facts": [
+   [
+    "Площадь",
+    "149 м²"
+   ],
+   [
+    "Комнат",
+    "4"
+   ],
+   [
+    "Этаж",
+    "1-й из 4"
+   ],
+   [
+    "Отопление",
+    "газовое"
+   ],
+   [
+    "Мебель",
+    "частично меблирована"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "французский балкон",
+   "гараж",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "лифт",
+   "парковка",
+   "подвал",
+   "терраса",
+   "горячая вода",
+   "видеонаблюдение",
+   "не последний этаж",
+   "можно въехать сразу",
+   "салонная планировка"
+  ],
+  "text": "Сдаётся четырёхкомнатная квартира площадью 149 м² в районе Сеняк (Савски-Венац, Белград). 1-й этаж из 4, частично меблирована, отопление газовое, люкс, дом современной постройки. Есть: французский балкон, гараж, домофон, интернет, кабельное ТВ, кондиционер, лифт, парковка, подвал, терраса, горячая вода, видеонаблюдение, не последний этаж, можно въехать сразу, салонная планировка. Аренда 2 200 € в месяц.",
+  "originalLang": "sr",
+  "original": "IZDAJE SE LUX STAN U NOVOGRADNJI NA SENJAKU U UL. VOJISLAVA VUČKOVIĆA 14.STAN SE MOŽE IZDATI KAO POSLOVNI I STAMBENI PROSTOR \nUZ STAN IDU I DVA GARAŽNA MESTA I OSTAVA \nSTAN JE POLUNAMEŠTEN ( CELA FUNKCIONALNA KUHINJA, UGRADNI PLAKARI)",
+  "photos": 15,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "ho-5425642607962",
+  "slug": "ho-5425642607962-izdavanje-stan-karaburma",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 17 м², Карабурма, Палилула",
+  "kind": "однокомнатная квартира",
+  "price": 240,
+  "area": 17,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Карабурма",
+  "street": "Хозе Мартиа 9 а",
+  "geo": {
+   "lat": 44.80904,
+   "lng": 20.52061
+  },
+  "facts": [
+   [
+    "Площадь",
+    "17 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "1-й из 2"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "для некурящих",
+   "подходит студентам",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "терраса"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 17 м² в районе Карабурма (Палилула, Белград). 1-й этаж из 2, с мебелью, отопление центральное, после ремонта, дом современной постройки. Есть: депозит, не последний этаж, можно въехать сразу, для некурящих, подходит студентам, интернет, кабельное ТВ, кондиционер, терраса. Аренда 240 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdajem garsonjeru, novogradnja. Dodatni troškovi komunalija iznose fiksno 40 eura. Odmah useljiv.",
+  "photos": 5,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "ho-5425648033175",
+  "slug": "ho-5425648033175-izdavanje-stan-ustanicka",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: однокомнатная квартира, 20 м², Устаничка, Звездара",
+  "kind": "однокомнатная квартира",
+  "price": 250,
+  "area": 20,
+  "rooms": 1,
+  "city": "Белград",
+  "district": "Звездара",
+  "districtSlug": "opstina-zvezdara",
+  "location": "Устаничка",
+  "street": "Устаничка",
+  "geo": {
+   "lat": 44.78423,
+   "lng": 20.51909
+  },
+  "facts": [
+   [
+    "Площадь",
+    "20 м²"
+   ],
+   [
+    "Комнат",
+    "1"
+   ],
+   [
+    "Этаж",
+    "высокий приземный"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу"
+  ],
+  "text": "Сдаётся однокомнатная квартира площадью 20 м² в районе Устаничка (Звездара, Белград). Высокий приземный этаж, с мебелью, отопление центральное, в исходном состоянии, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу. Аренда 250 € в месяц.",
+  "originalLang": "sr",
+  "original": "",
+  "photos": 1,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "ho-5425648033875",
+  "slug": "ho-5425648033875-prodaja-stan-beograd-na-vodi",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: четырёхкомнатная квартира, 188 м², Београд на води, Савски-Венац",
+  "kind": "четырёхкомнатная квартира",
+  "price": 1500000,
+  "area": 188,
+  "rooms": 4,
+  "city": "Белград",
+  "district": "Савски-Венац",
+  "districtSlug": "opstina-savski-venac",
+  "location": "Београд на води",
+  "street": "Бриселска",
+  "geo": {
+   "lat": 44.80822,
+   "lng": 20.44972
+  },
+  "facts": [
+   [
+    "Площадь",
+    "188 м²"
+   ],
+   [
+    "Комнат",
+    "4"
+   ],
+   [
+    "Этаж",
+    "5-й из 24"
+   ],
+   [
+    "Состояние",
+    "люкс"
+   ],
+   [
+    "Дом",
+    "дом современной постройки"
+   ]
+  ],
+  "features": [
+   "гараж",
+   "парковка",
+   "терраса",
+   "видеонаблюдение",
+   "не последний этаж",
+   "можно въехать сразу",
+   "есть право собственности"
+  ],
+  "text": "Продаётся четырёхкомнатная квартира площадью 188 м² в районе Београд на води (Савски-Венац, Белград). 5-й этаж из 24, люкс, дом современной постройки. Есть: гараж, парковка, терраса, видеонаблюдение, не последний этаж, можно въехать сразу, есть право собственности. Цена 1 500 000 €.",
+  "originalLang": "sr",
+  "original": "PRODAJA – BW RIVIERA | Luksuzan četvorosoban stan | 190 m² | 2 garažna mesta\n\nNa prodaju ekskluzivan četvorosoban stan u jednoj od najprestižnijih zgrada Beograda na vodi – BW Riviera.\n\nStan se nalazi na srednjem spratu, odlikuje se izuzetno funkcionalnim rasporedom, velikom terasom i prelepim kombinovanim pogledom.\n\nStruktura stana:\n\n* Prostrani dnevni boravak sa trpezarijom\n* Tri spavaće sobe\n* Tri kupatila\n* Velika terasa\n* Dva garažna mesta\n\nStan je potpuno prazan, bez kuhinje i ugradnih plakara, što budućem vlasniku pruža mogućnost uređenja enterijera prema sopstvenim željama i standardima.\n\nZgrada BW Riviera svojim stanarima pruža visok nivo luksuza, privatnosti i komfora, uz ekskluzivan spa centar, bazen, teretanu, recepciju i obezbeđenje.\n\nIzuzetna lokacija, neposredna blizina reke, Savske promenade, restorana i tržnog centra Galerija.\n\nIdealna nekretnina za luksuzan porodični život, ali i kao dugoročna investicija na jednoj od najatraktivnijih lokacija u Beogradu.\n\nZa više informacija i zakazivanje razgledanja, kontaktirajte nas.\nPRODAJA – BW RIVIERA | Luksuzan četvorosoban stan | 190 m² | 2 garažna mesta\n\nNa prodaju ekskluzivan četvorosoban stan u jednoj od najprestižnijih zgrada Beograda na vodi – BW Riviera.\n\nStan se nalazi na srednjem spratu, odlikuje se izuzetno funkcionalnim rasporedom, velikom terasom i prelepim kombinovanim pogledom.\n\nStruktura stana:\n\n* Prostrani dnevni boravak sa trpezarijom\n* Tri spavaće sobe\n* Tri kupatila\n* Velika terasa\n* Dva garažna mesta\n\nStan je potpuno prazan, bez kuhinje i ugradnih plakara, što budućem vlasniku pruža mogućnost uređenja enterijera prema sopstvenim željama i standardima.\n\nZgrada BW Riviera svojim stanarima pruža visok nivo luksuza, privatnosti i komfora, uz ekskluzivan spa centar, bazen, teretanu, recepciju i obezbeđenje.\n\nIzuzetna lokacija, neposredna blizina reke, Savske promenade, restorana i tržnog centra Galerija.\n\nIdealna nekretnina za luksuzan porodični život, ali i kao dugoročna investicija na jednoj od najatraktivnijih lokacija u Beogradu.\n\nZa više informacija i zakazivanje razgledanja, kontaktirajte nas.",
+  "photos": 7,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "ho-5425645604311",
+  "slug": "ho-5425645604311-izdavanje-stan-save-kovacevica",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: 1,5-комнатная квартира, 45 м², Саве Ковачевича, Земун",
+  "kind": "1,5-комнатная квартира",
+  "price": 450,
+  "area": 45,
+  "rooms": 1.5,
+  "city": "Белград",
+  "district": "Земун",
+  "districtSlug": "opstina-zemun",
+  "location": "Саве Ковачевича",
+  "street": "Сава Бурича",
+  "geo": {
+   "lat": 44.84516,
+   "lng": 20.39079
+  },
+  "facts": [
+   [
+    "Площадь",
+    "45 м²"
+   ],
+   [
+    "Комнат",
+    "1,5"
+   ],
+   [
+    "Этаж",
+    "3-й из 11"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "в исходном состоянии"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 150 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "не последний этаж",
+   "можно въехать сразу",
+   "домофон",
+   "кондиционер",
+   "лифт",
+   "подвал",
+   "терраса",
+   "горячая вода"
+  ],
+  "text": "Сдаётся 1,5-комнатная квартира площадью 45 м² в районе Саве Ковачевича (Земун, Белград). 3-й этаж из 11, с мебелью, отопление центральное, в исходном состоянии, старый фонд. Есть: депозит, не последний этаж, можно въехать сразу, домофон, кондиционер, лифт, подвал, терраса, горячая вода. Аренда 450 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se namešten stan – Zemun, naselje Sava Kovačević\n\nAdresa: Sava Burića, Zemun – naselje Sava Kovačević\n\nSprat: 3/11 (zgrada sa liftom)\n\nPovršina: 45 m²\n\nRaspored: Dnevna soba, spavaća soba, kuhinja, kupatilo, terasa\n\nNamešten: Da \n\nGrejanje: Centralno grejanje (CG)\n\nPodrum: Da\n\nInternet: Nema \n\nTroškovi\n\n– Infostan i struja do 150€\n\n Parking: Slobodan oko zgrade\n\nCena zakupa: 450 € \n\nDostupan: Od \n\nKontakt: Sandra –",
+  "photos": 5,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "ho-5425648030284",
+  "slug": "ho-5425648030284-izdavanje-stan-visnjicka-banja",
+  "deal": "rent",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Аренда: двухкомнатная квартира, 65 м², Вишничка Баня, Палилула",
+  "kind": "двухкомнатная квартира",
+  "price": 450,
+  "area": 65,
+  "rooms": 2,
+  "city": "Белград",
+  "district": "Палилула",
+  "districtSlug": "opstina-palilula",
+  "location": "Вишничка Баня",
+  "street": "Вишнички венац",
+  "geo": {
+   "lat": 44.81707,
+   "lng": 20.53301
+  },
+  "facts": [
+   [
+    "Площадь",
+    "65 м²"
+   ],
+   [
+    "Комнат",
+    "2"
+   ],
+   [
+    "Этаж",
+    "4-й из 4"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Мебель",
+    "с мебелью"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ],
+   [
+    "Коммунальные",
+    "около 100 € в месяц"
+   ]
+  ],
+  "features": [
+   "депозит",
+   "можно въехать сразу",
+   "мансарда",
+   "для некурящих",
+   "подходит студентам",
+   "домофон",
+   "интернет",
+   "кабельное ТВ",
+   "кондиционер",
+   "парковка",
+   "подвал",
+   "терраса",
+   "горячая вода"
+  ],
+  "text": "Сдаётся двухкомнатная квартира площадью 65 м² в районе Вишничка Баня (Палилула, Белград). 4-й этаж из 4, с мебелью, отопление центральное, после ремонта, старый фонд. Есть: депозит, можно въехать сразу, мансарда, для некурящих, подходит студентам, домофон, интернет, кабельное ТВ, кондиционер, парковка, подвал, терраса, горячая вода. Аренда 450 € в месяц.",
+  "originalLang": "sr",
+  "original": "Izdaje se prostran i komforan stan na odličnoj lokaciji u ulici Višnjički venac, u prepoznatljivim zgradama od crvene fasadne cigle. Stan je izuzetno funkcionalnog rasporeda, a čine ga velika dnevna soba, prostrana spavaća soba, velika kuhinja sa trpezarijom i terasa, dok uz stan ide i pripadajući podrum za dodatno odlaganje stvari. Opremljen je potpuno novom belom tehnikom koja do sada nije korišćena, što budućim stanarima pruža dodatnu sigurnost i ugodnost.\nNalazi se na četvrtom spratu (potkrovlje) uredne četvorospratne zgrade bez lifta, koja na ulazu poseduje interfon. Velika prednost ovog stana je i direktan dovod tople vode, što obezbeđuje maksimalan komfor tokom cele godine.\nLokacija pruža mirno okruženje idealno za svakodnevni život, a ujedno i odličnu povezanost sa ostatkom grada. Autobusko stajalište se nalazi na svega par koraka od zgrade, dok se do samog centra Beograda stiže za 10 do 15 minuta vožnje.",
+  "photos": 8,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
+  "id": "ho-5425648007296",
+  "slug": "ho-5425648007296-prodaja-stan-zarkovo",
+  "deal": "sale",
+  "type": "apartment",
+  "cat": "flat",
+  "title": "Продажа: трёхкомнатная квартира, 55 м², Жарково, Чукарица",
+  "kind": "трёхкомнатная квартира",
+  "price": 136000,
+  "area": 55,
+  "rooms": 3,
+  "city": "Белград",
+  "district": "Чукарица",
+  "districtSlug": "opstina-cukarica",
+  "location": "Жарково",
+  "street": "Бранка Цветковича",
+  "geo": {
+   "lat": 44.7584,
+   "lng": 20.4089
+  },
+  "facts": [
+   [
+    "Площадь",
+    "55 м²"
+   ],
+   [
+    "Комнат",
+    "3"
+   ],
+   [
+    "Этаж",
+    "1-й из 3"
+   ],
+   [
+    "Отопление",
+    "центральное"
+   ],
+   [
+    "Состояние",
+    "после ремонта"
+   ],
+   [
+    "Дом",
+    "старый фонд"
+   ]
+  ],
+  "features": [
+   "не последний этаж",
+   "можно въехать сразу",
+   "есть право собственности",
+   "домофон",
+   "интернет",
+   "кондиционер",
+   "лоджия",
+   "терраса"
+  ],
+  "text": "Продаётся трёхкомнатная квартира площадью 55 м² в районе Жарково (Чукарица, Белград). 1-й этаж из 3, отопление центральное, после ремонта, старый фонд. Есть: не последний этаж, можно въехать сразу, есть право собственности, домофон, интернет, кондиционер, лоджия, терраса. Цена 136 000 €.",
+  "originalLang": "sr",
+  "original": "Prodajemo svetao, dvostrano orijentisan stan na prvom spratu u ulici Branka Cvetkovića, u blizini vrtića, osnovne škole i autobuske stanice.\n\nKupovina i dokumentacija\n\nZa zgradu je dobijeno rešenje, a upis stana kao posebnog dela je u toku po zakonu „Svoj na svome“.\n\nKako se prethodni kupac pokazao neozbiljnim, advokat je već pripremio predugovor. Predugovor se može overiti kod javnog beležnika nakon pregleda dokumentacije.\n\nPredugovorom se obavezujemo da sprovedemo sve potrebne korake koji su do nas za završetak postupka, koji očekujemo u narednih nekoliko meseci. Rok, naše obaveze, dinamika plaćanja i uslovi za zaključenje kupoprodajnog ugovora biće jasno navedeni u predugovoru, uključujući i šta se dešava ako se postupak produži.\n\nProdaja je direktno od vlasnika. Plaćanje je iz sopstvenih sredstava kupca, uplatom na račun prodavca. Kupovina putem stambenog kredita trenutno nije moguća.\n\nRaspored i prednosti stana\n\nDnevni deo je odvojen od spavaćeg, a zahvaljujući dvostranoj orijentaciji stan ima dosta prirodnog svetla tokom celog dana.\n\n* Dnevna soba sa trpezarijom i kuhinjom ima izlaz na veću terasu, sa mogućnošću proširenja.\n* Dve spavaće sobe, od kojih veća ima izlaz na svoju terasu.\n* Zaseban špajz, hodnik i kupatilo.\n\nStan je kompletno renoviran pre sedam godina. Zamenjene su instalacije i cevi, a kupatilo je urađeno iznova, sa hidroizolacijom. Spoljna izolacija urađena je pre četiri godine. Prošle godine postavljeno je novo uzemljenje zgrade i betoniran je prilaz.\n\nSamostalno grejanje i topla voda su na gas, uz plaćanje po potrošnji. U najhladnijim mesecima grejanje iznosi oko 8.000 dinara mesečno. Ugrađen je nov Bosch kotao sa pet godina garancije.\n\nKuhinja i ugradni elementi su uključeni u cenu. Deo nameštaja može ostati po dogovoru.\n\nZa više informacija i dogovor oko razgledanja, javite nam se direktno.\n\n⸻\n\nПродаём светлую квартиру площадью 55 м² в Жарково, Белград, на улице Бранка Цветковича. В квартире две спальни, две террасы, гостиная с кухней и столовой, отдельная кладовая и индивидуальное газовое отопление. Квартира расположена на первом этаже над уровнем входа. Кухня и встроенная мебель входят в стоимость.\n\nПродажа напрямую от собственника. Решение по зданию получено, регистрация квартиры ещё в процессе. Юрист подготовил предварительный договор, который можно нотариально удостоверить после проверки документов. Оплата собственными средствами банковским переводом. Покупка в ипотеку пока невозможна.",
+  "photos": 15,
+  "added": "2026-11-24",
+  "updated": "2026-11-24"
+ },
+ {
   "id": "ho-5425645400531",
   "slug": "ho-5425645400531-izdavanje-stan-trosarina",
   "deal": "rent",
