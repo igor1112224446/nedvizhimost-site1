@@ -213,6 +213,13 @@ async function objectRedirect(request, env, url) {
   return slug && url.pathname !== `${prefix}/obekt/${slug}/` ? Response.redirect(`${url.origin}${prefix}/obekt/${slug}/`, 301) : null;
 }
 
+// Страница района, которой больше нет (объекты сданы или «район» был мусорным полем, например /arenda/luksuzan/):
+// постоянный редирект в общий раздел аренды или продажи, а не 404
+function sectionRedirect(url) {
+  const m = url.pathname.match(/^(\/en)?\/(arenda|prodazha)\/[a-z0-9-]+\/?$/);
+  return m ? Response.redirect(`${url.origin}${m[1] || ''}/${m[2]}/`, 301) : null;
+}
+
 export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
@@ -225,7 +232,7 @@ export default {
     if (url.pathname === '/api/submit') return submit(request, env, ctx);
     if (url.pathname === '/api/lead') return lead(request, env, ctx);
     const res = await env.ASSETS.fetch(request);
-    if (res.status === 404 && read) return (await objectRedirect(request, env, url)) || res;
+    if (res.status === 404 && read) return (await objectRedirect(request, env, url)) || sectionRedirect(url) || res;
     return res;
   },
 };

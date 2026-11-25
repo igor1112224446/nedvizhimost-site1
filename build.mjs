@@ -68,7 +68,7 @@ function normDistrict(raw) {
   const base = String(raw || '').toLowerCase().replace(/(^|-)(gradska-)?opstina(-|$)/g, '-').replace(/^-+|-+$/g, '');
   const match = (ds) => BELGRADE.find((d) => ds === d.slug || ds.startsWith(d.slug + '-') || ds.endsWith('-' + d.slug) || ds.includes('-' + d.slug + '-'));
   const hit = match(base) || match(base.replace(/(^|-)beograd$/, '').replace(/^-+|-+$/g, ''));
-  return hit ? hit.slug : base.replace(/(^|-)beograd$/, '').replace(/^-+|-+$/g, '') || base;
+  return hit ? hit.slug : base.replace(/(^|-)beograd$/, '').replace(/^-+|-+$/g, '');
 }
 // Мусор вместо названия микрорайона: подписи карты (атрибуция OpenStreetMap / Leaflet), служебные фразы KP.
 // Проверяем и латиницу, и транслит на кириллицу («© ОпенСтреетМап цонтрибуторс»).
@@ -76,16 +76,28 @@ const JUNK_PLACE = /©|\(c\)|openstreet|опенст|contributor|цонтриб|
 // «Сурчин (mesto)», «Бараево (naselje)» → «Сурчин», «Бараево»
 const PAREN_JUNK = /\s*\((?:mesto|место|naselje|насеље|населье|selo|село|grad|град|opština|opstina|општина|општина|gm|go)\)/gi;
 const clean = (v) => String(v || '').replace(PAREN_JUNK, '').replace(/\s{2,}/g, ' ').trim();
+// Слова из текста объявления, попавшие в поля «город» или «микрорайон»: «Модерно опремлен», «Луксузан», «4.0 / гаража», «Нов неусельаван»
+const JUNK_WORD = /опремл|oprem|луксуз|luksuz|гараж|garaž|garaz|неусел|neusel|градска локац|gradska lokac|^\d/i;
 const OLD_SLUG = {}; // id -> прежний адрес страницы, чтобы старые ссылки вели на новые (301 в worker.js)
 
 function sanitizeListing(l) {
-  const ds = normDistrict(l.districtSlug);
-  const district = BG_NAME[ds] || clean(String(l.district || '').replace(/^(Општина|Opština|Община|Gradska opština)\s+/i, ''));
-  const city = clean(l.city) || 'Белград';
+  // Страница района — только для 17 общин Белграда. Если в поле «район» не община (Златибор, «Луксузан»,
+  // «Градска локация»), ищем общину в других полях; не нашли — у объекта нет района и нет страницы района.
+  let ds = normDistrict(l.districtSlug);
+  let rawCity = clean(l.city);
+  if (!BG_NAME[ds]) {
+    const byName = BELGRADE.find((d) => [l.city, l.location, l.street].some((v) => clean(v).toLowerCase() === d.name.toLowerCase()));
+    ds = byName ? byName.slug : '';
+    if (byName && clean(l.city) === byName.name) rawCity = '';
+  }
+  const city = (JUNK_WORD.test(rawCity) ? '' : rawCity) || 'Белград';
+  const oldDistrict = clean(l.district);
+  // вне Белграда районом показываем город (Нови-Сад, Златибор), страницы района при этом нет
+  const district = BG_NAME[ds] || (city !== 'Белград' ? city : '');
   const rawLoc = String(l.location || '');
-  let location = JUNK_PLACE.test(rawLoc) ? '' : clean(rawLoc);
+  let location = JUNK_PLACE.test(rawLoc) || JUNK_WORD.test(rawLoc) ? '' : clean(rawLoc);
   if (location && location.toLowerCase() === district.toLowerCase()) location = '';
-  const street = JUNK_PLACE.test(l.street || '') ? '' : clean(l.street);
+  const street = JUNK_PLACE.test(l.street || '') || JUNK_WORD.test(l.street || '') ? '' : clean(l.street);
   const fixText = (t) => {
     let x = String(t || '');
     if (rawLoc && rawLoc !== location) {
@@ -96,6 +108,8 @@ function sanitizeListing(l) {
       x = x.split(rawLoc).join(location);
     }
     x = x.replace(PAREN_JUNK, '');
+    // старое «район» из мусорного поля («Луксузан», «Градска локация») → настоящий район или город
+    if (oldDistrict && oldDistrict !== (district || city) && !BG_NAME[normDistrict(l.districtSlug)]) x = x.split(oldDistrict).join(district || city);
     // «Сурчин, Сурчин» и «в районе Сурчин (Сурчин, Белград)» → без повтора
     if (district) {
       const d = district.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
@@ -238,6 +252,8 @@ const DEAL = {
 const photo = (l, i = 1) => `/photos/${l.id}/${i}.jpg`;
 // Обрезка описания для поисковиков по границе слова, без оборванной запятой в конце
 const snippet = (t, n) => { const s = String(t).replace(/\s+/g, ' ').trim(); if (s.length <= n) return s; const cut = s.slice(0, n - 1).replace(/[\s,;:–—-]+\S*$/, ''); return cut.replace(/[,;:–—-]+$/, '') + '…'; };
+// Объявление без цены или без площади и числа комнат: в поиске такая страница выглядит пустой
+const thinListing = (l) => !l.price || (!l.area && !l.rooms);
 const placeLine = (l) => [l.location, l.district].filter((x, i, a) => x && a.indexOf(x) === i).join(', ');
 const fact = (l, k) => (l.facts || []).find((f) => f[0] === k)?.[1] || '';
 const roomsKey = (l) => (l.type === 'house' ? 'house' : !l.rooms || l.rooms <= 0.5 ? '0' : l.rooms >= 4 ? '4' : String(Math.round(l.rooms * 2) / 2));
@@ -363,12 +379,14 @@ const ANALYTICS = {
   ga: 'G-ZL2D979PL5',
   ym: '114267616',        // номер счётчика Яндекс Метрики
   yandexVerification: '', // код подтверждения Яндекс Вебмастера (если подтверждать мета-тегом)
+  googleVerification: '', // код из Google Search Console → «Тег HTML»: только значение content="…"
 };
 // Цели: клик по телефону, WhatsApp, Telegram, Viber и отправка формы заявки.
 // В Метрике и Google они приходят как события phone_click, whatsapp_click, telegram_click, viber_click, lead_form
 function analyticsHead() {
-  const { ga, ym, yandexVerification } = ANALYTICS;
+  const { ga, ym, yandexVerification, googleVerification } = { ...ANALYTICS, ...(SITE.analytics || {}) };
   const parts = [];
+  if (googleVerification) parts.push(`<meta name="google-site-verification" content="${esc(googleVerification)}">`);
   if (yandexVerification) parts.push(`<meta name="yandex-verification" content="${esc(yandexVerification)}">`);
   if (ga) parts.push(`<script async src="https://www.googletagmanager.com/gtag/js?id=${esc(ga)}"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','${esc(ga)}');</script>`);
@@ -879,7 +897,7 @@ for (const l of LISTINGS) {
   if (l.districtSlug) items.push([`/${d.path}/${l.districtSlug}/`, l.district]);
   items.push([url, heading(l)]);
   const photos = Array.from({ length: l.photos || 0 }, (_, i) => photo(l, i + 1));
-  const similar = LISTINGS.filter((x) => x.id !== l.id && x.deal === l.deal && x.districtSlug === l.districtSlug).slice(0, 3);
+  const similar = LISTINGS.filter((x) => x.id !== l.id && x.deal === l.deal && (l.districtSlug ? x.districtSlug === l.districtSlug : x.city === l.city)).slice(0, 3);
   const more = similar.length < 3 ? LISTINGS.filter((x) => x.id !== l.id && x.deal === l.deal && !similar.includes(x)).slice(0, 3 - similar.length) : [];
   const waText = encodeURIComponent(EN ? `Hello! I am interested in this ${l.type === 'house' ? 'house' : 'apartment'}: ${abs(url)}` : `Здравствуйте. Меня интересует ${l.type === 'house' ? 'этот дом' : 'эта квартира'}: ${abs(url)}`);
   const tgHref = `https://t.me/${SITE.tg}?text=${waText}`;
@@ -899,7 +917,7 @@ for (const l of LISTINGS) {
     ${crumbs(items)}
     <div class="obj-head">
       <div>
-        <p class="eyebrow">${l.deal === 'rent' ? 'Аренда' : 'Продажа'} · ${esc(placeLine(l))}</p>
+        <p class="eyebrow">${l.deal === 'rent' ? 'Аренда' : 'Продажа'}${placeLine(l) || l.city ? ` · ${esc(placeLine(l) || l.city)}` : ''}</p>
         <h1>${esc(heading(l))}</h1>
       </div>
       <button class="fav fav-inline" type="button" data-fav="${esc(l.id)}" aria-pressed="false">${ICON.heart}<span>В избранное</span></button>
@@ -942,7 +960,7 @@ for (const l of LISTINGS) {
     </aside>
   </div>
 </div>
-${similar.length + more.length ? `<section class="block"><div class="wrap"><div class="block-head"><h2>${similar.length ? `Ещё в районе ${esc(l.district)}` : 'Похожие объекты'}</h2></div><div class="cards cards-grid">${[...similar, ...more].map((x) => card(x)).join('')}</div></div></section>` : ''}
+${similar.length + more.length ? `<section class="block"><div class="wrap"><div class="block-head"><h2>${similar.length && l.district ? `Ещё в районе ${esc(l.district)}` : 'Похожие объекты'}</h2></div><div class="cards cards-grid">${[...similar, ...more].map((x) => card(x)).join('')}</div></div></section>` : ''}
 <div class="mobile-cta"><span class="mobile-price">${price(l.price)}${l.price ? `<small>${d.per}</small>` : ''}</span><button class="btn btn-dark" type="button" data-open-viewing>Записаться</button></div>
 <dialog class="modal" data-viewing aria-labelledby="vw-title">
   <form class="modal-form" data-viewing-form>
@@ -986,15 +1004,17 @@ ${similar.length + more.length ? `<section class="block"><div class="wrap"><div 
   };
   write(url.slice(1) + 'index.html', page({
     // короткий заголовок (до ~65 знаков), чтобы поисковики не обрезали его в выдаче
-    title: `${heading(l)} ${l.deal === 'rent' ? 'в аренду' : 'на продажу'}, ${l.district || placeLine(l)} — ${money(l.price)}${l.deal === 'rent' && l.price ? ' / мес' : ''}`,
+    title: `${heading(l)} ${l.deal === 'rent' ? 'в аренду' : 'на продажу'}, ${l.district || placeLine(l) || l.city || 'Белград'} — ${money(l.price)}${l.deal === 'rent' && l.price ? ' / мес' : ''}`,
     desc: snippet(l.text || '', 158),
     url,
     image: photos[0],
     jsonld: [ld, crumbsLd(items)],
     body,
     nav: l.deal,
+    // пустые объявления (без цены или без площади и комнат) не индексируем: страница остаётся для посетителей
+    head: thinListing(l) ? '<meta name="robots" content="noindex, follow">' : '',
   }));
-  addUrl(url, l.updated);
+  if (!thinListing(l)) addUrl(url, l.updated);
 }
 
 
