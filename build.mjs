@@ -6,6 +6,7 @@ import path from 'node:path';
 import crypto from 'node:crypto';
 import { FAQ, DISTRICT_TEXT } from './content.mjs';
 import { SERVICES, SERVICE_ICON } from './services.mjs';
+import { GUIDES, GUIDE_SOURCES } from './guides.mjs';
 import { makeTranslator, enListing } from './i18n.mjs';
 
 const ROOT = path.dirname(new URL(import.meta.url).pathname);
@@ -379,7 +380,8 @@ document.addEventListener('submit',function(){goal('lead_form')},true)})();</scr
 }
 
 // ---------- каркас страницы ----------
-function page({ title, desc, url, image, jsonld = [], body, nav, head = '', overlay = false }) {
+// ruOnly: страница есть только на русском (гайды) — без hreflang на /en/, переключатель языка ведёт на главную /en/
+function page({ title, desc, url, image, jsonld = [], body, nav, head = '', overlay = false, ruOnly = false, ogType = 'website' }) {
   const canonical = abs(url);
   const link = (key, href, label) => `<a href="${href}"${nav === key ? ' aria-current="page"' : ''}>${label}</a>`;
   return `<!doctype html>
@@ -390,9 +392,9 @@ function page({ title, desc, url, image, jsonld = [], body, nav, head = '', over
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(desc)}">
 <link rel="canonical" href="${esc(canonical)}">
-<meta property="og:type" content="website">
+<meta property="og:type" content="${ogType}">
 <meta property="og:locale" content="${EN ? 'en_US' : 'ru_RU'}">
-${url ? `<link rel="alternate" hreflang="ru" href="${esc(SITE.url + url)}">
+${url && !ruOnly ? `<link rel="alternate" hreflang="ru" href="${esc(SITE.url + url)}">
 <link rel="alternate" hreflang="en" href="${esc(SITE.url + '/en' + url)}">
 <link rel="alternate" hreflang="x-default" href="${esc(SITE.url + url)}">` : ''}
 <meta property="og:site_name" content="${esc(SITE.name)}">
@@ -430,7 +432,7 @@ ${jsonld.map((j) => `<script type="application/ld+json">${JSON.stringify(j).repl
         <button type="button" data-cur="RSD" aria-pressed="false">дин</button>
         <button type="button" data-cur="RUB" aria-pressed="false">₽</button>
       </div>
-      <a class="lang-sw" href="${esc(SITE.url + (EN ? '' : '/en') + (url || '/'))}" hreflang="${EN ? 'ru' : 'en'}" lang="${EN ? 'ru' : 'en'}" title="${EN ? 'Русская версия' : 'English version'}">${EN ? 'RU' : 'EN'}</a>
+      <a class="lang-sw" href="${esc(SITE.url + (EN ? '' : '/en') + (ruOnly ? '/' : (url || '/')))}" hreflang="${EN ? 'ru' : 'en'}" lang="${EN ? 'ru' : 'en'}" title="${EN ? 'Русская версия' : 'English version'}">${EN ? 'RU' : 'EN'}</a>
       <a class="fav-link" href="/izbrannoe/" aria-label="Избранное">${ICON.heart}<span data-fav-count hidden></span></a>
       ${SITE.phone ? `<a class="hdr-phone" href="${esc(telHref)}">${esc(SITE.phone)}</a>` : ''}
       <a class="icon-btn" href="https://t.me/${esc(SITE.tg)}" rel="noopener" aria-label="Telegram">${ICON.tg}</a>
@@ -444,6 +446,7 @@ ${jsonld.map((j) => `<script type="application/ld+json">${JSON.stringify(j).repl
           <a href="/uslugi/">Услуги</a>
           <a href="/karta/">Карта</a>
           <a href="/voprosy/">Вопросы и ответы</a>
+          ${EN ? '' : '<a href="/gidy/">Гайды для релокантов</a>'}
           <a href="/o-kompanii/">О компании</a>
           ${REVIEWS.length ? '<a href="/otzyvy/">Отзывы</a>' : ''}
           <a href="/izbrannoe/">Избранное</a>
@@ -484,6 +487,7 @@ function footer() {
       ${col('Снять', [`<li><a href="/arenda/">Все объекты</a></li>`, ...dl('rent')])}
       ${col('Услуги', SERVICES.map((x) => `<li><a href="/uslugi/${x.slug}/">${esc(x.short || x.title)}</a></li>`))}
       ${col('Подборки', COLLECTIONS.map((c) => `<li><a href="/podborki/${c.slug}/">${esc(c.short)}</a></li>`))}
+      ${EN ? '' : col('Гайды', [...GUIDES.map((g) => `<li><a href="/gidy/${g.slug}/">${esc(g.short)}</a></li>`), '<li><a href="/gidy/">Все гайды</a></li>'])}
       ${col('Агентство', ['<li><a href="/o-kompanii/">О компании и лицензия</a></li>', '<li><a href="/o-kompanii/#opsti-uslovi">Общие условия работы</a></li>', '<li><a href="/kontakty/">Контакты</a></li>', '<li><a href="/izbrannoe/">Избранное</a></li>', '<li><a href="/#podbor">Подбор по запросу</a></li>', '<li><a href="/karta/">Карта объектов</a></li>', '<li><a href="/voprosy/">Вопросы и ответы</a></li>', ...(REVIEWS.length ? ['<li><a href="/otzyvy/">Отзывы</a></li>'] : [])])}
     </div>
     <div class="ftr-legal">
@@ -576,6 +580,7 @@ function seoText(key) {
   <div class="wrap">
     <div class="block-head"><h2>${key === 'sale' ? 'Вопросы о покупке' : 'Вопросы об аренде'}</h2><a class="link-arrow" href="/voprosy/">Все вопросы</a></div>
     <div class="acc">${items.map((f, i) => `<details${i ? '' : ' open'}><summary>${esc(f.q)}${ICON.chevron}</summary><p>${esc(f.a)}</p></details>`).join('')}</div>
+    ${EN ? '' : `<p class="guide-more">Подробно и по шагам: <a href="/gidy/${key === 'sale' ? 'kupit-kvartiru-serbiya-vnzh' : 'arenda-kvartiry-belgrad'}/">${key === 'sale' ? 'как купить квартиру в Сербии и получить ВНЖ' : 'как снять квартиру в Белграде'}</a> · <a href="/gidy/rajony-belgrada/">районы Белграда для релокантов</a></p>`}
   </div>
 </section>`;
 }
@@ -661,7 +666,7 @@ if (!EN) {
 write('data/lite.json', JSON.stringify(EN ? LITE.map((d) => ({ ...d, u: '/en' + d.u, t: T.str(d.t), rl: T.str(d.rl), fl: d.fl ? T.str(d.fl) : d.fl })) : LITE));
 
 const sitemap = [];
-const addUrl = (url, lastmod) => sitemap.push({ url, lastmod: lastmod || TODAY });
+const addUrl = (url, lastmod, ruOnly = false) => sitemap.push({ url, lastmod: lastmod || TODAY, ruOnly });
 
 // Главная
 const HOME_PAGE = 12;
@@ -1026,7 +1031,7 @@ addUrl('/karta/');
     url: '/voprosy/', nav: 'faq',
     jsonld: [faqLd(FAQ), crumbsLd([['/', 'Главная'], ['/voprosy/', 'Вопросы и ответы']])],
     body: `<section class="page-head"><div class="wrap">${crumbs([['/', 'Главная'], ['/voprosy/', 'Вопросы и ответы']])}<h1>Вопросы и ответы</h1>
-<p class="page-lead">Коротко о том, как снять или купить жильё в Белграде. Не нашли ответ — <a href="https://t.me/${esc(SITE.tg)}" rel="noopener">напишите нам</a>.</p></div></section>
+<p class="page-lead">Коротко о том, как снять или купить жильё в Белграде.${EN ? '' : ' Подробные разборы с ценами и шагами — в <a href="/gidy/">гайдах для релокантов</a>.'} Не нашли ответ — <a href="https://t.me/${esc(SITE.tg)}" rel="noopener">напишите нам</a>.</p></div></section>
 ${groups.map(([title, tag]) => `<section class="block block-tight"><div class="wrap"><h2 class="h-small">${title}</h2><div class="acc">${FAQ.filter((f) => f.tag === tag).map((f) => `<details><summary>${esc(f.q)}${ICON.chevron}</summary><p>${esc(f.a)}</p></details>`).join('')}</div></div></section>`).join('')}
 ${leadForm('Остались вопросы? Оставьте заявку')}`,
   }));
@@ -1247,6 +1252,103 @@ ${leadForm('Оставьте запрос')}`,
 }));
 addUrl('/kontakty/');
 
+// ---------- Гайды для релокантов (только русская версия) ----------
+// Тексты — в guides.mjs. Английская сборка эти страницы не создаёт и ссылок на них не ставит.
+if (!EN) {
+  const ruDate = (d) => { const [y, m, dd] = d.split('-').map(Number); return `${dd} ${['января', 'февраля', 'марта', 'апреля', 'мая', 'июня', 'июля', 'августа', 'сентября', 'октября', 'ноября', 'декабря'][m - 1]} ${y}`; };
+  const distHref = (k, slug) => (districtsOf(byDeal[k]).some((d) => d.slug === slug) ? `/${DEAL[k].path}/${slug}/` : `/${DEAL[k].path}/`);
+  // **жирный** и [текст](адрес); адрес вида rent:vracar — страница района в каталоге
+  const inline = (t) => esc(t)
+    .replace(/(\d) (\d{3})(?!\d)/g, '$1&nbsp;$2')
+    .replace(/\*\*(.+?)\*\*/g, '<b>$1</b>')
+    .replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, (all, txt, href) => {
+      const m = href.match(/^(rent|sale):([a-z-]+)$/);
+      const h = m ? distHref(m[1], m[2]) : href;
+      return /^https?:/.test(h) ? `<a href="${h}" rel="noopener">${txt}</a>` : `<a href="${h}">${txt}</a>`;
+    });
+  const plain = (t) => String(t).replace(/\*\*(.+?)\*\*/g, '$1').replace(/\[([^\]]+)\]\([^)]+\)/g, '$1');
+  const block = ([type, a, b, c]) => {
+    if (type === 'p') return `<p>${inline(a)}</p>`;
+    if (type === 'h3') return `<h3>${inline(a)}</h3>`;
+    if (type === 'note') return `<p class="guide-note">${inline(a)}</p>`;
+    if (type === 'ul' || type === 'ol') return `<${type}>${a.map((x) => `<li>${inline(x)}</li>`).join('')}</${type}>`;
+    if (type === 'table') return `<div class="stats guide-table"><table><thead><tr>${a.map((h) => `<th scope="col">${esc(h)}</th>`).join('')}</tr></thead><tbody>${b.map((r) => `<tr>${r.map((v, i) => (i ? `<td>${inline(v)}</td>` : `<th scope="row">${inline(v)}</th>`)).join('')}</tr>`).join('')}</tbody></table>${c ? `<p class="muted small-note">${inline(c)}</p>` : ''}</div>`;
+    return '';
+  };
+  const guideCards = (exclude = '') => `<div class="svc-grid">${GUIDES.filter((g) => g.slug !== exclude).map((g) => `<a class="svc" href="/gidy/${g.slug}/">
+    <span class="svc-t">${esc(g.short)}</span>
+    <span class="svc-s">${esc(g.desc)}</span>
+    <span class="svc-more">Читать</span>
+  </a>`).join('')}</div>`;
+  const org = { '@type': 'RealEstateAgent', name: BRAND, legalName: L.company, url: abs('/'), logo: abs('/assets/maxis-logo-navy.png'), telephone: SITE.phone || undefined };
+  const hub = [['/', 'Главная'], ['/gidy/', 'Гайды']];
+
+  write('gidy/index.html', page({
+    title: `Гайды для релокантов: аренда, покупка и районы Белграда — ${BRAND}`,
+    desc: 'Как снять квартиру в Белграде, как купить квартиру в Сербии и получить ВНЖ, какой район выбрать. Цены, налоги, договор и белый картон на 2026 год.',
+    url: '/gidy/', ruOnly: true,
+    jsonld: [crumbsLd(hub), {
+      '@context': 'https://schema.org', '@type': 'ItemList', name: 'Гайды для релокантов',
+      itemListElement: GUIDES.map((g, i) => ({ '@type': 'ListItem', position: i + 1, url: abs(`/gidy/${g.slug}/`), name: g.h1 })),
+    }],
+    body: `<section class="page-head"><div class="wrap">${crumbs(hub)}<h1>Гайды для релокантов</h1>
+<p class="page-lead">Разбираем по шагам, как снять или купить жильё в Белграде: сколько стоит, что проверить в документах, как оформить белый картон и ВНЖ. Цифры обновляем раз в квартал.</p></div></section>
+<section class="block block-tight"><div class="wrap">${guideCards()}</div></section>
+${leadForm()}`,
+  }));
+  addUrl('/gidy/', GUIDES.map((g) => g.updated).sort().pop(), true);
+
+  for (const g of GUIDES) {
+    const url = `/gidy/${g.slug}/`;
+    const its = [...hub, [url, g.short]];
+    const msg = `${g.cta.msg}`;
+    const sources = GUIDE_SOURCES[g.slug] || [];
+    const body = `<section class="page-head"><div class="wrap">${crumbs(its)}
+  <h1>${esc(g.h1)}</h1>
+  <p class="guide-meta">Обновлено <time datetime="${g.updated}">${ruDate(g.updated)}</time> · ${esc(BRAND)}, агентство недвижимости в Белграде</p>
+  <p class="page-lead">${inline(g.lead)}</p>
+</div></section>
+<div class="wrap svc-page">
+  <article class="svc-main guide">
+    <nav class="guide-toc" aria-label="Содержание"><p class="h-small">Содержание</p><ol>${g.sections.map((s) => `<li><a href="#${s.id}">${esc(s.h)}</a></li>`).join('')}${g.faq?.length ? '<li><a href="#voprosy">Частые вопросы</a></li>' : ''}</ol></nav>
+    ${g.sections.map((s) => `<section class="obj-sec" id="${s.id}"><h2>${esc(s.h)}</h2>${s.blocks.map(block).join('')}</section>`).join('\n    ')}
+    ${g.faq?.length ? `<section class="obj-sec" id="voprosy"><h2>Частые вопросы</h2><div class="acc">${g.faq.map(([q, a], i) => `<details${i ? '' : ' open'}><summary>${esc(q)}${ICON.chevron}</summary><p>${inline(a)}</p></details>`).join('')}</div></section>` : ''}
+    <section class="obj-sec guide-cta"><h2>${esc(g.cta.h)}</h2><p>${esc(BRAND)} (номер в Реестре посредников ${esc(L.registry)}). ${esc(g.cta.p)}</p>
+      <p class="guide-cta-btns"><a class="btn btn-dark" href="#podbor">Оставить заявку</a>${waDigits ? `<a class="btn btn-line" href="https://wa.me/${waDigits}?text=${encodeURIComponent(msg)}" rel="noopener">${ICON.wa}WhatsApp</a>` : ''}<a class="btn btn-line" href="https://t.me/${esc(SITE.tg)}?text=${encodeURIComponent(msg)}" rel="noopener">${ICON.tg}Telegram</a></p></section>
+    ${sources.length ? `<section class="obj-sec guide-sources"><h2 class="h-small">Источники</h2><ul>${sources.map(([t, h]) => `<li><a href="${esc(h)}" rel="noopener nofollow">${esc(t)}</a></li>`).join('')}</ul><p class="muted small-note">Цифры — ориентир на дату обновления. Перед сделкой уточняйте актуальные условия у агента.</p></section>` : ''}
+  </article>
+  <aside class="svc-aside"><div class="panel">
+    <p class="panel-t">${esc(g.cta.h)}</p>
+    <p class="muted">${esc(g.cta.p)}</p>
+    <a class="btn btn-dark btn-wide" href="#podbor">Оставить заявку</a>
+    ${waDigits ? `<a class="btn btn-line btn-wide" href="https://wa.me/${waDigits}?text=${encodeURIComponent(msg)}" rel="noopener">${ICON.wa}WhatsApp</a>` : ''}
+    <a class="btn btn-line btn-wide" href="https://t.me/${esc(SITE.tg)}?text=${encodeURIComponent(msg)}" rel="noopener">${ICON.tg}Telegram</a>
+    <a class="link-arrow" href="/${DEAL[g.deal].path}/">${g.deal === 'sale' ? 'Квартиры на продажу' : 'Квартиры в аренду'}</a>
+    ${SITE.phone ? `<p class="panel-note">Телефон: <a href="${esc(telHref)}">${esc(SITE.phone)}</a></p>` : ''}
+  </div></aside>
+</div>
+${leadForm(g.cta.h)}
+<section class="block"><div class="wrap"><div class="block-head"><h2>Другие гайды</h2><a class="link-arrow" href="/gidy/">Все гайды</a></div>${guideCards(g.slug)}</div></section>`;
+    write(url.slice(1) + 'index.html', page({
+      title: `${g.title} — ${BRAND}`,
+      desc: g.desc,
+      url, ruOnly: true, ogType: 'article',
+      image: '/assets/hero.jpg',
+      head: `<meta property="article:modified_time" content="${g.updated}">`,
+      jsonld: [crumbsLd(its), {
+        '@context': 'https://schema.org', '@type': 'Article',
+        headline: g.h1, description: g.desc, inLanguage: 'ru',
+        datePublished: g.published || g.updated, dateModified: g.updated,
+        mainEntityOfPage: abs(url), image: abs('/assets/hero.jpg'),
+        author: org, publisher: org,
+        about: { '@type': 'Place', name: 'Белград, Сербия' },
+      }, ...(g.faq?.length ? [{ '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: g.faq.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: plain(a) } })) }] : [])],
+      body,
+    }));
+    addUrl(url, g.updated, true);
+  }
+}
+
 // 404, sitemap, robots, llms.txt
 write('404.html', page({
   title: 'Страница не найдена', desc: 'Такой страницы нет. Возможно, объект уже сдан или продан.', url: '/404.html',
@@ -1262,10 +1364,10 @@ if (EN) {
 const alt = (u) => `<xhtml:link rel="alternate" hreflang="ru" href="${esc(SITE.url + u.url)}"/><xhtml:link rel="alternate" hreflang="en" href="${esc(SITE.url + '/en' + u.url)}"/><xhtml:link rel="alternate" hreflang="x-default" href="${esc(SITE.url + u.url)}"/>`;
 write('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-${sitemap.flatMap((u) => [
+${sitemap.flatMap((u) => (u.ruOnly ? [`<url><loc>${esc(SITE.url + u.url)}</loc><lastmod>${esc(u.lastmod)}</lastmod></url>`] : [
     `<url><loc>${esc(SITE.url + u.url)}</loc><lastmod>${esc(u.lastmod)}</lastmod>${alt(u)}</url>`,
     `<url><loc>${esc(SITE.url + '/en' + u.url)}</loc><lastmod>${esc(u.lastmod)}</lastmod>${alt(u)}</url>`,
-  ]).join('\n')}
+  ])).join('\n')}
 </urlset>
 `);
 // Карта «номер объекта → адрес страницы»: worker.js по ней перенаправляет (301) старые и изменившиеся адреса
@@ -1291,6 +1393,9 @@ write('llms.txt', `# ${SITE.name}
 ## Услуги
 ${SERVICES.map((x) => `- [${x.h1}](${abs(`/uslugi/${x.slug}/`)})`).join('\n')}
 - [О компании и правовая информация](${abs('/o-kompanii/')})
+
+## Гайды для релокантов
+${GUIDES.map((g) => `- [${g.title}](${abs(`/gidy/${g.slug}/`)}): ${g.desc}`).join('\n')}
 
 ## Разделы
 - [Аренда](${abs('/arenda/')}): ${objects(byDeal.rent.length)}

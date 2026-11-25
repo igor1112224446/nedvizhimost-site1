@@ -757,3 +757,36 @@ p { margin: 0; }
 .lang-sw:hover { border-color: currentColor; }
 .has-hero .hdr:not(.is-solid):not(:hover):not(:focus-within) .lang-sw { border-color: rgba(255,255,255,.5); }
 @media (max-width: 720px) { .lang-sw { min-width: 34px; height: 34px; } }
+
+/* гайды для релокантов (/gidy/) */
+.guide-meta { font-size: 13px; color: var(--muted); margin: 14px 0 0; }
+.guide > .guide-toc { border: 1px solid var(--line); padding: 20px 24px; }
+.guide-toc ol { margin: 10px 0 0; padding-left: 20px; display: grid; gap: 6px; }
+.guide-toc a { text-decoration: none; }
+.guide-toc a:hover { text-decoration: underline; }
+.guide .obj-sec > p, .guide .obj-sec > ul, .guide .obj-sec > ol { max-width: 44em; color: var(--ink-2); font-size: 17px; }
+.guide .obj-sec > p + p, .guide .obj-sec > p + ul, .guide .obj-sec > p + ol, .guide .obj-sec > ul + p, .guide .obj-sec > ol + p,
+.guide .obj-sec > div + p, .guide .obj-sec > p + div { margin-top: 14px; }
+.guide .obj-sec > ul, .guide .obj-sec > ol { margin: 0; padding-left: 22px; display: grid; gap: 10px; }
+.guide .obj-sec h3 { font-size: 20px; font-weight: 500; margin: 24px 0 10px; }
+.guide b { font-weight: 600; color: var(--ink); }
+.guide { min-width: 0; }
+.guide-table { overflow-x: auto; margin: 6px 0; max-width: 100%; }
+.guide-table table { min-width: 560px; }
+.guide-table tbody th { text-align: left; font-weight: 500; font-size: 15px; color: var(--ink); letter-spacing: 0; padding: 12px 12px 12px 0; border-bottom: 1px solid var(--line); }
+.guide-table td, .guide-table tbody th { vertical-align: top; }
+.guide-note { background: var(--soft); border-left: 2px solid var(--brand); padding: 16px 20px; }
+.guide-cta { background: var(--soft); padding: 28px; }
+.guide-cta h2 { margin-bottom: 10px; }
+.guide-cta-btns { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px !important; }
+.guide-cta-btns .btn svg { width: 18px; height: 18px; }
+.guide-sources ul { font-size: 14px; }
+.guide-sources .small-note { margin-top: 12px; }
+.guide-more { margin-top: 20px; font-size: 15px; color: var(--ink-2); }
+@media (max-width: 960px) {
+  .guide + .svc-aside { display: none; }
+}
+@media (max-width: 720px) {
+  .guide .obj-sec > p, .guide .obj-sec > ul, .guide .obj-sec > ol { font-size: 16px; }
+  .guide-cta { padding: 22px 18px; }
+}
